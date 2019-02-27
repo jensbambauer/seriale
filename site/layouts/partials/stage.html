@@ -1,0 +1,29 @@
+{{ with .data }}
+<div class="stage">
+  <video width="1920" height="1080" autoplay loop playsinline>
+    <source src="{{.videosource}}" type="video/mp4" />
+  </video>
+  <div class="stage__slider">
+    {{ range.slides }}
+    <article class="stage__slider__slide">
+      <svg width="156px" height="141px" viewBox="0 0 156 141" version="1.1" xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="stage-shape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="Seriale---Home" transform="translate(-161.000000, -384.000000)" fill="#50D2D4">
+            <g id="stage">
+              <path
+                d="M243.855101,400.354743 L312.215945,384.610676 C321.096502,427.573484 317.613443,468.413552 301.766768,507.130881 L237.132193,479.860258 C247.586963,453.504038 249.827933,427.002199 243.855101,400.354743 Z M176.804815,454.984661 C192.699322,461.544978 212.808448,469.819148 237.132193,479.807171 C229.480611,496.677991 219.08563,511.538709 205.947251,524.389324 L161.366834,477.415762 C168.363811,470.20084 173.509805,462.723806 176.804815,454.984661 Z"
+                id="Combined-Shape"></path>
+            </g>
+          </g>
+        </g>
+      </svg>
+      <h1 class="stage__slider__slide__text">
+        {{.headline}}
+      </h1>
+      <a href="{{.button.href}}" class="button">{{.button.text}}</a>
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

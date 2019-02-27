@@ -1,0 +1,23 @@
+{{ with .data}}
+<div class="teaser-grid">
+    <ul class="teaser-grid__list">
+        {{ range where $.Page.Site.Pages "Section" .list }}
+        <li class="teaser-grid__list__item">
+            <a href="{{ .Permalink }}">
+                <img src="{{ .Params.Image }}" />
+                <h4>{{ .Title }}</h4>
+                <p>{{ .Params.Shortdescription }}</p>
+            </a>
+        </li>
+        {{ end }}
+        {{ range .teasers}}
+        <li class="teaser-grid__list__item">
+            <img src="{{ .image }}" />
+            <h4>{{ .title }}</h4>
+            <p>{{ .shortdescription }}</p>
+            <a href="{{ .button.href }}" class="button button--external">{{ .button.text }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}

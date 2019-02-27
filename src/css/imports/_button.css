@@ -1,0 +1,24 @@
+.button {
+  display: inline-block;
+  background-color: var(--mainColor);
+  color: white;
+  font-size: 24px;
+  font-family: "Roboto Slab";
+  font-weight: 700;
+  padding: 18px 36px;
+
+  &--inactive {
+    background-color: var(--mainColorInactive);
+  }
+
+  &--secondary {
+    background: black;
+  }
+
+  &--external {
+    background-color: var(--backgroundGrey);
+    color: var(--mainColor);
+    font-size: 18px;
+    padding: 12px 26px;
+  }
+}

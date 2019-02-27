@@ -1,0 +1,12 @@
+{{ with.data }}
+<div class="text">
+  {{ with.headline }}
+  <h4>{{ . }}</h4>
+  {{ end }}
+  <div class="text__columns">
+    {{ range.paragraphs }}
+    <p>{{ .text }}</p>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

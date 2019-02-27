@@ -1,0 +1,14 @@
+<section
+  class="{{ if (.widesection) }}{{ else }}container__content{{ end }}"
+>
+
+  {{ .aga }}
+  {{ with.subline }}
+  adfaasdf
+  {{ . }}
+  {{ end }}
+  {{ with.headline }}
+  <h2>{{ . }}</h2>
+  {{ end }}
+  {{ partial .partial .}}
+</section>

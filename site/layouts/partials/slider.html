@@ -1,0 +1,15 @@
+{{ with.data }}
+<div class="swiper-container">
+  <div class="swiper-wrapper">
+    {{ range.slides }}
+    <div class="swiper-slide">
+      <img data-src="{{ .image }}" class="swiper-lazy" />
+      <!-- Preloader image -->
+      <div class="swiper-lazy-preloader swiper-lazy-preloader"></div>
+    </div>
+    {{ end }}
+  </div>
+  <div class="swiper-button-next button button--secondary">next</div>
+  <div class="swiper-button-prev button button--secondary">prev</div>
+</div>
+{{ end }}

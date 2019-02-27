@@ -1,0 +1,12 @@
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+
+  &__content {
+    padding: 0 80px;
+
+    &:first-child {
+      margin-top: 120px;
+    }
+  }
+}

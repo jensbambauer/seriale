@@ -1,9 +1,15 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   {{ partial "head" . }}
-  <body class="sans-serif">
+  <body>
     {{ partial "nav" . }}
-    {{ block "main" . }}{{ end }} 
-    {{ partial "footer" . }} 
+    <div class="page" data-scrollbar>
+      <div class="container">{{ block "main" . }}{{ end }}</div>
+      {{ partial "footer" . }}
+    </div>
+
+    {{ partial "svg" . }}
+
+    <script src="/app.js"></script>
   </body>
 </html>

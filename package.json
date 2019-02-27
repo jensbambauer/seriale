@@ -33,6 +33,7 @@
     "exports-loader": "^0.7.0",
     "file-loader": "^2.0.0",
     "gotrue-js": "^0.9.1",
+    "gsap": "^2.1.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.0",
     "gulp-postcss": "^8.0.0",
@@ -44,6 +45,8 @@
     "postcss-loader": "^3.0.0",
     "postcss-uncss": "^0.16.0",
     "react": "16.7.0",
+    "smooth-scrollbar": "^8.3.1",
+    "swiper": "^4.5.0",
     "uncss": "^0.16.0",
     "url-loader": "^1.0.0",
     "webpack": "^3.0.0",
@@ -51,8 +54,10 @@
   },
   "devDependencies": {
     "gulp-inject": "^5.0.0",
+    "gulp-sourcemaps": "^2.6.4",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
+    "postcss-nested": "^4.1.1",
     "svg-sprite-loader": "^3.0.0"
   }
 }

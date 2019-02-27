@@ -1,3 +1,10 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Homepage"
+
+[languages]
+  [languages.en]
+    title = "die seriale en"
+    weight = 1
+  [languages.de]
+    title = "die seriale de"
+    weight = 2

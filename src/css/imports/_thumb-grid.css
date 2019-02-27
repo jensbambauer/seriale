@@ -1,0 +1,24 @@
+.thumb-grid {
+
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -12px;
+    padding-left: 0;
+
+    &__item {
+      position: relative;
+      margin: 12px 0 0 12px;
+      overflow: hidden;
+      width: calc(25% - 12px);
+
+      img {
+        display: block;
+      }
+
+      span {
+        position: absolute;
+      }
+    }
+  }
+}

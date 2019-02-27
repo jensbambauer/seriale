@@ -1,0 +1,9 @@
+.text {
+    color: var(--flowTextColor);
+
+    &__columns {
+        column-count: 2;
+        column-gap: 100px;
+        line-height: 1.5;
+    }
+}

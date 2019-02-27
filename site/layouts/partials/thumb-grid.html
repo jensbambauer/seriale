@@ -1,0 +1,14 @@
+{{ with .data}}
+<div class="thumb-grid">
+    <ul class="thumb-grid__list">
+        {{ range where $.Page.Site.Pages "Section" .list }}
+        <li class="thumb-grid__list__item">
+            <a href="{{ .Permalink }}">
+                <img src="{{ .Params.Image }}" />
+                <span>{{ .Title }}</span>
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
