@@ -14,6 +14,10 @@
     right: 50%;
     margin-left: -50vw;
     margin-right: -50vw;
+
+    @media(--medium-viewport) {
+      display: none;
+    }
   }
 
   video {
@@ -33,7 +37,7 @@
     &__slide {
       width: 100%;
       height: 100%;
-      padding: 32px 80px 80px;
+      padding: 36px 80px 80px;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -41,9 +45,7 @@
       position: relative;
 
       &__text {
-        font-family: "Roboto Slab";
-        font-weight: 700;
-        font-size: 128px;
+        @apply --font-style-very-large-slab;
         text-transform: lowercase;
         transform-origin: 0 0;
         width: 200%;
@@ -55,6 +57,39 @@
         position: absolute;
         right: 80px;
         bottom: 80px;
+      }
+
+
+      @media(--large-viewport) {
+        padding: 20px 40px 40px;
+
+        .button {
+          right: 40px;
+          bottom: 40px;
+        }
+
+      }
+
+      @media(--medium-viewport) {
+        padding: 0px 40px 80px;
+
+        svg {
+          width: 120px;
+          height: 120px;
+        }
+      }
+
+      @media(--small-viewport) {
+        padding: 0px 20px 80px;
+
+        .button {
+          right: 20px;
+          bottom: 20px;
+        }
+        svg {
+          width: 80px;
+          height: 80px;
+        }
       }
     }
   }

@@ -16,19 +16,23 @@ footer {
     align-items: center;
   }
 
-  &__items {
+  .social-media-list {
     margin-left: auto;
-    display: flex;
+  }
+}
 
-    li {
-      margin-right: 24px;
-    }
+.social-media-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding-left: 0;
 
-    a {
-      font-weight: 700;
-      font-size: 18px;
+  li {
+    margin-right: 24px;
+  }
 
-
-    }
+  a {
+    font-weight: 700;
+    font-size: 18px;
   }
 }

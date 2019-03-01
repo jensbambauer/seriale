@@ -14,10 +14,12 @@
 @import "./imports/_footer.css";
 @import "./imports/_container.css";
 @import "./imports/_special-teaser.css";
+@import "./imports/_tabs.css";
 @import "./imports/_headlines.css";
 @import "./imports/_text.css";
 @import "./imports/_slider.css";
 @import "./imports/_list-grid.css";
+@import "./imports/_forms.css";
 
 body {
   font-family: Roboto;
@@ -44,13 +46,6 @@ body {
 
 .pro-color {
   color: var(--proColor);
-}
-
-h4 {
-    font-weight: 700;
-    font-size: 24px;
-    color: black;
-    margin-bottom: 32px;
 }
 
 p {

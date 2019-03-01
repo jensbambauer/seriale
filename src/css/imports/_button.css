@@ -21,4 +21,9 @@
     font-size: 18px;
     padding: 12px 26px;
   }
+
+  @media(--small-viewport) {
+    font-size: 20px;
+    padding: 12px 24px;
+  }
 }

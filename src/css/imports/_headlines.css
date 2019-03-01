@@ -1,6 +1,16 @@
+h2 {
+  @apply --font-style-large-slab;
+}
 h3 {
   font-family: "Roboto";
   font-weight: 700;
   font-size: 100px;
   color: var(--mainColor);
+  @apply --font-style-very-large;
+}
+
+h4 {
+    @apply --font-style-medium;
+    color: black;
+    margin-bottom: 32px;
 }

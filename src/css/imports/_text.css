@@ -1,9 +1,12 @@
 .text {
-    color: var(--flowTextColor);
+    @apply --font-style-flow;
 
     &__columns {
         column-count: 2;
-        column-gap: 100px;
-        line-height: 1.5;
+        column-gap: 8%;
+
+        @media(--small-viewport) {
+            column-count: 1;
+        }
     }
 }

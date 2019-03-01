@@ -4,4 +4,70 @@
   --flowTextColor: #808080;
   --mainColorInactive: rgba(80, 210, 212, 0.6);
   --backgroundGrey: #F3F3F3;
+
+  @custom-media --very-small-viewport (max-width: 480px);
+  @custom-media --small-viewport (max-width: 768px);
+  @custom-media --medium-viewport (max-width: 1024px);
+  @custom-media --large-viewport (max-width: 1280px);
+
+
+  --font-style-flow: {
+    line-height: 1.5;
+    color: var(--flowTextColor);
+  }
+  --font-style-medium: {
+    font-size: 24px;
+    font-weight: 700;
+
+    @media(--large-viewport) {
+      font-size: 20px;
+    }
+  }
+  --font-style-very-large: {
+    font-size: 100px;
+    font-weight: 700;
+
+    @media(--large-viewport) {
+      font-size: 80px;
+    }
+
+    @media(--medium-viewport) {
+      font-size: 50px;
+    }
+
+  }
+  --font-style-large-slab: {
+    font-family: "Roboto Slab";
+    font-weight: 700;
+    font-size: 48px;
+
+    @media(--large-viewport) {
+      font-size: 40px;
+    }
+
+    @media(--small-viewport) {
+      font-size: 32px;
+    }
+  }
+
+  --font-style-very-large-slab: {
+    font-family: "Roboto Slab";
+    font-weight: 700;
+    font-size: 128px;
+
+    @media(--large-viewport) {
+      font-size: 100px;
+    }
+    @media(--medium-viewport) {
+      font-size: 80px;
+    }
+
+    @media(--small-viewport) {
+      font-size: 56px;
+    }
+
+    @media(--very-small-viewport) {
+      font-size: 36px;
+    }
+  }
 }

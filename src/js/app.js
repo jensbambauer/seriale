@@ -1,5 +1,10 @@
 import Scrollbar from "smooth-scrollbar";
 import Swiper from "swiper";
+import newsletterForm from "./components/newsletter-form";
+import jQuery from "jquery";
+// export for others scripts to use
+window.$ = jQuery;
+window.jQuery = jQuery;
 
 // JS Goes here - ES6 supported
 if (window.netlifyIdentity) {
@@ -26,5 +31,13 @@ const swiper = new Swiper(".swiper-container", {
   navigation: {
     nextEl: ".swiper-button-next",
     prevEl: ".swiper-button-prev"
+  },
+  breakpoints: {
+    // when window width is <= 640px
+    1024: {
+      slidesPerView: 1
+    }
   }
 });
+
+newsletterForm();

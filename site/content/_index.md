@@ -1,7 +1,5 @@
 ---
-title: asdf
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: 5th Digital Series Festival Giessen 
 sections:
   - partial: stage
     widesection: true
@@ -77,14 +75,66 @@ sections:
           button:
             href: "#"
             text: view
-  - partial: thumb-grid
-    headline: official selection
+  - partial: tabs
     data:
-      list: series
-  - partial: teaser-grid
-    headline: speaker
+      background: img/be-part-of-it-bg.jpg
+      headline: be part of it
+      intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
+      tabs:
+        - title: subscribe
+          partial: tab-newsletter
+          data:
+            headline: follow us on social media
+            text: "or join our newsletter to get updates:"
+        - title: get tickets
+          partial: tab-text
+          data:
+            headline: get your tickets
+            text: "<p>Ticket: 9,- € | Reduced Price: 8,- €<br>Festival Pass: 42,- €</p><p>The Festival Pass includes tickets to all 6 movie theater screenings and an Award Ceremony invitation. By showing 6 movie theater tickets at the festival center or movie theater, you’ll receive a Festival Pass.</p>"
+        - title: submit series
+          partial: tab-text
+          data:
+            headline: Submissions are closed
+            text: "Submissions for digital series & pilot episodes will open again at September 15, 2019."
+  - partial: slider
+    headline: impressions
     data:
-      list: speaker
+      slides:
+        - image: img/impressions/1.jpg
+        - image: img/impressions/2.jpg
+        - image: img/impressions/3.jpg
+        - image: img/impressions/4.jpg
+        - image: img/impressions/5.jpg
+        - image: img/impressions/6.jpg
+        - image: img/impressions/8.jpg
+        - image: img/impressions/9.jpg
+        - image: img/impressions/10.jpg
+        - image: img/impressions/11.jpg
+        - image: img/impressions/12.jpg
+        - image: img/impressions/13.jpg
+        - image: img/impressions/14.jpg
+        - image: img/impressions/15.jpg
+        - image: img/impressions/16.jpg
+        - image: img/impressions/17.jpg
+        - image: img/impressions/18.jpg
+        - image: img/impressions/19.jpg
+        - image: img/impressions/20.jpg
+        - image: img/impressions/21.jpg
+        - image: img/impressions/22.jpg
+        - image: img/impressions/23.jpg
+        - image: img/impressions/24.jpg
+        - image: img/impressions/25.jpg
+        - image: img/impressions/26.jpg
+        - image: img/impressions/27.jpg
+        - image: img/impressions/28.jpg
+  # - partial: thumb-grid
+  #   headline: official selection
+  #   data:
+  #     list: series
+  # - partial: teaser-grid
+  #   headline: speaker
+  #   data:
+  #     list: speaker
 # thumb-grid:
 #   title: Official Selection 2019
 # blurb:

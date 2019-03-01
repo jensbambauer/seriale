@@ -4,6 +4,15 @@
     color: var(--flowTextColor);
     line-height: 1.5;
     width: 46%;
+
+
+    @media(--large-viewport) {
+      width: 60%;
+    }
+
+    @media(--medium-viewport) {
+      width: 88%;
+    }
   }
 
   &__list {
@@ -33,6 +42,14 @@
       em {
         color: var(--mainColor);
         margin-left: auto;
+      }
+
+      @media(--medium-viewport) {
+        width: calc(50% - 12px);
+      }
+
+      @media(--small-viewport) {
+        width: 100%;
       }
     }
   }

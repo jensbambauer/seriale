@@ -516,9 +516,19 @@ button.swiper-pagination-bullet {
   transform: translateX(-50%) translateY(-50%);
   z-index: 2;
   cursor: pointer;
+
+  @media(--medium-viewport) {
+    transform: translateY(-50%);
+    left: 0;
+  }
 }
 .swiper-button-next {
   left: auto;
   right: 25%;
   transform: translateX(50%) translateY(-50%);
+
+  @media(--medium-viewport) {
+    transform: translateY(-50%);
+    right: 0;
+  }
 }

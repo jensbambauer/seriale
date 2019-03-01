@@ -1,0 +1,19 @@
+<h4>{{ .headline }}</h4>
+<p>
+    {{ partial "social-media"}}
+</p>
+<div class="newsletter">
+    <p class="success"></p>
+    <div class="form-cols">
+        <p>{{ .text | safeHTML}}</p>
+        <form data-role="mailchimp-form" action="http://geebirdandbamby.us12.list-manage.com/subscribe/post-json?u=97fb451b06e51488018177edf&id=24098421e9&c=?" method="post" name="mc-embedded-subscribe-form" novalidate="">
+            <div class="mc-field-group input-submit-group">
+                <div class="input-submit">
+                    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="your e-mail">
+                    <input type="submit" value="Join" name="subscribe" id="mc-embedded-subscribe" class="button">
+                </div>
+                <div class="error-response"></div>
+            </div>
+        </form>
+    </div>
+</div>
