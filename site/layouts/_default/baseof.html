@@ -2,8 +2,8 @@
 <html lang="en">
   {{ partial "head" . }}
   <body>
-    {{ partial "nav" . }}
     <div class="page" data-scrollbar>
+      {{ partial "nav" . }}
       <div class="container">{{ block "main" . }}{{ end }}</div>
       {{ partial "footer" . }}
     </div>

@@ -22,6 +22,9 @@
     @media(--large-viewport) {
       font-size: 20px;
     }
+    @media(--small-viewport) {
+      font-size: 18px;
+    }
   }
   --font-style-very-large: {
     font-size: 100px;

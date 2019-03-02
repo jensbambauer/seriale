@@ -1,2 +1,20 @@
 .logo {
+    @media(--very-small-viewport) {
+        font-size: 16px;
+    }
+
+    &__symbol {
+        @media(--small-viewport) {
+            width: 60px;
+        }
+        @media(--very-small-viewport) {
+            width: 40px;
+        }
+    }
+    &__typo {
+        @media(--small-viewport) {
+            height: 30px;
+            margin-top: 3px;
+        }
+    }
 }

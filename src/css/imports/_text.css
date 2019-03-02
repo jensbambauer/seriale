@@ -8,5 +8,9 @@
         @media(--small-viewport) {
             column-count: 1;
         }
+
+        p {
+            break-inside: avoid-column;
+        }
     }
 }

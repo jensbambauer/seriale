@@ -20,6 +20,8 @@
 @import "./imports/_slider.css";
 @import "./imports/_list-grid.css";
 @import "./imports/_forms.css";
+@import "./imports/_text-and-image.css";
+@import "./imports/_grid.css";
 
 body {
   font-family: Roboto;
@@ -40,7 +42,7 @@ body {
 
   .scroll-content {
     position: relative;
-    padding-top: 212px;
+    /* padding-top: 212px; */
   }
 }
 
