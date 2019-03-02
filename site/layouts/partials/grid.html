@@ -1,0 +1,11 @@
+{{ with .data}}
+<div class="grid">
+  <ul class="grid__list">
+    {{ range .items}}
+    <li>
+        <img src="{{ .image }}">
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end}}

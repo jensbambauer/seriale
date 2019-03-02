@@ -1,0 +1,41 @@
+.text-and-image {
+    display: flex;
+    @apply --font-style-flow;
+
+    &--reversed &__col-image {
+        order: 2;
+    }
+    &--reversed &__col-text {
+        order: 1;
+        padding-left: 0;
+        padding-right: 8%;
+    }
+
+    &__col-image {
+        width: 58%;
+
+        img {
+            width: 100%;
+        }
+    }
+    &__col-text {
+        width: 42%;
+        padding-left: 8%;
+    }
+
+    @media(--small-viewport) {
+        flex-direction: column;
+
+        &__col-text, &__col-image {
+            width: 100%;
+            padding-left: 0;
+            padding-right: 0;
+        }
+        &--reversed &__col-image {
+            order: 1;
+        }
+        &--reversed &__col-text {
+            order: 2;
+        }
+    }
+}
