@@ -4,9 +4,14 @@
   <body>
     <div class="page" data-scrollbar>
       {{ partial "nav" . }}
-      <div class="container">{{ block "main" . }}{{ end }}</div>
+      <div data-barba="wrapper">
+        <div data-barba="container">
+          <div class="container">{{ block "main" . }}{{ end }}</div>
+        </div>
+      </div>
       {{ partial "footer" . }}
     </div>
+    <div class="page-transition"></div>
 
     {{ partial "svg" . }}
 

@@ -1,6 +1,25 @@
 baseurl = "/"
 languageCode = "en-us"
 
+[menu]
+    [[menu.main]]
+    identifier = "home"
+    name       = "home"
+    url        = "/"
+    weight     = 1
+
+    [[menu.main]]
+    identifier = "festival"
+    name       = "festival"
+    url        = "/festival/"
+    weight     = 2
+    
+    [[menu.main]]
+    identifier = "seriale-pro"
+    name       = "seriale pro"
+    url        = "/seriale-pro/"
+    weight     = 3
+
 [languages]
   [languages.en]
     title = "die seriale en"

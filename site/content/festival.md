@@ -4,15 +4,12 @@ sections:
   - partial: stage
     widesection: true
     data:
-      videosource: videos/home-loop.mp4
+      videosource: /videos/home-loop.mp4
       slides:
         - headline: Official Selection 2019 out now
           button:
             text: view now
             href: /official-selection
-  - partial: special-teasers
-    data:
-      a: 1
   - partial: text-and-image
     headline: the venues
     data:
@@ -58,7 +55,7 @@ sections:
         - text: "Preferred credit-cards in Germany are MASTER CARD and VISA - only 50% of shops and hotels accept AMERICAN EXPRESS. Please be aware that in Germany people usually pay in cash for amounts below 30€."
   - partial: tabs
     data:
-      background: img/be-part-of-it-bg.jpg
+      background: /img/be-part-of-it-bg.jpg
       headline: be part of it
       intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
       tabs:
@@ -81,33 +78,33 @@ sections:
     headline: impressions
     data:
       slides:
-        - image: img/impressions/1.jpg
-        - image: img/impressions/2.jpg
-        - image: img/impressions/3.jpg
-        - image: img/impressions/4.jpg
-        - image: img/impressions/5.jpg
-        - image: img/impressions/6.jpg
-        - image: img/impressions/8.jpg
-        - image: img/impressions/9.jpg
-        - image: img/impressions/10.jpg
-        - image: img/impressions/11.jpg
-        - image: img/impressions/12.jpg
-        - image: img/impressions/13.jpg
-        - image: img/impressions/14.jpg
-        - image: img/impressions/15.jpg
-        - image: img/impressions/16.jpg
-        - image: img/impressions/17.jpg
-        - image: img/impressions/18.jpg
-        - image: img/impressions/19.jpg
-        - image: img/impressions/20.jpg
-        - image: img/impressions/21.jpg
-        - image: img/impressions/22.jpg
-        - image: img/impressions/23.jpg
-        - image: img/impressions/24.jpg
-        - image: img/impressions/25.jpg
-        - image: img/impressions/26.jpg
-        - image: img/impressions/27.jpg
-        - image: img/impressions/28.jpg
+        - image: /img/impressions/1.jpg
+        - image: /img/impressions/2.jpg
+        - image: /img/impressions/3.jpg
+        - image: /img/impressions/4.jpg
+        - image: /img/impressions/5.jpg
+        - image: /img/impressions/6.jpg
+        - image: /img/impressions/8.jpg
+        - image: /img/impressions/9.jpg
+        - image: /img/impressions/10.jpg
+        - image: /img/impressions/11.jpg
+        - image: /img/impressions/12.jpg
+        - image: /img/impressions/13.jpg
+        - image: /img/impressions/14.jpg
+        - image: /img/impressions/15.jpg
+        - image: /img/impressions/16.jpg
+        - image: /img/impressions/17.jpg
+        - image: /img/impressions/18.jpg
+        - image: /img/impressions/19.jpg
+        - image: /img/impressions/20.jpg
+        - image: /img/impressions/21.jpg
+        - image: /img/impressions/22.jpg
+        - image: /img/impressions/23.jpg
+        - image: /img/impressions/24.jpg
+        - image: /img/impressions/25.jpg
+        - image: /img/impressions/26.jpg
+        - image: /img/impressions/27.jpg
+        - image: /img/impressions/28.jpg
   - partial: text-plain
     headline: connect with us
     data:

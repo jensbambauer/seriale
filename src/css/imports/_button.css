@@ -6,6 +6,12 @@
   font-family: "Roboto Slab";
   font-weight: 700;
   padding: 18px 36px;
+  transition: 0.3s;
+
+  &:hover {
+    background: black;
+    color: white;
+  }
 
   &--inactive {
     background-color: var(--mainColorInactive);
@@ -13,6 +19,10 @@
 
   &--secondary {
     background: black;
+
+    &:hover {
+      background: var(--mainColor);
+    }
   }
 
   &--external {
@@ -20,6 +30,11 @@
     color: var(--mainColor);
     font-size: 18px;
     padding: 12px 26px;
+
+    &:hover {
+      background: var(--mainColor);
+      color: white;
+    }
   }
 
   @media(--small-viewport) {

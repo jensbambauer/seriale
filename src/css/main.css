@@ -32,6 +32,7 @@ body {
   box-sizing: border-box;
 }
 .page {
+
   &[data-scrollbar] {
     position: fixed;
     top: 0;
@@ -41,6 +42,7 @@ body {
   }
 
   .scroll-content {
+    padding-top: 211px;
     position: relative;
     /* padding-top: 212px; */
   }
@@ -57,4 +59,8 @@ p {
 ul {
   list-style: disc;
   padding-left: 20px;
+}
+
+a:hover {
+  color: var(--mainColor);
 }

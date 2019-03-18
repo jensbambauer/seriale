@@ -2,6 +2,9 @@ import Scrollbar from "smooth-scrollbar";
 import Swiper from "swiper";
 import newsletterForm from "./components/newsletter-form";
 import jQuery from "jquery";
+import pageTransition from "./components/page-transition";
+import stickyHeader from "./components/sticky-header";
+
 // export for others scripts to use
 window.$ = jQuery;
 window.jQuery = jQuery;
@@ -17,27 +20,32 @@ if (window.netlifyIdentity) {
   });
 }
 
-Scrollbar.initAll();
+const scrollbar = Scrollbar.init(document.querySelector("[data-scrollbar]"));
 
-const swiper = new Swiper(".swiper-container", {
-  slidesPerView: 2,
-  spaceBetween: 0,
-  centeredSlides: true,
-  loop: true,
-  lazy: {
-    loadPrevNext: true,
-    loadOnTransitionStart: true
-  },
-  navigation: {
-    nextEl: ".swiper-button-next",
-    prevEl: ".swiper-button-prev"
-  },
-  breakpoints: {
-    // when window width is <= 640px
-    1024: {
-      slidesPerView: 1
+function init() {
+  const swiper = new Swiper(".swiper-container", {
+    slidesPerView: 2,
+    spaceBetween: 0,
+    centeredSlides: true,
+    loop: true,
+    lazy: {
+      loadPrevNext: true,
+      loadOnTransitionStart: true
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev"
+    },
+    breakpoints: {
+      // when window width is <= 640px
+      1024: {
+        slidesPerView: 1
+      }
     }
-  }
-});
+  });
+}
+init();
 
+stickyHeader(scrollbar);
 newsletterForm();
+pageTransition(init, scrollbar);

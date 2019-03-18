@@ -4,20 +4,21 @@ sections:
   - partial: list-grid
     headline: official selection 2019
     data:
-      headline: webseries
+      headline: series
       list:
         - title: 555m
           origin: South Korea
         - title: A Day Dream	
           origin: South Korea
-        - title: A-Live 	Italy
+        - title: A-Live
+          origin: Italy
         - title: After Nightfall	
           origin: Australia
         - title: ANGST	
           origin: Austria
         - title: Anomaly	
           origin: Germany
-        - title: Antarctica	
+        - title: Antarktika	
           origin: Germany
         - title: AWKWARDLY	
           origin: United States
@@ -31,8 +32,8 @@ sections:
           origin: Germany
         - title: Crazy Possible 	
           origin: United States
-        - title: Dark Area	Russian 
-          origin: Federation
+        - title: Dark Area 
+          origin: Russian Federation
         - title: Dele Viaje	
           origin: Costa Rica
         - title: Demon X 	
@@ -75,7 +76,7 @@ sections:
           origin: Canada
         - title: Nomad 7 	
           origin: Brazil
-        - title: Other Peoples Children	
+        - title: Other People's Children	
           origin: United States
         - title: Public Writer (Season 2)
           origin: Canada
@@ -119,8 +120,8 @@ sections:
           origin: Germany
         - title: The Night of the Hungry Turtles
           origin: Germany
-        - title: The Snowman’s Gift	
-          origin: Süd Korea
+        - title: The Snowman's Gift	
+          origin: South Korea
         - title: The Well 	
           origin: United States
         - title: Twinky Doo’s Magic World	
@@ -145,7 +146,7 @@ sections:
         - image: /img/partners/Seeka_TV.png
         - image: /img/partners/rossi-photography.png
         - image: /img/partners/videmic.png
-        - image: /img/partners/WSWC_2018.png
+        - image: /img/partners/wswc-2019.png
         - image: /img/partners/dobago.png
         - image: /img/partners/lichtacker.png
         - image: /img/partners/Unsere_Serien.svg
@@ -156,14 +157,14 @@ sections:
     headline: our partner festivals
     data:
       items:
-        - image: /img/partners/BAWF-logo.png
         - image: /img/partners/Bilbao_Webfest.svg
+        - image: /img/partners/BAWF-logo.png
         - image: /img/partners/dc-webfest.png
-        - image: /img/partners/korea-kweb.png
+        - image: /img/partners/Seoul_Webfest.png
         - image: /img/partners/Miami_Web_Fest.svg
         - image: /img/partners/Minnesota_Webfest.png
+        - image: /img/partners/Asia-Web-Awards.png
         - image: /img/partners/Roma_Web_Fest.png
-        - image: /img/partners/Seoul_Webfest.png
         - image: /img/partners/sicilly.png
         - image: /img/partners/vancouver.png
         - image: /img/partners/webfest-berlin.png

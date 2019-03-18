@@ -10,45 +10,6 @@ sections:
           button:
             text: view now
             href: /official-selection
-  - partial: special-teasers
-    data:
-      a: 1
-  - partial: text-and-image
-    headline: the venues
-    data:
-      image: /img/Kinocenter-Giessen-03.jpg
-      headline: "Screenings: Kinocenter Giessen"
-      text: 'The Opening Ceremony and the seven screening blocks will take place in the centrally located movie theater Kinocenter Giessen.
-          <br><br>Kinocenter Giessen
-          <br>Bahnhofstrasse 34
-          <br>35390 Giessen
-          <br><br><a class="button button--external" href="http://www.kinopolis.de/gi" target="_blank">www.kinopolis.de/gi</a>'
-  - partial: text-and-image
-    data:
-      reversed: true
-      image: /img/Hotel-heyligenstaedt-Giessen-01.jpg
-      headline: "Educational: Hotel & Restaurant heyligenstaedt"
-      text: 'The "Educational" with lectures & panels will take place here. The events are free and open for everyone. 
-          <br><br>Hotel & Restaurant heyligenstaedt
-          <br>Aulweg 41
-          <br>35392 Giessen
-          <br><br><a class="button button--external" href="http://www.restaurant-heyligenstaedt.de" target="_blank">www.restaurant-heyligenstaedt.de</a>'
-  - partial: text-and-image
-    data:
-      image: /img/Schlachthof.jpg
-      headline: 'Seriale Pro: Schlachthof Giessen'
-      text: 'The Seriale Pro with the Business Days and the DIMA Giessen - Digital Market, will take place here. There are many places indoors and open air for networking, panel discussions, the pitching contest, workshops and for celebration.
-        <br><br>Schlachthofstraße 2
-        <br>35398 Giessen'
-  - partial: text-and-image
-    data:
-      reversed: true
-      image: /img/Dachcafe-Giessen.jpg
-      headline: 'Club Night: Dach Cafe Giessen'
-      text: "The Saturday evening and the Club night will take place at the Dach Cafe, above the roofs of Giessen.
-        <br><br>Dachcafe Giessen
-        <br>Ludwigsplatz 11
-        <br>35390 Giessen"
   - partial: text
     data:
       headline: getting here
@@ -56,27 +17,13 @@ sections:
         - text: "If you like to come here by plane, you need to book your flight to FRANKFURT AIRPORT (FRA). The city is called: Frankfurt am Main. It is the biggest airport in Germany and you can reach GIESSEN easily by train."
         - text: "In most cases you will have the opportunity to book direct flights. We recommend these flights as they are often on same price-level as step-over-flights and quite more comfortable."
         - text: "Preferred credit-cards in Germany are MASTER CARD and VISA - only 50% of shops and hotels accept AMERICAN EXPRESS. Please be aware that in Germany people usually pay in cash for amounts below 30€."
-  - partial: tabs
+  - partial: text-and-image
     data:
-      background: img/be-part-of-it-bg.jpg
-      headline: be part of it
-      intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
-      tabs:
-        - title: subscribe
-          partial: tab-newsletter
-          data:
-            headline: follow us on social media
-            text: "or join our newsletter to get updates:"
-        - title: get tickets
-          partial: tab-text
-          data:
-            headline: get your tickets
-            text: "<p>Ticket: 8,- € | Reduced Price: 7,- €</p><p>The Festival Pass includes tickets to all 7 movie theater screenings. Presales will start in April.</p>"
-        - title: submit series
-          partial: tab-text
-          data:
-            headline: Submissions are closed
-            text: "Submissions for digital series & pilot episodes will open again at September 15, 2019."
+      image: /img/Schlachthof.jpg
+      headline: 'Seriale Pro: Schlachthof Giessen'
+      text: 'The Seriale Pro with the Business Days and the DIMA Giessen - Digital Market, will take place here. There are many places indoors and open air for networking, panel discussions, the pitching contest, workshops and for celebration.
+        <br><br>Schlachthofstraße 2
+        <br>35398 Giessen'
   - partial: slider
     headline: impressions
     data:
