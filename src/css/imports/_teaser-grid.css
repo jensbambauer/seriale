@@ -11,10 +11,13 @@
       margin: 12px 0 0 12px;
       overflow: hidden;
       width: calc(33.333% - 12px);
+      display: flex;
+      flex-direction: column;
 
       img {
         display: block;
         margin-bottom: 30px;
+        align-self: center;
       }
 
       h4 {
@@ -25,6 +28,11 @@
         line-height: 1.5;
         color: var(--flowTextColor);
         padding-right: 17%;
+      }
+
+      .button {
+        margin-top: auto;
+        flex: 0 0 auto;
       }
 
     }

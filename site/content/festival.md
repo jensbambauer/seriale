@@ -4,12 +4,44 @@ sections:
   - partial: stage
     widesection: true
     data:
-      videosource: /videos/home-loop.mp4
+      videosource: /videos/festival-loop.mp4
       slides:
-        - headline: Official Selection 2019 out now
-          button:
-            text: view now
-            href: /official-selection
+        - headline: The festival
+  - partial: text
+    data:
+      headline: About Festival
+      paragraphs:
+        - text: "&quot;die Seriale&quot; is the oldest festival in Germany for short form digital series.<br>The four-day festival is dedicated to audience, creators, students and all series fans. The Official Selection with over 60 series and pilots from 18 countries is presented in the local movie theater. The supporting program offers a conference with Q&As, lectures and panel discussions."
+        - text: " At the Award Ceremony the most outstanding series will be awarded by an international expert jury. The 5th annual edition of 'die Seriale' has a special focus on Argentinian digitial series."
+  - partial: text-and-image
+    headline: Educational
+    data:
+      image: /img/educational.jpg
+      headline: "Headline"
+      text: 'The Educational offers lectures and discussions that intend to bring together film and media scholars with creators. How did the web series world develop in the past two decades? Where are we standing now and what is changing? What are the differences in the dramaturgical structure between short and long form series? What are the up-and-coming ideas and formats? And how do we look at short form digital series from a film- and media-theoretical perspective? The Educational is a cooperation with the "Hessen Film & Media Academy", the network of 13 Hessian universities.
+      <img src="/img/partners/HFMa.png" class="partner-logo">'
+  - partial: text-and-image
+    headline: Screenings
+    data:
+      image: /img/screenings.jpg
+      reversed: true
+      headline: "Headline"
+      text: "On 4 days and in 8 screenings over 60 digital series and pilot episodes will be screened. We'll start with an open-air screening in Wetzlar with focus on Hessian series, all other 7 screenings will take place in Kinocenter Giessen. Series from 18 countries offer a versatile program. Numerous series creators will be present and give insights into the production of their series."
+  - partial: slider
+    data:
+      slides:
+        - image: /img/screenings/170610_SERIALE3_DAY2_MG_0719_1800Px.jpg
+        - image: /img/screenings/170610_SERIALE3_DAY2_MG_0722_1800Px.jpg
+        - image: /img/screenings/170610_SERIALE3_DAY2_MG_0731_1800Px.jpg
+        - image: /img/screenings/170610_SERIALE3_DAY2_MG_0773_1800Px.jpg
+        - image: /img/screenings/170610_SERIALE3_DAY2_MG_0824_1800Px.jpg
+        - image: /img/screenings/170610_SERIALE3_DAY2_MG_0832_1800Px.jpg
+        - image: /img/screenings/170610_SERIALE3_DAY2_MG_0842_1800Px.jpg
+        - image: /img/screenings/170610_SERIALE3_DAY2_MG_0853_1800Px.jpg
+        - image: /img/screenings/180608_MG_6412.jpg
+        - image: /img/screenings/180608_MG_6443.jpg
+        - image: /img/screenings/180608_MG_6448.jpg
+        - image: /img/screenings/180608_MG_6458.jpg
   - partial: text-and-image
     headline: the venues
     data:
@@ -32,79 +64,12 @@ sections:
           <br><br><a class="button button--external" href="http://www.restaurant-heyligenstaedt.de" target="_blank">www.restaurant-heyligenstaedt.de</a>'
   - partial: text-and-image
     data:
-      image: /img/Schlachthof.jpg
-      headline: 'Seriale Pro: Schlachthof Giessen'
-      text: 'The Seriale Pro with the Business Days and the DIMA Giessen - Digital Market, will take place here. There are many places indoors and open air for networking, panel discussions, the pitching contest, workshops and for celebration.
-        <br><br>Schlachthofstraße 2
-        <br>35398 Giessen'
-  - partial: text-and-image
-    data:
-      reversed: true
       image: /img/Dachcafe-Giessen.jpg
       headline: 'Club Night: Dach Cafe Giessen'
       text: "The Saturday evening and the Club night will take place at the Dach Cafe, above the roofs of Giessen.
         <br><br>Dachcafe Giessen
         <br>Ludwigsplatz 11
         <br>35390 Giessen"
-  - partial: text
-    data:
-      headline: getting here
-      paragraphs:
-        - text: "If you like to come here by plane, you need to book your flight to FRANKFURT AIRPORT (FRA). The city is called: Frankfurt am Main. It is the biggest airport in Germany and you can reach GIESSEN easily by train."
-        - text: "In most cases you will have the opportunity to book direct flights. We recommend these flights as they are often on same price-level as step-over-flights and quite more comfortable."
-        - text: "Preferred credit-cards in Germany are MASTER CARD and VISA - only 50% of shops and hotels accept AMERICAN EXPRESS. Please be aware that in Germany people usually pay in cash for amounts below 30€."
-  - partial: tabs
-    data:
-      background: /img/be-part-of-it-bg.jpg
-      headline: be part of it
-      intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
-      tabs:
-        - title: subscribe
-          partial: tab-newsletter
-          data:
-            headline: follow us on social media
-            text: "or join our newsletter to get updates:"
-        - title: get tickets
-          partial: tab-text
-          data:
-            headline: get your tickets
-            text: "<p>Ticket: 8,- € | Reduced Price: 7,- €</p><p>The Festival Pass includes tickets to all 7 movie theater screenings. Presales will start in April.</p>"
-        - title: submit series
-          partial: tab-text
-          data:
-            headline: Submissions are closed
-            text: "Submissions for digital series & pilot episodes will open again at September 15, 2019."
-  - partial: slider
-    headline: impressions
-    data:
-      slides:
-        - image: /img/impressions/1.jpg
-        - image: /img/impressions/2.jpg
-        - image: /img/impressions/3.jpg
-        - image: /img/impressions/4.jpg
-        - image: /img/impressions/5.jpg
-        - image: /img/impressions/6.jpg
-        - image: /img/impressions/8.jpg
-        - image: /img/impressions/9.jpg
-        - image: /img/impressions/10.jpg
-        - image: /img/impressions/11.jpg
-        - image: /img/impressions/12.jpg
-        - image: /img/impressions/13.jpg
-        - image: /img/impressions/14.jpg
-        - image: /img/impressions/15.jpg
-        - image: /img/impressions/16.jpg
-        - image: /img/impressions/17.jpg
-        - image: /img/impressions/18.jpg
-        - image: /img/impressions/19.jpg
-        - image: /img/impressions/20.jpg
-        - image: /img/impressions/21.jpg
-        - image: /img/impressions/22.jpg
-        - image: /img/impressions/23.jpg
-        - image: /img/impressions/24.jpg
-        - image: /img/impressions/25.jpg
-        - image: /img/impressions/26.jpg
-        - image: /img/impressions/27.jpg
-        - image: /img/impressions/28.jpg
   - partial: text-plain
     headline: connect with us
     data:

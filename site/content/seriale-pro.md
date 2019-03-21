@@ -4,15 +4,12 @@ sections:
   - partial: stage
     widesection: true
     data:
-      videosource: videos/home-loop.mp4
+      videosource: /videos/seriale-pro-loop.mp4
       slides:
-        - headline: Official Selection 2019 out now
-          button:
-            text: view now
-            href: /official-selection
+        - headline: seriale pro
   - partial: text
     data:
-      headline: getting here
+      headline: Seriale Pro About
       paragraphs:
         - text: "If you like to come here by plane, you need to book your flight to FRANKFURT AIRPORT (FRA). The city is called: Frankfurt am Main. It is the biggest airport in Germany and you can reach GIESSEN easily by train."
         - text: "In most cases you will have the opportunity to book direct flights. We recommend these flights as they are often on same price-level as step-over-flights and quite more comfortable."

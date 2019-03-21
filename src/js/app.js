@@ -4,6 +4,7 @@ import newsletterForm from "./components/newsletter-form";
 import jQuery from "jquery";
 import pageTransition from "./components/page-transition";
 import stickyHeader from "./components/sticky-header";
+import stage from "./components/stage";
 
 // export for others scripts to use
 window.$ = jQuery;
@@ -43,9 +44,11 @@ function init() {
       }
     }
   });
+
+  newsletterForm();
+  stage();
 }
 init();
 
 stickyHeader(scrollbar);
-newsletterForm();
 pageTransition(init, scrollbar);

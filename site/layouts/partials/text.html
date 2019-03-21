@@ -5,7 +5,7 @@
   {{ end }}
   <div class="text__columns">
     {{ range.paragraphs }}
-    <p>{{ .text }}</p>
+    <p>{{ .text | safeHTML }}</p>
     {{ end }}
   </div>
 </div>

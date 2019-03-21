@@ -1,15 +1,22 @@
 .button {
   display: inline-block;
-  background-color: var(--mainColor);
+  background-image: linear-gradient(to bottom, #000000 0%,#000000 50%,var(--mainColor) 50%,var(--mainColor) 100%);
+  background-size: 100% 200%;
+  background-position: 0 100%;
   color: white;
   font-size: 24px;
   font-family: "Roboto Slab";
   font-weight: 700;
   padding: 18px 36px;
-  transition: 0.3s;
+  transition: 0.3s ease-in-out;
+  align-self: flex-start;
+
+  .seriale-pro & {
+    background-image: linear-gradient(to bottom, #000000 0%,#000000 50%,var(--proColor) 50%,var(--proColor) 100%);
+  }
 
   &:hover {
-    background: black;
+    background-position: 0 0;
     color: white;
   }
 
@@ -17,19 +24,25 @@
     background-color: var(--mainColorInactive);
   }
 
-  &--secondary {
+  &--secondary, .seriale-pro &--secondary {
     background: black;
 
     &:hover {
       background: var(--mainColor);
     }
   }
+  .seriale-pro &--secondary:hover {
+    background: var(--proColor);
+  }
 
   &--external {
     background-color: var(--backgroundGrey);
+    background-image: none;
     color: var(--mainColor);
+    font-family: "Roboto";
     font-size: 18px;
     padding: 12px 26px;
+
 
     &:hover {
       background: var(--mainColor);

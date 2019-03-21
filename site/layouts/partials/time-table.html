@@ -1,0 +1,34 @@
+{{ with.data }}
+<div class="time-table">
+
+    {{ range.days }}
+      <div class="time-table__day">
+        <h3>{{ .title }}</h3>
+        {{ range.blocks }}
+          <div class="time-table__day__block{{ with .blocks}} time-table__day__block--parent{{end}} time-table__day__block--size-{{ .size }} time-table__day__block--start-{{ .start }}{{ with .pro }} time-table__day__block--pro{{ end }}">
+            {{ with .time}}
+            <time>{{ . }}</time>
+            {{ end }}
+            {{ with .title}}
+            <h4>{{ . }}</h4>
+            {{ end }}
+            {{ with .location}}
+            | {{ . }}
+            {{ end }}
+
+            {{ range.blocks }}
+              <div class="time-table__day__block time-table__day__block--start-{{ .start }} {{ with .pro }} time-table__day__block--pro{{ end }}">
+                <time>{{ .time }}</time>
+                <h4>{{ .title }}</h4>
+                {{ with .location}}
+                | {{ . }}
+                {{ end }}
+              </div>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+
+</div>
+{{ end }}

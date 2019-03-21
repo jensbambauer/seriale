@@ -10,52 +10,107 @@ sections:
           button:
             text: view now
             href: /official-selection
-  - partial: special-teasers
+        - headline: educational, awards, screenings & more 
+          button:
+            text: the festival
+            href: /festival
+        - headline: pitch contest, networking & more
+          button:
+            text: seriale pro
+            href: /seriale-pro
+  - partial: time-table
+    headline: schedule
     data:
-      a: 1
-  - partial: text-and-image
-    headline: the venues
-    data:
-      image: /img/Kinocenter-Giessen-03.jpg
-      headline: "Screenings: Kinocenter Giessen"
-      text: 'The Opening Ceremony and the seven screening blocks will take place in the centrally located movie theater Kinocenter Giessen.
-          <br><br>Kinocenter Giessen
-          <br>Bahnhofstrasse 34
-          <br>35390 Giessen
-          <br><br><a class="button button--external" href="http://www.kinopolis.de/gi" target="_blank">www.kinopolis.de/gi</a>'
-  - partial: text-and-image
-    data:
-      reversed: true
-      image: /img/Hotel-heyligenstaedt-Giessen-01.jpg
-      headline: "Educational: Hotel & Restaurant heyligenstaedt"
-      text: 'The "Educational" with lectures & panels will take place here. The events are free and open for everyone. 
-          <br><br>Hotel & Restaurant heyligenstaedt
-          <br>Aulweg 41
-          <br>35392 Giessen
-          <br><br><a class="button button--external" href="http://www.restaurant-heyligenstaedt.de" target="_blank">www.restaurant-heyligenstaedt.de</a>'
-  - partial: text-and-image
-    data:
-      image: /img/Schlachthof.jpg
-      headline: 'Seriale Pro: Schlachthof Giessen'
-      text: 'The Seriale Pro with the Business Days and the DIMA Giessen - Digital Market, will take place here. There are many places indoors and open air for networking, panel discussions, the pitching contest, workshops and for celebration.
-        <br><br>Schlachthofstraße 2
-        <br>35398 Giessen'
-  - partial: text-and-image
-    data:
-      reversed: true
-      image: /img/Dachcafe-Giessen.jpg
-      headline: 'Club Night: Dach Cafe Giessen'
-      text: "The Saturday evening and the Club night will take place at the Dach Cafe, above the roofs of Giessen.
-        <br><br>Dachcafe Giessen
-        <br>Ludwigsplatz 11
-        <br>35390 Giessen"
+      days:
+        - title: June 13th
+          blocks:
+            - time: 7pm - 11pm
+              title: Focus Hessen
+              location: Lottehof Wetzlar
+              size: 4
+              start: 9
+        - title: June 14th
+          blocks:
+            - time: 10am - 3pm
+              title: Educational
+              location: Heyligenstaedt
+              size: 5
+            - time: 3pm - 12pm
+              title: Screenings
+              location: Kinocenter
+              size: 9
+            - time: 12pm - open end
+              title: Networking
+              location: News Café
+              size: 3
+        - title: June 15th
+          blocks:
+            - time: 10am - 4pm
+              title: Seriale Pro
+              location: Schlachthof
+              pro: true
+              size: 6
+            - time: 4pm - 10pm
+              title: Screenings
+              location: Kinocenter
+              size: 6
+            - time: 10pm - open end
+              title: Networking
+              location: Dachcafé
+              size: 5
+        - title: June 16th
+          blocks:
+            - size: 8
+              blocks:
+              - time: 10am - 6pm
+                title: Seriale Pro
+                location: Schlachthof
+                pro: true
+              - time: 2pm - 6pm
+                title: Screenings
+                location: Kinocenter
+                start: 4
+            - time: 6pm - 8pm
+              title: Red Carpet
+              location: Rathaus
+              size: 2
+            - time: 8pm - 11pm
+              title: Award Ceremony
+              location: Konzertsaal
+              size: 3
+            - time: 11pm - open end
+              title: After Party
+              location: Troppauer
   - partial: text
+    headline: Travel Info
     data:
-      headline: getting here
+      headline: Getting Here
       paragraphs:
         - text: "If you like to come here by plane, you need to book your flight to FRANKFURT AIRPORT (FRA). The city is called: Frankfurt am Main. It is the biggest airport in Germany and you can reach GIESSEN easily by train."
         - text: "In most cases you will have the opportunity to book direct flights. We recommend these flights as they are often on same price-level as step-over-flights and quite more comfortable."
         - text: "Preferred credit-cards in Germany are MASTER CARD and VISA - only 50% of shops and hotels accept AMERICAN EXPRESS. Please be aware that in Germany people usually pay in cash for amounts below 30€."
+  - partial: teaser-grid
+    smallmargin: true
+    data:
+      teasers:
+        - image: /img/hotel-heyligenstaedt.jpg
+          title: Hotel Heyligenstaedt
+          shortdescription: This unique Boutiquehotel is directly located at the heart of the University City Giessen and fascinates already from the outside with its historic industrial facade. Built in 1876, the hotel is among the oldest buildings of Giessen.
+          button:
+            href: http://www.restaurant-heyligenstaedt.de
+            text: visit site
+        - image: /img/hotel-ludwigsplatz.jpg
+          title: Hotel am Ludwigsplatz
+          shortdescription: Located in the center of Giessen close to the theatre, town hall, cinema, pedestrian area, the old castle and one of the oldest botanical gardens in Europe.
+          button:
+            href: http://www.hotel-am-ludwigsplatz.de
+            text: visit site
+        - image: /img/gaestehaus-wilhelma.jpg
+          title: Guest House Wilhelma
+          shortdescription: This guest house has a long tradition. Here you will find bright and friendly rooms with modern equipment. You can also find apartments and apartments with kitchens here.
+          button:
+            href: http://www.gaestehaus-wilhelma.de
+            text: visit site
   - partial: tabs
     data:
       background: img/be-part-of-it-bg.jpg

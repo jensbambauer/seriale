@@ -33,12 +33,15 @@ export default function pageTransition(init, scrollbar) {
               ease,
               onComplete: () => {
                 scrollbar.scrollTo(0, 0, 1);
+                $(".nav__items a.active").removeClass("active");
+                $(`.nav__items a[href="${data.next.url.path}"]`).addClass("active");
                 resolve();
               },
             }, "start");
           });
         },
         enter: (data) => {
+          document.querySelector("video").load();
           const container = document.querySelector('[data-barba="container"]');
           return new Promise((resolve) => {
             const tl = new TimelineLite({onComplete: resolve});
@@ -76,6 +79,14 @@ export default function pageTransition(init, scrollbar) {
               }, {
                 opacity: 1,
               }, "start=+0.5");
+            }
+            if (document.querySelector(".notice")) {
+              tl.fromTo(document.querySelector(".notice"), 0.5, {
+                ease,
+                transform: "translateY(-100%)"
+              }, {
+                transform: "translateY(0)"
+              });
             }
           });
         }

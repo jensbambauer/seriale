@@ -11,13 +11,13 @@ export default function stickyHeader(scrollbar) {
     y: 58
   }, "start");
 
-  tl.fromTo(el.querySelector(".logo"), 1, {
+  tl.fromTo(el.querySelector(".logo"), 0.5, {
     x: 0
   }, {
-    x: -33
-  }, "start");
+    x: -110
+  }, "start+=0.3");
 
-  tl.fromTo(el.querySelector(".logo__symbol"), 1, {
+  tl.fromTo(el.querySelector(".logo__symbol"), 0.5, {
     scale: 1,
     opacity: 1
   }, {
@@ -27,13 +27,10 @@ export default function stickyHeader(scrollbar) {
 
   tl.pause();
 
-
   scrollbar.addListener((status) => {
-
     const percentTransition = status.offset.y / 300;
-
     tl.progress(percentTransition);
-    console.log(percentTransition);
+
     const y = status.offset.y - (135 * Math.min(percentTransition, 1));
 
     TweenLite.set(el, {

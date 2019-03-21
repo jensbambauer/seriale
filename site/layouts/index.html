@@ -1,5 +1,5 @@
 {{ define "main" }}
 {{ range .Params.sections }}
-{{ partial "section" (dict "headline" .headline "partial" .partial "data" .data "Page" $ "widesection" .widesection) }}
+{{ partial "section" (dict "headline" .headline "partial" .partial "data" .data "Page" $ "widesection" .widesection "smallmargin" .smallmargin) }}
 {{ end }}
 {{ end }}

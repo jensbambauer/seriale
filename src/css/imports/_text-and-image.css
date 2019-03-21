@@ -16,11 +16,21 @@
 
         img {
             width: 100%;
+            display: block;
         }
     }
     &__col-text {
         width: 42%;
         padding-left: 8%;
+        display: flex;
+        flex-direction: column;
+
+        .partner-logo {
+            width: 200px;
+            height: 200px;
+            margin-top: auto;
+            margin-left: auto;
+        }
     }
 
     @media(--small-viewport) {

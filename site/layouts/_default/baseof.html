@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   {{ partial "head" . }}
-  <body>
+  <body >
+
     <div class="page" data-scrollbar>
-      {{ partial "nav" . }}
       <div data-barba="wrapper">
-        <div data-barba="container">
+        {{ partial "nav" . }}
+        <div data-barba="container" {{ if eq .File.LogicalName "seriale-pro.md" }} class="seriale-pro"{{ end }}>
+
           <div class="container">{{ block "main" . }}{{ end }}</div>
         </div>
       </div>

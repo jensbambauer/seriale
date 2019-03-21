@@ -1,5 +1,5 @@
 <section
-  class="{{ if (.widesection) }}{{ else }}container__content{{ end }}"
+  class="{{ if (.widesection) }}{{ else }}container__content{{ end }}{{ if (.smallmargin) }} small-margin{{ end }}"
 >
   {{ with.headline }}
   <h2>{{ . }}</h2>
