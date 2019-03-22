@@ -41,8 +41,14 @@ export default function pageTransition(init, scrollbar) {
           });
         },
         enter: (data) => {
-          document.querySelector("video").load();
+          const video = document.querySelector("video");
           const container = document.querySelector('[data-barba="container"]');
+
+          if (video) {
+            video.load();
+          }
+
+
           return new Promise((resolve) => {
             const tl = new TimelineLite({onComplete: resolve});
             init();

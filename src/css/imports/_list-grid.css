@@ -42,6 +42,7 @@
       em {
         color: var(--mainColor);
         margin-left: auto;
+        text-align: right;
       }
 
       @media(--medium-viewport) {

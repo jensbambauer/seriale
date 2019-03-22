@@ -12,17 +12,21 @@
             {{ with .title}}
             <h4>{{ . }}</h4>
             {{ end }}
-            {{ with .location}}
-            | {{ . }}
-            {{ end }}
+            <em>
+              {{ with .location}}
+              {{ . }}
+              {{ end }}
+            </em>
 
             {{ range.blocks }}
               <div class="time-table__day__block time-table__day__block--start-{{ .start }} {{ with .pro }} time-table__day__block--pro{{ end }}">
                 <time>{{ .time }}</time>
                 <h4>{{ .title }}</h4>
-                {{ with .location}}
-                | {{ . }}
-                {{ end }}
+                <em>
+                  {{ with .location}}
+                  {{ . }}
+                  {{ end }}
+                </em>
               </div>
             {{ end }}
           </div>

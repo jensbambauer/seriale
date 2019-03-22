@@ -16,7 +16,7 @@ sections:
           origin: Australia
         - title: ANGST	
           origin: Austria
-        - title: Anomaly	
+        - title: Anomalie	
           origin: Germany
         - title: Antarktika	
           origin: Germany

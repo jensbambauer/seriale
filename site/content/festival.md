@@ -66,7 +66,7 @@ sections:
     data:
       image: /img/Dachcafe-Giessen.jpg
       headline: 'Club Night: Dach Cafe Giessen'
-      text: "The Saturday evening and the Club night will take place at the Dach Cafe, above the roofs of Giessen.
+      text: "The Saturday evening and the Club Night will take place at the Dach Cafe, above the roofs of Giessen.
         <br><br>Dachcafe Giessen
         <br>Ludwigsplatz 11
         <br>35390 Giessen"

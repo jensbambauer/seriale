@@ -31,14 +31,18 @@ sections:
               start: 9
         - title: June 14th
           blocks:
-            - time: 10am - 3pm
+            - time: 10am - 4pm
               title: Educational
               location: Heyligenstaedt
-              size: 5
-            - time: 3pm - 12pm
+              size: 6
+            - time: 4pm - 6pm
+              title: Opening Ceremony
+              location: Kinocenter
+              size: 2
+            - time: 6pm - 12pm
               title: Screenings
               location: Kinocenter
-              size: 9
+              size: 6
             - time: 12pm - open end
               title: Networking
               location: News Café
@@ -126,7 +130,7 @@ sections:
           partial: tab-text
           data:
             headline: get your tickets
-            text: "<p>Ticket: 8,- € | Reduced Price: 7,- €</p><p>The Festival Pass includes tickets to all 7 movie theater screenings. Presales will start in April.</p>"
+            text: "<p>Ticket: 8,- € | Reduced Price: 7,- €<br>Festival Pass: 43,- €</p><p>The Festival Pass includes tickets to all 7 movie theater screenings. Presales will start in April.</p>"
         - title: submit series
           partial: tab-text
           data:
@@ -166,7 +170,7 @@ sections:
   - partial: text-plain
     headline: connect with us
     data:
-      text: "<h4>die Seriale</h4>Ostanlage 25A<br>35390 Gießen<br><br>phone   +49 641 13295 398<br>fax         +49 641 13295 433<br><br>e-mail    info@die-seriale.de"
+      text: "<h4>die Seriale</h4>Ostanlage 25A<br>35390 Giessen<br><br>phone   +49 641 13295 398<br>fax         +49 641 13295 433<br><br>e-mail    info@die-seriale.de"
   # - partial: thumb-grid
   #   headline: official selection
   #   data:
