@@ -12,7 +12,9 @@
         {{ end }}
         {{ range .teasers}}
         <li class="teaser-grid__list__item">
-            <img src="{{ .image }}" />
+            <div class="teaser-grid__list__item__image-container">
+                <img src="{{ .image }}" />
+            </div>
             <h4>{{ .title }}</h4>
             <p>{{ .shortdescription }}</p>
             <a href="{{ .button.href }}" class="button button--external">{{ .button.text }}</a>

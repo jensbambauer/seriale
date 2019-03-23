@@ -60,7 +60,7 @@ sections:
               size: 6
             - time: 10pm - open end
               title: Networking
-              location: Dachcafé
+              location: Dach Cafe
               size: 5
         - title: June 16th
           blocks:
@@ -76,15 +76,15 @@ sections:
                 start: 4
             - time: 6pm - 8pm
               title: Red Carpet
-              location: Rathaus
+              location: Townhall
               size: 2
             - time: 8pm - 11pm
               title: Award Ceremony
-              location: Konzertsaal
+              location: Townhall
               size: 3
             - time: 11pm - open end
               title: After Party
-              location: Troppauer
+              location: who killed the pig
   - partial: text
     headline: Travel Info
     data:

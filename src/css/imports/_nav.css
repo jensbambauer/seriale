@@ -31,6 +31,25 @@
     em {
       margin-left: 10px;
       color: var(--mainColor);
+
+      @media(--medium-viewport) {
+        font-size: 16px;
+      }
+      @media(--small-viewport) {
+        font-size: 14px;
+      }
+      @media(--small-viewport) {
+        font-size: 12px;
+      }
+    }
+    .logo-container-seriale {
+      display: flex;
+      align-items: center;
+    }
+
+    .logo-container-seriale-pro {
+      display: none;
+      align-items: center;
     }
   }
 
@@ -66,6 +85,111 @@
       &.active {
         color: var(--mainColor);
       }
+    }
+
+    @media(--medium-viewport) {
+      .nav & {
+        position: fixed;
+        display: flex;
+        top: 180px;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background: black;
+        z-index: 2222;
+        margin-left: -40px;
+        transform: translateX(-100%);
+        opacity: 0;
+        transition: 0.5s ease-in-out;
+
+        flex-direction: column;
+        li {
+          margin-left: 54px;
+          margin-top: 40px;
+
+          a {
+            font-size: 24px;
+          }
+        }
+      }
+    }
+
+    @media(--small-viewport) {
+      .nav & {
+        top: 120px;
+        margin-left: -20px;
+      }
+    }
+    @media(--very-small-viewport) {
+      .nav & {
+        top: 80px;
+      }
+    }
+  }
+
+  &.seriale-pro {
+    .logo {
+      .logo-container-seriale {
+        display: none;
+      }
+
+      .logo-container-seriale-pro {
+        display: flex;
+      }
+    }
+
+    .nav__items a.active, .logo em, .nav__items a:hover {
+      color: var(--proColor);
+    }
+    .notice {
+      background-color: var(--proColor);
+    }
+  }
+
+  &__burger {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    margin-left: auto;
+    display: none;
+
+    &:before, &:after {
+      content: "";
+      height: 2px;
+      width: 100%;
+      background: white;
+      display: block;
+      position: absolute;
+      top: 6px;
+      transform-origin: center center;
+      transition: 0.3s ease-in-out;
+    }
+
+    &:after {
+      top: 16px;
+    }
+
+    @media(--medium-viewport) {
+      display: block;
+    }
+  }
+
+  #nav-toggle {
+    position: absolute;
+    left: -2000%;
+  }
+
+  #nav-toggle:checked ~ .nav__items {
+    transform: translateX(0);
+    opacity: 1;
+  }
+
+  #nav-toggle:checked ~ .nav__burger {
+    &:before {
+      transform: rotate(45deg) translateY(7px);
+    }
+    &:after {
+      transform: rotate(-45deg) translateY(-7px);
     }
   }
 

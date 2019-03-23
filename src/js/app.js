@@ -48,7 +48,12 @@ function init() {
   newsletterForm();
   stage();
 }
+
 init();
+
+if (location.href.indexOf("seriale-pro") > -1) {
+  $(".nav").addClass("seriale-pro");
+}
 
 stickyHeader(scrollbar);
 pageTransition(init, scrollbar);

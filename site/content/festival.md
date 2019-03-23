@@ -70,6 +70,53 @@ sections:
         <br><br>Dachcafe Giessen
         <br>Ludwigsplatz 11
         <br>35390 Giessen"
+  - partial: grid
+    headline: our sponsors
+    data:
+      items:
+        - image: /img/partners/HessenFilm.png
+        - image: /img/partners/giessen.png
+        - image: /img/partners/Wetzlar.png
+        - image: /img/partners/kinocenter.png
+        - image: /img/partners/heyligenstaedt.png
+        - image: /img/partners/Goethe-Institut.png
+        - image: /img/partners/dobago.png
+        - image: /img/partners/lichtacker.png
+        # stadttheater
+        - image: /img/partners/videmic.png
+        - image: /img/partners/rossi-photography.png
+        - image: /img/partners/World_Wide_Webserie.png
+        - image: /img/partners/wswc-2019.png
+        - image: /img/partners/Unsere_Serien.svg
+        - image: /img/partners/elefantenklo_magazin_logo.png
+        # webvee
+        # marthas
+        # dmp
+        # presse büro martin
+        # mia
+        # schlammbeiser
+  - partial: grid
+    headline: our partner festivals
+    data:
+      items:
+        - image: /img/partners/Bilbao_Webfest.svg
+        - image: /img/partners/BAWF-logo.png
+        - image: /img/partners/Seoul_Webfest.png
+        - image: /img/partners/vancouver.png
+        - image: /img/partners/sicilly.png
+        - image: /img/partners/dc-webfest.png
+        - image: /img/partners/Miami_Web_Fest.svg
+        - image: /img/partners/Minnesota_Webfest.png
+        - image: /img/partners/Roma_Web_Fest.png
+        - image: /img/partners/Realist-Webfest.jpg
+        - image: /img/partners/New-Zealand-Webfest.png
+        - image: /img/partners/Rio-Webfest2.png
+        - image: /img/partners/Asia-Web-Awards.png
+        - image: /img/partners/bogota_webfest.jpg
+        - image: /img/partners/TorinoShortFilmMarketVol3-07.png
+        - image: /img/partners/webfest-berlin.png
+        - image: /img/partners/seriencamp.png
+        - image: /img/partners/Wendie_Webfest_Hamburg.svg
   - partial: text-plain
     headline: connect with us
     data:

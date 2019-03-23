@@ -35,6 +35,10 @@ export default function pageTransition(init, scrollbar) {
                 scrollbar.scrollTo(0, 0, 1);
                 $(".nav__items a.active").removeClass("active");
                 $(`.nav__items a[href="${data.next.url.path}"]`).addClass("active");
+                $(".nav").removeClass("seriale-pro");
+                if (data.next.url.path.indexOf("seriale-pro") > -1) {
+                  $(".nav").addClass("seriale-pro");
+                }
                 resolve();
               },
             }, "start");
@@ -47,7 +51,6 @@ export default function pageTransition(init, scrollbar) {
           if (video) {
             video.load();
           }
-
 
           return new Promise((resolve) => {
             const tl = new TimelineLite({onComplete: resolve});

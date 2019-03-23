@@ -3,6 +3,11 @@
   color: white;
   padding-bottom: 56.25%;
   position: relative;
+  overflow: hidden;
+
+  @media(--small-viewport) {
+    padding-bottom: 100%;
+  }
 
   &:before {
     content: "";
@@ -26,6 +31,12 @@
     width: 100%;
     height: 100%;
     opacity: 0.5;
+
+    @media(--small-viewport) {
+      width: 178%;
+      left: 50%;
+      transform: translateX(-50%);
+    }
   }
 
   &__slider {
@@ -95,6 +106,7 @@
         svg {
           width: 80px;
           height: 80px;
+          margin-bottom: 10px;
         }
       }
       @media(--very-small-viewport) {
@@ -108,7 +120,7 @@
 
   &__timeline {
     position: absolute;
-    bottom: 94px;
+    bottom: 88px;
     width: 50%;
     left: 50%;
     transform: translateX(-50%);
@@ -121,7 +133,7 @@
       bottom: 64px;
     }
     @media(--medium-viewport) {
-      bottom: 0;
+      bottom: -1px;
       width: calc(100% + 12px);
       left: 0;
       margin-left: -12px;
@@ -130,17 +142,27 @@
 
     li {
       width: 100%;
-      height: 4px;
-      background: rgba(255,255,255,0.17);
+      height: 30px;
       margin-left: 12px;
       position: relative;
       overflow: hidden;
+      cursor: pointer;
+
+      &:after {
+        content: "";
+        background: rgba(255,255,255,0.17);
+        height: 4px;
+        width: 100%;
+        position: absolute;
+        top: 50%;
+      }
 
       span {
         position: absolute;
         background: var(--mainColor);
         display: block;
-        height: 100%;
+        top: 50%;
+        height: 4px;
         width: 100%;
         transform: translateX(-100%);
       }

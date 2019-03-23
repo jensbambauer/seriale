@@ -11,47 +11,47 @@ sections:
     data:
       headline: Seriale Pro About
       paragraphs:
-        - text: "If you like to come here by plane, you need to book your flight to FRANKFURT AIRPORT (FRA). The city is called: Frankfurt am Main. It is the biggest airport in Germany and you can reach GIESSEN easily by train."
-        - text: "In most cases you will have the opportunity to book direct flights. We recommend these flights as they are often on same price-level as step-over-flights and quite more comfortable."
-        - text: "Preferred credit-cards in Germany are MASTER CARD and VISA - only 50% of shops and hotels accept AMERICAN EXPRESS. Please be aware that in Germany people usually pay in cash for amounts below 30€."
+        - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities “Business Day”, “DIMA Giessen” and a pitch contest."
+        - text: "The Business Day is a huge conference and networking event, it will be held for the 3rd time as part of “die Seriale“ and is expanded to two days."
+        - text: "For the first time “DIMA Giessen” will be held - Germany’s very first physical market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland“."
+        - text: "Finally, 15 brand new concepts for digitals series will be presented to the industry during a pitch competition."
+  - partial: text-and-image
+    headline: highlights
+    data:
+      image: /img/pitch-contest.jpg
+      headline: "Pitch Competition"
+      text: 'Be one of 15 pre-selected projects to be presented to an expert industry jury and take your chance to be seen, heard and taken to the next level. We encourage you to include thoughts on sustainability beyond a first season. <br><br>Submissions are accepted now via FilmFreeway! <br><br><a class="button button--external" href="https://filmfreeway.com/dieSeriale" target="_blank">Submit Project</a>'
   - partial: text-and-image
     data:
+      reversed: true
+      image: /img/business-days.jpg
+      headline: "The 3rd Business Day expanded"
+      text: 'The two Business Days offer a large conference and networking program for the creative industry. Established international experts will present exclusive insights on the mechanisms of the global digital series market and talk about the latest developments and trends. Various possibilities for distribution, co-production and branded content will be presented and discussed in panels. Brand new project ideas will be presented and above all, this event invites to network and make new connections.'
+  - partial: text-and-image
+    data:
+      image: /img/dima.jpg
+      headline: "Germany's first Market for Digital Series"
+      text: 'The Digital Market Giessen (“DIMA Giessen”) combines a physical market especially for short form digital series  a networking platform for international producers, distributors, sales agents, broadcasters and funding representatives.<br> This year, six series will qualify additionally for “DIMA CoPro Series” - a unique platform for digital series producers who are looking for co-production opportunities. These projects will be highlighted during Seriale Pro to get that extra visibility.<br>DIMA is a collaboration  with "Bilbao Seriesland". '
+  - partial: text-and-image
+    headline: the venue
+    data:
       image: /img/Schlachthof.jpg
-      headline: 'Seriale Pro: Schlachthof Giessen'
+      headline: 'Schlachthof Giessen'
       text: 'The Seriale Pro with the Business Days and the DIMA Giessen - Digital Market, will take place here. There are many places indoors and open air for networking, panel discussions, the pitching contest, workshops and for celebration.
         <br><br>Schlachthofstraße 2
         <br>35398 Giessen'
-  - partial: slider
-    headline: impressions
+  - partial: grid
+    headline: our sponsors
     data:
-      slides:
-        - image: img/impressions/1.jpg
-        - image: img/impressions/2.jpg
-        - image: img/impressions/3.jpg
-        - image: img/impressions/4.jpg
-        - image: img/impressions/5.jpg
-        - image: img/impressions/6.jpg
-        - image: img/impressions/8.jpg
-        - image: img/impressions/9.jpg
-        - image: img/impressions/10.jpg
-        - image: img/impressions/11.jpg
-        - image: img/impressions/12.jpg
-        - image: img/impressions/13.jpg
-        - image: img/impressions/14.jpg
-        - image: img/impressions/15.jpg
-        - image: img/impressions/16.jpg
-        - image: img/impressions/17.jpg
-        - image: img/impressions/18.jpg
-        - image: img/impressions/19.jpg
-        - image: img/impressions/20.jpg
-        - image: img/impressions/21.jpg
-        - image: img/impressions/22.jpg
-        - image: img/impressions/23.jpg
-        - image: img/impressions/24.jpg
-        - image: img/impressions/25.jpg
-        - image: img/impressions/26.jpg
-        - image: img/impressions/27.jpg
-        - image: img/impressions/28.jpg
+      items:
+        - image: /img/partners/Hessisches_Ministerium_fuer_Wirtschaft.png
+        - image: /img/partners/Kultur_und_Kreativwirtschaft_Hessen.svg
+        - image: /img/partners/giessen.png
+        - image: /img/partners/Seeka_TV.png
+        - image: /img/partners/videmic.png
+        - image: /img/partners/World_Wide_Webserie.png
+        - image: /img/partners/lichtacker.png
+        - image: /img/partners/dobago.png
   - partial: text-plain
     headline: connect with us
     data:

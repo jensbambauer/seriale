@@ -15,7 +15,6 @@
   "license": "MIT",
   "dependencies": {
     "@barba/core": "^2.1.0",
-    "babel-core": "^6.26.3",
     "babel-eslint": "^8.0.0",
     "babel-loader": "^7.0.0",
     "babel-plugin-syntax-object-rest-spread": "^6.13.0",
@@ -55,11 +54,15 @@
     "whatwg-fetch": "^2.0.0"
   },
   "devDependencies": {
+    "babel-minify-webpack-plugin": "^0.3.1",
     "gulp-inject": "^5.0.0",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
+    "gulp-uglify": "^3.0.2",
     "postcss-nested": "^4.1.1",
-    "svg-sprite-loader": "^3.0.0"
+    "svg-sprite-loader": "^3.0.0",
+    "uglifyjs-webpack-plugin": "^2.1.2",
+    "webpack-bundle-analyzer": "^3.1.0"
   }
 }

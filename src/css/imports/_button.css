@@ -35,7 +35,7 @@
     background: var(--proColor);
   }
 
-  &--external {
+  &--external, .seriale-pro &--external {
     background-color: var(--backgroundGrey);
     background-image: none;
     color: var(--mainColor);
@@ -50,8 +50,20 @@
     }
   }
 
-  @media(--small-viewport) {
+  .seriale-pro &--external {
+    color: var(--proColor);
+
+    &:hover {
+      background: var(--proColor);
+    }
+  }
+
+  @media(--medium-viewport) {
     font-size: 20px;
+    padding: 12px 24px;
+  }
+  @media(--small-viewport) {
+    font-size: 18px;
     padding: 12px 24px;
   }
 }

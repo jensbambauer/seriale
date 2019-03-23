@@ -46,6 +46,16 @@ body {
     padding-top: 211px;
     position: relative;
     /* padding-top: 212px; */
+    
+    @media(--medium-viewport) {
+      padding-top: 180px;
+    }
+    @media(--small-viewport) {
+      padding-top: 120px;
+    }
+    @media(--very-small-viewport) {
+      padding-top: 80px;
+    }
   }
 }
 

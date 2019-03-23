@@ -131,50 +131,6 @@ sections:
   - partial: list-grid
     data:
       intro: This year’s festival comes with a special focus on the Argentinian landscape of short form digital content. This special selection of Argentinian series will be announced on March 31, 2019.
-  - partial: grid
-    headline: our sponsors
-    data:
-      items:
-        - image: /img/partners/HessenFilm.png
-        - image: /img/partners/giessen.png
-        - image: /img/partners/Wetzlar.png
-        - image: /img/partners/kinocenter.png
-        - image: /img/partners/heyligenstaedt.png
-        - image: /img/partners/Hessisches_Ministerium_fuer_Wirtschaft.png
-        - image: /img/partners/Kultur_und_Kreativwirtschaft_Hessen.svg
-        - image: /img/partners/hFMA.png
-        - image: /img/partners/Seeka_TV.png
-        - image: /img/partners/rossi-photography.png
-        - image: /img/partners/videmic.png
-        - image: /img/partners/wswc-2019.png
-        - image: /img/partners/dobago.png
-        - image: /img/partners/lichtacker.png
-        - image: /img/partners/Unsere_Serien.svg
-        - image: /img/partners/World_Wide_Webserie.png
-        - image: /img/partners/Goethe-Institut.png
-        - image: /img/partners/elefantenklo_magazin_logo.png
-  - partial: grid
-    headline: our partner festivals
-    data:
-      items:
-        - image: /img/partners/Bilbao_Webfest.svg
-        - image: /img/partners/BAWF-logo.png
-        - image: /img/partners/dc-webfest.png
-        - image: /img/partners/Seoul_Webfest.png
-        - image: /img/partners/Miami_Web_Fest.svg
-        - image: /img/partners/Minnesota_Webfest.png
-        - image: /img/partners/Asia-Web-Awards.png
-        - image: /img/partners/Roma_Web_Fest.png
-        - image: /img/partners/sicilly.png
-        - image: /img/partners/vancouver.png
-        - image: /img/partners/webfest-berlin.png
-        - image: /img/partners/Wendie_Webfest_Hamburg.svg
-        - image: /img/partners/TorinoShortFilmMarketVol3-07.png
-        - image: /img/partners/seriencamp.png
-        - image: /img/partners/Rio-Webfest2.png
-        - image: /img/partners/Realist-Webfest.jpg
-        - image: /img/partners/New-Zealand-Webfest.png
-        - image: /img/partners/bogota_webfest.jpg
 # thumb-grid:
 #   title: Official Selection 2019
 # blurb:

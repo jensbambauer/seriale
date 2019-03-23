@@ -5,6 +5,11 @@
     flex-wrap: wrap;
     margin-left: -12px;
     padding-left: 0;
+    width: 100%;
+
+    @media(--small-viewport) {
+      flex-direction: column;
+    }
 
     &__item {
       position: relative;
@@ -17,7 +22,7 @@
       img {
         display: block;
         margin-bottom: 30px;
-        align-self: center;
+        width: 100%;
       }
 
       h4 {
@@ -33,6 +38,14 @@
       .button {
         margin-top: auto;
         flex: 0 0 auto;
+      }
+      
+      @media(--small-viewport) {
+        width: 100%;
+
+        & + & {
+          margin-top: 40px;
+        }
       }
 
     }

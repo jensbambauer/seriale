@@ -11,6 +11,7 @@ import {TimelineLite, Power4, Power0} from "gsap";
 
 const stage = function() {
   const $el = $(".stage");
+  const duration = 5;
   const tl = new TimelineLite({
     onComplete: () => {
       tl.restart();
@@ -19,11 +20,22 @@ const stage = function() {
   const ease = Power4.easeInOut;
   let current = 0;
 
+  const handleClick = (e, index) => {
+    tl.pause();
+    tl.seek(`end-${index}-=1.8`);
+  };
+  $el.on("mouseleave", () => {
+    tl.play();
+  });
+
   $el.find(".stage__timeline li span").each((index, el) => {
+    el.parentNode.addEventListener("click", (e) => {
+      handleClick(e, index);
+    });
     tl.add(() => {
       current = index;
     });
-    tl.fromTo(el, 5, {
+    tl.fromTo(el, duration, {
       transform: "translateX(-105%)",
       ease: Power0.easeNone
     }, {
@@ -84,6 +96,7 @@ const stage = function() {
         }, slideIndex === 0 ? "start" : "-=0.8");
       }
     });
+    tl.addLabel(`end-${index}`);
   });
   $el.find(".stage__timeline li span").each((index, el) => {
     tl.to(el, 0.2, {

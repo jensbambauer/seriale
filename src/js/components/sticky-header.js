@@ -17,7 +17,7 @@ export default function stickyHeader(scrollbar) {
     x: -110
   }, "start+=0.3");
 
-  tl.fromTo(el.querySelector(".logo__symbol"), 0.5, {
+  tl.fromTo(el.querySelectorAll(".logo__symbol"), 0.5, {
     scale: 1,
     opacity: 1
   }, {
@@ -29,12 +29,15 @@ export default function stickyHeader(scrollbar) {
 
   scrollbar.addListener((status) => {
     const percentTransition = status.offset.y / 300;
-    tl.progress(percentTransition);
+    if (window.innerWidth > 1023) {
+      tl.progress(percentTransition);
+    }
 
     const y = status.offset.y - (135 * Math.min(percentTransition, 1));
 
     TweenLite.set(el, {
-      y: y
+      y: window.innerWidth > 1023 ? y : status.offset.y
     });
+
   });
 }
