@@ -14,6 +14,7 @@ import inject from "gulp-inject";
 import sourcemaps from "gulp-sourcemaps";
 import cssnano from "cssnano";
 import uglify from "gulp-uglify";
+import version from "gulp-version-number";
 
 const browserSync = BrowserSync.create();
 const hugoBin = `./bin/hugo.${
@@ -29,9 +30,23 @@ gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) =>
   buildSite(cb, ["--buildDrafts", "--buildFuture"])
 );
-gulp.task("build", ["css", "js", "hugo"]);
+gulp.task("build", ["css", "js", "hugo", "version"]);
 gulp.task("build-preview", ["css", "js", "hugo-preview"]);
 
+gulp.task("version", () =>
+  gulp
+    .src("./dist/**/*.html")
+    .pipe(
+      version({
+        "value": "%MDS%",
+        "append": {
+          "key": "v",
+          "to": ["css", "js"],
+        },
+      })
+    )
+    .pipe(gulp.dest("dist"))
+);
 gulp.task("css", () =>
   gulp
     .src("./src/css/*.css")

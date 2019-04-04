@@ -1,5 +1,5 @@
 import jQuery from "jquery";
-import {TimelineLite, Power4, Power0} from "gsap";
+import {TimelineLite, Power4, Power0, TweenLite} from "gsap";
 /**
  *
  * @author
@@ -20,6 +20,10 @@ const stage = function() {
   const ease = Power4.easeInOut;
   let current = 0;
 
+  TweenLite.to($el.find(".stage__slider"), 0.5, {
+    opacity: 1
+  });
+
   const handleClick = (e, index) => {
     tl.pause();
     tl.seek(`end-${index}-=1.8`);
@@ -36,10 +40,10 @@ const stage = function() {
       current = index;
     });
     tl.fromTo(el, duration, {
-      transform: "translateX(-105%)",
+      xPercent: "-105",
       ease: Power0.easeNone
     }, {
-      transform: "translateX(0)"
+      xPercent: "0",
     }, index === 0 ? "start" : "-=0.5");
     $el.find(".stage__slider__slide").each((slideIndex, slide) => {
       const svg = slide.querySelector("svg");

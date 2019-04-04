@@ -16,8 +16,12 @@ export default function pageTransition(init, scrollbar) {
           const container = document.querySelector('[data-barba="container"]');
           return new Promise((resolve) => {
             const tl = new TimelineLite({
-              onComplete: resolve
+              onComplete: resolve,
             });
+            if ($("#nav-toggle").is(":checked")) {
+              $("#nav-toggle").prop("checked", false);
+              tl.delay(0.5);
+            }
             tl.fromTo(container, 1.1, {
               y: 0,
               opacity: 1
@@ -50,6 +54,9 @@ export default function pageTransition(init, scrollbar) {
 
           if (video) {
             video.load();
+            setTimeout(() => {
+              video.play();
+            }, 1000);
           }
 
           return new Promise((resolve) => {

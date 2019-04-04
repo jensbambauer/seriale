@@ -9,25 +9,27 @@ sections:
         - headline: seriale pro
   - partial: text
     data:
-      headline: Seriale Pro About
+      headline: About
       paragraphs:
         - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities “Business Day”, “DIMA Giessen” and a pitch contest."
         - text: "The Business Day is a huge conference and networking event, it will be held for the 3rd time as part of “die Seriale“ and is expanded to two days."
         - text: "For the first time “DIMA Giessen” will be held - Germany’s very first physical market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland“."
         - text: "Finally, 15 brand new concepts for digitals series will be presented to the industry during a pitch competition."
   - partial: text-and-image
-    headline: highlights
+    headline: DIGITAL SERIES PITCH CONTEST
     data:
       image: /img/pitch-contest.jpg
-      headline: "Pitch Competition"
-      text: 'Be one of 15 pre-selected projects to be presented to an expert industry jury and take your chance to be seen, heard and taken to the next level. We encourage you to include thoughts on sustainability beyond a first season. <br><br>Submissions are accepted now via FilmFreeway! <br><br><a class="button button--external" href="https://filmfreeway.com/dieSeriale" target="_blank">Submit Project</a>'
+      headline: "Pitch Your Project"
+      text: 'Be one of 15 pre-selected projects to be presented to an expert industry jury and take your chance to be seen, heard and taken to the next level. We encourage you to include thoughts on sustainability beyond a first season.'
   - partial: text-and-image
+    headline: BUSINESS DAYS
     data:
       reversed: true
       image: /img/business-days.jpg
       headline: "The 3rd Business Day expanded"
       text: 'The two Business Days offer a large conference and networking program for the creative industry. Established international experts will present exclusive insights on the mechanisms of the global digital series market and talk about the latest developments and trends. Various possibilities for distribution, co-production and branded content will be presented and discussed in panels. Brand new project ideas will be presented and above all, this event invites to network and make new connections.'
   - partial: text-and-image
+    headline: DIMA GIESSEN
     data:
       image: /img/dima.jpg
       headline: "Germany's first Market for Digital Series"
@@ -36,6 +38,7 @@ sections:
     headline: the venue
     data:
       image: /img/Schlachthof.jpg
+      reversed: true
       headline: 'Schlachthof Giessen'
       text: 'The Seriale Pro with the Business Days and the DIMA Giessen - Digital Market, will take place here. There are many places indoors and open air for networking, panel discussions, the pitching contest, workshops and for celebration.
         <br><br>Schlachthofstraße 2
@@ -55,7 +58,7 @@ sections:
   - partial: text-plain
     headline: connect with us
     data:
-      text: "<h4>die Seriale</h4>Ostanlage 25A<br>35390 Gießen<br><br>phone   +49 641 13295 398<br>fax         +49 641 13295 433<br><br>e-mail    info@die-seriale.de"
+      text: "<h4>die Seriale</h4>Ostanlage 25A<br>35390 Giessen<br><br>phone   +49 641 13295 398<br>fax         +49 641 13295 433<br><br>e-mail    info@die-seriale.de"
   # - partial: thumb-grid
   #   headline: official selection
   #   data:

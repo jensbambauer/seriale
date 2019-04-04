@@ -9,7 +9,7 @@ sections:
         - headline: The festival
   - partial: text
     data:
-      headline: About Festival
+      headline: About
       paragraphs:
         - text: "&quot;die Seriale&quot; is the oldest festival in Germany for short form digital series.<br>The four-day festival is dedicated to audience, creators, students and all series fans. The Official Selection with over 60 series and pilots from 18 countries is presented in the local movie theater. The supporting program offers a conference with Q&As, lectures and panel discussions."
         - text: " At the Award Ceremony the most outstanding series will be awarded by an international expert jury. The 5th annual edition of 'die Seriale' has a special focus on Argentinian digitial series."
@@ -17,15 +17,15 @@ sections:
     headline: Educational
     data:
       image: /img/educational.jpg
-      headline: "Headline"
+      headline: "Conference Program"
       text: 'The Educational offers lectures and discussions that intend to bring together film and media scholars with creators. How did the web series world develop in the past two decades? Where are we standing now and what is changing? What are the differences in the dramaturgical structure between short and long form series? What are the up-and-coming ideas and formats? And how do we look at short form digital series from a film- and media-theoretical perspective? The Educational is a cooperation with the "Hessen Film & Media Academy", the network of 13 Hessian universities.
-      <img src="/img/partners/HFMa.png" class="partner-logo">'
+      <img src="/img/partners/hFMA.png" class="partner-logo">'
   - partial: text-and-image
     headline: Screenings
     data:
       image: /img/screenings.jpg
       reversed: true
-      headline: "Headline"
+      headline: "Movie Theater Giessen"
       text: "On 4 days and in 8 screenings over 60 digital series and pilot episodes will be screened. We'll start with an open-air screening in Wetzlar with focus on Hessian series, all other 7 screenings will take place in Kinocenter Giessen. Series from 18 countries offer a versatile program. Numerous series creators will be present and give insights into the production of their series."
   - partial: slider
     data:
@@ -120,7 +120,7 @@ sections:
   - partial: text-plain
     headline: connect with us
     data:
-      text: "<h4>die Seriale</h4>Ostanlage 25A<br>35390 Gießen<br><br>phone   +49 641 13295 398<br>fax         +49 641 13295 433<br><br>e-mail    info@die-seriale.de"
+      text: "<h4>die Seriale</h4>Ostanlage 25A<br>35390 Giessen<br><br>phone   +49 641 13295 398<br>fax         +49 641 13295 433<br><br>e-mail    info@die-seriale.de"
   # - partial: thumb-grid
   #   headline: official selection
   #   data:
