@@ -1,0 +1,22 @@
+{{ with .data}}
+<div class="list-columns" data-role="masonry">
+    {{ range .items }}
+        <div class="list-columns__item">
+            {{ with.headline }}
+            <h4>{{ . }}</h4>
+            {{ end }}
+            {{ with.intro }}
+            <p class="list-columns__intro">{{ . | safeHTML}}</p>
+            {{ end }}
+            <ul class="list-columns__list">
+                {{ range .list}}
+                <li class="list-grid__list__item">
+                    <span>{{ .title }}</span>
+                    <em>{{ .origin }}</em>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+    {{end}}
+</div>
+{{ end }}

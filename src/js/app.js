@@ -5,6 +5,7 @@ import jQuery from "jquery";
 import pageTransition from "./components/page-transition";
 import stickyHeader from "./components/sticky-header";
 import stage from "./components/stage";
+import masonryGrid from "./components/masonry";
 
 // export for others scripts to use
 window.$ = jQuery;
@@ -47,6 +48,7 @@ function init() {
 
   newsletterForm();
   stage();
+  masonryGrid();
 }
 
 init();

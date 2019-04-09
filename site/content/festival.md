@@ -99,7 +99,7 @@ sections:
     headline: our partner festivals
     data:
       items:
-        - image: /img/partners/Bilbao_Webfest.svg
+        - image: /img/partners/Seriesland.png
         - image: /img/partners/BAWF-logo.png
         - image: /img/partners/Seoul_Webfest.png
         - image: /img/partners/vancouver.png
