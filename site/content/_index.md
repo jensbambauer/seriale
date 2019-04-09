@@ -9,7 +9,7 @@ sections:
         - headline: Official Selection 2019 out now
           button:
             text: view now
-            href: /official-selection
+            href: /official-selection-2019
         - headline: educational, awards, screenings & more 
           button:
             text: the festival

@@ -14,7 +14,7 @@ sections:
           origin: Italy
         - title: After Nightfall	
           origin: Australia
-        - title: ANGST	
+        - title: Angst	
           origin: Austria
         - title: Anomalie	
           origin: Germany
@@ -22,13 +22,13 @@ sections:
           origin: Germany
         - title: AWKWARDLY	
           origin: United States
-        - title: BASTARDS.
+        - title: Bastards.
           origin: Germany
         - title: Buschka discovers Germany	
           origin: Germany
         - title: Caterpillars’ Times (Season 2)
           origin: Canada
-        - title: CHINESE DREAM	
+        - title: Chinese Dream	
           origin: Germany
         - title: Crazy Possible 	
           origin: United States
@@ -46,7 +46,7 @@ sections:
           origin: United Kingdom
         - title: einfach Maria	
           origin: Germany
-        - title: FAST HEROES SIXTY (Season 2)
+        - title: Fast Heroes Sixty (Season 2)
           origin: Germany
         - title: Frank 	
           origin: United Kingdom
@@ -54,7 +54,7 @@ sections:
           origin: Germany
         - title: Future History 1968 	
           origin: Russian Federation
-        - title: GORDA
+        - title: Gorda
           origin: Argentina
         - title: Guardiões do Cerrado	
           origin: Brazil
@@ -72,7 +72,7 @@ sections:
           origin: Italy
         - title: It's forbidden to whistle
           origin: Argentina
-        - title: KLICKNAPPED	
+        - title: Klicknapped
           origin: Germany
         - title: Life in the Dead Zone
           origin: New Zealand
@@ -80,7 +80,7 @@ sections:
           origin: Argentina
         - title: Necessary Evil 	
           origin: Canada
-        - title: Noche de amor
+        - title: Noche de Amor
           origin: Argentina
         - title: Nomad 7 	
           origin: Brazil
@@ -96,9 +96,9 @@ sections:
           origin: Brazil
         - title: Similar
           origin: Argentina
-        - title: strangers in the heart of europe
+        - title: Strangers in the Heart of Europe
           origin: Germany
-        - title: TASTE	
+        - title: Taste
           origin: United States
         - title: The Green Challenge	
           origin: Germany

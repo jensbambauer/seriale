@@ -4,7 +4,7 @@
     <h4>{{ . }}</h4>
     {{ end }}
     {{ with.intro }}
-    <p class="list-grid__intro">{{ . }}</p>
+    <p class="list-grid__intro">{{ . | safeHTML}}</p>
     {{ end }}
     <ul class="list-grid__list">
         {{ range .list}}
