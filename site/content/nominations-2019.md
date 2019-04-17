@@ -4,7 +4,7 @@ sections:
   - partial: text
     headline: Nominees 2019
     data:
-      headline: The best of the best
+      headline: best series
       paragraphs:
         - text: "All narrative series are nominated for BEST SERIES and get the chance to receive the SPECIAL JURY AWARD and the AUDIENCE AWARD. The BEST SERIES award includes prize money of 1.000€."
   - partial: list-columns
@@ -13,138 +13,108 @@ sections:
       items:
         - headline: best director
           list:
-            - title: Christian Stadach
-              origin: Anomalie
-            - origin: Caterpillars’ Times
-              title: Catherine White
+            - origin: Christian Stadach
+              title: Anomalie
+            - title: Caterpillars’ Times
+              origin: Catherine White
             - origin: Jose Pablo García Montero
               title: Dele Viaje
-            - origin: Dreaming Whilst Black
-              title: Adjani Salmon
-            - origin: It’s forbidden to whistle
-              title: Ludmila Wagnest & Maria Eva De Sanctis
-            - origin: Noche de Amor
-              title: Pedro Levati
-            - origin: Public Writer
-              title: Eric Piccoli
-            - origin: Similar
-              title: Martín Piroyansky
-            - origin: The Vault
-              title: Sara Martins
+            - title: Dreaming Whilst Black
+              origin: Adjani Salmon
+            - title: It’s forbidden to whistle
+              origin: Ludmila Wagnest & Maria Eva De Sanctis
+            - title: Noche de Amor
+              origin: Pedro Levati
+            - title: Public Writer
+              origin: Eric Piccoli
+            - title: Similar
+              origin: Martín Piroyansky
+            - title: The Vault
+              origin: Sara Martins
 
         - headline: best screenplay
           list:
-            - origin: Anomalie
-              title: Christian Stadach, Stephan Zimmermann
-            - origin: Dele Viaje
-              title: Jose Pablo García Montero
-            - origin: How To Know if You’re Dating a Narcissist
-              title: Kristy Best
-            - origin: In Bed
-              title: Shota Gamisonia
-            - origin: In the Land of the Wolves
-              title: Oliver Mend
-            - origin: Indictus
-              title: Marianna Lo Pizzo
-            - origin: Noche de Amor
-              title: Agustina Levati, Pedro Levati
-            - origin: Public Writer
-              title: Eric Piccoli, Michel Duchesne
-            - origin: Similar
-              title: Martín Piroyansky
+            - title: Anomalie
+              origin: Christian Stadach, Stephan Zimmermann
+            - title: Dele Viaje
+              origin: Jose Pablo García Montero
+            - title: How To Know if You’re Dating a Narcissist
+              origin: Kristy Best
+            - title: In Bed
+              origin: Shota Gamisonia
+            - title: In the Land of the Wolves
+              origin: Oliver Mend
+            - title: Indictus
+              origin: Marianna Lo Pizzo
+            - title: Noche de Amor
+              origin: Agustina Levati, Pedro Levati
+            - title: Public Writer
+              origin: Eric Piccoli, Michel Duchesne
+            - title: Similar
+              origin: Martín Piroyansky
 
         - headline: best cinematography
           list:
-            - origin: A-Live
-              title: Nicolò Cappello
-            - origin: Angst
-              title: Sami Ancieta
-            - origin: Anomalie
-              title: Marco Eisenbarth
-            - origin: Die on the wheel’s
-              title: Ignacio Flores
-            - origin: Dorien
-              title: Luis Ángel Pérez
-            - origin: Indictus
-              title: Francesco Dinolfo
-            - origin: M
-              title: Luciano Badaracco
-            - origin: Nomad 7
-              title: Flavio Langoni, Gustavo Felman
-            - origin: The strategy of water
-              title: Mauro Boscarato
+            - title: A-Live
+              origin: Nicolò Cappello
+            - title: Angst
+              origin: Sami Ancieta
+            - title: Anomalie
+              origin: Marco Eisenbarth
+            - title: Die on the wheel’s
+              origin: Ignacio Flores
+            - title: Dorien
+              origin: Luis Ángel Pérez
+            - title: Indictus
+              origin: Francesco Dinolfo
+            - title: M
+              origin: Luciano Badaracco
+            - title: Nomad 7
+              origin: Flavio Langoni, Gustavo Felman
+            - title: The strategy of water
+              origin: Mauro Boscarato
 
         - headline: best actress
           list:
-            - origin: Caterpillars’ Times
-              title: Karelle Tremblay
-            - origin: Dorien
-              title: Carolina Bang
-            - origin: einfach Maria
-              title: Maria Kempken
-            - origin: Gorda
-              title: Karina Hernández
-            - origin: In the Land of the Wolves
-              title: Rose of Dolls
-            - origin: Klicknapped
-              title: Merle Collet
-            - origin: Noche de Amor
-              title: Mirta Busnelli
-            - origin: Rebecca
-              title: Mariana Lewis
-            - origin: The Green Challenge
-              title: Annette Krossa
+            - title: Caterpillars’ Times
+              origin: Karelle Tremblay
+            - title: Dorien
+              origin: Carolina Bang
+            - title: einfach Maria
+              origin: Maria Kempken
+            - title: Gorda
+              origin: Karina Hernández
+            - title: In the Land of the Wolves
+              origin: Rose of Dolls
+            - title: Klicknapped
+              origin: Merle Collet
+            - title: Noche de Amor
+              origin: Mirta Busnelli
+            - title: Rebecca
+              origin: Mariana Lewis
+            - title: The Green Challenge
+              origin: Annette Krossa
 
         - headline: best actor
           list:
-            - origin: Dorien
-              title: Dani Muriel
-            - origin: Dreaming Whilst Black
-              title: Adjani Salmon
-            - origin: Frank
-              title: Robert Harrison
-            - origin: Life in the Dead Zone
-              title: Des Morgan
-            - origin: Public Writer
-              title: Emmanuel Schwartz
-            - origin: Real
-              title: Juan Grandinetti
-            - origin: The Green Challenge
-              title: Helge van Hofe
-            - origin: The strategy of water
-              title: Davide Strava
-            - origin: Similar
-              title: Martín Piroyansky
-
-        - headline: best supporting actress
-          list:
-            - origin: Anomalie
-              title: Anna-Marlene Wirtz
-            - origin: Caterpillars’ Times
-              title: Louise Bombardier
-            - origin: Dorien
-              title: Marcarena Gómez
-            - origin: einfach Maria
-              title: Anastasija Bräuniger
-            - origin: In the Land of the Wolves
-              title: Ane Lindane
-            - origin: Public Writer
-              title: Sandrine Bisson
-
-        - headline: best supporting actor
-          list:
-            - origin: Anomalie
-              title: Thomas Bartling
-            - origin: A Day Dream
-              title: Gi Woo Lee
-            - origin: Dorien
-              title: Jimmy Shaw
-            - origin: In the Land of the Wolves
-              title: Oliver Mend
-            - origin: Life in the Dead Zone
-              title: Gabriel Page
-            - origin: Noche de Amor
-              title: Gastón Armagno
+            - title: Dorien
+              origin: Dani Muriel
+            - title: Dreaming Whilst Black
+              origin: Adjani Salmon
+            - title: Frank
+              origin: Robert Harrison
+            - title: Life in the Dead Zone
+              origin: Des Morgan
+            - title: Public Writer
+              origin: Emmanuel Schwartz
+            - title: Real
+              origin: Juan Grandinetti
+            - title: The Green Challenge
+              origin: Helge van Hofe
+            - title: The strategy of water
+              origin: Davide Strava
+            - title: Similar
+              origin: Martín Piroyansky
 
         - headline: best ensemble cast
           list:
@@ -158,40 +128,71 @@ sections:
             - title: Queer Amsterdam
             - title: Theater People
 
+        - headline: best supporting actress
+          list:
+            - title: Anomalie
+              origin: Anna-Marlene Wirtz
+            - title: Caterpillars’ Times
+              origin: Louise Bombardier
+            - title: Dorien
+              origin: Marcarena Gómez
+            - title: einfach Maria
+              origin: Anastasija Bräuniger
+            - title: In the Land of the Wolves
+              origin: Ane Lindane
+            - title: Public Writer
+              origin: Sandrine Bisson
+
+        - headline: best supporting actor
+          list:
+            - title: Anomalie
+              origin: Thomas Bartling
+            - title: A Day Dream
+              origin: Gi Woo Lee
+            - title: Dorien
+              origin: Jimmy Shaw
+            - title: In the Land of the Wolves
+              origin: Oliver Mend
+            - title: Life in the Dead Zone
+              origin: Gabriel Page
+            - title: Noche de Amor
+              origin: Gastón Armagno
+
+
 
         - headline: best editing
           list:
-            - origin: 555m
-              title:
-            - origin: A-Live
-              title: Riccardo Cannella
-            - origin: Anomalie
-              title: Marco Eisenbarth, Christian Stadach
-            - origin: Die on the wheel’s
-              title: Alex Ortíz, Ignacio Tapia, Benjamín Pavez
-            - origin: In the Land of the Wolves
-              title: Damian Karras, Oliver Mend
-            - origin: Klicknapped
-              title: Andreas Massopust
-            - origin: Public Writer
-              title: Eric Piccoli, Charles Grenier
-            - origin: Vitto Wai
-              title: Fran García
+            - title: 555m
+              origin:
+            - title: A-Live
+              origin: Riccardo Cannella
+            - title: Anomalie
+              origin: Marco Eisenbarth, Christian Stadach
+            - title: Die on the wheel’s
+              origin: Alex Ortíz, Ignacio Tapia, Benjamín Pavez
+            - title: In the Land of the Wolves
+              origin: Damian Karras, Oliver Mend
+            - title: Klicknapped
+              origin: Andreas Massopust
+            - title: Public Writer
+              origin: Eric Piccoli, Charles Grenier
+            - title: Vitto Wai
+              origin: Fran García
 
         - headline: best original score
           list:
-            - origin: Angst
-              title: Mariusz Orchel + Spectral Project
-            - origin: Anomalie
-              title: Thomas Meudt, Stephan Zimmermann
-            - origin: Dele Viaje
-              title: Patiño
-            - origin: Dorien
-              title:  Iván Cester, Javier Bayón
-            - origin: Frank
-              title: Jim Lang
-            - origin: M
-              title: Yosef Munro
+            - title: Angst
+              origin: Mariusz Orchel + Spectral Project
+            - title: Anomalie
+              origin: Thomas Meudt, Stephan Zimmermann
+            - title: Dele Viaje
+              origin: Patiño
+            - title: Dorien
+              origin:  Iván Cester, Javier Bayón
+            - title: Frank
+              origin: Jim Lang
+            - title: M
+              origin: Yosef Munro
 
         - headline: best sound design
           list:
@@ -228,6 +229,7 @@ sections:
             - title: The strategy of water
             - title: Wrong Kind of Black
   - partial: text
+    smallmargin: true
     data:
       paragraphs:
         - text: "The following categories get the chance to receive the AUDIENCE AWARD."
@@ -253,7 +255,7 @@ sections:
             - title: Strangers in the Heart of Europe
             - title: Taste
             - title: VideoHunterS
-        - headline: best pilo
+        - headline: best pilot
           list:
             - title: Flight69
             - title: Hinterher

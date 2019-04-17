@@ -6,6 +6,10 @@ sections:
     data:
       videosource: videos/home-loop.mp4
       slides:
+        - headline: Nominees 2019 out now
+          button:
+            text: view now
+            href: /nominations-2019
         - headline: Official Selection 2019 out now
           button:
             text: view now
