@@ -11,9 +11,12 @@ import Masonry from "masonry-layout";
 
 const masonryGrid = function() {
 
-  const msnry = new Masonry('[data-role="masonry"]', {
-    itemSelector: ".list-columns__item",
-    columnWidth: ".list-columns__item"
+  $('[data-role="masonry"]').each((index, el) => {
+    console.log(el);
+    const msnry = new Masonry(el, {
+      itemSelector: ".list-columns__item",
+      columnWidth: ".list-columns__item"
+    });
   });
 };
 
