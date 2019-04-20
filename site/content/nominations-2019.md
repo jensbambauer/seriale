@@ -110,7 +110,7 @@ sections:
             - title: Real
               origin: Juan Grandinetti
             - title: The Green Challenge
-              origin: Helge van Hofe
+              origin: Helge van Hove
             - title: The strategy of water
               origin: Davide Strava
             - title: Similar
@@ -118,7 +118,6 @@ sections:
 
         - headline: best ensemble cast
           list:
-            - title: A Day Dream
             - title: After Nightfall
             - title: Awkwardly
             - title: Dark Area
@@ -147,8 +146,6 @@ sections:
           list:
             - title: Anomalie
               origin: Thomas Bartling
-            - title: A Day Dream
-              origin: Gi Woo Lee
             - title: Dorien
               origin: Jimmy Shaw
             - title: In the Land of the Wolves
@@ -157,6 +154,8 @@ sections:
               origin: Gabriel Page
             - title: Noche de Amor
               origin: Gastón Armagno
+            - title: The strategy of water
+              origin: Giancarlo Previati
 
 
 

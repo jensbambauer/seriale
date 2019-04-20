@@ -20,7 +20,7 @@ sections:
     data:
       image: /img/pitch-contest.jpg
       headline: "Pitch Your Project"
-      text: 'Be one of 15 pre-selected projects to be presented to an expert industry jury and take your chance to be seen, heard and taken to the next level. We encourage you to include thoughts on sustainability beyond a first season.'
+      text: 'For the third time at die Seriale, your series pitch will be given the opportunity to be seen, heard and taken to the next level. Be one of 15 pre-selected projects to be presented to a regional and international expert industry jury. All you need is an innovative idea for a full series season targeted for an international audience. Make sure it demonstrates your unique voice as a series creator!<br>We accept project pitches in all stages, whether you only have the series mapped out, already filmed a trailer or pilot episode or are further along in the process, be sure to grab this chance to get support for your next steps.<br><br><a href="https://filmfreeway.com/dieSeriale" target="_blank" class="button button--external">Submit via FilmFreeway</a>'
   - partial: text-and-image
     headline: BUSINESS DAYS
     data:
