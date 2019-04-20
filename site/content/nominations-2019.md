@@ -116,31 +116,6 @@ sections:
             - title: Similar
               origin: Martín Piroyansky
 
-        - headline: best ensemble cast
-          list:
-            - title: After Nightfall
-            - title: Awkwardly
-            - title: Dark Area
-            - title: Freelancers
-            - title: Noche de Amor
-            - title: Other People’s Children
-            - title: Queer Amsterdam
-            - title: Theater People
-
-        - headline: best supporting actress
-          list:
-            - title: Anomalie
-              origin: Anna-Marlene Wirtz
-            - title: Caterpillars’ Times
-              origin: Louise Bombardier
-            - title: Dorien
-              origin: Marcarena Gómez
-            - title: einfach Maria
-              origin: Anastasija Bräuniger
-            - title: In the Land of the Wolves
-              origin: Ane Lindane
-            - title: Public Writer
-              origin: Sandrine Bisson
 
         - headline: best supporting actor
           list:
@@ -156,9 +131,47 @@ sections:
               origin: Gastón Armagno
             - title: The strategy of water
               origin: Giancarlo Previati
+        - headline: best supporting actress
+          list:
+            - title: Anomalie
+              origin: Anna-Marlene Wirtz
+            - title: Caterpillars’ Times
+              origin: Louise Bombardier
+            - title: Dorien
+              origin: Marcarena Gómez
+            - title: einfach Maria
+              origin: Anastasija Bräuniger
+            - title: In the Land of the Wolves
+              origin: Ane Lindane
+            - title: Public Writer
+              origin: Sandrine Bisson
 
 
+        - headline: best original score
+          list:
+            - title: Angst
+              origin: Mariusz Orchel + Spectral Project
+            - title: Anomalie
+              origin: Thomas Meudt, Stephan Zimmermann
+            - title: Dele Viaje
+              origin: Patiño
+            - title: Dorien
+              origin:  Iván Cester, Javier Bayón
+            - title: Frank
+              origin: Jim Lang
+            - title: M
+              origin: Yosef Munro
 
+        - headline: best ensemble cast
+          list:
+            - title: After Nightfall
+            - title: Awkwardly
+            - title: Dark Area
+            - title: Freelancers
+            - title: Noche de Amor
+            - title: Other People’s Children
+            - title: Queer Amsterdam
+            - title: Theater People
         - headline: best editing
           list:
             - title: 555m
@@ -177,22 +190,6 @@ sections:
               origin: Eric Piccoli, Charles Grenier
             - title: Vitto Wai
               origin: Fran García
-
-        - headline: best original score
-          list:
-            - title: Angst
-              origin: Mariusz Orchel + Spectral Project
-            - title: Anomalie
-              origin: Thomas Meudt, Stephan Zimmermann
-            - title: Dele Viaje
-              origin: Patiño
-            - title: Dorien
-              origin:  Iván Cester, Javier Bayón
-            - title: Frank
-              origin: Jim Lang
-            - title: M
-              origin: Yosef Munro
-
         - headline: best sound design
           list:
             - title: Angst
