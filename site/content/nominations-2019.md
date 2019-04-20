@@ -116,6 +116,29 @@ sections:
             - title: Similar
               origin: Martín Piroyansky
 
+        - headline: best original score
+          list:
+            - title: Angst
+              origin: Mariusz Orchel + Spectral Project
+            - title: Anomalie
+              origin: Thomas Meudt, Stephan Zimmermann
+            - title: Dele Viaje
+              origin: Patiño
+            - title: Dorien
+              origin:  Iván Cester, Javier Bayón
+            - title: Frank
+              origin: Jim Lang
+            - title: M
+              origin: Yosef Munro
+        - headline: best sound design
+          list:
+            - title: Angst
+            - title: Demon X
+            - title: Indictus
+            - title: It’s forbidden to whistle
+            - title: Real
+            - title: The Vault
+
 
         - headline: best supporting actor
           list:
@@ -147,20 +170,6 @@ sections:
               origin: Sandrine Bisson
 
 
-        - headline: best original score
-          list:
-            - title: Angst
-              origin: Mariusz Orchel + Spectral Project
-            - title: Anomalie
-              origin: Thomas Meudt, Stephan Zimmermann
-            - title: Dele Viaje
-              origin: Patiño
-            - title: Dorien
-              origin:  Iván Cester, Javier Bayón
-            - title: Frank
-              origin: Jim Lang
-            - title: M
-              origin: Yosef Munro
 
         - headline: best ensemble cast
           list:
@@ -190,14 +199,6 @@ sections:
               origin: Eric Piccoli, Charles Grenier
             - title: Vitto Wai
               origin: Fran García
-        - headline: best sound design
-          list:
-            - title: Angst
-            - title: Demon X
-            - title: Indictus
-            - title: It’s forbidden to whistle
-            - title: Real
-            - title: The Vault
 
         - headline: best visual effects
           list:
