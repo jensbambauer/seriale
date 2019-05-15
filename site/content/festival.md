@@ -106,7 +106,7 @@ sections:
         - image: /img/partners/sicilly.png
         - image: /img/partners/dc-webfest.png
         - image: /img/partners/Miami_Web_Fest.svg
-        - image: /img/partners/Minnesota_Webfest.png
+        - image: /img/partners/mn-webfest.png
         - image: /img/partners/Roma_Web_Fest.png
         - image: /img/partners/Realist-Webfest.jpg
         - image: /img/partners/New-Zealand-Webfest.png

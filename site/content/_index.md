@@ -6,6 +6,10 @@ sections:
     data:
       videosource: videos/home-loop.mp4
       slides:
+        - headline: tickets available now
+          button:
+            text: buy here
+            href: https://www.kinopolis.de/gi/filmdetail/die-seriale-2019/A6064000012PLXMQDD
         - headline: nominations 2019 out now
           button:
             text: view now
@@ -14,14 +18,6 @@ sections:
           button:
             text: view now
             href: /official-selection-2019
-        - headline: educational, awards, screenings & more 
-          button:
-            text: the festival
-            href: /festival
-        - headline: pitch contest, networking & more
-          button:
-            text: seriale pro
-            href: /seriale-pro
   - partial: time-table
     headline: schedule
     data:
@@ -125,16 +121,16 @@ sections:
       headline: be part of it
       intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
       tabs:
+        - title: get tickets
+          partial: tab-text
+          data:
+            headline: get your tickets
+            text: "<p>Ticket: 8,- € | Reduced Price: 7,- €<br>Opening Ceremony and world premiere <strong>Anomalie</strong>: 6,- € | Reduced Price: 5,- €<br>Festival Pass: 43,- €</p><p>The Festival Pass includes tickets to all 7 movie theater screenings and is sold directly at the Kinocenter.</p><a class=\"button\" href=\"\">buy opening ceremony tickets</a><br><br><a class=\"button\" href=\"\">buy tickets</a>"
         - title: subscribe
           partial: tab-newsletter
           data:
             headline: follow us on social media
             text: "or join our newsletter to get updates:"
-        - title: get tickets
-          partial: tab-text
-          data:
-            headline: get your tickets
-            text: "<p>Ticket: 8,- € | Reduced Price: 7,- €<br>Festival Pass: 43,- €</p><p>The Festival Pass includes tickets to all 7 movie theater screenings. Presales will start in April.</p>"
         - title: submit series
           partial: tab-text
           data:

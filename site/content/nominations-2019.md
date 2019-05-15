@@ -20,7 +20,7 @@ sections:
             - origin: Jose Pablo García Montero
               title: Dele Viaje
             - title: Dreaming Whilst Black
-              origin: Adjani Salmon
+              origin: Adjani Salmon, Laura Seixas
             - title: It’s forbidden to whistle
               origin: Ludmila Wagnest & Maria Eva De Sanctis
             - title: Noche de Amor
@@ -184,7 +184,7 @@ sections:
         - headline: best editing
           list:
             - title: 555m
-              origin:
+              origin: Yoo JooHyun
             - title: A-Live
               origin: Riccardo Cannella
             - title: Anomalie

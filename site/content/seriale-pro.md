@@ -47,10 +47,14 @@ sections:
     headline: our sponsors
     data:
       items:
-        - image: /img/partners/Hessisches_Ministerium_fuer_Wirtschaft.png
+        - image: /img/partners/Hessisches-Ministerium-für-Wirtschaft-Energie-Verkehr-und-Wohnen.png
         - image: /img/partners/Kultur_und_Kreativwirtschaft_Hessen.svg
         - image: /img/partners/giessen.png
+        - image: /img/partners/Kreativ-sphaeren.jpg
         - image: /img/partners/Seeka_TV.png
+        - image: /img/partners/Bilbao-Seriesland1.png
+        - image: /img/partners/FlixxoBlack.png
+        - image: /img/partners/snepic_logo_type.png
         - image: /img/partners/videmic.png
         - image: /img/partners/World_Wide_Webserie.png
         - image: /img/partners/lichtacker.png
