@@ -1,5 +1,5 @@
 {{ with .data}}
-<div class="teaser-grid">
+<div class="teaser-grid {{if .col4}}teaser-grid--col-4{{ end }}">
     <ul class="teaser-grid__list">
         {{ range where $.Page.Site.Pages "Section" .list }}
         <li class="teaser-grid__list__item">
@@ -17,7 +17,9 @@
             </div>
             <h4>{{ .title }}</h4>
             <p>{{ .shortdescription }}</p>
-            <a href="{{ .button.href }}" class="button button--external">{{ .button.text }}</a>
+            {{if .button}}
+                <a href="{{ .button.href }}" class="button button--external">{{ .button.text }}</a>
+            {{end}}
         </li>
         {{ end }}
     </ul>

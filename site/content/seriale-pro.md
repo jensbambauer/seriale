@@ -7,6 +7,9 @@ sections:
       videosource: /videos/seriale-pro-loop.mp4
       slides:
         - headline: seriale pro
+          button:
+            text: register now
+            href: https://docs.google.com/forms/d/e/1FAIpQLSc7y1EqPFuifR7LwvJ5DflMtsmpj952bQN5AaUEhKFAFNTAPw/viewform
   - partial: text
     data:
       headline: About

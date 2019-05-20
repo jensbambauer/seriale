@@ -125,7 +125,7 @@ sections:
           partial: tab-text
           data:
             headline: get your tickets
-            text: "<p>Ticket: 8,- € | Reduced Price: 7,- €<br>Opening Ceremony and world premiere <strong>Anomalie</strong>: 6,- € | Reduced Price: 5,- €<br>Festival Pass: 43,- €</p><p>The Festival Pass includes tickets to all 7 movie theater screenings and is sold directly at the Kinocenter.</p><a class=\"button\" href=\"\">buy opening ceremony tickets</a><br><br><a class=\"button\" href=\"\">buy tickets</a>"
+            text: "<p>Ticket: 8,- € | Reduced Price: 7,- €<br>Opening Ceremony and world premiere <strong>Anomalie</strong>: 6,- € | Reduced Price: 5,- €<br>Festival Pass: 43,- €</p><p>The Festival Pass includes tickets to all 7 movie theater screenings and is sold directly at the Kinocenter.</p><a class=\"button\" href=\"https://www.kinopolis.de/gi/filmdetail/die-seriale-2019-eroeffnung-weltpremiere-anomalie/D6064000012PLXMQDD\">buy opening ceremony tickets</a><br><br><a class=\"button\" href=\"https://www.kinopolis.de/gi/filmdetail/die-seriale-2019/A6064000012PLXMQDD\">buy tickets</a>"
         - title: subscribe
           partial: tab-newsletter
           data:

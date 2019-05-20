@@ -20,6 +20,12 @@ languageCode = "en-us"
     url        = "/seriale-pro/"
     weight     = 3
 
+    [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
+    weight     = 4
+
 [languages]
   [languages.en]
     title = "die seriale en"
