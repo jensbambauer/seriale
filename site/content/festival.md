@@ -7,6 +7,10 @@ sections:
       videosource: /videos/festival-loop.mp4
       slides:
         - headline: The festival
+          button:
+            overlay: true
+            text: watch festival trailer
+            href: /festival-trailer
   - partial: text
     data:
       headline: About
@@ -27,6 +31,22 @@ sections:
       reversed: true
       headline: "Movie Theater Giessen"
       text: "On 4 days and in 8 screenings over 60 digital series and pilot episodes will be screened. We'll start with an open-air screening in Wetzlar with focus on Hessian series, all other 7 screenings will take place in Kinocenter Giessen. Series from 18 countries offer a versatile program. Numerous series creators will be present and give insights into the production of their series."
+  # - partial: teaser-grid
+  #   headline: jury series
+  #   data:
+  #     list: jury-series
+  # - partial: teaser-grid
+  #   headline: jury documentary
+  #   data:
+  #     list: jury-documentary
+  # - partial: teaser-grid
+  #   headline: jury animation
+  #   data:
+  #     list: jury-animation
+  # - partial: teaser-grid
+  #   headline: jury pilots
+  #   data:
+  #     list: jury-pilots
   - partial: slider
     data:
       slides:
@@ -44,6 +64,12 @@ sections:
         - image: /img/screenings/180608_MG_6458.jpg
   - partial: text-and-image
     headline: the venues
+    data:
+      reversed: true
+      image: /img/rathaus.jpg
+      headline: "Red Carpet & Award Ceremony"
+      text: 'The Red Carpet & the Award Ceremony will take place at Townhall Giessen on Sunday.<br><br> Rathaus Giessen / Townhall Giessen<br> Berliner Platz 1<br> 35390 Giessen'
+  - partial: text-and-image
     data:
       image: /img/Kinocenter-Giessen-03.jpg
       headline: "Screenings: Kinocenter Giessen"
@@ -77,6 +103,7 @@ sections:
         - image: /img/partners/HessenFilm.png
         - image: /img/partners/giessen.png
         - image: /img/partners/Wetzlar.png
+        - image: /img/partners/sparkasse.png
         - image: /img/partners/kinocenter.png
         - image: /img/partners/heyligenstaedt.png
         - image: /img/partners/Goethe-Institut.png
@@ -102,11 +129,11 @@ sections:
         - image: /img/partners/Seriesland.png
         - image: /img/partners/BAWF-logo.png
         - image: /img/partners/Seoul_Webfest.png
-        - image: /img/partners/vancouver.png
         - image: /img/partners/sicilly.png
         - image: /img/partners/dc-webfest.png
-        - image: /img/partners/Miami_Web_Fest.svg
         - image: /img/partners/mn-webfest.png
+        - image: /img/partners/Miami_Web_Fest.svg
+        - image: /img/partners/vancouver.png
         - image: /img/partners/Roma_Web_Fest.png
         - image: /img/partners/Realist-Webfest.jpg
         - image: /img/partners/New-Zealand-Webfest.png
@@ -116,11 +143,11 @@ sections:
         - image: /img/partners/TorinoShortFilmMarketVol3-07.png
         - image: /img/partners/webfest-berlin.png
         - image: /img/partners/seriencamp.png
-        - image: /img/partners/Wendie_Webfest_Hamburg.svg
+        - image: /img/partners/stareable_logo.png
   - partial: text-plain
     headline: connect with us
     data:
-      text: "<h4>die Seriale</h4>Ostanlage 25A<br>35390 Giessen<br><br>phone   +49 641 13295 398<br>fax         +49 641 13295 433<br><br>e-mail    info@die-seriale.de"
+      text: "<h4>die Seriale</h4>Weidengasse 3<br>35390 Giessen<br><br>phone:   +49 641 13295 398<br>e-mail:    info@die-seriale.de"
   # - partial: thumb-grid
   #   headline: official selection
   #   data:

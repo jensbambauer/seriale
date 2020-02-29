@@ -8,12 +8,11 @@ sections:
         "<p>The following legal notices are required for websites by German law.</p>
           <h4>Angaben gemäß § 5 TMG:</h4>
           <p>DOBAGO FILM UG (haftungsbeschränkt)<br>
-          Troppauer Str. 18<br>
-          35396 Gießen</p>
+          Weidengasse 3<br>
+          35390 Gießen</p>
           <p>Vertreten durch:
           Csongor Dobrotka<br>
           Telefon: +49 641 13295 398<br>
-          Telefax: +49 641 13295 433<br>
           E-Mail: info@die-seriale.de  </p>
           <p>Eintragung im Handelsregister.<br>
           Registergericht: Amtsgericht Gießen<br>

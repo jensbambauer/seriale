@@ -3,6 +3,7 @@ import Swiper from "swiper";
 import newsletterForm from "./components/newsletter-form";
 import jQuery from "jquery";
 import pageTransition from "./components/page-transition";
+import overlay from "./components/overlay";
 import stickyHeader from "./components/sticky-header";
 import stage from "./components/stage";
 import masonryGrid from "./components/masonry";
@@ -49,6 +50,7 @@ function init() {
   newsletterForm();
   stage();
   masonryGrid();
+  overlay();
 }
 
 init();
@@ -59,3 +61,4 @@ if (location.href.indexOf("seriale-pro") > -1) {
 
 stickyHeader(scrollbar);
 pageTransition(init, scrollbar);
+

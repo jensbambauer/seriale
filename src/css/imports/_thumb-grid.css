@@ -11,13 +11,43 @@
       margin: 12px 0 0 12px;
       overflow: hidden;
       width: calc(25% - 12px);
+      background: black;
+
+      @media(--medium-viewport) {
+        width: calc(33% - 12px);
+      }
+      @media(--small-viewport) {
+        width: calc(50% - 12px);
+      }
 
       img {
         display: block;
+        width: 100%;
+        transition: all 0.3s;
+        transform: scale(1.2);
       }
 
       span {
+        transition: all 0.3s;
         position: absolute;
+        bottom: 0;
+        left: 10px;
+        color: white;
+        font-size: 20px;
+        font-family: "Roboto Slab";
+        font-weight: 700;
+        transform: translateY(100%);
+      }
+
+      &:hover {
+        img {
+          transform: scale(1);
+          opacity: 0.6;
+        }
+
+        span {
+          transform: translateY(-20px);
+        }
       }
     }
   }

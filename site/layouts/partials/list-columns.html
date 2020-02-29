@@ -1,7 +1,7 @@
 {{ with .data}}
 <div class="list-columns" data-role="masonry">
     {{ range .items }}
-        <div class="list-columns__item">
+        <div class="list-columns__item ">
             {{ with.headline }}
             <h4>{{ . }}</h4>
             {{ end }}
@@ -10,7 +10,7 @@
             {{ end }}
             <ul class="list-columns__list">
                 {{ range .list}}
-                <li class="list-grid__list__item">
+                <li class="list-grid__list__item {{ with.highlight }} list-columns__item--highlight{{end}}">
                     <span>{{ .title }}</span>
                     <em>{{ .origin }}</em>
                 </li>

@@ -7,9 +7,6 @@ sections:
       videosource: /videos/seriale-pro-loop.mp4
       slides:
         - headline: seriale pro
-          button:
-            text: register now
-            href: https://docs.google.com/forms/d/e/1FAIpQLSc7y1EqPFuifR7LwvJ5DflMtsmpj952bQN5AaUEhKFAFNTAPw/viewform
   - partial: text
     data:
       headline: About
@@ -23,13 +20,17 @@ sections:
     data:
       image: /img/pitch-contest.jpg
       headline: "Pitch Your Project"
-      text: 'For the third time at die Seriale, your series pitch will be given the opportunity to be seen, heard and taken to the next level. Be one of 15 pre-selected projects to be presented to a regional and international expert industry jury. All you need is an innovative idea for a full series season targeted for an international audience. Make sure it demonstrates your unique voice as a series creator!<br>We accept project pitches in all stages, whether you only have the series mapped out, already filmed a trailer or pilot episode or are further along in the process, be sure to grab this chance to get support for your next steps.<br><br><a href="https://filmfreeway.com/dieSeriale" target="_blank" class="button button--external">Submit via FilmFreeway</a>'
+      text: 'In cooperation with FLIXXO & flixxo Creative Lab<br><br>15 Pre-selected finalists will get 3 minutes to pitch their show concept live to an international panel of industry judges.<br><br> The winner of the pitch contest will receive €1,000 in funding for their project. Furthermore the winner is eligible to join the Flixxo Creative Lab, supporting the project with script consultations by experienced Flixxo screenwriters and producers. Plus Flixxo offers assistance throughout the making of the show and ultimately with distribution, taking advantage of their strong network. Many thanks to our Pitch Competition sponsor Flixxo!'
+  # - partial: teaser-grid
+  #   headline: jury pitch contest
+  #   data:
+  #     list: jury-pitch-contest
   - partial: text-and-image
     headline: BUSINESS DAYS
     data:
       reversed: true
       image: /img/business-days.jpg
-      headline: "The 3rd Business Day expanded"
+      headline: "4th Edition"
       text: 'The two Business Days offer a large conference and networking program for the creative industry. Established international experts will present exclusive insights on the mechanisms of the global digital series market and talk about the latest developments and trends. Various possibilities for distribution, co-production and branded content will be presented and discussed in panels. Brand new project ideas will be presented and above all, this event invites to network and make new connections.'
   - partial: text-and-image
     headline: DIMA GIESSEN
@@ -38,11 +39,19 @@ sections:
       headline: "Germany's first Market for Digital Series"
       text: 'The Digital Market Giessen (“DIMA Giessen”) combines a physical market especially for short form digital series  a networking platform for international producers, distributors, sales agents, broadcasters and funding representatives.<br> This year, six series will qualify additionally for “DIMA CoPro Series” - a unique platform for digital series producers who are looking for co-production opportunities. These projects will be highlighted during Seriale Pro to get that extra visibility.<br>DIMA is a collaboration  with "Bilbao Seriesland". '
   - partial: text-and-image
+    headline: die Seriale in the videmic app
+    data:
+      image: /img/videmic-teaser.jpg
+      reversed: true
+      headline: 'Videmic App'
+      text: "The Seriale presents the programme in three channels in the free videmic App for the festival audience and accredited visitors.<br>The channel “die Seriale” in the videmic app offers information about the festival programme and the venues as well as trailers of the web series shown in the screenings for download and offline watching everywhere. A favorites list allows you to plan your visit of the festival. By linking to the festival's online ticket shop, videmic allows you to conveniently purchase tickets for the screenings at any time.<br><br>The free videmic app is bilingual: English and German. videmic is available in the AppStore and in Google Play.<br><br><a target=\"_blank\" class=\"button button--external\" href=\"https://videmic.de/app\">Get the Videmic App</a>"
+  - partial: text-and-image
     headline: the venue
+    reversed: true
     data:
       image: /img/Schlachthof.jpg
       reversed: true
-      headline: 'Schlachthof Giessen'
+      headline: 'Schlachthof | Who killed the Pig'
       text: 'The Seriale Pro with the Business Days and the DIMA Giessen - Digital Market, will take place here. There are many places indoors and open air for networking, panel discussions, the pitching contest, workshops and for celebration.
         <br><br>Schlachthofstraße 2
         <br>35398 Giessen'
@@ -58,14 +67,17 @@ sections:
         - image: /img/partners/Bilbao-Seriesland1.png
         - image: /img/partners/FlixxoBlack.png
         - image: /img/partners/snepic_logo_type.png
+        - image: /img/partners/fmws.png
         - image: /img/partners/videmic.png
         - image: /img/partners/World_Wide_Webserie.png
         - image: /img/partners/lichtacker.png
         - image: /img/partners/dobago.png
+        - image: /img/partners/un3-logo.png
+        - image: /img/partners/digitales-hessen.png
   - partial: text-plain
     headline: connect with us
     data:
-      text: "<h4>die Seriale</h4>Ostanlage 25A<br>35390 Giessen<br><br>phone   +49 641 13295 398<br>fax         +49 641 13295 433<br><br>e-mail    info@die-seriale.de"
+      text: "<h4>die Seriale</h4>Weidengasse 3<br>35390 Giessen<br><br>phone:   +49 641 13295 398<br>e-mail:    info@die-seriale.de"
   # - partial: thumb-grid
   #   headline: official selection
   #   data:

@@ -27,6 +27,25 @@
     width: 33%;
     padding-left: 12px;
 
+    &--highlight {
+      border: 3px solid var(--mainColor);
+      overflow: visible;
+      margin-top: 30px !important;
+
+      &:before {
+        content: "winner";
+        position: absolute;
+        left: -3px;
+        bottom: 100%;
+        background: var(--mainColor);
+        padding: 4px 6px;
+        color: white;
+        font-size: 14px;
+        text-transform: uppercase;
+        font-weight: bold;
+      }
+    }
+
     @media(--medium-viewport) {
       width: 50%;
     }
@@ -55,5 +74,6 @@
     margin-left: 0;
     width: 100%;
     margin-top: 12px;
+
   }
 }

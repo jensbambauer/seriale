@@ -1,0 +1,20 @@
+{{ with.data }}
+<div class="program">
+    {{ range.items }}
+      <div class="program__item">
+        <div class="program__item__time program__item__time--{{.length}}">
+          <time datetime="{{.datetime}} {{.time}}">{{.time}}</time>
+          {{ if .type }}
+            <small>{{ .type }}</small>
+          {{ end }}
+        </div>
+        <div class="program__item__body">
+          <h4>{{.title}}</h4>
+          {{ if .details}}
+          <p>{{ .details | safeHTML }}</p>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+</div>
+{{ end }}

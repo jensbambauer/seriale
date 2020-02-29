@@ -8,6 +8,7 @@ sections:
         - text: "die Seriale - DigitalSeriesFestival Giessen is the oldest festival in Germany dedicated to present and celebrate digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work. On four festival days lectures, workshops and panel discussions will be held. All selected series will be screened in the local cinema. The most outstanding series will be awarded by an expert jury. With the Seriale Pro events we present a platform for the international digital series industry."
         - text: "die Seriale was launched by the two film makers, Dennis Albrecht (Filmstadt) and Csongor Dobrotka (Number of Silence), on June 12th, 2015 in order to offer German- speaking independent series a platform beyond the internet, as well; to highlight their innovative nature and their extraordinary quality and to connect the series creators among each other. The exchange between the filmmakers was supposed to enhance the quality of the format and to establish new perspectives in producing and publication."
   - partial: teaser-grid
+    headline: Team
     data:
       col4: true
       teasers:
@@ -17,33 +18,33 @@ sections:
         - image: /img/team/Beate-Bambauer.jpg
           title: Beate Bambauer
           shortdescription: Program Director
-        - image: /img/team/Astrid-Matron.jpg
-          title: Dr. Astrid Matron
-          shortdescription: Educational
+        - image: /img/team/Sandra-Wages.jpg
+          title: Sandra Wages
+          shortdescription: Event Manager
         - image: /img/team/Ralf-Hofacker.jpg
           title: Ralf Hofacker
           shortdescription: Media Design
         - image: /img/team/Sandra-Bertalanffy.jpg
           title: Sandra Bertalanffy 
-          shortdescription: Seriale Pro
-        - image: /img/team/Sandra-Wages.jpg
-          title: Sandra Wages
-          shortdescription: Event Manager
+          shortdescription: Seriale Pro Manager
+        - image: /img/team/Astrid-Matron.jpg
+          title: Dr. Astrid Matron
+          shortdescription: Educational
         - image: /img/team/Jan-Krankl.jpg
-          title: Jan Thomas Krankl
+          title: Jan Krankl
           shortdescription: Coordination Screenings
         - image: /img/team/Magdalena-Kaim.jpg
           title: Magdalena Kaim
           shortdescription: Coordination Award Ceremony & Host
         - image: /img/team/Gisela-Waetzoldt-Hildebrandt.jpg
-          title: Gisela Wetzoldt-Hildebrandt
+          title: Gisela Waetzoldt-Hildebrandt
           shortdescription: Coordination Seriale Pro
         - image: /img/team/Valerija-Levin.jpg
           title: Valerija Levin 
-          shortdescription: Communication & Coordination Seriale Pro
+          shortdescription: Seriale Pro Communication
         - image: /img/team/Isabella-Sophie-Pianto.jpg
           title: Isabella Sophie Pianto
-          shortdescription: Communication & Coordination Educational
+          shortdescription: Educational Communication & Coordination 
         - image: /img/team/Danielle-Doersing.jpg
           title: Danielle Dörsing
           shortdescription: Social Media
@@ -61,13 +62,13 @@ sections:
           shortdescription: Web Design
         - image: /img/team/Sabine-Holzloehner.jpg
           title: Sabine Holzlöhner
-          shortdescription: Coordination Reception
-        - image: /img/team/Mara-Sophie_Knop.jpg
-          title: Mara-Sophie Knop
-          shortdescription: Editorial Team
-        - image: /img/team/Rabia-Khan.jpg
-          title: Rabia Khan
-          shortdescription: Editorial Team
+          shortdescription: Coordination Red Carpet
+        - image: /img/team/Axel-Ricke.jpg
+          title: Axel Ricke
+          shortdescription: Host Award Ceremony
+        - image: /img/team/Henning-Ricke.jpg
+          title: Henning Ricke
+          shortdescription: Host Award Ceremony
         - image: /img/team/Martin-Otto.jpg
           title: Martin Otto
           shortdescription: Screenings Organisation
@@ -79,26 +80,23 @@ sections:
           shortdescription: Photography
         - image: /img/team/Jonathan-Barbir.jpg
           title: Jonathan Barbir
-          shortdescription: Event Documentation
+          shortdescription: Music & Event Documentation
         - image: /img/team/Micaela-Masetto.jpg
           title: Micaela Masetto
           shortdescription: Interviews
-        - image: /img/team/Axel-Ricke.jpg
-          title: Axel Ricke
-          shortdescription: Host Award Ceremony
-        - image: /img/team/Henning-Ricke.jpg
-          title: Henning Ricke
-          shortdescription: Host Award Ceremony
+        - image: /img/team/Mara-Sophie_Knop.jpg
+          title: Mara-Sophie Knop
+          shortdescription: Editorial Team
+        - image: /img/team/Rabia-Khan.jpg
+          title: Rabia Khan
+          shortdescription: Editorial Team
         - image: /img/team/Horst-Martin.jpg
           title: Horst Martin
           shortdescription: Public Relations
-        - image: /img/team/Chris-Schmidt.jpg
-          title: Chris Schmidt
-          shortdescription: Motion Graphics
   - partial: text-plain
     headline: connect with us
     data:
-      text: "<h4>die Seriale</h4>Ostanlage 25A<br>35390 Giessen<br><br>phone   +49 641 13295 398<br>fax         +49 641 13295 433<br><br>e-mail    info@die-seriale.de"
+      text: "<h4>die Seriale</h4>Weidengasse 3<br>35390 Giessen<br><br>phone:   +49 641 13295 398<br>e-mail:    info@die-seriale.de"
   # - partial: thumb-grid
   #   headline: official selection
   #   data:

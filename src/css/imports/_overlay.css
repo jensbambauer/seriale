@@ -1,0 +1,163 @@
+.overlay-container {
+  position: fixed;
+  background: rgba(0,0,0,0.8);
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: none;
+
+  &.loading {
+    text-align: center;
+
+    .overlay-content {
+      display: none;
+    }
+
+    .overlay__close {
+      display: none;
+    }
+    .overlay-content__loading {
+      display: block;
+    }
+    .overlay-content__mask {
+      display: none;
+    }
+  }
+
+  &.overlay-wide {
+    .overlay {
+    }
+    .overlay-content__inner {
+      padding: 0 20px 0 546px;
+      position: relative;
+      overflow: hidden;
+      min-height: 526px;
+
+      img {
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+    }
+
+    h2 {
+      margin-bottom: 10px !important;
+    }
+
+    @media(--medium-viewport) {
+      .overlay-content__inner {
+        max-width: 526px;
+        padding: 0px;
+        position: relative;
+        overflow: hidden;
+        min-height: 526px;
+
+        img {
+          position: static;
+          max-width: 100%;
+        }
+
+        h2,p {
+          padding: 0 20px;
+        }
+      }
+      
+    }
+  }
+
+  .overlay-content__loading {
+    display: none;
+  }
+  
+  .overlay-content__mask {
+    position: absolute;
+    background: black;
+    width: 100%;
+    height: calc(100% - 58px);
+    left: 0;
+    top: 60px;
+    transform-origin: 0 0;
+    transform: scaleY(0);
+
+    @media(--medium-viewport) {
+      top: 44px;
+      height: calc(100% - 42px);
+    }
+  }
+
+  .container {
+    max-width: 1080px;
+    overflow: auto;
+    max-height: 100%;
+    width: 100%;
+    padding: 20px;
+
+    &__content:first-child {
+      margin-top: 0;
+      padding: 0;
+    }
+  }
+
+  .overlay {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+
+    &__close {
+      align-self: flex-end;
+    }
+  }
+
+  .overlay-content {
+    transform-origin: 0 0;
+    background: #F3F3F3;
+
+    &__inner {
+      padding: 0 50px 0;
+
+      @media(--medium-viewport) {
+        padding: 0 20px 0px;
+      }
+      @media(--small-viewport) {
+      }
+    }
+
+    h2 {
+      margin-top: 30px;
+      font-size: 24px;
+      margin-bottom: 5px;
+    }
+
+    p {
+      color: #808080;
+      line-height: 1.4;
+    }
+  }
+
+  .overlay-video {
+    padding-bottom: calc(56.56% + 48px);
+    position: relative;
+    background: black;
+    margin-left: -50px;
+    width: calc(100% + 100px);
+
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    @media(--medium-viewport) {
+      margin-bottom: 20px;
+      padding-bottom: calc(56.56% + 11px);
+      width: calc(100% + 40px);
+      margin-left: -20px;
+    }
+  }
+}

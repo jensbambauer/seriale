@@ -24,6 +24,8 @@
 @import "./imports/_text-and-image.css";
 @import "./imports/_time-table.css";
 @import "./imports/_grid.css";
+@import "./imports/_program.css";
+@import "./imports/_overlay.css";
 
 body {
   font-family: Roboto;

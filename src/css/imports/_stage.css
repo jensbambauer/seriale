@@ -3,10 +3,12 @@
   color: white;
   padding-bottom: 56.25%;
   position: relative;
-  overflow: hidden;
 
   @media(--small-viewport) {
     padding-bottom: 100%;
+  }
+  @media(--medium-viewport) {
+    overflow: hidden;
   }
 
   &:before {

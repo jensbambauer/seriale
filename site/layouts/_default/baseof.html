@@ -17,6 +17,19 @@
 
     {{ partial "svg" . }}
 
+    <div class="overlay-container">
+      <div class="container">
+        <div class="container__content">
+          <div class="overlay">
+            <a href="javascript:;" class="button button--secondary overlay__close">close</a>
+            <div class="overlay-content"></div>
+            <div class="overlay-content__mask"></div>
+            <div class="overlay-content__loading"><img src="/img/loader.svg"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <script src="/app.js"></script>
   </body>
 </html>
