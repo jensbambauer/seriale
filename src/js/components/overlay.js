@@ -26,7 +26,7 @@ export default function overlay() {
       scaleY: 0,
     });
 
-    tl.to($overlay.find(".overlay-content__mask"), 0.7, {
+    tl.to($overlay.find(".overlay-content__mask"), 0.5, {
       transformOrigin: "0 0",
       scaleY: 1,
       ease: Power4.easeInOut
@@ -36,7 +36,7 @@ export default function overlay() {
       opacity: 1
     });
 
-    tl.fromTo($overlay.find(".overlay-content__mask"), 0.7, {
+    tl.fromTo($overlay.find(".overlay-content__mask"), 0.5, {
       transformOrigin: "100% 100%",
     }, {
       scaleY: 0,
