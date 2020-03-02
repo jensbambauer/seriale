@@ -55,7 +55,7 @@ export default function pageTransition(init, scrollbar) {
           if (video) {
             video.load();
             setTimeout(() => {
-              video.play();
+              // video.play();
             }, 1000);
           }
 

@@ -6,6 +6,10 @@ sections:
     data:
       videosource: videos/home-loop.mp4
       slides:
+        - headline: official selection 2020
+          button:
+            text: view now
+            href: /official-selection-2020
         - headline: award winners 2019
           button:
             text: view now
