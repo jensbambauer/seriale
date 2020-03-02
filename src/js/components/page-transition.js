@@ -43,7 +43,7 @@ export default function pageTransition(init, scrollbar) {
                 if (data.next.url.path.indexOf("seriale-pro") > -1) {
                   $(".nav").addClass("seriale-pro");
                 }
-                resolve();
+                // resolve();
               },
             }, "start");
           });
@@ -55,7 +55,7 @@ export default function pageTransition(init, scrollbar) {
           if (video) {
             video.load();
             setTimeout(() => {
-              // video.play();
+              video.play();
             }, 1000);
           }
 
@@ -74,7 +74,7 @@ export default function pageTransition(init, scrollbar) {
               transform: "scaleY(0)",
               ease,
               onComplete: () => {
-                resolve();
+                // resolve();
               },
             }, "start");
 
