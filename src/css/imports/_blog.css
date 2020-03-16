@@ -1,0 +1,49 @@
+
+.date {
+  font-family: "Roboto Slab";
+  margin-bottom: 15px;
+}
+
+.blog {
+  max-width: 850px;
+
+  img, .video {
+    margin-bottom: 15px;
+    max-width: 100%;
+  }
+
+  .video {
+    position: relative;
+    padding-bottom: 56.25%;
+
+    iframe {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  h4 {
+    text-transform: lowercase;
+    margin-bottom: 20px;
+  }
+
+  .button {
+    padding: 12px 24px;
+    font-size: 18px;
+  }
+
+  & + & {
+    margin-top: 80px;
+  }
+}
+
+.pagination {
+  display: flex;
+  margin-top: 100px;
+  max-width: 850px;
+
+  .pagination__right {
+    margin-left: auto;
+  }
+}

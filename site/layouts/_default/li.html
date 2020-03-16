@@ -1,6 +1,17 @@
-<a href="{{ .Permalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-	<p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-	<p class="mb0">{{ .Description }}</p>
-	<p class="link b dib black mb0">Read more →</p>
-</a>
+<article class="blog">
+	{{ if .Params.Image}}
+		<img src="{{ .Params.Image }}">
+	{{ end }}
+	{{ if .Params.Youtube}}
+		<div class="video">
+			<iframe width="850" height="480" src="https://www.youtube.com/embed/{{ .Params.Youtube }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	{{ end }}
+	<p class="date">{{ .Date.Format "Mon Jan 2, 2006" }}</p>
+	<h4>{{ .Title }}</h4>
+	<p class="text">{{ .Description }}</p>
+
+	<a class="button" href="{{ .Permalink }}">
+		Read more
+	</a>
+</article>

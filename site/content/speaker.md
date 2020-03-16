@@ -1,5 +1,5 @@
 ---
-title: 5th Digital Series Festival Giessen 
+title: 6th Digital Series Festival Giessen 
 sections:
   - partial: teaser-grid
     headline: speaker
