@@ -7,6 +7,7 @@ import overlay from "./components/overlay";
 import stickyHeader from "./components/sticky-header";
 import stage from "./components/stage";
 import masonryGrid from "./components/masonry";
+import lazyLoad from "./components/lazyLoad";
 
 // export for others scripts to use
 window.$ = jQuery;
@@ -51,6 +52,7 @@ function init() {
   stage();
   masonryGrid();
   overlay();
+  lazyLoad();
 }
 
 init();

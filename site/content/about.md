@@ -1,5 +1,5 @@
 ---
-title: ^th Digital Series Festival Giessen 
+title: 6th Digital Series Festival Giessen 
 sections:
   - partial: text
     headline: About

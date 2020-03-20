@@ -2,10 +2,52 @@
 .date {
   font-family: "Roboto Slab";
   margin-bottom: 15px;
+
+  &--single {
+    margin-bottom: 50px;
+    margin-top: -50px;
+
+    @media(--medium-viewport) {
+      margin-top: -30px;
+    }
+    @media(--small-viewport) {
+      margin-top: 0px;
+    }
+  }
 }
 
 .blog {
   max-width: 850px;
+
+  hr {
+    display: none;
+  }
+
+  a {
+    text-decoration: underline;
+  }
+
+  blockquote {
+    font-family: "Roboto Slab";
+    color: black;
+    font-size: 26px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+    p {
+      display: inline;
+    }
+
+    &:before {
+      content: '“';
+      display: inline-block;
+      margin-right: -5px;
+    }
+    &:after {
+      content: '”';
+      margin-left: -5px;
+    }
+  }
 
   img, .video {
     margin-bottom: 15px;
@@ -28,9 +70,24 @@
     margin-bottom: 20px;
   }
 
+  h2 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 30px;
+    color: black;
+    &:before {
+      display: none;
+    }
+  }
+
+  ul, ol {
+    margin-bottom: 24px;
+  }
+
   .button {
     padding: 12px 24px;
     font-size: 18px;
+    text-decoration: none;
   }
 
   & + & {
