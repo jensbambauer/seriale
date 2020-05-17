@@ -8,17 +8,15 @@ sections:
       list:
         - title: A Butterfly Dream
           origin: South Korea
-        - title: After	
+        - title: .After	
           origin: United States
         - title: ALT ESC
           origin: Argentina
-        - title: Anomalie	
+        - title: Anomalie (Season 1, Part 2)
           origin: Germany
-        - title: Bastards. (Season 2)	
-          origin: Germany
-        - title: Carpark Clubbing	
+        - title: Carpark Clubbing
           origin: Australia
-        - title: Collegiate Assessor	
+        - title: Collegiate Assessor
           origin: Russian Federation
         - title: Dependence	
           origin: United States
@@ -28,57 +26,47 @@ sections:
           origin: Germany
         - title: En Red / In Network
           origin: Argentina
-        - title: Fehler 78	
+        - title: Fehler 78
           origin: Argentina
-        - title: For Peanuts / Für Umme 	
-          origin: Germany
-        - title: Forest League 
+        - title: Forest League
           origin: Brazil
-        - title: Grandma Sofía	
+        - title: Grandma Sofía
           origin: Argentina
         - title: Gurko - Am Rand von Smartcity	
           origin: Germany
-        - title: Gutuberrak
-          origin: Spain
-        - title: Hammersmith 	
+        - title: Hammersmith
           origin: United States
-        - title: Haus Kummerveldt 	
+        - title: Haus Kummerveldt
           origin: Germany
-        - title: hierdrueben	
+        - title: hierdrueben
           origin: Germany
         - title: How to Buy a Baby (Season 2)
           origin: Canada
-        - title: It's Your Turn 	
+        - title: It's Your Turn
           origin: Spain
-        - title: Italia Sicilia Gela	
+        - title: Italia Sicilia Gela
           origin: Italy
         - title: "#kämpfergeist"
           origin: Germany
         - title: La Festa Triste
           origin: Italy
-        - title: Letters to my Ex	
+        - title: Letters to my Ex
           origin: Argentina
-        - title: Lost & Found Cowboy	
-          origin: Japan
-        - title: Lover of the palace
+        - title: Lover of the Palace
           origin: South Korea
-        - title: Maestra Veneno	
+        - title: Maestra Veneno
           origin: Uruguay
-        - title: Manpower Express 	
+        - title: Manpower Express
           origin: Germany
         - title: Manu
-          origin: Italy
+          origin: Brazil
         - title: Marias	
           origin: United States
         - title: Migrant Stories
           origin: Argentina
         - title: Millionaire from Balashikha
           origin: Russian Federation
-        - title: Neptunia
-          origin: Uruguay
-        - title: Noche de Estrellas
-          origin: Argentina
-        - title: Or So The Story Goes 	
+        - title: "Or So the Story Goes: Knock Knock"
           origin: United States
         - title: Otherside
           origin: Brazil
@@ -88,84 +76,80 @@ sections:
           origin: France
         - title: Preview
           origin: France
-        - title: Ratée sans avenir	
+        - title: Ratée sans avenir
           origin: France
         - title: Reset - Make your decision
           origin: Germany
-        - title: Seltsam 	
+        - title: Seltsam (Season 2)
           origin: France
         - title: Si Young's Story
           origin: South Korea
         - title: Sicilian Rhapsody
           origin: Italy
-        - title: Sydney Sleuthers
-          origin: Australia
-        - title: Silent Forest	
+        - title: Silent Forest
           origin: Germany
         - title: Singles' Diaries
           origin: Germany
-        - title: Slippers 	
+        - title: Slippers
           origin: Switzerland
         - title: Spike and Dadda
           origin: Australia
-        - title: Standby Curator 	
+        - title: Standby, Curator
           origin: South Korea
         - title: Swipe	
           origin: Netherlands
-        - title: The First Shot 	
+        - title: Sydney Sleuthers
+          origin: Australia
+        - title: The First Shot
           origin: South Korea
-        - title: The Man for your Sins (Season 2)	
+        - title: The Man for Your Sins (Season 2)
           origin: Germany
-        - title: The Runner	
+        - title: The Runner
           origin: Canada
-        - title: The Square Root	
+        - title: The Square Root
           origin: United States
-        - title: The Way to Sangju	
+        - title: The Way to Sangju
           origin: South Korea
-        - title: The Y Theory	
+        - title: The Y Theory (Season 2)
           origin: Belgium
-        - title: Throwback89	
+        - title: Throwback89
           origin: Germany
-        - title: Tony	
-          origin: Argentina
-        - title: True Demon	
+        - title: True Demon
           origin: Germany
-        - title: Utopia Planitia	
+        - title: Utopia Planitia
           origin: United States
-        - title: W.	
+        - title: W.
           origin: Luxembourg
-        - title: Walls of Disorder	
+        - title: Walls of Disorder
           origin: Canada
-        - title: What happened to Mirae	
+        - title: What happened to Mirae
           origin: South Korea
-        - title: What is emerging?	
+        - title: What is emerging?
           origin: Brazil
         - title: Whatever	
           origin: Chile
-        - title: Who Killed Lucy the Poodle?	
+        - title: Who Killed Lucy the Poodle?
           origin: New Zealand
   - partial: list-grid
     data:
       headline: pilots
       list:
-        - title: Battleground Germany	
+        - title: Battleground Germany
           origin: Germany
-        - title: Constance	
+        - title: Constance
           origin: New Zealand
-        - title: Divine419 - Hawkers Hustle 	
+        - title: Divine419 - Hawkers Hustle
           origin: Germany
-        - title: Escape	
+        - title: Escape
           origin: Germany
-        - title: Fallin' Off 	
+        - title: Fallin' Off
           origin: United States
-        - title: In Two Minds	
-          origin: Germany
         - title: L'Uomo Nuovo
           origin: Italy
-        - title: Of Wolves and Men	
+        - title: Lost & Found Cowboy
+          origin: Japan
+        - title: Of Wolves and Men
           origin: Germany
-        - title: The Boogeys 	
-          origin: United States
-        - title: Wolfgang Doe	
+        - title: Wolfgang Doe
           origin: Germany
 ---

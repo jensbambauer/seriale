@@ -1,6 +1,16 @@
 .text {
     @apply --font-style-flow;
 
+    &--background {
+        background: var(--mainColor);
+        padding: 20px;
+        color: white;
+
+        h4 {
+            color: white;
+        }
+    }
+
     &__columns {
         column-count: 2;
         column-gap: 8%;

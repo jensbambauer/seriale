@@ -15,12 +15,12 @@ sections:
         - text: "The Business Day is a huge conference and networking event, it will be held for the 3rd time as part of “die Seriale“ and is expanded to two days."
         - text: "For the first time “DIMA Giessen” will be held - Germany’s very first physical market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland“."
         - text: "Finally, 15 brand new concepts for digitals series will be presented to the industry during a pitch competition."
-  - partial: text-and-image
-    headline: DIGITAL SERIES PITCH CONTEST
-    data:
-      image: /img/pitch-contest.jpg
-      headline: "Pitch Your Project"
-      text: 'In cooperation with FLIXXO & flixxo Creative Lab<br><br>15 Pre-selected finalists will get 3 minutes to pitch their show concept live to an international panel of industry judges.<br><br> The winner of the pitch contest will receive €1,000 in funding for their project. Furthermore the winner is eligible to join the Flixxo Creative Lab, supporting the project with script consultations by experienced Flixxo screenwriters and producers. Plus Flixxo offers assistance throughout the making of the show and ultimately with distribution, taking advantage of their strong network. Many thanks to our Pitch Competition sponsor Flixxo!'
+  # - partial: text-and-image
+  #   headline: DIGITAL SERIES PITCH CONTEST
+  #   data:
+  #     image: /img/pitch-contest.jpg
+  #     headline: "Pitch Your Project"
+  #     text: 'In cooperation with FLIXXO & flixxo Creative Lab<br><br>15 Pre-selected finalists will get 3 minutes to pitch their show concept live to an international panel of industry judges.<br><br> The winner of the pitch contest will receive €1,000 in funding for their project. Furthermore the winner is eligible to join the Flixxo Creative Lab, supporting the project with script consultations by experienced Flixxo screenwriters and producers. Plus Flixxo offers assistance throughout the making of the show and ultimately with distribution, taking advantage of their strong network. Many thanks to our Pitch Competition sponsor Flixxo!'
   # - partial: teaser-grid
   #   headline: jury pitch contest
   #   data:
@@ -30,10 +30,10 @@ sections:
     data:
       reversed: true
       image: /img/business-days.jpg
-      headline: "4th Edition"
+      headline: "Digital Conference"
       text: 'The two Business Days offer a large conference and networking program for the creative industry. Established international experts will present exclusive insights on the mechanisms of the global digital series market and talk about the latest developments and trends. Various possibilities for distribution, co-production and branded content will be presented and discussed in panels. Brand new project ideas will be presented and above all, this event invites to network and make new connections.'
   - partial: text-and-image
-    headline: DIMA GIESSEN
+    headline: DIMA Digital Market
     data:
       image: /img/dima.jpg
       headline: "Germany's first Market for Digital Series"
@@ -45,16 +45,16 @@ sections:
       reversed: true
       headline: 'Videmic App'
       text: "The Seriale presents the programme in three channels in the free videmic App for the festival audience and accredited visitors.<br>The channel “die Seriale” in the videmic app offers information about the festival programme and the venues as well as trailers of the web series shown in the screenings for download and offline watching everywhere. A favorites list allows you to plan your visit of the festival. By linking to the festival's online ticket shop, videmic allows you to conveniently purchase tickets for the screenings at any time.<br><br>The free videmic app is bilingual: English and German. videmic is available in the AppStore and in Google Play.<br><br><a target=\"_blank\" class=\"button button--external\" href=\"https://videmic.de/app\">Get the Videmic App</a>"
-  - partial: text-and-image
-    headline: the venue
-    reversed: true
-    data:
-      image: /img/Schlachthof.jpg
-      reversed: true
-      headline: 'Schlachthof | Who killed the Pig'
-      text: 'The Seriale Pro with the Business Days and the DIMA Giessen - Digital Market, will take place here. There are many places indoors and open air for networking, panel discussions, the pitching contest, workshops and for celebration.
-        <br><br>Schlachthofstraße 2
-        <br>35398 Giessen'
+  # - partial: text-and-image
+  #   headline: the venue
+  #   reversed: true
+  #   data:
+  #     image: /img/Schlachthof.jpg
+  #     reversed: true
+  #     headline: 'Schlachthof | Who killed the Pig'
+  #     text: 'The Seriale Pro with the Business Days and the DIMA Giessen - Digital Market, will take place here. There are many places indoors and open air for networking, panel discussions, the pitching contest, workshops and for celebration.
+  #       <br><br>Schlachthofstraße 2
+  #       <br>35398 Giessen'
   - partial: grid
     headline: our sponsors
     data:

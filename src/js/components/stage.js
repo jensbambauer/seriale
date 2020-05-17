@@ -51,12 +51,14 @@ const stage = function() {
       const button = slide.querySelector(".button");
 
       if (slideIndex === index) {
-        tl.to(button, 0.5, {
-          y: 100,
-          opacity: 0,
-          zIndex: 1,
-          ease
-        });
+        if (button) {
+          tl.to(button, 0.5, {
+            y: 100,
+            opacity: 0,
+            zIndex: 1,
+            ease
+          });
+        }
         tl.to(headline, 0.5, {
           y: 100,
           opacity: 0,
@@ -89,15 +91,17 @@ const stage = function() {
           y: 0,
           opacity: 1
         }, slideIndex === 0 ? "start" : "-=0.4");
-        tl.fromTo(button, 0.5, {
-          y: -100,
-          opacity: 0,
-          ease
-        }, {
-          zIndex: 2,
-          y: 0,
-          opacity: 1
-        }, slideIndex === 0 ? "start" : "-=0.8");
+        if (button) {
+          tl.fromTo(button, 0.5, {
+            y: -100,
+            opacity: 0,
+            ease
+          }, {
+            zIndex: 2,
+            y: 0,
+            opacity: 1
+          }, slideIndex === 0 ? "start" : "-=0.8");
+        }
       }
     });
     tl.addLabel(`end-${index}`);

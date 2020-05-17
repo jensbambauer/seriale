@@ -4,8 +4,12 @@ sections:
   - partial: stage
     widesection: true
     data:
-      videosource: videos/home-loop.mp4
+      videosource: videos/digital-loop.mp4
       slides:
+        - headline: 6th edition will be a digital live event
+          # button:
+            # text: read blog
+            # href: /official-selection-2020
         - headline: official selection 2020
           button:
             text: view now
@@ -20,6 +24,11 @@ sections:
       headline: be part of it
       intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
       tabs:
+        - title: digital live event
+          partial: tab-text
+          data:
+            headline: die seriale 2020 takes place as a digital live event
+            text: "<ul><li>our website will be in view modus at the festival days</li><li>educational keynotes & panel discussions</li><li>seriale pro conference & dima digital market online</li><li>red carpet event with creator interviews</li><li>award ceremony online presentation</li><li>all series & pilots will be presented via the videmic app</li></ul>"
         - title: subscribe
           partial: tab-newsletter
           data:
@@ -111,36 +120,36 @@ sections:
   #           - time: 11pm - open end
   #             title: After Party
   #             location: who killed the pig
-  - partial: text
-    headline: Travel Info
-    data:
-      headline: Getting Here
-      paragraphs:
-        - text: "If you like to come here by plane, you need to book your flight to FRANKFURT AIRPORT (FRA). The city is called: Frankfurt am Main. It is the biggest airport in Germany and you can reach GIESSEN easily by train."
-        - text: "In most cases you will have the opportunity to book direct flights. We recommend these flights as they are often on same price-level as step-over-flights and quite more comfortable."
-        - text: "Preferred credit-cards in Germany are MASTER CARD and VISA - only 50% of shops and hotels accept AMERICAN EXPRESS. Please be aware that in Germany people usually pay in cash for amounts below 30€."
-  - partial: teaser-grid
-    smallmargin: true
-    data:
-      teasers:
-        - image: /img/hotel-heyligenstaedt.jpg
-          title: Hotel Heyligenstaedt
-          shortdescription: This unique Boutiquehotel is directly located at the heart of the University City Giessen and fascinates already from the outside with its historic industrial facade. Built in 1876, the hotel is among the oldest buildings of Giessen.
-          button:
-            href: http://www.restaurant-heyligenstaedt.de
-            text: visit site
-        - image: /img/hotel-ludwigsplatz.jpg
-          title: Hotel am Ludwigsplatz
-          shortdescription: Located in the center of Giessen close to the theatre, town hall, cinema, pedestrian area, the old castle and one of the oldest botanical gardens in Europe.
-          button:
-            href: http://www.hotel-am-ludwigsplatz.de
-            text: visit site
-        - image: /img/gaestehaus-wilhelma.jpg
-          title: Guest House Wilhelma
-          shortdescription: This guest house has a long tradition. Here you will find bright and friendly rooms with modern equipment. You can also find apartments and apartments with kitchens here.
-          button:
-            href: http://www.gaestehaus-wilhelma.de
-            text: visit site
+  # - partial: text
+  #   headline: Travel Info
+  #   data:
+  #     headline: Getting Here
+  #     paragraphs:
+  #       - text: "If you like to come here by plane, you need to book your flight to FRANKFURT AIRPORT (FRA). The city is called: Frankfurt am Main. It is the biggest airport in Germany and you can reach GIESSEN easily by train."
+  #       - text: "In most cases you will have the opportunity to book direct flights. We recommend these flights as they are often on same price-level as step-over-flights and quite more comfortable."
+  #       - text: "Preferred credit-cards in Germany are MASTER CARD and VISA - only 50% of shops and hotels accept AMERICAN EXPRESS. Please be aware that in Germany people usually pay in cash for amounts below 30€."
+  # - partial: teaser-grid
+  #   smallmargin: true
+  #   data:
+  #     teasers:
+  #       - image: /img/hotel-heyligenstaedt.jpg
+  #         title: Hotel Heyligenstaedt
+  #         shortdescription: This unique Boutiquehotel is directly located at the heart of the University City Giessen and fascinates already from the outside with its historic industrial facade. Built in 1876, the hotel is among the oldest buildings of Giessen.
+  #         button:
+  #           href: http://www.restaurant-heyligenstaedt.de
+  #           text: visit site
+  #       - image: /img/hotel-ludwigsplatz.jpg
+  #         title: Hotel am Ludwigsplatz
+  #         shortdescription: Located in the center of Giessen close to the theatre, town hall, cinema, pedestrian area, the old castle and one of the oldest botanical gardens in Europe.
+  #         button:
+  #           href: http://www.hotel-am-ludwigsplatz.de
+  #           text: visit site
+  #       - image: /img/gaestehaus-wilhelma.jpg
+  #         title: Guest House Wilhelma
+  #         shortdescription: This guest house has a long tradition. Here you will find bright and friendly rooms with modern equipment. You can also find apartments and apartments with kitchens here.
+  #         button:
+  #           href: http://www.gaestehaus-wilhelma.de
+  #           text: visit site
   - partial: slider
     headline: impressions
     data:

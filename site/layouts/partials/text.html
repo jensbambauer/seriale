@@ -1,5 +1,5 @@
 {{ with.data }}
-<div class="text">
+<div class="text {{ with.background }} text--background{{end}}">
   {{ with.headline }}
   <h4>{{ . }}</h4>
   {{ end }}
