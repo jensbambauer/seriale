@@ -15,15 +15,15 @@ sections:
           list:
             - origin: Christian Stadach
               title: Anomalie (S1P2)
-            - origin: Facundo Nuble, Gastón Armagno
+            - origin: '<b>Facundo Nuble,</b><b>Gastón Armagno</b>'
               title: Fehler 78
             - origin: Mark Lorei
               title: Haus Kummerveldt
-            - origin: Rose of Dolls, Oliver Mend
+            - origin: <b>Rose of Dolls,</b> Oliver Mend
               title: It’s Your Turn
             - origin: Jazmín Stuart
               title: Letters to my Ex
-            - origin: Misti Boland, Jeremy Osbern
+            - origin: <b>Misti Boland,</b> Jeremy Osbern
               title: The Square Root
             - origin: George Reese
               title: Utopia Planitia
@@ -32,7 +32,7 @@ sections:
         - headline: best screenplay
           list:
             - title: Anomalie (S1P2)
-              origin: Christian Stadach, Stephan Böhl
+              origin: <b>Christian Stadach,</b><b>Stephan Böhl</b>
             - title: En Red / In Network
               origin: Gisela Benenzon
             - title: Hammersmith
@@ -40,7 +40,7 @@ sections:
             - title: Haus Kummerveldt
               origin: Cecilia Röski
             - title: Migrant Stories
-              origin: Melisa Vega, Mariano Pozzi
+              origin: <b>Melisa Vega,</b> Mariano Pozzi
             - title: The Man for your Sins (S2)
               origin: Joachim Jung
             - title: The Way to Sangju
@@ -49,10 +49,10 @@ sections:
               origin: Frederic Zeimet
         - headline: best cinematography
           list:
-            - title: A Butterfly Dream
-              origin: 
             - title: Anomalie (S1P2) 
               origin: Marco Eisenbarth
+            - title: Butterfly Dream
+              origin:
             - title: Fehler 78
               origin: Facundo Nuble
             - title: It’s Your Turn
@@ -64,13 +64,13 @@ sections:
             - title: True Demon
               origin: Max Lais
             - title: What Happened to Mirae
-              origin: Kim Moo You
+              origin: Kim-moo You
         - headline: best editing
           list:
             - title: Hammersmith
               origin: Kyle Leland
             - title: It’s Your Turn
-              origin: Damian Karras, Oliver Mend
+              origin: <b>Damian Karras,</b> Oliver Mend
             - title: Si Young’s Story
               origin:
             - title: Sicilian Rhapsody
@@ -82,7 +82,7 @@ sections:
             - title: W.
               origin: Loic Tanson
             - title: What Happened to Mirae
-              origin: Joo Hyun Yoo
+              origin: Joo-hyun Yoo
 
         - headline: best actress
           list:
@@ -154,73 +154,111 @@ sections:
         - headline: best original score
           list:
             - title: Anomalie (S1P2)
-              origin: Stephan Böhl, Thomas Meudt
+              origin: <b>Stephan Böhl,</b> Thomas Meudt
             - title: Fehler 78
               origin: Pablo Fuu
             - title: It’s Your Turn
-              origin: Jesús Calderón, Martín Barrenho
+              origin: <b>Jesús Calderón,</b> Martín Barrenho
             - title: "Pepper: Ricochet"
               origin: Connor Dean Johnston
             - title: Seltsam (S2)
-              origin: Maria Kotrotsou, Kevin Tourné
+              origin: <b>Maria Kotrotsou,</b> Kevin Tourné
             - title: The Runner
               origin: DJ KBS
 
         - headline: best sound design
           list:
             - title: Anomalie (S1P2)
+              origin:
             - title: It's Your Turn
+              origin:
             - title: La Festa Triste
+              origin:
             - title: Seltsam (S2)
+              origin:
             - title: True Demon
+              origin:
             - title: "W."
+              origin:
 
         - headline: best visual effects
           list:
             - title: ALT ESC
+              origin:
             - title: Anomalie (S1P2)
+              origin:
             - title: Otherside
+              origin:
             - title: Seltsam (S2)
+              origin:
             - title: True Demon
+              origin:
             - title: Utopia Planitia
+              origin:
 
         - headline: best production design
           list:
             - title: Anomalie (S1P2)
+              origin:
             - title: En Red / In Network
+              origin:
             - title: Fehler 78
+              origin:
             - title: Haus Kummerveldt
+              origin:
             - title: Throwback89
+              origin:
             - title: Utopia Planitia
+              origin:
 
         - headline: best costume design
           list:
             - title: Fehler 78
+              origin:
             - title: Haus Kummerveldt
+              origin:
             - title: Lover of the Palace
+              origin:
             - title: Slippers
+              origin:
             - title: Throwback89
+              origin:
             - title: Utopia Planitia
+              origin:
 
         - headline: best ensemble cast
           list: 
             - title: Carpark Clubbing
+              origin:
             - title: Discipline
+              origin:
             - title: How to Buy a Baby (S2)
+              origin:
             - title: It's Your Turn
+              origin:
             - title: "#kämpfergeist"
+              origin:
             - title: Marias
+              origin:
             - title: "Or So the Story Goes: Knock Knock"
+              origin:
             - title: The Way to Sangju	
+              origin:
 
         - headline: innovation award
           list: 
             - title: ALT ESC
+              origin:
             - title: Collegiate Assessor
+              origin:
             - title: La Festa Triste
+              origin:
             - title: Reset - Make your Decision
+              origin:
             - title: Swipe
+              origin:
             - title: Throwback89
+              origin:
 
   - partial: list-columns
     smallmargin: true
@@ -229,30 +267,50 @@ sections:
         - headline: best animation
           list:
             - title: Forest League
+              origin:
             - title: Gurko - Am Rand von Smartcity
+              origin:
             - title: Spike and Dadda
+              origin:
 
         - headline: best documentary
           list:
             - title: Do You Know Vlog
+              origin:
             - title: Grandma Sofía
+              origin:
             - title: hierdrueben
+              origin:
             - title: Italia Sicilia Gela
+              origin:
             - title: Manpower Express
+              origin:
             - title: Walls of Disorder
+              origin:
             - title: "Who Killed Lucy the Poodle?"
+              origin:
             - title: "What is Emerging?"
+              origin:
 
         - headline: best pilot
           list:
             - title: Battleground Germany
+              origin:
             - title: Constance
+              origin:
             - title: Divine419 - Hawkers Hustle
+              origin:
             - title: Escape
+              origin:
             - title: Fallin’ Off
+              origin:
             - title: L’Uomo Nuovo
+              origin:
             - title: Lost & Found Cowboy
+              origin:
             - title: Of Wolves and Men
+              origin:
             - title: Wolfgang Doe
+              origin:
 ---
 

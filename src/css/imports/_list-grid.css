@@ -45,6 +45,11 @@
         text-align: right;
       }
 
+      b {
+        white-space: nowrap;
+        display: block;
+      }
+
       @media(--medium-viewport) {
         width: calc(50% - 12px);
       }

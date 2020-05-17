@@ -11,8 +11,12 @@
             <ul class="list-columns__list">
                 {{ range .list}}
                 <li class="list-grid__list__item {{ with.highlight }} list-columns__item--highlight{{end}}">
-                    <span>{{ .title }}</span>
-                    <em>{{ .origin }}</em>
+                    {{ with .title}}
+                        <span>{{ . | safeHTML}}</span>
+                    {{end}}
+                    {{ with .origin}}
+                        <em>{{ . | safeHTML}}</em>
+                    {{end}}
                 </li>
                 {{ end }}
             </ul>
