@@ -41,10 +41,10 @@ sections:
   - partial: text-and-image
     headline: die Seriale in the videmic app
     data:
-      image: /img/videmic-teaser.jpg
+      image: /img/videmic-teaser-2.jpg
       reversed: true
       headline: 'Videmic App'
-      text: "The Seriale presents the programme in three channels in the free videmic App for the festival audience and accredited visitors.<br>The channel “die Seriale” in the videmic app offers information about the festival programme and the venues as well as trailers of the web series shown in the screenings for download and offline watching everywhere. A favorites list allows you to plan your visit of the festival. By linking to the festival's online ticket shop, videmic allows you to conveniently purchase tickets for the screenings at any time.<br><br>The free videmic app is bilingual: English and German. videmic is available in the AppStore and in Google Play.<br><br><a target=\"_blank\" class=\"button button--external\" href=\"https://videmic.de/app\">Get the Videmic App</a>"
+      text: "die Seriale online presents its program in a channel in the videmic app. The channel offers information about die Seriale, Seriale Pro and Seriale Educational. You can download trailers of digital series and watch them everywhere. A favorites list allows you to plan your visit of the online festival.<br><br> From June 3 to 8, 2020, you can watch episodes of the selected digital series of die Seriale and live recordings of the keynotes and the panels of Seriale Pro in the videmic app for free.<br><br>The free videmic app is bilingual: English and German. videmic is available in the AppStore and in Google Play.<br><br><a target=\"_blank\" class=\"button button--external\" href=\"https://videmic.de/app\">Get the Videmic App</a>"
   # - partial: text-and-image
   #   headline: the venue
   #   reversed: true

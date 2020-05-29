@@ -1,6 +1,7 @@
 {{ with.data }}
 <div class="time-table">
 
+  <div class="time-table__container">
     {{ range.days }}
       <div class="time-table__day">
         <h3>{{ .title }}</h3>
@@ -33,6 +34,32 @@
         {{ end }}
       </div>
     {{ end }}
+  </div>
+  {{ with.full }}
+    <div class="time-table__full">
+      <div class="time-table__day">
+        <div class="time-table__day__block">
+          {{ with.logo }}
+            <img src="{{.}}"/>
+          {{ end }}
+          {{ with .time}}
+          <time>{{ . }}</time>
+          {{ end }}
+          {{ with .title}}
+          <h4>{{ . }}</h4>
+          {{ end }}
+          <em>
+            {{ with .location}}
+            {{ . }}
+            {{ end }}
+          </em>
+          {{ with.button }}
+            <a class="button button--small" target="_blank" href="{{ .href }}">{{ .text}}</a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  {{ end }}
 
 </div>
 {{ end }}

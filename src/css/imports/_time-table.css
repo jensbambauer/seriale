@@ -1,7 +1,10 @@
 .time-table {
-  display: flex;
-  @media(--medium-viewport) {
-    flex-direction: column;
+
+  &__container {
+    display: flex;
+    @media(--medium-viewport) {
+      flex-direction: column;
+    }
   }
 
   h3 {
@@ -9,6 +12,24 @@
    color: black;
    margin-left: 25px;
    margin-bottom: 40px;
+  }
+
+  &__full {
+    margin-top: 11px;
+
+    .time-table__day {
+      width: 100% !important;
+      min-height: 160px;
+    }
+
+    img {
+      max-width: 130px;
+      height: auto;
+      float: right;
+      @media(--medium-viewport) {
+        float: none;
+      }
+    }
   }
 
   &__day {
@@ -19,9 +40,6 @@
 
     &:first-child {
       width: 15%;
-    }
-    &:last-child {
-      width: 30%;
     }
 
     &__block {
@@ -51,7 +69,7 @@
       h4 {
         margin-bottom: 0;
         font-size: 1em;
-        display: inline;
+        display: block;
       }
 
       time {
@@ -70,7 +88,7 @@
         min-height: 80px;
       }
       &--size-3 {
-        min-height: 120px;
+        max-height: 120px;
       }
       &--size-4 {
         min-height: 160px;
@@ -91,6 +109,10 @@
         min-height: 360px;
       }
 
+      &--start-1 {
+        margin-top: 40px !important;
+        flex: 0 0 auto !important;
+      }
       &--start-4 {
         margin-top: 160px !important;
         flex: 0 0 auto !important;

@@ -10,14 +10,69 @@ sections:
           # button:
             # text: read blog
             # href: /official-selection-2020
+        - headline: nominations 2020
+          button:
+            text: view now
+            href: /awards-2020
         - headline: official selection 2020
           button:
             text: view now
             href: /official-selection-2020
-        - headline: award winners 2019
-          button:
-            text: view now
-            href: /awards-2019
+        # - headline: award winners 2019
+        #   button:
+        #     text: view now
+        #     href: /awards-2019
+  - partial: time-table
+    headline: streaming schedule
+    data:
+      full:
+        time: June 3th - June 8th
+        title: Screenings
+        location: Watch all series & pilots on demand in the Videmic App.
+        logo: /img/cropped-videmic_logo_4c.png
+        button:
+          text: Download Videmic App
+          href: https://videmic.de/app/
+        size: 4
+      days:
+        - title: June 3th
+          blocks:
+            - time: 4pm - 5pm
+              title: Opening Ceremony
+              location: live stream on die-seriale.de
+              size: 3
+        - title: June 5th
+          blocks:
+            - time: 10.30am - 6pm
+              title: Educational
+              location: live stream on die-seriale.de
+              size: 6
+        - title: June 6th
+          blocks:
+            - time: 10am - 4pm
+              title: Conference Program
+              location: live stream on die-seriale.de
+              pro: true
+              size: 6
+            - time: 4pm - 8pm
+              title: DIMA Digital Market
+              location: live stream on die-seriale.de
+              size: 2
+        - title: June 7th
+          blocks:
+            - time: 10am - 4pm
+              title: Conference Program
+              location: live stream on die-seriale.de
+              pro: true
+              size: 6
+            - time: 6pm - 8pm
+              title: Red Carpet
+              location: live stream on die-seriale.de
+              size: 3
+            - time: 8pm - 10pm
+              title: Award Ceremony
+              location: live stream on die-seriale.de
+              size: 3
   - partial: tabs
     data:
       background: img/be-part-of-it-bg.jpg
@@ -53,73 +108,6 @@ sections:
   #   headline: official selection pilots 2019
   #   data:
   #     list: pilots
-  # - partial: time-table
-  #   headline: schedule
-  #   data:
-  #     days:
-  #       - title: June 13th
-  #         blocks:
-  #           - time: 7pm - 11pm
-  #             title: Focus Hessen
-  #             location: Lottehof Wetzlar
-  #             size: 4
-  #             start: 9
-  #       - title: June 14th
-  #         blocks:
-  #           - time: 10am - 4pm
-  #             title: Educational
-  #             location: Heyligenstaedt
-  #             size: 6
-  #           - time: 4pm - 6pm
-  #             title: Opening Ceremony
-  #             location: Kinocenter
-  #             size: 2
-  #           - time: 6pm - 12pm
-  #             title: Screenings
-  #             location: Kinocenter
-  #             size: 6
-  #           - time: 12pm - open end
-  #             title: Networking
-  #             location: News Café
-  #             size: 3
-  #       - title: June 15th
-  #         blocks:
-  #           - time: 10am - 4pm
-  #             title: Seriale Pro
-  #             location: Schlachthof
-  #             pro: true
-  #             size: 6
-  #           - time: 4pm - 10pm
-  #             title: Screenings
-  #             location: Kinocenter
-  #             size: 6
-  #           - time: 10pm - open end
-  #             title: Networking
-  #             location: Dach Cafe
-  #             size: 5
-  #       - title: June 16th
-  #         blocks:
-  #           - size: 8
-  #             blocks:
-  #             - time: 10am - 6pm
-  #               title: Seriale Pro
-  #               location: Schlachthof
-  #               pro: true
-  #             - time: 2pm - 6pm
-  #               title: Screenings
-  #               location: Kinocenter
-  #               start: 4
-  #           - time: 6pm - 8pm
-  #             title: Red Carpet
-  #             location: Townhall
-  #             size: 2
-  #           - time: 8pm - 11pm
-  #             title: Award Ceremony
-  #             location: Townhall
-  #             size: 3
-  #           - time: 11pm - open end
-  #             title: After Party
-  #             location: who killed the pig
   # - partial: text
   #   headline: Travel Info
   #   data:
@@ -187,10 +175,6 @@ sections:
     headline: connect with us
     data:
       text: "<h4>die Seriale</h4>Weidengasse 3<br>35390 Giessen<br><br>phone:   +49 641 13295 398<br>e-mail:    info@die-seriale.de"
-  # - partial: thumb-grid
-  #   headline: official selection
-  #   data:
-  #     list: series
   # - partial: teaser-grid
   #   headline: speaker
   #   data:
