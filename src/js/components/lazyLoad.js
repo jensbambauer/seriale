@@ -10,7 +10,6 @@
 const lazyLoad = function() {
 
   $("[data-src]").each((index, el) => {
-    console.log(el);
   });
 };
 

@@ -7,6 +7,8 @@ export default function pageTransition(init, scrollbar) {
   const transitionElement = document.querySelector(".page-transition");
   const ease = Power4.easeInOut;
 
+  return false;
+
   barba.init({
     cacheIgnore: true,
     transitions: [

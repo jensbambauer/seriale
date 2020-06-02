@@ -8,6 +8,7 @@ import stickyHeader from "./components/sticky-header";
 import stage from "./components/stage";
 import masonryGrid from "./components/masonry";
 import lazyLoad from "./components/lazyLoad";
+import twitch from "./components/twitch";
 
 // export for others scripts to use
 window.$ = jQuery;
@@ -53,6 +54,7 @@ function init() {
   masonryGrid();
   overlay();
   lazyLoad();
+  twitch();
 }
 
 init();
