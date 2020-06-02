@@ -9,7 +9,7 @@ description: >-
   middle of the last preparations. 
 image: /img/neutitelbild-graphics_lichtacker_mediendesign.jpg
 ---
-As we have adjusted our festival to match the current circumstances, this time we are leaving the physical cinema behind to skyrocket into the endless space of the WorldWideWeb as a “Digital Live Event”. So take your protein pills and put your helmet on since from up there we are starting a transmission that has got it all – and more!
+The beginning of the 6th edition of “die Seriale – DigitalSeriesFestival Giessen” is just around the corner and while the countdown is on we are in the middle of the last preparations. As we have adjusted our festival to match the current circumstances, this time we are leaving the physical cinema behind to skyrocket into the endless space of the WorldWideWeb as a “Digital Live Event”. So take your protein pills and put your helmet on since from up there we are starting a transmission that has got it all – and more!
 
 The details? Just after we initiate “die Seriale” on our website with a live opening ceremony on Wednesday the 3rd  (at 4 pm) you can start streaming this year's excellent choice of digital series on the Videmic App until the end of the festival at 8th of June. The Official Selection includes well-renowned shows as well as absolute world premieres and secret gems to discover: Overall there are 62 series and 9 pilots we received from all over the world, covering the whole cinematic spectrum from drama to comedy, documentation to animation, horror, sci-fi, mystery… you name it! 
 
