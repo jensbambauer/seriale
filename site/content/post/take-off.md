@@ -1,6 +1,8 @@
 ---
-title: "The Take-off: die Seriale – 6th DigitalSeriesFestival Giessen - Digital Live Event"
-date: 2020-06-03T12:22:00.000Z
+title: >-
+  The Take-off: die Seriale – 6th DigitalSeriesFestival Giessen - Digital Live
+  Event
+date: 2020-06-02T12:22:00.000Z
 description: >-
   The beginning of the 6th edition of “die Seriale – DigitalSeriesFestival
   Giessen” is just around the corner and while the countdown is on we are in the
