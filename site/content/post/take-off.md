@@ -39,7 +39,7 @@ While the sheer range of the event would not be possible without the internet, y
 
 We are aware, that it is a challenging enterprise to translate this special atmosphere you know and love into the digital realm and have strived to find ways to meet those ends. Starting with the quest to get our hands on that fiercely contested streaming equipment that everybody wants to buy right now (Seriously, what's going on?!), we have not only focused our efforts on creating simultaneity during the festival via social media presence, video meetings, chats and streams but also prepared an award ceremony that won't miss its red carpet and ceremonial splendor. We firmly believe in the creative potential of experimentation and are excited that we will all be a part of it together. 
 
-!\[](/img/dieSeriale-awardwinners.jpg)
+!\[](/img/dieSeriale-awardwinner.jpg)
 
 To this effect, we are looking forward to bring the digital series and this year's festival back to its roots, launching it into the digital space and back onto your mobile devices via our “Videmic” online cinema. Just make sure to check your WiFi-connection and Houston will be alright. 
 
