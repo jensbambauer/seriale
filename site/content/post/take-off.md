@@ -50,3 +50,5 @@ Author: Robert Wolff
 Graphic Design: Lichtacker Mediendesign
 
 Photos: Rossi Photography
+
+!\[](/img/dieSeriale-awardwinners.jpg)
