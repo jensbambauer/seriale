@@ -39,6 +39,8 @@ While the sheer range of the event would not be possible without the internet, y
 
 We are aware, that it is a challenging enterprise to translate this special atmosphere you know and love into the digital realm and have strived to find ways to meet those ends. Starting with the quest to get our hands on that fiercely contested streaming equipment that everybody wants to buy right now (Seriously, what's going on?!), we have not only focused our efforts on creating simultaneity during the festival via social media presence, video meetings, chats and streams but also prepared an award ceremony that won't miss its red carpet and ceremonial splendor. We firmly believe in the creative potential of experimentation and are excited that we will all be a part of it together. 
 
+!\[](/img/dieSeriale-awardwinners.jpg)
+
 To this effect, we are looking forward to bring the digital series and this year's festival back to its roots, launching it into the digital space and back onto your mobile devices via our “Videmic” online cinema. Just make sure to check your WiFi-connection and Houston will be alright. 
 
 To shorten the waiting time until the take-off, this blog will provide you with a variation of interviews and articles on the subject of matter from today on. If you want to find out about the background, inspirations and works of the various creators, we promise that you'll find a video that suits your interests. You might even have played with the thought of making your own digital series but you don't know how and where to start? Be sure to check out our interview-compilation on that issue, as we have asked them all for advice. Moreover we will grant you a privileged insight into the inner workings of the digital series market and reason on the past and present development of this young and promising format.
@@ -50,5 +52,3 @@ Author: Robert Wolff
 Graphic Design: Lichtacker Mediendesign
 
 Photos: Rossi Photography
-
-!\[](/img/dieSeriale-awardwinners.jpg)
