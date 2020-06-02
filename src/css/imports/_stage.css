@@ -1,3 +1,23 @@
+#twitch-embed {
+  &:before {
+    content: "";
+    background: black;
+    height: 506px;
+    width: 100vw;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    margin-top: -100px;
+    z-index: -1;
+
+    @media(--medium-viewport) {
+      display: none;
+    }
+  }
+
+}
 .stage {
   background: black;
   color: white;

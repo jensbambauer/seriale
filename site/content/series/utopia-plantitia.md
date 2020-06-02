@@ -7,4 +7,4 @@ image: /img/series/utopia-planitia_still_0107-2-400px.jpg
 ## Utopia Planitia | German Premiere
 Country: United States | Genre: Sci-Fi, Fantasy, Thriller | Director: George Reese | Writers: George Reese, Peter Groynom
 
-2120. Forty years after the fall of Earth. A small colony thrives in a small corner of the otherwise inhospitable Martian landscape called Utopia Planitia. The untimely death of a company executive raises questions among three colonists who will soon discover that heaven isn't all that it seems.
+The year 2120. Forty years after the fall of Earth. A small colony thrives in a small corner of the otherwise inhospitable Martian landscape called Utopia Planitia. The untimely death of a company executive raises questions among three colonists who will soon discover that heaven isn't all that it seems.

@@ -18,81 +18,150 @@ sections:
         - image: /img/team/Beate-Bambauer.jpg
           title: Beate Bambauer
           shortdescription: Program Director
-        - image: /img/team/Sandra-Wages.jpg
-          title: Sandra Wages
-          shortdescription: Event Manager
         - image: /img/team/Ralf-Hofacker.jpg
           title: Ralf Hofacker
-          shortdescription: Media Design
-        - image: /img/team/Sandra-Bertalanffy.jpg
-          title: Sandra Bertalanffy 
-          shortdescription: Seriale Pro Manager
-        - image: /img/team/Astrid-Matron.jpg
-          title: Dr. Astrid Matron
-          shortdescription: Educational
-        - image: /img/team/Jan-Krankl.jpg
-          title: Jan Krankl
-          shortdescription: Coordination Screenings
-        - image: /img/team/Magdalena-Kaim.jpg
-          title: Magdalena Kaim
-          shortdescription: Coordination Award Ceremony & Host
-        - image: /img/team/Gisela-Waetzoldt-Hildebrandt.jpg
+          shortdescription: Festival Coordinator & Media Design
+        - image: /img/team/Gisela-Waetzoldt-Hildebrandt2.jpg
           title: Gisela Waetzoldt-Hildebrandt
-          shortdescription: Coordination Seriale Pro
-        - image: /img/team/Valerija-Levin.jpg
-          title: Valerija Levin 
-          shortdescription: Seriale Pro Communication
-        - image: /img/team/Isabella-Sophie-Pianto.jpg
+          shortdescription: Seriale Pro Manager
+        - image: /img/team/Kaira-Masuhr.jpg
+          title: Kaira Masuhr
+          shortdescription: Seriale Pro Coordination
+        - image: /img/team/isabella-pianto.jpg
           title: Isabella Sophie Pianto
-          shortdescription: Educational Communication & Coordination 
-        - image: /img/team/Danielle-Doersing.jpg
-          title: Danielle Dörsing
-          shortdescription: Social Media
-        - image: /img/team/Thomas-Kollmar.jpg
-          title: Thomas Kollmar
-          shortdescription: Screenings Team
-        - image: /img/team/Ronald-Wages.jpg
-          title: Ronald Wages
-          shortdescription: Screenings Team
+          shortdescription: Educational Coordination 
         - image: /img/team/Jens-Bambauer.jpg
           title: Jens Bambauer
-          shortdescription: Website
-        - image: /img/team/Robert-Achtel.jpg
-          title: Robert G. Achtel
-          shortdescription: Web Design
-        - image: /img/team/Sabine-Holzloehner.jpg
-          title: Sabine Holzlöhner
-          shortdescription: Coordination Red Carpet
+          shortdescription: Website & Streaming
+        - image: /img/team/Birgit-Schweitzer.jpg
+          title: Birgit Schweitzer
+          shortdescription: Public Relations
+        - image: /img/team/Magdalena-Kaim.jpg
+          title: Magdalena Kaim
+          shortdescription: Award Ceremony Coordination & Host
         - image: /img/team/Axel-Ricke.jpg
           title: Axel Ricke
-          shortdescription: Host Award Ceremony
+          shortdescription: Award Ceremony Host 
         - image: /img/team/Henning-Ricke.jpg
           title: Henning Ricke
-          shortdescription: Host Award Ceremony
-        - image: /img/team/Martin-Otto.jpg
-          title: Martin Otto
-          shortdescription: Screenings Organisation
-        - image: /img/team/Patrick-Schellner.jpg
-          title: Patrick Schellner
-          shortdescription: Screenings Projectionist
+          shortdescription: Award Ceremony Host 
         - image: /img/team/Christoforos-Mechanezidis.jpg
           title: Christoforos Mechanezidis
           shortdescription: Photography
         - image: /img/team/Jonathan-Barbir.jpg
           title: Jonathan Barbir
-          shortdescription: Music & Event Documentation
+          shortdescription: Music & Editing
+        - image: /img/team/Dascha-Solovieva.jpg
+          title: Dascha Solovieva
+          shortdescription: Red Carpet Coordination & Host
+        - image: /img/team/Marius-Koeppen.jpg
+          title: Marius Köppen
+          shortdescription: Red Carpet Coordination & Host
+        - image: /img/team/Robert-Achtel.jpg
+          title: Robert G. Achtel
+          shortdescription: Web Design
+        - image: /img/team/Robert-Wolff.jpg
+          title: Robert Wolff
+          shortdescription: Editorial Team & Blog
+        - image: /img/team/Enrico-Schierer.jpg
+          title: Enrico Schierer
+          shortdescription: Editorial Team & Blog
+        - image: /img/team/Lisa-Heimbach.jpg
+          title: Lisa Heimbach
+          shortdescription: Festival Communication
+        - image: /img/team/Larissa-Keller.jpg
+          title: Larissa Keller
+          shortdescription: Festival Communication
+        - image: /img/team/Anne-Failing.jpg
+          title: Anne Failing
+          shortdescription: Festival Communication
+        - image: /img/team/Dorian-Lummel.jpg
+          title: Dorian Lummel
+          shortdescription: Festival Communication
+        - image: /img/team/Annabelle-Mueller.jpg
+          title: Annabelle Mueller
+          shortdescription: Festival & Seriale Pro Communication 
+        - image: /img/team/Kathrin-Belke.jpg
+          title: Kathrin Belke
+          shortdescription: Seriale Pro Communication
+        - image: /img/team/Emilia-Marz.jpg
+          title: Emilia Marz
+          shortdescription: Educational & Red Carpet Communication
+        - image: /img/team/Jasmin-Herzberg.jpg
+          title: Jasmin Herzberg 
+          shortdescription: Educational Communication & Social Media
+        - image: /img/team/Xenia-Rempel.jpg
+          title: Xenia Rempel 
+          shortdescription: Jury Communication & Graphic Design Team
+        - image: /img/team/Valeria-Mykhtaryants.jpg
+          title: Valeria Mykhtaryants
+          shortdescription: Jury Communication
+        - image: /img/team/Sarah-Belen-Luibrand.jpg
+          title: Sarah Belen Luibrand
+          shortdescription: Red Carpet & Award Ceremony Team
+        - image: /img/team/Ronja-Rumbler.jpg
+          title: Ronja Rumbler
+          shortdescription: Editorial & Red Carpet Team
+        - image: /img/team/Melina-Hablitzel.jpg
+          title: Melina Hablitzel
+          shortdescription: Editorial Team & Award Ceremony Team
+        - image: /img/team/Natalie-Purdak.jpg
+          title: Natalie Purdak
+          shortdescription: Social Media, Editorial Team & Translations
+        - image: /img/team/Franziska-Schildgen.jpg
+          title: Franziska Schildgen
+          shortdescription: Editorial Team
+        - image: /img/team/Maria-Eugenia-Luebbe.jpg
+          title: María Eugenia Lübbe
+          shortdescription: Graphic Design & Social Media Team
+        - image: /img/team/Marie-Baab.jpg
+          title: Marie Baab
+          shortdescription: Graphic Design & Social Media Team
+        # - image: /img/team/Pauline-Mandelka.jpg
+        #   title: Pauline Mandelka 
+        #   shortdescription: Graphic Design & Social Media Team
+        - image: /img/team/Lisa-Bebermeier.jpg
+          title: Lisa Bebermeier 
+          shortdescription: Graphic Design & Social Media Team
+        - image: /img/team/Joscha-Wilhelm.jpg
+          title: Joscha Wilhelm 
+          shortdescription: Graphic Design & Social Media Team
+        - image: /img/team/Justin-Doepp.jpg
+          title: Justin Döpp
+          shortdescription: Editorial & Blog Team
+        # - image: /img/team/Tobias-Lack.jpg
+        #   title: Tobias Lack
+        #   shortdescription: Blog Team
+        # - image: /img/team/Dogan-Eryildiz.jpg
+        #   title: Dogan Eryildiz
+        #   shortdescription: Blog Team
+        - image: /img/team/Sandra-Wages.jpg
+          title: Sandra Wages
+          shortdescription: Festival Team
+        - image: /img/team/Ronald-Wages.jpg
+          title: Ronald Wages
+          shortdescription: Festival Team
+        - image: /img/team/Thomas-Kollmar.jpg
+          title: Thomas Kollmar
+          shortdescription: Festival Team
+        - image: /img/team/Sandra-Bertalanffy.jpg
+          title: Sandra Bertalanffy 
+          shortdescription: Seriale Pro
+        - image: /img/team/Astrid-Matron.jpg
+          title: Dr. Astrid Matron
+          shortdescription: Educational Advisor
+        - image: /img/team/Martin-Otto.jpg
+          title: Martin Otto
+          shortdescription: Screenings Organisation
         - image: /img/team/Micaela-Masetto.jpg
           title: Micaela Masetto
           shortdescription: Interviews
-        - image: /img/team/Mara-Sophie_Knop.jpg
-          title: Mara-Sophie Knop
-          shortdescription: Editorial Team
-        - image: /img/team/Rabia-Khan.jpg
-          title: Rabia Khan
-          shortdescription: Editorial Team
-        - image: /img/team/Horst-Martin.jpg
-          title: Horst Martin
-          shortdescription: Public Relations
+        - image: /img/team/Sabine-Holzloehner.jpg
+          title: Sabine Holzlöhner
+          shortdescription: Festival Team
+        - image: /img/team/Jan-Krankl.jpg
+          title: Jan Krankl
+          shortdescription: Festival Team
   - partial: text-plain
     headline: connect with us
     data:

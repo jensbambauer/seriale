@@ -8,4 +8,4 @@ image: /img/series/throwback_89_16-9-400px.jpg
 Country: Germany | Genre: Historical, Teenager
 Diary, Instagram | Directors: Nil Idil Çakmak, Ricarda Saleh | Writers: Nil Idil Çakmak, Ricarda Saleh, Ira Wedel
 
-1989, seventeen-year-old Nora talks about her daily life in the GDR in her video diary. School, her parentâ€™s home and her peer group confront her with the contradictions of the system. Her diary documents the historic change of mood happening in the weeks before the fall of the Berlin wall
+1989, seventeen-year-old Nora talks about her daily life in the GDR in her video diary. School, her parent's home and her peer group confront her with the contradictions of the system. Her diary documents the historic change of mood happening in the weeks before the fall of the Berlin wall

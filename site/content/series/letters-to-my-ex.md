@@ -6,6 +6,6 @@ image: /img/series/Letters-to-my-Ex--Still44.jpg
 
 
 ## Letters to my ex 
-Country: Argentina | Genre: Drama | Director: JazmĂ­n Stuart | Writer: JazmĂ­n Stuart
+Country: Argentina | Genre: Drama | Director: Jazmín Stuart | Writer: Jazmín Stuart
 
 A journey through eight love stories. Eight protagonists send letters in image and sound to their former partners. An x-ray of love in the age of loneliness.

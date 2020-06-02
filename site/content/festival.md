@@ -7,16 +7,16 @@ sections:
       videosource: /videos/festival-loop.mp4
       slides:
         - headline: The festival
-          # button:
-          #   overlay: true
-          #   text: watch festival trailer
-          #   href: /festival-trailer
+          button:
+            overlay: true
+            text: watch festival trailer
+            href: /festival-trailer
   - partial: text
     data:
       headline: About
       paragraphs:
-        - text: "&quot;die Seriale&quot; is the oldest festival in Germany for short form digital series.<br>The four-day festival is dedicated to audience, creators, students and all series fans. The Official Selection with over 60 series and pilots from 18 countries is presented in the local movie theater. The supporting program offers a conference with Q&As, lectures and panel discussions."
-        - text: " At the Award Ceremony the most outstanding series will be awarded by an international expert jury. The 5th annual edition of 'die Seriale' has a special focus on Argentinian digitial series."
+        - text: "&quot;die Seriale&quot; is the oldest festival in Germany for short form digital series.<br>The six-day festival is dedicated to audience, creators, students and all series fans. The Official Selection with over 70 series and pilots from 18 countries is presented in the Videmic app on demand. The supporting program offers a digital conference with lectures and panel discussions."
+        - text: "At the Award Ceremony the most outstanding series will be awarded by an international expert jury. The 6th annual edition of &quot;die Seriale&quot; will be, because of the world wide pandemic situation, a virtual live event."
   - partial: thumb-grid
     headline: official selection 2020 - series
     data:
@@ -116,49 +116,72 @@ sections:
     data:
       items:
         - image: /img/partners/HessenFilm.png
+          link: "https://www.hessenfilm.de/"
         - image: /img/partners/giessen.png
+          link: "https://www.giessen.de"
         - image: /img/partners/Wetzlar.png
         - image: /img/partners/sparkasse.png
-        - image: /img/partners/kinocenter.png
-        - image: /img/partners/heyligenstaedt.png
-        - image: /img/partners/Goethe-Institut.png
-        - image: /img/partners/dobago.png
-        - image: /img/partners/lichtacker.png
-        # stadttheater
         - image: /img/partners/videmic.png
+          link: "https://videmic.de/en/"
+        - image: /img/partners/Goethe-Institut.png
+        - image: /img/partners/kinocenter.png
+        - image: /img/partners/dobago.png
+          link: "http://www.dobago.de"
+        - image: /img/partners/lichtacker.png
         - image: /img/partners/rossi-photography.png
+          link: "https://stolenmoments.de"
+        - image: /img/partners/Lumatik.png
+          link: "https://www.lumatik.media"
+        - image: /img/partners/heyligenstaedt.png
         - image: /img/partners/World_Wide_Webserie.png
-        - image: /img/partners/wswc-2019.png
+          link: "https://www.worldwidewebserie.com"
         - image: /img/partners/Unsere_Serien.svg
         - image: /img/partners/elefantenklo_magazin_logo.png
-        # webvee
-        # marthas
-        # dmp
-        # presse büro martin
-        # mia
-        # schlammbeiser
   - partial: grid
     headline: our partner festivals
     data:
       items:
         - image: /img/partners/Seriesland.png
-        - image: /img/partners/BAWF-logo.png
+          link: "https://www.seriesland.eus"
+        - image: /img/partners/Buenos-Aires-Series.png
+          link: "https://www.buenosaireseries.com"
         - image: /img/partners/Seoul_Webfest.png
-        - image: /img/partners/sicilly.png
+          link: "https://www.seoulwebfest.com"
         - image: /img/partners/dc-webfest.png
+          link: "https://dcwebfest.org"
+        - image: /img/partners/sicilly.png
+          link: "http://sicilywebfest.com/index.html"
         - image: /img/partners/mn-webfest.png
+          link: "minnesota web fest"
         - image: /img/partners/Miami_Web_Fest.svg
+          link: "https://miamiwebfest.com"
         - image: /img/partners/vancouver.png
-        - image: /img/partners/Roma_Web_Fest.png
+          link: "https://www.vancouverwebfest.com"
+        - image: /img/partners/DMF.png
+          link: "https://www.digitalmediafest.it/en/"
         - image: /img/partners/Realist-Webfest.jpg
+          link: "https://webfestival.ru/?lang=en"
         - image: /img/partners/New-Zealand-Webfest.png
-        - image: /img/partners/Rio-Webfest2.png
-        - image: /img/partners/Asia-Web-Awards.png
-        - image: /img/partners/bogota_webfest.jpg
-        - image: /img/partners/TorinoShortFilmMarketVol3-07.png
+          link: "http://www.nzwebfest.co.nz"
+        - image: /img/partners/Riowebfest.aktuell.png
+          link: "https://www.riowebfest.net"
         - image: /img/partners/webfest-berlin.png
-        - image: /img/partners/seriencamp.png
+          link: "https://www.seriesland.eus"
+        - image: /img/partners/Asia-Web-Awards.png
+          link: "https://www.asiawebawards.com"
+        - image: /img/partners/bogota_webfest.jpg
+          link: "https://bogotawebfest.com"
+        - image: /img/partners/nj-web.jpg
+          link: "https://www.newjerseywebfest.com"
+        - image: /img/partners/montreal-web-fest-logo.png
         - image: /img/partners/stareable_logo.png
+          link: "https://stareable.com"
+        - image: /img/partners/seriencamp.png
+          link: "https://seriencamp.tv/festival/"
+        - image: /img/partners/baltimore.png
+          link: "https://www.bnmwebfest.com"
+        - image: /img/partners/AWF.jpg
+          link: "https://www.apuliawebfest.it"
   - partial: text-plain
     headline: connect with us
     data:

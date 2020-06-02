@@ -1,5 +1,5 @@
 ---
-title: LÃ‚Â´Uomo Nuovo
+title: L'Uomo Nuovo
 image: /img/pilots/l_uomo_nuovo_still_01-400px.jpg
 ---
 

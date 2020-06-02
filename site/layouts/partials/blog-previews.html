@@ -1,0 +1,7 @@
+
+{{ range first 1 (where $.Page.Pages "Type" "article") }}
+    <h2>latest blog posts</h2>
+{{ end }}
+{{ range first 5 (where $.Page.Pages "Type" "article") }}
+	{{ .Permalink }}
+{{ end }}

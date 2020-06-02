@@ -8,4 +8,4 @@ image: /img/series/truedemon_still_06-400px.jpg
 Country: Germany | Genre: Mystery, Horror,
 Action, Sci-Fi, Drama | Director: Jan Zenkner | Writer: Hanno von Contzen
 
-Found-Footage meets youtube-nocookie. Anna, Ben and Lukas come upon brutal creatures and a massive conspiracy, which has catastrophic consequences for the entire world. Anna faces her demons and shares her feelings, her horrors and her fight for survival with us.
+Found-Footage meets YouTube. Anna, Ben and Lukas come upon brutal creatures and a massive conspiracy, which has catastrophic consequences for the entire world. Anna faces her demons and shares her feelings, her horrors and her fight for survival with us.

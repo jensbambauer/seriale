@@ -1,5 +1,5 @@
 ---
-title: Do you know vlog
+title: Do You Know Vlog
 image: /img/series/do-you-know-vlog-still10_16-9-400px.jpg
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/309188489" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

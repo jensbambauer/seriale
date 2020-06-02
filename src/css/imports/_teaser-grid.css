@@ -101,9 +101,6 @@
       .teaser-grid__list .teaser-grid__list__item {
         width: calc(50% - 12px);
       }
-      .teaser-grid__list .teaser-grid__list__item + .teaser-grid__list__item {
-        margin-top: 12px;
-      }
     }
 
     @media(--very-small-viewport) {
@@ -113,9 +110,6 @@
 
       .teaser-grid__list .teaser-grid__list__item {
         width: calc(50% - 12px);
-      }
-      .teaser-grid__list .teaser-grid__list__item + .teaser-grid__list__item {
-        margin-top: 12px;
       }
     }
   }

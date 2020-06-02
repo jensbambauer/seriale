@@ -22,6 +22,9 @@ sections:
         #   button:
         #     text: view now
         #     href: /awards-2019
+  # - partial: blog-previews
+  #   data:
+  #     test: 1
   - partial: time-table
     headline: streaming schedule
     data:

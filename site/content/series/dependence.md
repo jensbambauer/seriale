@@ -7,4 +7,4 @@ image: /img/series/dependence-still-02_16-9-400px.jpg
 ## Dependence | German Festival Premiere
 Country: United States | Genre: Dark Comedy | Directors: Cris Thorne, Desmond Thorne | Writers: Cris Thorne, Danielle Thorne
 
-Dark comedy series about two families joined together by the relationship of a young couple, Zeke and Lexi. Their familiesâ€™ dysfunctional coping methods will test their loveâ€¦ and their sanity.
+Dark comedy series about two families joined together by the relationship of a young couple, Zeke and Lexi. Their families' dysfunctional coping methods will test their loveâ€¦ and their sanity.

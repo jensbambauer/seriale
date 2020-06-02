@@ -1,6 +1,6 @@
 ---
 title: Forest League
-images: /img/series/forest-league-poster-2400x2400-v2_16-9-400px.jpg
+image: /img/series/forest-league-poster-2400x2400-v2_16-9-400px.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NcS9EiXe0UE?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

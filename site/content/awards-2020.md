@@ -76,7 +76,7 @@ sections:
             - title: Sicilian Rhapsody
               origin: Riccardo Cannella
             - title: Sydney Sleuthers
-              origin: Joanna Beveridge
+              origin: <b>Joanna Beveridge,</b> Michelle St Claire
             - title: True Demon
               origin: Jan Zenkner
             - title: W.

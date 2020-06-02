@@ -59,21 +59,27 @@ sections:
     headline: our sponsors
     data:
       items:
-        - image: /img/partners/Hessisches-Ministerium-für-Wirtschaft-Energie-Verkehr-und-Wohnen.png
+        - image: /img/partners/Hessisches-Ministerium-fuer-Wirtschaft-Energie-Verkehr-und-Wohnen.png
+          link: "https://wirtschaft.hessen.de"
         - image: /img/partners/Kultur_und_Kreativwirtschaft_Hessen.svg
-        - image: /img/partners/giessen.png
+        - image: /img/partners/Giessen-WF.png
+          link: "https://www.giessen.de/Wirtschaft/index.php?object=tx,2874.1&ModID=9&FID=684.7.1&NavID=1894.12&La=1"
         - image: /img/partners/Kreativ-sphaeren.jpg
         - image: /img/partners/Seeka_TV.png
+          link: "https://watch.seeka.tv"
         - image: /img/partners/Bilbao-Seriesland1.png
+          link: "https://www.seriesland.eus"
+        - image: /img/partners/DIMA.png
+          link: "http://dima-market.com"
+        - image: /img/partners/videmic.png
+          link: "https://videmic.de/en/"
         - image: /img/partners/FlixxoBlack.png
         - image: /img/partners/snepic_logo_type.png
         - image: /img/partners/fmws.png
-        - image: /img/partners/videmic.png
         - image: /img/partners/World_Wide_Webserie.png
+        - image: /img/partners/un3-logo.png
         - image: /img/partners/lichtacker.png
         - image: /img/partners/dobago.png
-        - image: /img/partners/un3-logo.png
-        - image: /img/partners/digitales-hessen.png
   - partial: text-plain
     headline: connect with us
     data:

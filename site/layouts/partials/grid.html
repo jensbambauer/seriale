@@ -3,7 +3,13 @@
   <ul class="grid__list">
     {{ range .items}}
     <li>
+      {{ if .link }}
+        <a href="{{.link}}" target="_blank">
+          <img src="{{ .image }}">
+        </a>
+      {{ else }}
         <img src="{{ .image }}">
+      {{ end}}
     </li>
     {{ end }}
   </ul>
