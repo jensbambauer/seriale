@@ -11,6 +11,11 @@
           <iframe width="850" height="480" src="https://www.youtube.com/embed/{{ .Params.Youtube }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       {{ end }}
+      {{ if .Params.Vimeo}}
+        <div class="video">
+          <iframe src="https://player.vimeo.com/video/{{ .Params.Vimeo }}" width="850" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        </div>
+      {{ end }}
       <div class="text">{{ .Content }}</div>
     </article>
   </section>

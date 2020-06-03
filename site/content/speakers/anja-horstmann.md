@@ -1,12 +1,12 @@
 ---
 title: Anja Horstmann
-image: /img/speaker/anja-horstmann2.jpg
+image: /img/speaker/anja-horstmann.jpg
 shortdescription: Historian | JLU Giessen
 ---
-<img src="/img/speaker/anja-horstmann2.jpg">
+<img src="/img/speaker/anja-horstmann.jpg">
 ## Anja Horstmann 
 
 Historian | JLU Giessen | Germany
 
-Anja Horstmann, historian, specialization: media history, film and photo history. Since 2014 research associate at the Institute of Specialist Journalism History, University of Giessen. Studied history and German at the University of Bielefeld. Research and promotion on filming from the Warsaw Ghetto.
+Anja Horstmann is a historian specializing in media history, film and photo history. In 2014, she became a research associate at the Institute of Specialist Journalism History, University of Giessen. Anja studied history and German at the University of Bielefeld. Additionally, she does research and promotion on filming from the Warsaw Ghetto.
 

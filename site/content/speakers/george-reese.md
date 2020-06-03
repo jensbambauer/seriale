@@ -1,7 +1,7 @@
 ---
 title: George Reese
 image: /img/speaker/george-reese.jpg
-shortdescription: SEEKA TV
+shortdescription: SEEKA TV | USA
 ---
 <img src="/img/speaker/george-reese.jpg">
 ## George Reese

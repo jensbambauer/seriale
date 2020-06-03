@@ -4,7 +4,7 @@ languageCode = "en-us"
 [menu]
     [[menu.main]]
     identifier = "home"
-    name       = "Home"
+    name       = "Live"
     url        = "/"
     weight     = 1
 
@@ -19,6 +19,12 @@ languageCode = "en-us"
     name       = "Seriale Pro"
     url        = "/seriale-pro/"
     weight     = 3
+
+    [[menu.main]]
+    identifier = "speaker"
+    name       = "Speaker"
+    url        = "/speaker/"
+    weight     = 4
 
     [[menu.main]]
     identifier = "about"
