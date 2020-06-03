@@ -45,7 +45,7 @@ sections:
                       length: 2
                       datetime: 2020-07-05
                       time: 11:00 | 11:00am CET
-                      details: India has become a major player in the web series world in the past three years. In this lecture, Joël Bassaget takes a closer look at the web series market in India and why it’s becoming more recognised internationally.
+                      details: In this lecture, Joël Bassaget takes a closer look at the web series market in India.
                       speaker:
                         - name: Joël Bassaget
                     - title: Back to the Future...
@@ -56,7 +56,7 @@ sections:
                       speaker:
                         - name: Anja Horstmann
                           link: anja-horstmann
-                      details: Using the Instagram story series “Throwback 89” as an example, Anja Horstmann will take a closer look at how history can be told by using Instagram, what the relevant aspects are, and what it has to do with emotions.
+                      details: Using the Instagram story series “Throwback '89” as an example, Anja Horstmann will take a closer look at how history can be told by using Instagram, what the relevant aspects are, and what it has to do with emotions.
                     - title: Innovative Formats
                       length: 2
                       type: panel discussion
@@ -68,11 +68,11 @@ sections:
                       panelists:
                         - name: Anja Horstmann
                           link: anja-horstmann
-                        - name: Ricarda Saleh (Throwback 89)
+                        - name: Ricarda Saleh (Throwback '89)
                           link: ricarda-saleh
-                        - name: Nil Idil Çakmak (Throwback 89)
+                        - name: Nil Idil Çakmak (Throwback '89)
                           link: nil-idil-cakmak
-                        - name: Svenja Freise (Throwback 89)
+                        - name: Svenja Freise (Throwback '89)
                           link: svenja-freise
                         - name: Valerio Camelin (La Festa Triste)
                           link: valerio-camelin
@@ -87,7 +87,7 @@ sections:
                       type: presentation
                       length: 2
                       time: 13:00 | 1pm CET
-                      details: "To create an exciting film and series experience having a good sound is just as important as having a good picture. Which developments are there currently? What is the deal about object based audio and which possibilities and advantages are there compared to the traditional stereo or surround combinations? In his lecture, Daniel Jobst focuses on modern technologies. After explaining general and technical basics, he will present new creative opportunities in the field of sound design using the example of Dolby Atmos."
+                      details: "To create an exciting film and series experience having a good sound is just as important as having a good picture. Which developments are there currently? What is the deal about object based audio and which possibilities and advantages are there compared to the traditional stereo or surround combinations? In his lecture, Daniel Jobst focuses on modern technologies. After explaining generell and technical basics, he will present new creative opportunities in the field of sound design using the example of Dolby Atmos."
                       speaker:
                         - name: Daniel Jobst
                           link: daniel-jobst
@@ -108,14 +108,14 @@ sections:
                       panelists:
                         - name: Chiara Bressa
                           link: chiara-bressa
-                        - name: Joël Bassaget
+                        - name: Joel Bassaget
                         - name: Otessa Ghadar
                           link: otessa-ghadar
                         - name: Dennis Albrecht
                           link: dennis-albrecht
                         - name: Caroline Morais
                           link: caroline-morais
-                    - title: "Festival Directors from around the World"
+                    - title: "Festival Directors from Around the World"
                       type: panel discussion
                       length: 2
                       datetime: 2020-07-05
@@ -168,9 +168,9 @@ sections:
           data:
             sections:
               - partial: text-plain
-                headline: "seriale pro: digital live conference"
+                headline: "seriale pro: business day 1"
                 data:
-                  text: 'Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities "Digital Live Conference" and the "DIMA Digital Market". DIMA is a cooperation with "Bilbao Seriesland" & "Minnesota WebFest". This all is streamed through our website, YouTube, Facebook and also available at the Videmic App. Seriale Pro is supported by the "Hessian Ministry of Economics, Energy, Transport and Housing," the "Economic Development Giessen" and sponsored by Seeka TV.'
+                  text: 'Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities "Digital Live Conference" and the "DIMA Digital Market". DIMA is a cooperation with "Bilbao Seriesland" & "Minnesota WebFest". This all is streamed through our website, YouTube, Facebook and also available at the Videmic App. Seriale Pro is supported by the "Hessian Ministry of Economics, Energy, Transport and Housing," the "Economic Development Giessen" and sponsored by Seekarten TV.'
               - partial: program
                 smallmargin: true
                 data:
@@ -232,14 +232,14 @@ sections:
                       type: presentation
                       time: 14:00 – 14.30 | 2pm – 2.30pm CET
                       speaker:
-                        - name: Patrick Schaaf, HessenFilm and Media | Germany
+                        - name: Patrick Schaaf, HessenFilm and Media
                       details: Patrick Schaaf of HessenFilm and Media, the film fund of the state of Hesse, together with the two location scouts Yvonne Wassong (Locationsnet Motivagentur) and Regina Kaczmarek (Agentur Kaczmarek) are presenting the variety of film locations in Hesse. They will provide you with ideas and inspiration where to shoot your next film. Afterwards there will be a Q&A.
                     - title: The State of our Domestic Digital Economy Post-Pandemic and International Implications
                       length: 3
                       type: presentation
                       time: 14:30 – 15:00 | 2.30pm – 3pm CET
                       speaker:
-                        - name: Otessa Marie Ghadar | DC Web Fest, USA
+                        - name: Otessa Marie Ghadar
                           link: otessa-ghadar
                       details: "The State of our Domestic Digital Economy Post-Pandemic and International Implications presentation will address the current pandemic's economical impact, the changing digital world, and emerging opportunities for creators and
                       monetization."
@@ -250,12 +250,12 @@ sections:
                       moderator:
                         - name: Gisella Waetzoldt-Hildebrandt 
                       panelists:
-                        - name: Tonio Kellner (Germany)
-                        - name: Janet De Nardis (Italy)
+                        - name: Tonio Kellner (Producer Neopol Film – Hesse)
+                        - name: Janet De Nardis 
                           link: janet-de-nardis
-                        - name: Max Fraenkel (Germany)
+                        - name: Max Fraenkel
                           link: max-fraenkel
-                        - name: Laura Seijo (Argentina)
+                        - name: Laura Seijo
                           link: laura-seijo
                     - title: DIMA - Digital Market
                       type: opening
@@ -265,12 +265,12 @@ sections:
                       moderator:
                         - name: Rose of Dolls
                           link: rose-of-dolls
-                        - name: Csongor Dobrotka
+                        - name: Csongor Dobrotka (die Seriale – Germany)
                         - name: George Reese
                           link: george-reese
 
                     - title: International Producers 1
-                      time: 17:00 – 17:30 | 5pm – 5.30pm CET
+                      time: 17:00 – 17:00 | 5pm – 5.30pm CET
                       type: business talk
                       length: 4
                       moderator:
@@ -345,7 +345,7 @@ sections:
           data:
             sections:
               - partial: text-plain
-                headline: "seriale pro: digital live conference"
+                headline: "seriale pro: business day 2"
               - partial: program
                 smallmargin: true
                 data:
@@ -366,7 +366,7 @@ sections:
                       length: 3
                       time: 10:30 – 11:00 | 10.30am – 11am CET
                       speaker:
-                        - name: Keith Barclay | New Zealand
+                        - name: Keith Barclay
                           link: keith-barclay
 
                     - title: Creating Works With Positive Impact, Across Multiple Disciplines With Humor, International Collaborators And Sometimes With Funding
@@ -374,7 +374,7 @@ sections:
                       length: 3
                       type: Presentation
                       speaker:
-                        - name: Atsushi Ogata | Japan
+                        - name: Atsushi Ogata
                           link: atsushi-ogata
 
                     - title: Streaming with Seeka TV
@@ -382,7 +382,7 @@ sections:
                       length: 3
                       type: Presentation
                       speaker:
-                        - name: George Reese | USA
+                        - name: George Reese
                           link: george-reese
                       details: "Seeka TV is a streaming platform dedicated specifically to short-form, episodic content from independent creators around the world. Seeka TV founder George Reese will talk about how he sees the streaming landscape for web series and what Seeka TV is looking for."
 
@@ -411,7 +411,7 @@ sections:
                       type: Presentation
                       length: 3
                       speaker:
-                        - name: Adrian Garelik | Argentina
+                        - name: Adrian Garelik
                           link: adrian-garelik
                       details: "Flixxo is a state-of-the-art platform for short form series, built on top of cryptocurrencies and gamification schemes - think Candy Crush meets Netflix. Learn how to start monetizing your series right now, while keeping control over your work!"
 
@@ -420,7 +420,7 @@ sections:
                       length: 3
                       type: Presentation
                       speaker:
-                        - name: Nataliya Grigorieva | Russia
+                        - name: Nataliya Grigorieva
                           link: nataliya-grigorieva
                       details: "CHILL it's a new online video service for web series from the creators of the Realist Web Fest. It's a digital platform for short-form series. It's a place for the stories too long for Insta stories and too good for YouTube. It's a medium for the viewers living on a TikTok speed but demanding way more of professional production quality and storytelling. Let's CHILL in the home of web series."
 
@@ -431,15 +431,15 @@ sections:
                       moderator:
                         - name: Gisella Waetzoldt-Hildebrandt
                       panelists:
-                        - name: George Reese | USA
+                        - name: George Reese
                           link: george-reese
-                        - name: Young Man Kang | South Korea
+                        - name: Young Man Kang
                           link: young-man-kang
-                        - name: Pedro Levati | Argentina
+                        - name: Pedro Levati 
                           link: pedro-levati
-                        - name: Adrian Garelik | Argentina
+                        - name: Adrian Garelik
                           link: adrian-garelik
-                        - name: Nataliya Grigorieva | Russia
+                        - name: Nataliya Grigorieva
                           link: nataliya-grigorieva
 
               - partial: text-plain
