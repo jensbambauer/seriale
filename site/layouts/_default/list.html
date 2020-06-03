@@ -10,7 +10,7 @@
   {{ partial "pagination" . }}
 </div>  */}}
   <section class="container__content">
-    <h2>the blog</h2>
+    <h2>latest articles</h2>
     {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
       {{ .Render "li"}}
     {{ end }}

@@ -13,6 +13,42 @@
           {{ if .details}}
           <p>{{ .details | safeHTML }}</p>
           {{ end }}
+          {{ if .moderator }}
+            <div class="program__speaker">
+              <h4>Moderation</h4>
+              {{ range.moderator }}
+                {{ if .link }}
+                <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+                {{ else }}
+                <span class="speaker-no-link">{{.name}}</span>
+                {{ end }}
+              {{ end }}
+            </div>
+          {{ end }}
+          {{ if .panelists }}
+            <div class="program__speaker">
+              <h4>Guests</h4>
+              {{ range.panelists }}
+                {{ if .link }}
+                <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+                {{ else }}
+                <span class="speaker-no-link">{{.name}}</span>
+                {{ end }}
+              {{ end }}
+            </div>
+          {{ end }}
+          {{ if .speaker }}
+            <div class="program__speaker">
+              <h4>Speaker</h4>
+              {{ range.speaker }}
+                {{ if .link }}
+                <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+                {{ else }}
+                <span class="speaker-no-link">{{.name}}</span>
+                {{ end }}
+              {{ end }}
+            </div>
+          {{ end }}
         </div>
       </div>
     {{ end }}

@@ -5,6 +5,26 @@
     padding: 6px 12px;
     margin-bottom: 4px;
   }
+
+  &__speaker {
+    h4 {
+      font-size: 14px;
+      text-transform: uppercase;
+      margin: 14px 0;
+      padding-bottom: 8px;
+    }
+  }
+
+  .speaker-no-link {
+    font-size: 16px;
+    padding: 6px 12px;
+    margin-bottom: 4px;
+    display: inline-block;
+    color: white;
+    background: #ccc;
+    font-family: "Roboto Slab";
+    font-weight: 700;
+  }
   
   &__item {
     margin-bottom: 40px;
