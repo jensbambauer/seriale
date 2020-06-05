@@ -1,5 +1,5 @@
 ---
-title: 'Mood management for times in between, about human contradictions'
+title: 'Interview: Mood management for times in between, about human contradictions'
 date: 2020-06-05T21:03:44.256Z
 description: >-
   Interview with filmmaker Joachim Jung about the second season of his web
