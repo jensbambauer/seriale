@@ -28,7 +28,7 @@ The Seriale conducted an interview with the producer, screenwriter and director,
 
 **Tobias Lack: As we know, movies often carry a message. Is there any background information about the plot or the production that you would like to specifically communicate to the viewers of your series? **
 
-**Joachim Jung:** ”The Man For Your Sins” is a series of completed episodes. But there are also storylines beyond episode boundaries and recurring characters. These stories, spanning all episodes, are only gradually opening up. It is also important to mention that the viewer can contact the main protagonist via Facebook at any time. Wolfgang, the priest in the series, had his Facebook account for several years and is happy to get new fans. At the same time, Wolfgang's Facebook page is used to publish information and news about the series. There are even exclusive sermons from him. So we tell stories across platforms and are therefore a real web series, that can only be told online in their entirety.
+**Joachim Jung: **”The Man For Your Sins” is a series of completed episodes. But there are also storylines beyond episode boundaries and recurring characters. These stories, spanning all episodes, are only gradually opening up. It is also important to mention that the viewer can contact the main protagonist via Facebook at any time. Wolfgang, the priest in the series, had his Facebook account for several years and is happy to get new fans. At the same time, Wolfgang's Facebook page is used to publish information and news about the series. There are even exclusive sermons from him. So we tell stories across platforms and are therefore a real web series, that can only be told online in their entirety.
 
 ![](/img/bild3blogmanforyoursins.jpg)
 
