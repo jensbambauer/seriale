@@ -1,7 +1,7 @@
 ---
 title: Lina Kokaly
 image: /img/speaker/lina-kokaly.jpg
-shortdescription: Editor | funk | Radio Bremen | ARD
+shortdescription: Editor | funk | Radio Bremen | ARD | Germany
 ---
 <img src="/img/speaker/lina-kokaly.jpg">
 ## Lina Kokaly

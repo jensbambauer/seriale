@@ -1,7 +1,7 @@
 ---
 title: Sebastian Simon
 image: /img/speaker/sebastian-simon.jpg
-shortdescription: Managing Director, Producer | PixelPEC
+shortdescription: Managing Director, Producer | PixelPEC | Germany
 ---
 <img src="/img/speaker/sebastian-simon.jpg">
 ## Sebastian Simon

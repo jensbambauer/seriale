@@ -1,7 +1,7 @@
 ---
 title: Thomas Schneider-Trumpp
 image: /img/speaker/thomas-schneider-trumpp.jpg
-shortdescription: CEO | Snepic | Watch Movies 
+shortdescription: CEO | Snepic | Watch Movies | Germany
 ---
 <img src="/img/speaker/thomas-schneider-trumpp.jpg">
 ## Thomas Schneider-Trumpp

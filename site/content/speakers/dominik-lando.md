@@ -1,7 +1,7 @@
 ---
 title: Dominik Lando
 image: /img/speaker/dominik-lando.jpg
-shortdescription: Producer | Spessart Tales
+shortdescription: Producer | Spessart Tales | Germany
 ---
 <img src="/img/speaker/dominik-lando.jpg">
 ## Dominik Lando

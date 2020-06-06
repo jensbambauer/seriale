@@ -1,7 +1,7 @@
 ---
 title: Kristian Wolff
 image: /img/speaker/kristian-wolff.jpg
-shortdescription: Screen & Development Writer
+shortdescription: Screen & Development Writer | Germany
 ---
 <img src="/img/speaker/kristian-wolff.jpg">
 ## Kristian Wolff 

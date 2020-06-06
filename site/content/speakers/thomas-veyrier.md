@@ -1,7 +1,7 @@
 ---
 title: Thomas Veyrier
 image: /img/speaker/thomas-veyrier.jpg
-shortdescription: Creator, Director | Retro Riders
+shortdescription: Creator, Director | Retro Riders | France
 ---
 <img src="/img/speaker/thomas-veyrier.jpg">
 ## Thomas Veyrier

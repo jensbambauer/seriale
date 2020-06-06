@@ -49,6 +49,18 @@
               {{ end }}
             </div>
           {{ end }}
+          {{ if .hosts }}
+            <div class="program__speaker">
+              <h4>Hosts</h4>
+              {{ range.hosts }}
+                {{ if .link }}
+                <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+                {{ else }}
+                <span class="speaker-no-link">{{.name}}</span>
+                {{ end }}
+              {{ end }}
+            </div>
+          {{ end }}
         </div>
       </div>
     {{ end }}

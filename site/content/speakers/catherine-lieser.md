@@ -1,7 +1,7 @@
 ---
 title: Catherine Lieser
 image: /img/speaker/catherine-lieser.jpg
-shortdescription: HessenFilm and Media
+shortdescription: HessenFilm and Media | Germany
 ---
 <img src="/img/speaker/catherine-lieser.jpg">
 ## Catherine Lieser

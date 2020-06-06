@@ -1,7 +1,7 @@
 ---
 title: Stephan Böhl
 image: /img/speaker/stephan-boehl.jpg
-shortdescription: Writer, Producer | Tag & Nacht Media
+shortdescription: Writer, Producer | Tag & Nacht Media | Germany
 ---
 <img src="/img/speaker/stephan-boehl.jpg">
 ## Stephan Böhl

@@ -1,7 +1,7 @@
 ---
 title: Guido Hettinger
 image: /img/speaker/guido-hettinger.jpg
-shortdescription: Lawyer | Brehm & v. Moers | Snepic
+shortdescription: Lawyer | Brehm & v. Moers | Snepic | Germany
 ---
 <img src="/img/speaker/guido-hettinger.jpg">
 ## Guido Hettinger

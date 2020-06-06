@@ -1,7 +1,7 @@
 ---
 title: Tobias Leveringhaus
 image: /img/speaker/tobias-leveringhaus.jpg
-shortdescription: Sodawasser Pictures | Kinoflimmern
+shortdescription: Sodawasser Pictures | Kinoflimmern | Germany
 ---
 <img src="/img/speaker/tobias-leveringhaus.jpg">
 ## Tobias Leveringhaus

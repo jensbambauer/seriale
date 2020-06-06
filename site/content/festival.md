@@ -39,22 +39,22 @@ sections:
   #     reversed: true
   #     headline: "Movie Theater Giessen"
   #     text: "On 4 days and in 8 screenings over 60 digital series and pilot episodes will be screened. We'll start with an open-air screening in Wetzlar with focus on Hessian series, all other 7 screenings will take place in Kinocenter Giessen. Series from 18 countries offer a versatile program. Numerous series creators will be present and give insights into the production of their series."
-  # - partial: teaser-grid
-  #   headline: jury series
-  #   data:
-  #     list: jury-series
-  # - partial: teaser-grid
-  #   headline: jury documentary
-  #   data:
-  #     list: jury-documentary
-  # - partial: teaser-grid
-  #   headline: jury animation
-  #   data:
-  #     list: jury-animation
-  # - partial: teaser-grid
-  #   headline: jury pilots
-  #   data:
-  #     list: jury-pilots
+  - partial: teaser-grid
+    headline: jury series
+    data:
+      list: jury-series
+  - partial: teaser-grid
+    headline: jury documentary
+    data:
+      list: jury-documentary
+  - partial: teaser-grid
+    headline: jury animation
+    data:
+      list: jury-animation
+  - partial: teaser-grid
+    headline: jury pilots
+    data:
+      list: jury-pilots
   - partial: text-and-image
     headline: die Seriale in the videmic app
     data:

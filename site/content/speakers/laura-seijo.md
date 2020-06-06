@@ -1,7 +1,7 @@
 ---
 title: Laura Seijo
 image: /img/speaker/laura-seijo.jpg
-shortdescription: Writer, Producer | UN3
+shortdescription: Writer, Producer | UN3 | Argentina
 ---
 <img src="/img/speaker/laura-seijo.jpg">
 ## Laura Seijo

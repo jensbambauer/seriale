@@ -28,6 +28,12 @@ languageCode = "en-us"
     weight     = 4
 
     [[menu.main]]
+    identifier = "program"
+    name       = "Program"
+    url        = "/program/"
+    weight     = 4
+
+    [[menu.main]]
     identifier = "blog"
     name       = "Blog"
     url        = "/post/"

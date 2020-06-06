@@ -1,7 +1,7 @@
 ---
 title: Joachim Jung
 image: /img/speaker/joachim-jung.jpg
-shortdescription: Writer, Creator
+shortdescription: Writer, Creator | Germany
 ---
 <img src="/img/speaker/joachim-jung.jpg">
 ## Joachim Jung

@@ -1,7 +1,7 @@
 ---
 title: Sergio Sosa
 image: /img/speaker/sergio-sosa.jpg
-shortdescription: VP of Operations | Flixxo
+shortdescription: VP of Operations | Flixxo | Argentina
 ---
 <img src="/img/speaker/sergio-sosa.jpg">
 ## Sergio Sosa

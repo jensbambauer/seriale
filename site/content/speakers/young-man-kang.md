@@ -1,7 +1,7 @@
 ---
 title: Young Man Kang
 image: /img/speaker/young-man-kang.jpg
-shortdescription: YMK Films | Seoul Webfest
+shortdescription: YMK Films | Seoul Webfest | South Korea
 ---
 <img src="/img/speaker/young-man-kang.jpg">
 ## Young Man Kang
