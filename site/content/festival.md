@@ -9,8 +9,16 @@ sections:
         - headline: The festival
           button:
             overlay: true
-            text: watch festival trailer
+            text: watch trailer
             href: /festival-trailer
+        - headline: nominations 2020
+          button:
+            text: view now
+            href: /awards-2020
+        - headline: official selection 2020
+          button:
+            text: view now
+            href: /official-selection-2020
   - partial: text
     data:
       headline: About

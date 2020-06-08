@@ -4,7 +4,7 @@ languageCode = "en-us"
 [menu]
     [[menu.main]]
     identifier = "home"
-    name       = "Live"
+    name       = "Home"
     url        = "/"
     weight     = 1
 
