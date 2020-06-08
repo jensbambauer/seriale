@@ -67,6 +67,9 @@ sections:
               origin: Kim-moo You
         - headline: best editing
           list:
+            - title: True Demon
+              origin: <b>Hanno von Contzen,<b> Jan Zenkner
+              highlight: true
             - title: Hammersmith
               origin: Kyle Leland
             - title: It’s Your Turn
@@ -77,8 +80,6 @@ sections:
               origin: Riccardo Cannella
             - title: Sydney Sleuthers
               origin: <b>Joanna Beveridge,</b> Michelle St Claire
-            - title: True Demon
-              origin: Jan Zenkner
             - title: W.
               origin: Loic Tanson
             - title: What Happened to Mirae
