@@ -20,6 +20,6 @@ In this video we introduce you to Stephan Böhl and Christian Stadach – both h
 **"Anomalie" (Season 1, Part 2) won the award for "Best Production Design" at "die Seriale" 2020.**
 
 * Text: Robert Wolff
-* Filmteam: Micaela Masetto, Valerija Levin
+* Film team: Micaela Masetto, Valerija Levin
 * Music: Jonathan Barbir
-* Editor: Beate Bambauer
+* Editing: Beate Bambauer
