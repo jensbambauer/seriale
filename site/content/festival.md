@@ -11,7 +11,7 @@ sections:
             overlay: true
             text: watch trailer
             href: /festival-trailer
-        - headline: nominations 2020
+        - headline: nominees & winners 2020
           button:
             text: view now
             href: /awards-2020

@@ -6,18 +6,14 @@ sections:
     data:
       videosource: videos/digital-loop.mp4
       slides:
-        - headline: 6th edition will be a digital live event
-          # button:
-            # text: read blog
-            # href: /official-selection-2020
-        - headline: nominations 2020
+        - headline: nominees & winners 2020
           button:
             text: view now
             href: /awards-2020
-        - headline: official selection 2020
-          button:
-            text: view now
-            href: /official-selection-2020
+        # - headline: official selection 2020
+        #   button:
+        #     text: view now
+        #     href: /official-selection-2020
         # - headline: award winners 2019
         #   button:
         #     text: view now

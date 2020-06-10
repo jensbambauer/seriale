@@ -1,12 +1,19 @@
 ---
-title: nominations 2020 | die seriale
+title: nominees and winners 2020 | die seriale
 sections:
   - partial: text
-    headline: Nominees 2020
+    headline: Nominees & Winners 2020
     data:
-      headline: best series
       paragraphs:
-        - text: "All narrative series are nominated for BEST SERIES. The finalists will be announced during the festival days. The BEST SERIES award includes prize money of 1.000 €."
+        - text: "All narrative series are nominated for BEST SERIES. The BEST SERIES award includes prize money of 1.000 €."
+  - partial: list-columns
+    smallmargin: true
+    data:
+      items:
+        - headline: best series
+          list:
+            - title: Migrant Stories
+              highlight: true
   - partial: list-columns
     smallmargin: true
     data:
@@ -25,6 +32,7 @@ sections:
               title: Letters to my Ex
             - origin: <b>Misti Boland,</b> Jeremy Osbern
               title: The Square Root
+              highlight: true
             - origin: George Reese
               title: Utopia Planitia
             - origin: Frederic Zeimet
@@ -47,6 +55,7 @@ sections:
               origin: Young Man Kang
             - title: "W."
               origin: Frederic Zeimet
+              highlight: true
         - headline: best cinematography
           list:
             - title: Anomalie (S1P2) 
@@ -63,6 +72,7 @@ sections:
               origin: 
             - title: True Demon
               origin: Max Lais
+              highlight: true
             - title: What Happened to Mirae
               origin: Kim-moo You
         - headline: best editing
@@ -84,11 +94,11 @@ sections:
               origin: Loic Tanson
             - title: What Happened to Mirae
               origin: Joo-hyun Yoo
-
         - headline: best actress
           list:
             - title: Haus Kummerveldt
               origin: Milena Straube
+              highlight: true
             - title: Maestra Veneno
               origin: Andrea Vélazquez
             - title: "Pepper: Ricochet"
@@ -114,6 +124,7 @@ sections:
               origin: Marcel Becker-Neu
             - title: Millionaire from Balashikha
               origin: Vladimir Kanuhin
+              highlight: true
             - title: Preview
               origin: Bertrand Usclat
             - title: Slippers
@@ -122,6 +133,7 @@ sections:
               origin: Hannes Hellmann 
             - title: What Happened to Mirae
               origin: Kangin
+
         - headline: best supporting actress
           list:
             - title: Millionaire from Balashikha
@@ -132,6 +144,7 @@ sections:
               origin: Maria Kempken
             - title: The Y Theory (S2)
               origin: Noémi Knecht
+              highlight: true
             - title: Utopia Planitia
               origin: Kendra Alaura
             - title: Whatever 
@@ -149,6 +162,7 @@ sections:
               origin: James Gerard
             - title: Seltsam (S2)
               origin: Fabrice Robert
+              highlight: true
             - title: Silent Forest
               origin: Emrah Erdogru
 
@@ -166,6 +180,7 @@ sections:
               origin: <b>Maria Kotrotsou,</b> Kevin Tourné
             - title: The Runner
               origin: DJ KBS
+              highlight: true
 
         - headline: best sound design
           list:
@@ -179,6 +194,7 @@ sections:
               origin:
             - title: True Demon
               origin:
+              highlight: true
             - title: "W."
               origin:
 
@@ -194,6 +210,7 @@ sections:
               origin:
             - title: True Demon
               origin:
+              highlight: true
             - title: Utopia Planitia
               origin:
 
@@ -201,6 +218,7 @@ sections:
           list:
             - title: Anomalie (S1P2)
               origin:
+              highlight: true
             - title: En Red / In Network
               origin:
             - title: Fehler 78
@@ -217,7 +235,8 @@ sections:
             - title: Fehler 78
               origin:
             - title: Haus Kummerveldt
-              origin:
+              origin: Emily Schumann
+              highlight: true
             - title: Lover of the Palace
               origin:
             - title: Slippers
@@ -231,6 +250,7 @@ sections:
           list: 
             - title: Carpark Clubbing
               origin:
+              highlight: true
             - title: Discipline
               origin:
             - title: How to Buy a Baby (S2)
@@ -254,6 +274,7 @@ sections:
               origin:
             - title: La Festa Triste
               origin:
+              highlight: true
             - title: Reset - Make your Decision
               origin:
             - title: Swipe
@@ -273,6 +294,7 @@ sections:
               origin:
             - title: Spike and Dadda
               origin:
+              highlight: true
 
         - headline: best documentary
           list:
@@ -288,6 +310,7 @@ sections:
               origin:
             - title: Walls of Disorder
               origin:
+              highlight: true
             - title: "Who Killed Lucy the Poodle?"
               origin:
             - title: "What is Emerging?"
@@ -299,6 +322,7 @@ sections:
               origin:
             - title: Constance
               origin:
+              highlight: true
             - title: Divine419 - Hawkers Hustle
               origin:
             - title: Escape
