@@ -4,9 +4,8 @@ date: 2020-06-09T23:42:59.810Z
 vimeo: '427554325'
 description: >-
   Interview with Christian Stadach, Stephan Böhl and Marc Boutter | Tag & Nacht
-  Media
-
-  | *Anomalie* won the award for *Best Production Design* at *die Seriale* 2020.
+  Media - *Anomalie* won the award for *Best Production Design* at *die Seriale*
+  2020.
 ---
 **Anomalie | Germany**
 
