@@ -6,7 +6,8 @@ description: >-
   Interview with Christian Stadach, Stephan Böhl and Marc Boutter | Tag & Nacht
   Media
 
-  "Anomalie" won the award for "Best Production Design" at "die Seriale" 2020.
+  --- "Anomalie" won the award for "Best Production Design" at "die Seriale"
+  2020.
 ---
 **"Anomalie" | Germany**
 
