@@ -17,8 +17,9 @@ If we have learned anything from Netflix recent hit series “Dark” (2017) it'
 
 In this video we introduce you to Stephan Böhl and Christian Stadach – both heart and mind behind “Anomalie” – who founded the production company Tag & Nacht Media together with Thomas Meudt, out of a seminar room at Darmstadt University. As Darmstadt is also the place where the events of the series unfold, they discuss the significance of filming locations yet unknown touching on their importance for developing a unique cinematographic style. Moreover leading actor Marc Boutter talks about the protagonist's quest to find out about his identity and the past of his parents. Be assured he's giving no spoilers about the twisted ending of "Anomalie"… ;-)
 
-**"Anomalie" won the award for "Best Production Design" at "die Seriale" 2020.**
+**"Anomalie" (Season 1, Part 2) won the award for "Best Production Design" at "die Seriale" 2020.**
 
 * Text: Robert Wolff
+* Filmteam: Micaela Masetto, Valerija Levin
 * Music: Jonathan Barbir
 * Editor: Beate Bambauer
