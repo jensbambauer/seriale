@@ -4,14 +4,14 @@ title: >-
   Event
 date: 2020-06-02T12:22:00.000Z
 description: >-
-  The beginning of the 6th edition of “die Seriale – DigitalSeriesFestival
-  Giessen” is just around the corner and while the countdown is on we are in the
+  The beginning of the 6th edition of *die Seriale – DigitalSeriesFestival
+  Giessen* is just around the corner and while the countdown is on we are in the
   middle of the last preparations. 
 image: /img/neutitelbild-graphics_lichtacker_mediendesign.jpg
 ---
-The beginning of the 6th edition of “die Seriale – DigitalSeriesFestival Giessen” is just around the corner and while the countdown is on we are in the middle of the last preparations. As we have adjusted our festival to match the current circumstances, this time we are leaving the physical cinema behind to skyrocket into the endless space of the WorldWideWeb as a “Digital Live Event”. So take your protein pills and put your helmet on since from up there we are starting a transmission that has got it all – and more!
+The beginning of the 6th edition of *die Seriale – DigitalSeriesFestival Giessen* is just around the corner and while the countdown is on we are in the middle of the last preparations. As we have adjusted our festival to match the current circumstances, this time we are leaving the physical cinema behind to skyrocket into the endless space of the WorldWideWeb as a *Digital Live Event*. So take your protein pills and put your helmet on since from up there we are starting a transmission that has got it all – and more!
 
-The details? Just after we initiate “die Seriale” on our website with a live opening ceremony on Wednesday the 3rd  (at 4 pm) you can start streaming this year's excellent choice of digital series on the Videmic App until the end of the festival at 8th of June. The Official Selection includes well-renowned shows as well as absolute world premieres and secret gems to discover: Overall there are 62 series and 9 pilots we received from all over the world, covering the whole cinematic spectrum from drama to comedy, documentation to animation, horror, sci-fi, mystery… you name it! 
+The details? Just after we initiate *die Seriale* on our website with a live opening ceremony on Wednesday the 3rd  (at 4 pm) you can start streaming this year's excellent choice of digital series on the Videmic App until the end of the festival at 8th of June. The Official Selection includes well-renowned shows as well as absolute world premieres and secret gems to discover: Overall there are 62 series and 9 pilots we received from all over the world, covering the whole cinematic spectrum from drama to comedy, documentation to animation, horror, sci-fi, mystery… you name it! 
 
 ![](/img/dieseriale-cinema-screening.jpg)
 
@@ -41,7 +41,7 @@ We are aware, that it is a challenging enterprise to translate this special atmo
 
 ![](/img/dieseriale-awardwinner.jpg)
 
-To this effect, we are looking forward to bring the digital series and this year's festival back to its roots, launching it into the digital space and back onto your mobile devices via our “Videmic” online cinema. Just make sure to check your WiFi-connection and Houston will be alright. 
+To this effect, we are looking forward to bring the digital series and this year's festival back to its roots, launching it into the digital space and back onto your mobile devices via our *Videmic* online cinema. Just make sure to check your WiFi-connection and Houston will be alright. 
 
 To shorten the waiting time until the take-off, this blog will provide you with a variation of interviews and articles on the subject of matter from today on. If you want to find out about the background, inspirations and works of the various creators, we promise that you'll find a video that suits your interests. You might even have played with the thought of making your own digital series but you don't know how and where to start? Be sure to check out our interview-compilation on that issue, as we have asked them all for advice. Moreover we will grant you a privileged insight into the inner workings of the digital series market and reason on the past and present development of this young and promising format.
 
