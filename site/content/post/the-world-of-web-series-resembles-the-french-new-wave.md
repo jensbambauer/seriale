@@ -4,15 +4,15 @@ date: 2020-06-15T15:23:03.049Z
 description: >-
   Matthieu Kassimo, director of the web series Seltsam, on the importance of
   festivals, his career and his web series.
-image: /img/titelbildblogseltsamposter.jpg
+image: /img/seltsameins.jpg
 ---
 **The world of web series resembles the French New Wave**
 
 **Matthieu Kassimo, director of the web series _Seltsam_, on the importance of festivals, his career and his web series**
 
-Matthieu Kassimo is the director of the web series _Seltsam_. The second season was nominated four times at the Seriale in 2020 and won the award for the Best supporting actor (Fabrice Robert) for his unique and charismatic appearance as a hairdresser. He convinced the jury with his ability to keep the lightness even in dramatic and bizarre moments and to take the audience on an exciting and mysterious journey. _Seltsam_ is made for film fans appreciating the great visionaries like John Carpenter, Dario Argento, George Romero, Brian De Palma oder Tim Burton. Each episode tells a different story about paranormal activities and therefore offers references to famous movies or series such as _The Twilight Zone_ - without imitating them too clearly. In the following interview Kassimo shares his opinions and experiences with web series festivals, his motivation to create films and his background.
+Matthieu Kassimo is the director of the web series _Seltsam_. The second season was nominated four times at the Seriale in 2020 and won the award for the _Best Supporting Actor_ (Fabrice Robert) for his unique and charismatic appearance as a hairdresser. He convinced the jury with his ability to keep the lightness even in dramatic and bizarre moments and to take the audience on an exciting and mysterious journey. _Seltsam_ is made for film fans appreciating the great visionaries like John Carpenter, Dario Argento, George Romero, Brian De Palma oder Tim Burton. Each episode tells a different story about paranormal activities and therefore offers references to famous movies or series such as _The Twilight Zone_ - without imitating them too clearly. In the following interview Kassimo shares his opinions and experiences with web series festivals, his motivation to create films and his background.
 
-!\[](/img/bild2u3blog.jpg)
+!\[](/img/seltsamzwei.jpg)
 
 left: Fabrice Robert, Season 2, Episode 4 | right: Director Matthieu Kassimo
 
@@ -28,7 +28,7 @@ left: Fabrice Robert, Season 2, Episode 4 | right: Director Matthieu Kassimo
 
 **Matthieu Kassimo:** I think meeting people in real life is better because you can exchange information in a more human way. But having a very big crisis all around the world I understand that many festivals have been cancelled. Making a festival virtually could be a blessing for this year, maybe it could be an option for the future, but I think you always have to work face to face with people. There is something strange about it when everything happens online. I guess we should try our best to just make it real and more human. But for this year it's a blessing that there is such a happening.
 
-!\[](/img/bild4blogseltsamsetcreditsaurelieboivin2.jpg)
+!\[](/img/seltsamdrei.jpg)
 
 Setphoto, _Seltsam_, © Aurélie Boivin
 
@@ -44,7 +44,7 @@ Setphoto, _Seltsam_, © Aurélie Boivin
 
 **Matthieu Kassimo:** I think web series are a very good option for filmmakers and creators to be part of something bigger and to show our talents. You can upload your work to Youtube and everyone can watch it, which is a very good opportunity. Nowadays if you have a good camera and a good crew and actors you can do something, even if you don't have a lot of financial means. I think that the world of the web series nowadays is more like what the French New Wave was in the late 50s and 60s. You can make films _under the radar_.
 
-!\[](/img/bild5blogseltsamcreditsaurelieboivin2.jpg)
+!\[](/img/seltsamvier.jpg)
 
 Setphoto, _Seltsam_, © Aurélie Boivin
 
