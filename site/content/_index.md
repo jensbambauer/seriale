@@ -6,6 +6,11 @@ sections:
     data:
       videosource: videos/digital-loop.mp4
       slides:
+        - headline: Award Ceremony
+          button:
+            overlay: true
+            text: watch
+            href: /award-ceremony
         - headline: nominees & winners 2020
           button:
             text: view now
