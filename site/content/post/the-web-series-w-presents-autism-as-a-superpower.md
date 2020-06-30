@@ -1,5 +1,5 @@
 ---
-title: The web series *W.* presents autism as a superpower
+title: The web series W. presents autism as a superpower
 date: 2020-06-07T22:47:00.763Z
 description: >-
   Frédéric Zeimet received the award for *Best Screenplay* at the Seriale 2020.
