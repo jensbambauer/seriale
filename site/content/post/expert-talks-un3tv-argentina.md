@@ -11,7 +11,7 @@ description: >-
 
 **Interview with Ariana Saiegh, Rocío Carbajo and Laura Seijo at SERIALE PRO 2019**
 
-UN3 is the channel of the National University of Tres de Febrero in Buenos Aires, Argentina. It's an innovative channel which is including educational videos for young people and therefore cooperates with the Ministry of Education from Argentina. Most of their projects are web series in cooperation with the Institute of Cinema, for example their current biggest project _Breaking Point_, which is their first series in Virtual Reality. This series consists of eight episodes: Four of them are showing the first dates of different couples and the other half their breakups. 
+UN3 is the channel of the National University of Tres de Febrero and began its activities in 2014. Since then it has been a pioneer in digital series in Argentina. It's an innovative channel which is including educational videos for young people and therefore cooperates with the Ministry of Education from Argentina. Today UN3 has produced more than 100 series and received over 100 awards worldwide. In the interview they introduce their first Virtual Reality series _Breaking Point._  
 
 **Text**: Enrico Schierer
 
