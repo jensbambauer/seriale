@@ -9,13 +9,13 @@ image: /img/titelconstance.jpg
 ---
 Inspired by scandi noir crime dramas: _Constance_
 
-**A countryside crime drama from New Zealand **
+**A countryside crime drama from New Zealand**
 
 Interview with Fiona Armstrong, producer and co-writer and Travis Graham, director and co-writer of the pilot _Constance_. _Constance_ won the _Best Pilot_ award at _die Seriale_ 2020.
 
 This year's award for best pilot went to _Constance_, the first episode of a drama and crime series surrounding the death of Constance O'Brien. Fiona Helen Armstrong, Travis Graham, Jonathan James, and Henry Rolleston created the series and shot the pilot in 2018. It came through a direct selection from New Zealand Webfest to die Seriale 2020 and had its European premiere here. The episode begins with beautiful shots of hills and sunrise, which are accompanied by ominous music. This sets the mood for the whole pilot. The story takes place in the made-up town of Titakataka. The beautiful landscape we can see in the first shot and throughout the pilot is from Wanaka in the Otago region on the South Island of New Zealand. In the pilot, we meet two families – the O'Briens, who lost a family member, and the Abbotts who are friends and acquaintances of the O'Briens. At first, it seems like Constance's death was a hunting accident, but at the end of the episode, it turns out that forensics could not match the bullet to the weapon of the suspect. Now Constance's death will be treated as a homicide and everyone is a possible suspect. Kindly, two of the creators, Fiona Armstrong and Travis Graham, agreed to answer some of our questions. 
 
-!\[](/img/bildzweiconstance.jpg)
+![](/img/bildzweiconstance.jpg)
 
 **Fiona Armstrong as Tanya Abbott © Constance**
 
@@ -31,7 +31,7 @@ This year's award for best pilot went to _Constance_, the first episode of a dra
 
 **Travis Graham:** Drone footage! We were working to an incredibly tight budget and we didn’t have a cent to spare. A wonderful local producer Toby Crawford put us in touch with Ross – who very generously came on board with the project. The drone footage became such a standout in the show as it showcased the wonderful scenery so well, it almost became its own character. We were incredibly lucky. 
 
-!\[](/img/bilddreiconstance.jpg)
+![](/img/bilddreiconstance.jpg)
 
 **Susan Brady as Carolyn Abbott © Constance**
 
@@ -47,7 +47,7 @@ This year's award for best pilot went to _Constance_, the first episode of a dra
 
 **Travis Graham:** At the point when writing the story – NZ had not told a rural, South Island drama. Fiona spent five years living down there, and it felt like the right place. Central Otago is picturesque, but it is also very secluded. It is surrounded by high country stations (perfect for the story) and jaw dropping views. But cold winters and arid summers make it a breeding ground for danger and beauty in equal measure. There is something chilling about something so morbid happening in such a beautiful setting. The community is small, like the rest of the world is and vulnerable to lies, corruption and violence, however given its size, these events are often more intense and impact more people. 
 
-!\[](/img/bildvierconstance.jpg)
+![](/img/bildvierconstance.jpg)
 
 **Henry Rolleston as Arthur O'Brien © Constance**
 
@@ -63,7 +63,7 @@ This year's award for best pilot went to _Constance_, the first episode of a dra
 
 **Fiona Armstrong:** It is really hard to get funding here in NZ and there are only two real platforms! But never say never. It’s our first production and holds such a special place in our heart. It’s a really important story to tell in New Zealand too and we will keep pushing the series the best we can. What brought you into creating web series? Online content is the new way we want to watch TV! We do not like to be told when and where we should watch something. Audiences like fast moving dramas that keep them on the edge of their seat! And so, a web series was perfect for Constance! We look at how much we could do in 17 minutes…there is no need for always making a full TV hour. 
 
-!\[](/img/bildfuenfconstance.jpg)
+![](/img/bildfuenfconstance.jpg)
 
 **Peter Rowley as James O'Brien © Constance** 
 
@@ -77,11 +77,7 @@ This year's award for best pilot went to _Constance_, the first episode of a dra
 
 **Seriale:** Thank you very much for answering our questions. Hopefully, you will be able to continue Constance because we definitely want to see more. 
 
-
-
 **Interview:** Annabelle Mueller
-
-
 
 **Constance (2018)** 
 
