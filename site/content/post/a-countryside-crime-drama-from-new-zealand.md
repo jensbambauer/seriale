@@ -7,7 +7,7 @@ description: >-
   award at die Seriale 2020.
 image: /img/titelconstance.jpg
 ---
-Inspired by scandi noir crime dramas: _Constance_
+**Inspired by scandi noir crime dramas: _Constance_**
 
 **A countryside crime drama from New Zealand**
 
