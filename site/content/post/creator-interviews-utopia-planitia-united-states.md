@@ -15,7 +15,7 @@ A quote about good and evil, seen as human constructs and the human ability to c
 **Text:** Enrico Schierer\
 **Film team:** Micaela Masetto, Valerija Levin\
 **Music:** Jonathan Barbir\
-**Editor:** Beate Bambauer****
+**Editor:** Beate Bambauer
 
 **Utopia Planitia** (2019)\
 Country: USA\
