@@ -14,7 +14,7 @@ Matthieu Kassimo is the director of the web series _Seltsam_. The second season 
 
 ![](/img/seltsamzwei.jpg)
 
-left: Fabrice Robert, Season 2, Episode 4 | right: Director Matthieu Kassimo
+**left: Fabrice Robert, Season 2, Episode 4 | right: Director Matthieu Kassimo**
 
 **Seriale: **Matthieu, the first episode of the first season of _Seltsam_ was nominated twice in France and the US and also in Russia and Great Britain and won the Gold Award at _Spotlight Horror Film Awards_ in Atlanta 2016. What role do web series festivals or nominations and even awards play for you? Which experiences could you make from web series festivals?
 
@@ -30,7 +30,7 @@ left: Fabrice Robert, Season 2, Episode 4 | right: Director Matthieu Kassimo
 
 ![](/img/seltsamdrei.jpg)
 
-Setphoto, _Seltsam_, © Aurélie Boivin
+**Setphoto, _Seltsam_, © Aurélie Boivin**
 
 **Seriale: **Back to _Seltsam_. How did you come to choose the German term instead of the French term _étrange_ or English _strange_?  
 
@@ -45,7 +45,7 @@ Setphoto, _Seltsam_, © Aurélie Boivin
 **Matthieu Kassimo:** I think web series are a very good option for filmmakers and creators to be part of something bigger and to show our talents. You can upload your work to Youtube and everyone can watch it, which is a very good opportunity. Nowadays if you have a good camera and a good crew and actors you can do something, even if you don't have a lot of financial means. I think that the world of the web series nowadays is more like what the French New Wave was in the late 50s and 60s. You can make films _under the radar_.
 
 ![](/img/seltsamvier.jpg)
-Setphoto, _Seltsam_, © Aurélie Boivin
+**Setphoto, _Seltsam_, © Aurélie Boivin**
 
 **Seriale: **Will there be a third season of _Seltsam_?
 
