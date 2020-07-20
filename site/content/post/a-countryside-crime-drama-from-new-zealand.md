@@ -79,18 +79,11 @@ This year's award for best pilot went to _Constance_, the first episode of a dra
 
 **Interview:** Annabelle Mueller
 
-**Constance (2018)** 
-
-Country: New Zealand 
-
-Genre: Crime, Drama 
-
-Runtime: 15 minutes 
-
-Director: Travis Graham 
-
-Writers: Fiona Armstrong, Tessa Livingston, Henry Rolleston, Travis Graham 
-
-Producer: Jessi Williams, Fiona Armstrong 
-
+**Constance (2018)** \
+Country: New Zealand \
+Genre: Crime, Drama \
+Runtime: 15 minutes \
+Director: Travis Graham \
+Writers: Fiona Armstrong, Tessa Livingston, Henry Rolleston, Travis Graham \
+Producer: Jessi Williams, Fiona Armstrong \
 Cast: Sara Wiseman (Kate O'Brien), Peter Rowley (James O'Brien), Travis Graham (Tom O'Brien), Henry Rolleston (Arthur O'Brien), Renaye Tamati (Vanessa O'Brien), Jessi Williams (Sergeant Sophie Cooper), Craig Hall (David Rooks), Jay Simon (Stephen Abbott), Susan Brady (Carolyn Abbott), Fiona Armstrong (Tanya Abbott)
