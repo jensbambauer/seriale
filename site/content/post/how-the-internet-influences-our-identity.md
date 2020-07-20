@@ -9,15 +9,14 @@ image: /img/enredtitel.jpg
 ---
 **Santiago Talledo as LucasEnRed © En Red/In Network**
 
-**How the Internet influences our identity**
-
+**How the Internet influences our identity**\
 **An interview with the creators of the digital series En Red/In Network**
 
 The Argentinian series _En Red/In Network_ is a webseries about Lucas who is a famous youtuber named _Lucas EnRed_. He is very popular and has more than a million and a half subscribers on Youtube. One day he gets a weird message from a stranger and has to prove in ten days that his existence is worth it, otherwise he will die. The series is directed by Gisela Benenzon and Alejo Rosemberg and produced by Juan Pablo Redondo. _En Red/In Network_ was nominated for Best Screenplay (Gisela Benenzon) and also nominated for Best Production Design at the Seriale 2020.
 
 Gisela Benenzon is a screenwriter and a playwright. She has already worked as an author for Telefe, Pol-Ka, Televisa, E! EntertainmentTelevision and Mac Guffin. She was the director and screenwriter of the short film _Treatment_ and the web series _Soy Ander_. Movies such as _Dead Birds_ and _When I see you again_ are also part of her work and she received a scholarship from the Ministry of Culture of Madrid for the screenplay for _Lies about Ava_. She is the winner of the Artei Theater Award and author of the series _Apache: The Life of Carlos Tevez_. In the projects of Alejo Rosemberg you can trace a distinct cinematic look, because Alejo brings his passion for painting to moving pictures. He showcases his special way of storytelling in a wide range of genres from comedy to thriller as well as in other diverse projects. Besides short films, web series and experimental films, he also shoots television commercials and music videos. We had an interview with both creators. 
 
-!\[](/img/enredzwei.jpg)
+![](/img/enredzwei.jpg)
 
 **Poster of the webseries En Red/ In Network, Gisella Benenzon, Alejo Rosemberg © En Red/In Network**
 
@@ -37,11 +36,11 @@ Gisela Benenzon is a screenwriter and a playwright. She has already worked as an
 
 **Gisela Benenzon:** Lucas, the main character, found a space on the network where he can build himself up, he has absolute confidence on the Internet and within his apartment he created his own world. His charisma and his confidence make the viewer understand his world and live it through his eyes. He is humorous and communicates his ideas with great skill. He is like a kind of magician in making something virtual real. 
 
-**Seriale:** Were spontaneous changes made during the shooting?
+**Seriale:** Did you make spontaneous changes during the shooting?
 
 **Gisela Benenzon:** I think there are always changes that come up during filming from the original script. In the case of _In Network_, we had to be very precise during filming because the continuity of all the computer and cell phone screens forced us to be precise in dialogues and situations. There were some change in text maybe but nothing relevant to the plot.
 
-!\[](/img/bilddrei.jpg)
+![](/img/bilddrei.jpg)
 
 **Paulina Vetrano © En Red/In Network**
 
@@ -57,7 +56,7 @@ Gisela Benenzon is a screenwriter and a playwright. She has already worked as an
 
 **Alejo Rosemberg:** I think it was fun to rehearse some lines of the script through smartphones, because it would be filmed like that. We rehearsed several times but then we asked the actors to go outside their houses with the task of practicing and reviewing the scenes in video calls between each other. In general it was a very fun shoot, in a great location and a warm atmosphere, of course the text errors gave us a few laughs as well. Honestly, at the end of several days of filming, nobody really knew what their own phone was anymore, we were bombarded with photos and audio messages that we used to communicate to the film crew and to the actors and characters among them. Like a communication chaos, very typical of these times. 
 
-!\[](/img/bildvier.jpg)
+![](/img/bildvier.jpg)
 
 **Santiago Talledo and Gisela Benenzon on the set © En Red/In Network**
 
@@ -69,22 +68,13 @@ Gisela Benenzon is a screenwriter and a playwright. She has already worked as an
 
 **Gisela Benenzon:** I really like the thriller-genre, personally I find it very difficult to write such a script and to film it. You need good timing and a feeling for a thriller in order to "catch" the audience as much as possible. If everything is done correctly and well, a great result with great entertainment value will be made.
 
-
-
 **Interview:** Dogan Eryildiz
 
-**En Red / In Network (2020)**
-
-Country: Argentina
-
-Genre: Drama, Suspense
-
-Runtime: 5 min.
-
-Directors: Gisela Benenzon & Alejo Rosemberg
-
-Writer: Gisela Benenzon
-
-Producer: Juan Pablo Redondo
-
+**En Red / In Network (2020)**\
+Country: Argentina\
+Genre: Drama, Suspense\
+Runtime: 5 min.\
+Directors: Gisela Benenzon & Alejo Rosemberg\
+Writer: Gisela Benenzon\
+Producer: Juan Pablo Redondo\
 Cast: Santiago Talledo as LucasEnRed, Paulina Vetrano as MicaFox
