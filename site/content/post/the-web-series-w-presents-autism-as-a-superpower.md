@@ -8,11 +8,11 @@ description: >-
   missing person case of three children.
 image: /img/einsw.jpg
 ---
-**Frédéric Zeimet received the award for _Best Screenplay_ at the Seriale 2020**
-
 _W._ is the first web series from Luxembourg. Created by Frédéric Zeimet, it follows the story of W. (Catherine Elsen), who is the main suspect in a missing person case of three children. Being an autist, W. struggles with finding out who she is and how she got involved in the crimes. Over the course of six episodes, the series gives an insight to the thought process of autistic people as well as W.‘s role in the solution of  the case.
 
 ![](/img/zweiw.jpg)
+
+**Frédéric Zeimet received the award for _Best Screenplay_ at the Seriale 2020**
 
 _W._ is available for streaming on Youtube, Instagram, Facebook and Vimeo. While the audio is Luxembourgish, viewers can choose to enable English and French subtitles. According to the producers, the series is intended to be watched during small breaks in everyday life. This is supported by an average run time of five to ten minutes per episode. Originally, the single episodes‘ release followed an inconsistent schedule, creating further suspense. This contradicts the light-hearted marketing prior to the series‘ release on social media, but is picked up again in later episodes.
 
