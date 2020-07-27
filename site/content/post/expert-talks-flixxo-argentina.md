@@ -10,7 +10,7 @@ Flixxo | Argentina
 
 Have you ever wondered, how in times of YouTube making you watch either cat-videos or conspiracy theories whilst collecting your data for blatant ads an alternative streaming experience could look like? 
 
-In this interview Sergio Sosa introduces Flixxo: an up-and-coming streaming-platform based in Argentina that uses the blockchain-technology and its very own cryptocurrency (the Flixx!) to revolutionize the way both, users and producers, get their favourite web series going.
+In this interview Sergio Sosa introduces _Flixxo_: an up-and-coming streaming-platform based in Argentina that uses the blockchain-technology and its very own cryptocurrency (the Flixx!) to revolutionize the way both, users and producers, get their favourite web series going.
 
 **Text:** Robert Wolff\
 **Film team:** Micaela Masetto, Valerija Levin\
