@@ -11,14 +11,14 @@ description: >-
 image: /img/titelbildblogfehler78.jpg
 ---
 \
-**In premonition **\
+**In premonition**\
 **The Argentinean web series Fehler 78 takes up the topic of a pandemic**
 
 The series _Fehler 78_ by Gastón Armagno is a series in a post-apocalyptic style and it was nominated at Seriale 2020 for Best Cinematography. The directors of the series Facundo Nuble and Gastón Armagno were nominated for Best Director. Gastón Armagno also plays a supporting role in this series. He is from Uruguay and is one of the most active creators in the web series world, his works have its own distinctive character. He won the award for Best Supporting Role at the Seriale 2018. Gastón Armagno is an author, screenwriter, actor and the CEO at Arcanoide Films. At the Buenos Aires Web Fest 2016 his mockumentary series _Escuela de Canoteja_ won the prize for the Best Screenplay. His series _El Maravilloso Parque Hoolister_ has been nominated at festivals all over the world. Animated series such as _Chack Morris Life_ are also very successful and can currently be watched on UN3TV, an Argentinian platform for web series. The new web series _Hotel Romanov_ premiered at FLOW and won the award for the Best Screenplay in Spain and Russia and Best Comedy and Best Supporting Actor in Spain, Argentina and Germany. At the Produ 2019 Awards, Gastón Armagno was selected as Best Director and Best Soundtrack at the Buenos Aires Series 2019.
 
 We had an interview with Gastón Armagno and asked him a few questions about the series, that is set during a pandemic. In _Fehler 78_ the world is in a post-apocalyptic state. A small group of scientists who are traveling in a van discover that they are not the only ones who survived. Equipped with a protective suit and without help from others they are looking for answers. On their trip they find something that gives them hope but it also brings about a lot of problems.
 
- !\[](/img/bild2blogfehler78gastonarmagno.jpg)
+![](/img/bild2blogfehler78gastonarmagno.jpg)
 
 **Gastón Armagno**
 
@@ -36,7 +36,7 @@ The series is the kind of movie that has a science fiction story paired with a t
 
 **Gastón Armagno:** No, it was not inspired by current events or by the corona-virus. In the time we produced the series we did not know about the virus. The corona pandemic affected me a lot because I work as a director and actor so I could not work. I have to go out for my work and shoot scenes and with a pandemic that isn’t possible. But in that time where I had to stay at home it was good for me as a writer. I had a lot of time and was able to think of some new ideas.
 
-!\[](/img/bild3blogfehler78.jpeg)
+![](/img/bild3blogfehler78.jpeg)
 
 **Still © Fehler 78**
 
@@ -52,7 +52,7 @@ The series is the kind of movie that has a science fiction story paired with a t
 
 **Gastón Armagno:** I met all of them in another project and worked with them before. The script seemed like it was made for them. So I knew all of them except for Paula who was the infected girl. I saw Paula in a movie called _El Poso_, a very good movie, which is also very well produced. She was the main actress in this movie and I was really impressed with her acting skills and I definitely wanted her in _Fehler 78_. We had a great time together and it was really fun to work with her.
 
-!\[](/img/bild4blogfehler78.jpeg)
+![](/img/bild4blogfehler78.jpeg)
 
 **Still © Fehler 78**
 
@@ -68,7 +68,7 @@ The series is the kind of movie that has a science fiction story paired with a t
 
 **Gastón Armagno:** Yes, in the final episode because one of the actors had another movie shoot and he didn’t tell us that he couldn’t be there with us. The problem was that he told us about it on the last shooting day and he should have played an important part, where he would fight with a monster – and now we had nobody for this scene. We thought about integrating this scene into the second season and although it would have been a great scene for the end of the first season, now it’s even better as a cliffhanger, which makes you want to see the next season.
 
-!\[](/img/bild5blogfehler78.jpeg)
+![](/img/bild5blogfehler78.jpeg)
 
 **Still © Fehler 78**
 
