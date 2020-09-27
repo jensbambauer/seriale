@@ -1,7 +1,7 @@
 ---
 title: 'creator interviews | The Night of the Hungry Turtles, germany'
 date: 2020-09-27T15:37:06.166Z
-vimeo: 'https://vimeo.com/462362815'
+vimeo: '462362815'
 description: >-
   Interview with writer and director Shamila Lengsfeld and the main actresses
   Palesa Moloto and Lina Zaraket
