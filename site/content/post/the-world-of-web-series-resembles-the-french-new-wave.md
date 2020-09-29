@@ -58,3 +58,13 @@ Matthieu Kassimo is the director of the web series _Seltsam_. The second season 
 **Seriale: **Thank you very much for the interview! 
 
 **Interview:** Enrico Schierer
+
+**Seltsam**, Season 2 (2017)\
+Country: France\
+Genre: Fantasy, Thriller, Mystery\
+Runtime: 13 min.\
+Creator: Matthieu Kassimo\
+Directors: Alexandre Décade, Maya Outmizguine, Carole Mermoud, Virgilia Giambruno \
+Writers: Alexandre Décade, Maya Outmizguine, Carole Mermoud, Virgilia Giambruno \
+Producer: Matthieu Kassimo, Henry Chapouthier, Alexandre Décade\
+Cast: Rosa Cadima, Sébastien Gill, Christophe Chêne-Cailleteau, Brigitte Boucher, François Deblock, Matthieu Kassimo, Michel Prud'homme, Damien Zanoly, Sébastien Gill, Astrid Roos, Elise Anderson, Philippe De Monts, Jimmy Conchou, Fabrice Robert, Amandine Calsat, Paikan Lacoste, Vannina Furnion, Martin Jaspar, Florent Favier, Marine Morot, Pauline Cassan, Lumina Wang
