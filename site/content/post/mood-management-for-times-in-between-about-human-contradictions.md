@@ -60,6 +60,19 @@ Now, if you‘re curious about the new experiences the priest Wolfgang is having
 
 **Interview:** Tobias Lack
 
+**The Man For Your Sins** (2020)\
+Country: Germany\
+Genre: Comedy, Dramedy\
+Runtime: 5 min.\
+Director: Joachim Jung\
+Writer: Joachim Jung\
+Producer: Joachim Jung\
+Cast: Hannes Hellmann, Angela Roy, Samuel Finzi, Iréna Vilkova, Masha Zharkova, Gustav Peter Wöhler, Daniel Hyan, Bernd Grawert, Beni Mangelsdorf, Sascha Schicht, Shadi Eck, Gabriela Schmeide, Jale Arikan, Maike Bollow, Maria Kempken
+
+
+
+
+
 - - -
 
 - - -
