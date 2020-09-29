@@ -29,3 +29,12 @@ The first episode of _W._ is mostly narrated by the protagonist's thoughts, supp
 Frédéric Zeimet is an accomplished screenwriter and director born in Luxembourg. He was selected for the International Screenwriters Festival, the Screenwriter’s White Night at the Cannes Film Festival and ultimately won the Jury Prize at the Best Junior Script Prize in France in 2010. Further writing works include _Blind Spot_ (2012) and _Comeback_ (2012). Due to being multilingual (Luxembourgish, French, German and English), he was able to work as a script doctor on numerous films. _W._ marks Zeimets debut in directing and producing. After already having won the Gold Award for Best International Web Series at the 8h DC Web Fest, _W._ won the award for the Best Screenplay at this year’s Seriale. Frédéric Zeimet did also make an appearance as an Educational Speaker. Additionally, Catherine Elsen was nominated for Best Actress. 
 
 **Author:** Justin Döpp
+
+**W. **(2019)\
+Country: Luxembourg\
+Genre: Detective\
+Runtime: 6 min.\
+Director: Frederic Zeimet\
+Writer: Frederic Zeimet\
+Producer: Frederic Zeimet\
+Cast: Catherine Elsen, Jerome Burelbach, Frank Grotz, Claude Faber
