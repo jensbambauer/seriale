@@ -6,6 +6,8 @@ sections:
     data:
       videosource: videos/digital-loop.mp4
       slides:
+        - headline: Seriale Pro - Live Stream
+          subheadline: November 5th, 6pm
         - headline: Award Ceremony
           button:
             overlay: true

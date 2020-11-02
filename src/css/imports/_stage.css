@@ -87,6 +87,14 @@
         width: 200%;
         padding-left: 100%;
         margin-left: -100%;
+
+        em {
+          font-size: 50%;
+          display: block;
+          line-height: 60%;
+          color: var(--mainColor);
+          margin-top: 0.5em;
+        }
       }
 
       .button {

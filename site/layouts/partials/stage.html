@@ -20,9 +20,12 @@
       </svg>
       <h1 class="stage__slider__slide__text">
         {{.headline}}
+        <em>
+          {{.subheadline}}
+        </em>
       </h1>
       {{ with .button }}
-      <a href="{{.href}}" class="button" {{ if .overlay }}data-role="overlay" data-barba-prevent{{ end}}>{{.text}}</a>
+        <a href="{{.href}}" class="button" {{ if .overlay }}data-role="overlay" data-barba-prevent{{ end}}>{{.text}}</a>
       {{ end }}
     </article>
     {{ end }}
