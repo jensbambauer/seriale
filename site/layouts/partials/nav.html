@@ -2,22 +2,33 @@
   <div class="container">
     <div class="container__content">
       <div class="nav__container">
-        <span class="notice">6th digital series festival giessen</span>
+        <span class="notice">7th digital series festival giessen</span>
         <a href="/" class="logo">
           <span class="logo-container-seriale">
-            <img src="/img/logo.png" class="logo__symbol" /><img class="logo__typo" src="/img/die-seriale-typo.png" /> <em>june 3rd-8th 2020</em>
+            <img src="/img/logo.png" class="logo__symbol" /><img
+              class="logo__typo"
+              src="/img/die-seriale-typo.png"
+            />
+            <em>june 2nd-7th 2021</em>
           </span>
           <span class="logo-container-seriale-pro">
-            <img src="/img/logo-pro.png" class="logo__symbol" /><img class="logo__typo" src="/img/seriale-pro.png" /> <em>june 3rd-8th 2020</em>
+            <img src="/img/logo-pro.png" class="logo__symbol" /><img
+              class="logo__typo"
+              src="/img/seriale-pro.png"
+            />
+            <em>june 2nd-7th 2021</em>
           </span>
         </a>
-        <input type="checkbox" id="nav-toggle">
+        <input type="checkbox" id="nav-toggle" />
         <ul class="nav__items">
-          {{ $currentNode := . }}
-          {{ range .Site.Menus.main }}
-            <li>
-              <a class='{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}active{{end}}' href="{{.URL}}">{{ .Name }}</a>
-            </li>
+          {{ $currentNode := . }} {{ range .Site.Menus.main }}
+          <li>
+            <a
+              class='{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}active{{end}}'
+              href="{{.URL}}"
+              >{{ .Name }}</a
+            >
+          </li>
           {{ end }}
         </ul>
         <label for="nav-toggle" class="nav__burger"></label>

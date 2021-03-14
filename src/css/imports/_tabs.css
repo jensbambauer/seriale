@@ -4,6 +4,14 @@
         color: var(--mainColor);
     }
 
+    .stream-options {
+        margin-bottom: 80px;
+
+        a {
+            margin-right: 30px;
+        }
+    }
+
     &--stage {
         &:before {
             content: "";

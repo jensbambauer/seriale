@@ -1,13 +1,15 @@
 ---
-title: 6th Digital Series Festival Giessen 
+title: 6th Digital Series Festival Giessen
 sections:
   - partial: stage
     widesection: true
     data:
       videosource: videos/digital-loop.mp4
       slides:
-        - headline: Seriale Pro - Live Stream
-          subheadline: November 5th, 6pm
+        - headline: submissions for die seriale 2021 are open
+          button:
+            text: submit series
+            href: https://filmfreeway.com/dieSeriale
         - headline: Award Ceremony
           button:
             overlay: true
@@ -28,79 +30,78 @@ sections:
   # - partial: blog-previews
   #   data:
   #     test: 1
-  - partial: time-table
-    headline: streaming schedule
-    data:
-      full:
-        time: June 3th - June 8th
-        title: Screenings
-        location: Watch all series & pilots on demand in the Videmic App.
-        logo: /img/cropped-videmic_logo_4c.png
-        button:
-          text: Download Videmic App
-          href: https://videmic.de/app/
-        size: 4
-      days:
-        - title: June 3th
-          blocks:
-            - time: 4pm - 5pm
-              title: Opening Ceremony
-              location: live stream on die-seriale.de
-              size: 3
-        - title: June 5th
-          blocks:
-            - time: 10.30am - 6pm
-              title: Educational
-              location: live stream on die-seriale.de
-              size: 6
-        - title: June 6th
-          blocks:
-            - time: 10am - 4pm
-              title: Conference Program
-              location: live stream on die-seriale.de
-              pro: true
-              size: 6
-            - time: 4pm - 8pm
-              title: DIMA Digital Market
-              location: live stream on die-seriale.de
-              size: 2
-        - title: June 7th
-          blocks:
-            - time: 10am - 4pm
-              title: Conference Program
-              location: live stream on die-seriale.de
-              pro: true
-              size: 6
-            - time: 6pm - 8pm
-              title: Red Carpet
-              location: live stream on die-seriale.de
-              size: 3
-            - time: 8pm - 10pm
-              title: Award Ceremony
-              location: live stream on die-seriale.de
-              size: 3
+  # - partial: time-table
+  #   headline: streaming schedule
+  #   data:
+  #     full:
+  #       time: June 3th - June 8th
+  #       title: Screenings
+  #       location: Watch all series & pilots on demand in the Videmic App.
+  #       logo: /img/cropped-videmic_logo_4c.png
+  #       button:
+  #         text: Download Videmic App
+  #         href: https://videmic.de/app/
+  #       size: 4
+  #     days:
+  #       - title: June 3th
+  #         blocks:
+  #           - time: 4pm - 5pm
+  #             title: Opening Ceremony
+  #             location: live stream on die-seriale.de
+  #             size: 3
+  #       - title: June 5th
+  #         blocks:
+  #           - time: 10.30am - 6pm
+  #             title: Educational
+  #             location: live stream on die-seriale.de
+  #             size: 6
+  #       - title: June 6th
+  #         blocks:
+  #           - time: 10am - 4pm
+  #             title: Conference Program
+  #             location: live stream on die-seriale.de
+  #             pro: true
+  #             size: 6
+  #           - time: 4pm - 8pm
+  #             title: DIMA Digital Market
+  #             location: live stream on die-seriale.de
+  #             size: 2
+  #       - title: June 7th
+  #         blocks:
+  #           - time: 10am - 4pm
+  #             title: Conference Program
+  #             location: live stream on die-seriale.de
+  #             pro: true
+  #             size: 6
+  #           - time: 6pm - 8pm
+  #             title: Red Carpet
+  #             location: live stream on die-seriale.de
+  #             size: 3
+  #           - time: 8pm - 10pm
+  #             title: Award Ceremony
+  #             location: live stream on die-seriale.de
+  #             size: 3
   - partial: tabs
     data:
       background: img/be-part-of-it-bg.jpg
       headline: be part of it
       intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
       tabs:
+        - title: submit series
+          partial: tab-text
+          data:
+            headline: Submission are open
+            text: '<p>Submissions for series and pilots are open until january 31st, 2021<br>Pitch submissions are open until March 15th, 2021</p><a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
         - title: digital live event
           partial: tab-text
           data:
-            headline: die seriale 2020 takes place as a digital live event
+            headline: die seriale 2021 takes place as a hybrid live event
             text: "<ul><li>our website will be in view modus at the festival days</li><li>educational keynotes & panel discussions</li><li>seriale pro conference & dima digital market online</li><li>red carpet event with creator interviews</li><li>award ceremony online presentation</li><li>all series & pilots will be presented via the videmic app</li></ul>"
         - title: subscribe
           partial: tab-newsletter
           data:
             headline: follow us on social media
             text: "or join our newsletter to get updates:"
-        - title: submit series
-          partial: tab-text
-          data:
-            headline: submissions are closed
-            text: "<p>submissions will open again on september 15th 2020.</p>"
-            # text: "<p></p><a class=\"button\" href=\"https://filmfreeway.com/dieSeriale\">Submit via FilmFreeway</a>"
         # - title: get tickets
         #   partial: tab-text
         #   data:

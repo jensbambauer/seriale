@@ -35,7 +35,7 @@ sections:
           shortdescription: Website & Streaming
         - image: /img/team/Birgit-Schweitzer.jpg
           title: Birgit Schweitzer
-          shortdescription: Public Relations
+          shortdescription: Public Relations & Blog Editor
         - image: /img/team/Magdalena-Kaim.jpg
           title: Magdalena Kaim
           shortdescription: Award Ceremony Coordination & Host
