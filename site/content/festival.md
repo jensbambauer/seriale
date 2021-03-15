@@ -1,5 +1,5 @@
 ---
-title: 6th Digital Series Festival Giessen 
+title: 7th Digital Series Festival Giessen 
 sections:
   - partial: stage
     widesection: true
@@ -25,14 +25,14 @@ sections:
       paragraphs:
         - text: "&quot;die Seriale&quot; is the oldest festival in Germany for short form digital series.<br>The six-day festival is dedicated to audience, creators, students and all series fans. The Official Selection with over 70 series and pilots from 18 countries is presented in the Videmic app on demand. The supporting program offers a digital conference with lectures and panel discussions."
         - text: "At the Award Ceremony the most outstanding series will be awarded by an international expert jury. The 6th annual edition of &quot;die Seriale&quot; will be, because of the world wide pandemic situation, a virtual live event."
-  - partial: thumb-grid
-    headline: official selection 2020 - series
-    data:
-      list: series
-  - partial: thumb-grid
-    headline: official selection 2020 - pilots
-    data:
-      list: pilots
+  # - partial: thumb-grid
+  #   headline: official selection 2020 - series
+  #   data:
+  #     list: series
+  # - partial: thumb-grid
+  #   headline: official selection 2020 - pilots
+  #   data:
+  #     list: pilots
   - partial: text-and-image
     headline: Educational
     data:

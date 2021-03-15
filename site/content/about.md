@@ -1,5 +1,5 @@
 ---
-title: 6th Digital Series Festival Giessen 
+title: 7th Digital Series Festival Giessen
 sections:
   - partial: text
     headline: About
@@ -29,7 +29,7 @@ sections:
           shortdescription: Seriale Pro Coordination
         - image: /img/team/isabella-pianto.jpg
           title: Isabella Sophie Pianto
-          shortdescription: Educational Coordination 
+          shortdescription: Educational Coordination
         - image: /img/team/Jens-Bambauer.jpg
           title: Jens Bambauer
           shortdescription: Website & Streaming
@@ -41,10 +41,10 @@ sections:
           shortdescription: Award Ceremony Coordination & Host
         - image: /img/team/Axel-Ricke.jpg
           title: Axel Ricke
-          shortdescription: Award Ceremony Host 
+          shortdescription: Award Ceremony Host
         - image: /img/team/Henning-Ricke.jpg
           title: Henning Ricke
-          shortdescription: Award Ceremony Host 
+          shortdescription: Award Ceremony Host
         - image: /img/team/Christoforos-Mechanezidis.jpg
           title: Christoforos Mechanezidis
           shortdescription: Photography
@@ -80,7 +80,7 @@ sections:
           shortdescription: Festival Communication
         - image: /img/team/Annabelle-Mueller.jpg
           title: Annabelle Mueller
-          shortdescription: Festival & Seriale Pro Communication 
+          shortdescription: Festival & Seriale Pro Communication
         - image: /img/team/Kathrin-Belke.jpg
           title: Kathrin Belke
           shortdescription: Seriale Pro Communication
@@ -88,10 +88,10 @@ sections:
           title: Emilia Marz
           shortdescription: Educational & Red Carpet Communication
         - image: /img/team/Jasmin-Herzberg.jpg
-          title: Jasmin Herzberg 
+          title: Jasmin Herzberg
           shortdescription: Educational Communication & Social Media
         - image: /img/team/Xenia-Rempel.jpg
-          title: Xenia Rempel 
+          title: Xenia Rempel
           shortdescription: Jury Communication & Graphic Design Team
         - image: /img/team/Valeria-Mykhtaryants.jpg
           title: Valeria Mykhtaryants
@@ -118,13 +118,13 @@ sections:
           title: Marie Baab
           shortdescription: Graphic Design & Social Media Team
         # - image: /img/team/Pauline-Mandelka.jpg
-        #   title: Pauline Mandelka 
+        #   title: Pauline Mandelka
         #   shortdescription: Graphic Design & Social Media Team
         - image: /img/team/Lisa-Bebermeier.jpg
-          title: Lisa Bebermeier 
+          title: Lisa Bebermeier
           shortdescription: Graphic Design & Social Media Team
         - image: /img/team/Joscha-Wilhelm.jpg
-          title: Joscha Wilhelm 
+          title: Joscha Wilhelm
           shortdescription: Graphic Design & Social Media Team
         - image: /img/team/Justin-Doepp.jpg
           title: Justin Döpp
@@ -145,7 +145,7 @@ sections:
           title: Thomas Kollmar
           shortdescription: Festival Team
         - image: /img/team/Sandra-Bertalanffy.jpg
-          title: Sandra Bertalanffy 
+          title: Sandra Bertalanffy
           shortdescription: Seriale Pro
         - image: /img/team/Astrid-Matron.jpg
           title: Dr. Astrid Matron

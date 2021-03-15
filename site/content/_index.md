@@ -1,28 +1,28 @@
 ---
-title: 6th Digital Series Festival Giessen
+title: 7th Digital Series Festival Giessen
 sections:
   - partial: stage
     widesection: true
     data:
       videosource: videos/digital-loop.mp4
       slides:
-        - headline: submissions for die seriale 2021 are open
-          button:
-            text: submit series
-            href: https://filmfreeway.com/dieSeriale
-        - headline: Award Ceremony
-          button:
-            overlay: true
-            text: watch
-            href: /award-ceremony
-        - headline: nominees & winners 2020
-          button:
-            text: view now
-            href: /awards-2020
-        # - headline: official selection 2020
+        # - headline: submissions for die seriale 2021 are open
+        #   button:
+        #     text: submit series
+        #     href: https://filmfreeway.com/dieSeriale
+        # - headline: Award Ceremony
+        #   button:
+        #     overlay: true
+        #     text: watch
+        #     href: /award-ceremony
+        # - headline: nominees & winners 2020
         #   button:
         #     text: view now
-        #     href: /official-selection-2020
+        #     href: /awards-2020
+        - headline: official selection 2021
+          button:
+            text: view now
+            href: /official-selection-2021
         # - headline: award winners 2019
         #   button:
         #     text: view now
@@ -87,11 +87,6 @@ sections:
       headline: be part of it
       intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
       tabs:
-        - title: submit series
-          partial: tab-text
-          data:
-            headline: Submission are open
-            text: '<p>Submissions for series and pilots are open until january 31st, 2021<br>Pitch submissions are open until March 15th, 2021</p><a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
         - title: digital live event
           partial: tab-text
           data:
@@ -102,6 +97,11 @@ sections:
           data:
             headline: follow us on social media
             text: "or join our newsletter to get updates:"
+        - title: submit series
+          partial: tab-text
+          data:
+            headline: Submission are open
+            text: '<p>Submissions for series and pilots are open until january 31st, 2021<br>Pitch submissions are open until March 15th, 2021</p><a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
         # - title: get tickets
         #   partial: tab-text
         #   data:

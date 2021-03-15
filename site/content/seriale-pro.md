@@ -1,5 +1,5 @@
 ---
-title: 6th Digital Series Festival Giessen 
+title: 7th Digital Series Festival Giessen
 sections:
   - partial: stage
     widesection: true
@@ -31,7 +31,7 @@ sections:
       reversed: true
       image: /img/business-days.jpg
       headline: "Digital Conference"
-      text: 'The two Business Days offer a large conference and networking program for the creative industry. Established international experts will present exclusive insights on the mechanisms of the global digital series market and talk about the latest developments and trends. Various possibilities for distribution, co-production and branded content will be presented and discussed in panels. Brand new project ideas will be presented and above all, this event invites to network and make new connections.'
+      text: "The two Business Days offer a large conference and networking program for the creative industry. Established international experts will present exclusive insights on the mechanisms of the global digital series market and talk about the latest developments and trends. Various possibilities for distribution, co-production and branded content will be presented and discussed in panels. Brand new project ideas will be presented and above all, this event invites to network and make new connections."
   - partial: text-and-image
     headline: DIMA Digital Market
     data:
@@ -43,8 +43,8 @@ sections:
     data:
       image: /img/videmic-teaser-2.jpg
       reversed: true
-      headline: 'Videmic App'
-      text: "die Seriale online presents its program in a channel in the videmic app. The channel offers information about die Seriale, Seriale Pro and Seriale Educational. You can download trailers of digital series and watch them everywhere. A favorites list allows you to plan your visit of the online festival.<br><br> From June 3 to 8, 2020, you can watch episodes of the selected digital series of die Seriale and live recordings of the keynotes and the panels of Seriale Pro in the videmic app for free.<br><br>The free videmic app is bilingual: English and German. videmic is available in the AppStore and in Google Play.<br><br><a target=\"_blank\" class=\"button button--external\" href=\"https://videmic.de/app\">Get the Videmic App</a>"
+      headline: "Videmic App"
+      text: 'die Seriale online presents its program in a channel in the videmic app. The channel offers information about die Seriale, Seriale Pro and Seriale Educational. You can download trailers of digital series and watch them everywhere. A favorites list allows you to plan your visit of the online festival.<br><br> From June 3 to 8, 2020, you can watch episodes of the selected digital series of die Seriale and live recordings of the keynotes and the panels of Seriale Pro in the videmic app for free.<br><br>The free videmic app is bilingual: English and German. videmic is available in the AppStore and in Google Play.<br><br><a target="_blank" class="button button--external" href="https://videmic.de/app">Get the Videmic App</a>'
   # - partial: text-and-image
   #   headline: the venue
   #   reversed: true

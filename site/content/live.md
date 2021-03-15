@@ -1,5 +1,5 @@
 ---
-title: 6th Digital Series Festival Giessen 
+title: 7th Digital Series Festival Giessen
 sections:
   - partial: twitch
     widesection: true
