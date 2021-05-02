@@ -1,6 +1,6 @@
 ---
 title: Real
-image: img/series/real.jpg
+image: /img/series/real.jpg
 ---
 ## Real | International Festival Premiere
 Country: Argentina | Genre: Romance | Writer & Director: Rocío Blanco

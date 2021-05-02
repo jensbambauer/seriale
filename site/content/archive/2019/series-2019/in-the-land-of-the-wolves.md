@@ -1,6 +1,6 @@
 ---
 title: In the Land of the Wolves
-image: img/series/in-the-land-of-the-wolves.jpg
+image: /img/series/in-the-land-of-the-wolves.jpg
 ---
 <iframe src="https://player.vimeo.com/video/255399199?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

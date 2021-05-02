@@ -1,6 +1,6 @@
 ---
 title: A Day Dream
-image: img/series/a-day-dream.jpg
+image: /img/series/a-day-dream.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z1ZfYYLxNMY?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,6 @@
 ---
 title: The Vault
-image: img/series/the-vault.jpg
+image: /img/series/the-vault.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/adCRUbjStS4?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,6 @@
 ---
 title: Guardiõs do Cerrado
-image: img/series/guardios-do-cerrado.jpg
+image: /img/series/guardios-do-cerrado.jpg
 ---
 ## Guardiões do Cerrado | World Premiere
 Country: Brazil | Genre: Documentary | Director: Fábio Erdos

@@ -1,6 +1,6 @@
 ---
 title: The Night of the Hungry Turtles
-image: img/pilots/the-night-of-the-hungry-turtles.jpg
+image: /img/pilots/the-night-of-the-hungry-turtles.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AbGaDvVmgus?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

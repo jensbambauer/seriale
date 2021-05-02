@@ -1,6 +1,6 @@
 ---
 title: Noche de Amor
-image: img/series/noche-de-amor.jpg
+image: /img/series/noche-de-amor.jpg
 ---
 ## Noche de Amor | German Festival Premiere
 Country: Argentina | Genre: Comedy | Director: Pedro Levati | Writers: Agustina Levati, Pedro Levati

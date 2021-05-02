@@ -1,6 +1,6 @@
 ---
 title: Other People's Children
-image: img/series/other-peoples-children.jpg
+image: /img/series/other-peoples-children.jpg
 ---
 <iframe src="https://player.vimeo.com/video/219624124?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

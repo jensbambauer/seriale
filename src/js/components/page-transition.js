@@ -1,11 +1,37 @@
 
 import barba from "@barba/core";
-import {TweenLite, Expo, Sine, Circ, Power4, TimelineLite} from "gsap";
+import {TweenLite, Expo, Sine, Circ, Power4, TimelineLite, gsap} from "gsap";
 
 
 export default function pageTransition(init, scrollbar) {
   const transitionElement = document.querySelector(".page-transition");
   const ease = Power4.easeInOut;
+
+  // barba.init({
+  //   transitions: [{
+  //     name: 'opacity-transition',
+  //     leave(data) {
+  //       return gsap.to(data.current.container, {
+  //         opacity: 0
+  //       });
+  //     },
+  //     enter(data) {
+  //       const { container } = data.next;
+  //       const video = container.querySelector("video");
+
+  //       if (video) {
+  //         video.load();
+  //         setTimeout(() => {
+  //           video.play();
+  //         }, 1000);
+  //       }
+
+  //       return gsap.from(container, {
+  //         opacity: 0
+  //       });
+  //     }
+  //   }]
+  // });
 
   barba.init({
     cacheIgnore: true,
@@ -13,7 +39,7 @@ export default function pageTransition(init, scrollbar) {
       {
         name: "default",
         leave: (data) => {
-          const container = document.querySelector('[data-barba="container"]');
+          const { container } = data.current;
           return new Promise((resolve) => {
             const tl = new TimelineLite({
               onComplete: resolve,
@@ -48,9 +74,24 @@ export default function pageTransition(init, scrollbar) {
             }, "start");
           });
         },
-        enter: (data) => {
-          const video = document.querySelector("video");
-          const container = document.querySelector('[data-barba="container"]');
+        // enter(data) {
+        //   const { container } = data.next;
+        //   const video = container.querySelector("video");
+
+        //   if (video) {
+        //     video.load();
+        //     setTimeout(() => {
+        //       video.play();
+        //     }, 1000);
+        //   }
+
+        //   return gsap.from(container, {
+        //     opacity: 0
+        //   });
+        // }
+        afterEnter: (data) => {
+          const { container } = data.next;
+          const video = container.querySelector("video");
 
           if (video) {
             video.load();
@@ -59,52 +100,50 @@ export default function pageTransition(init, scrollbar) {
             }, 1000);
           }
 
-          return new Promise((resolve) => {
-            const tl = new TimelineLite({onComplete: resolve});
-            init();
-            tl.fromTo(container, 1.1, {
+          const tl = new TimelineLite();
+          init();
+          tl.to(transitionElement, 1.1, {
+            transform: "scaleY(0)",
+            ease,
+            onComplete: () => {
+              // resolve();
+            },
+          }, "start");
+
+
+          tl.from(container, 1.1, {
+            ease,
+            y: -100,
+            opacity: 0
+          }, "start");
+
+          if (container.querySelector(".stage__slider__slide__text")) {
+            tl.fromTo(container.querySelector(".stage__slider__slide__text"), 1.3, {
               ease,
-              y: -100,
-              opacity: 0
+              opacity: 0,
+              y: 150
             }, {
               y: 0,
-              opacity: 1
+              opacity: 1,
             }, "start");
-            tl.to(transitionElement, 1.1, {
-              transform: "scaleY(0)",
+          }
+          if (container.querySelector(".stage__slider__slide__shape")) {
+            tl.fromTo(container.querySelector(".stage__slider__slide__shape"), 0.5, {
               ease,
-              onComplete: () => {
-                // resolve();
-              },
-            }, "start");
+              opacity: 0,
+            }, {
+              opacity: 1,
+            }, "start=+0.5");
+          }
+          if (container.querySelector(".notice")) {
+            tl.fromTo(container.querySelector(".notice"), 0.5, {
+              ease,
+              transform: "translateY(-100%)"
+            }, {
+              transform: "translateY(0)"
+            });
+          }
 
-            if (document.querySelector(".stage__slider__slide__text")) {
-              tl.fromTo(document.querySelector(".stage__slider__slide__text"), 1.3, {
-                ease,
-                opacity: 0,
-                y: 150
-              }, {
-                y: 0,
-                opacity: 1,
-              }, "start");
-            }
-            if (document.querySelector(".stage__slider__slide__shape")) {
-              tl.fromTo(document.querySelector(".stage__slider__slide__shape"), 0.5, {
-                ease,
-                opacity: 0,
-              }, {
-                opacity: 1,
-              }, "start=+0.5");
-            }
-            if (document.querySelector(".notice")) {
-              tl.fromTo(document.querySelector(".notice"), 0.5, {
-                ease,
-                transform: "translateY(-100%)"
-              }, {
-                transform: "translateY(0)"
-              });
-            }
-          });
         }
       }
     ]

@@ -1,6 +1,6 @@
 ---
 title: Dorien
-image: img/series/dorien.jpg
+image: /img/series/dorien.jpg
 ---
 <iframe src="https://player.vimeo.com/video/291960598?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

@@ -1,6 +1,6 @@
 ---
 title: The Leader
-image: img/series/the-leader.jpg
+image: /img/series/the-leader.jpg
 ---
 ## The Leader | European Festival Premiere
 Country: Argentina | Genre: Edutainment, Comedy | Director: Diego Salinas Slemenson | Writers: Diego Salinas Slemenson, Matías Sirota, Cynthia Leguizamón

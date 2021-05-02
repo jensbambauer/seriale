@@ -1,6 +1,6 @@
 ---
 title: The Snowman's Gift
-image: img/pilots/the-snowmans-gift.jpg
+image: /img/pilots/the-snowmans-gift.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2KfIzwvTd7w?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

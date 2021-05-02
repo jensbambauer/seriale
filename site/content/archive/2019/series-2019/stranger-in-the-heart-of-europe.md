@@ -1,6 +1,6 @@
 ---
 title: Strangers in the Heart of Europe
-image: img/series/strangers-in-the-heart-of-europe.jpg
+image: /img/series/strangers-in-the-heart-of-europe.jpg
 ---
 <iframe src="https://player.vimeo.com/video/307082982?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

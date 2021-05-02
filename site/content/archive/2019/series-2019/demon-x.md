@@ -1,6 +1,6 @@
 ---
 title: Demon X
-image: img/series/demon-x.jpg
+image: /img/series/demon-x.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LJ_6gJ1UBdk?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

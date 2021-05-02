@@ -1,6 +1,6 @@
 ---
 title: Dark Area
-image: img/series/dark-area.jpg
+image: /img/series/dark-area.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c4Ske-uCmOc?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

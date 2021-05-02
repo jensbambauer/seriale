@@ -1,6 +1,6 @@
 ---
 title: Little Achilles
-image: img/pilots/little-achilles.jpg
+image: /img/pilots/little-achilles.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8AR8Oa8pui4?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

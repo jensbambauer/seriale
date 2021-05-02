@@ -1,6 +1,6 @@
 ---
 title: Otherside
-image: img/pilots/otherside.jpg
+image: /img/pilots/otherside.jpg
 ---
 <iframe src="https://player.vimeo.com/video/331943651" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

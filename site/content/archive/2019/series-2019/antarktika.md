@@ -1,6 +1,6 @@
 ---
 title: Antarktika
-image: img/series/antarktika.jpg
+image: /img/series/antarktika.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mfLpozDB5zU?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

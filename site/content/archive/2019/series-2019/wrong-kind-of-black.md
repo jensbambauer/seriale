@@ -1,6 +1,6 @@
 ---
 title: Wrong Kind of Black
-image: img/series/wrong-kind-of-black.jpg
+image: /img/series/wrong-kind-of-black.jpg
 ---
 ## Wrong Kind of Black
 Country: Australia | Genre: Drama, Comedy | Director: Catriona McKenzie | Writers: Nick Musgrove, Boori Monty Pryor

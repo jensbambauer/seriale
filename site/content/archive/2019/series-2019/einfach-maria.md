@@ -1,6 +1,6 @@
 ---
 title: Einfach Maria
-image: img/series/einfach-maria.jpg
+image: /img/series/einfach-maria.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u5veJjLXfnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

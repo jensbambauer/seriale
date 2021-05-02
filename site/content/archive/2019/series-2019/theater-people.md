@@ -1,6 +1,6 @@
 ---
 title: Theater People
-image: img/series/theater-people.jpg
+image: /img/series/theater-people.jpg
 ---
 <iframe src="https://player.vimeo.com/video/257316070?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

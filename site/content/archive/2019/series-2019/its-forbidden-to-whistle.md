@@ -1,6 +1,6 @@
 ---
 title: It's forbidden to whistle
-image: img/series/its-forbidden-to-whistle.jpg
+image: /img/series/its-forbidden-to-whistle.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v9oho_Wu4As?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

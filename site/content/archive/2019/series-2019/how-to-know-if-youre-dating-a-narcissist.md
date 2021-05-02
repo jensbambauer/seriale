@@ -1,6 +1,6 @@
 ---
 title: How to Know if you're Dating a Narcissist
-image: img/series/how-to-know-if-youre-dating-a-narcissist.jpg
+image: /img/series/how-to-know-if-youre-dating-a-narcissist.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Rp33Lvo3O8?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,6 @@
 ---
 title: Crazy Possible
-image: img/series/crazy-possible.jpg
+image: /img/series/crazy-possible.jpg
 ---
 <iframe src="https://player.vimeo.com/video/271742429?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

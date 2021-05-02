@@ -1,6 +1,6 @@
 ---
 title: Hinterher
-image: img/pilots/hinterher.jpg
+image: /img/pilots/hinterher.jpg
 ---
 ## Hinterher
 Country: Germany | Genre: Comedy | Director: Thomas André Szabó | Writers: Floris Asche, Maria Hilbert

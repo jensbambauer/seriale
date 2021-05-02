@@ -1,6 +1,6 @@
 ---
 title: Life in the Dead Zone
-image: img/series/life-in-the-deadzone.jpg
+image: /img/series/life-in-the-deadzone.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ybWDMmuXxjk?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

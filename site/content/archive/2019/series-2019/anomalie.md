@@ -1,6 +1,6 @@
 ---
 title: Anomalie
-image: img/series/anomalie.jpg
+image: /img/series/anomalie.jpg
 ---
 ## Anomalie | World Premiere
 Country: Germany | Genre: Sci-Fi, Mystery | Director: Christian Stadach | Writers: Christian Stadach, Stephan Zimmermann

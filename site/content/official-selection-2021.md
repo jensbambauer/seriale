@@ -88,8 +88,6 @@ sections:
           origin: Germany
         - title: "The Bad Life / Bizi Txarra"
           origin: Spain
-        - title: The Cat's Apprentice
-          origin: United States
         - title: THE KID'S DREAM
           origin: Argentina
         - title: The Man for Your Sins (Season 3)
@@ -122,6 +120,8 @@ sections:
           origin: Italy
         - title: The Boogeys
           origin: Canada
+        - title: The Cat's Apprentice
+          origin: United States
         - title: The Gliwensbourg Chronicles
           origin: France
         - title: The Same Coin

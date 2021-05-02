@@ -1,6 +1,6 @@
 ---
 title: The Unadaptables
-image: img/series/the-unadaptables.jpg
+image: /img/series/the-unadaptables.jpg
 ---
 ## The Unadaptables | German Festival Premiere
 Country: Argentina | Genre: Animation, Comedy | Directors: Bárbara Cerro, Sol Rietti | Writer: Javier Zevallos

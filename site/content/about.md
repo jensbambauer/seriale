@@ -10,6 +10,10 @@ sections:
   - partial: teaser-grid
     headline: Team
     data:
+      list: speakers
+  - partial: teaser-grid
+    headline: Team
+    data:
       col4: true
       teasers:
         - image: /img/team/Csongor-Dobrotka.jpg
@@ -191,7 +195,7 @@ sections:
 #     production, roasting and brewing seriously and we’re glad to pass that
 #     knowledge to anyone.
 # products:
-#   - image: img/illustrations-coffee.svg
+#   - image: /img/illustrations-coffee.svg
 #     text: >-
 #       We sell green and roasted coffee beans that are sourced directly from
 #       independent farmers and farm cooperatives. We’re proud to offer a variety

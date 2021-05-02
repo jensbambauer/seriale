@@ -1,6 +1,6 @@
 ---
 title: Rebecca
-image: img/series/rebecca.jpg
+image: /img/series/rebecca.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xb_9yX3BFwA?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

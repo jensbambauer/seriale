@@ -1,6 +1,6 @@
 ---
 title: Fast Heroes Sixty
-image: img/series/fast-heroes-sixty.jpg
+image: /img/series/fast-heroes-sixty.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sUxhned3KlM?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

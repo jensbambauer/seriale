@@ -1,6 +1,6 @@
 ---
 title: VideoHunterS
-image: img/series/video-hunter-s.jpg
+image: /img/series/video-hunter-s.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DXw556fn9d0?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

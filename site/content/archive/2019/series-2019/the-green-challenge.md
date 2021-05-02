@@ -1,6 +1,6 @@
 ---
 title: The Green Challenge
-image: img/series/the-green-challenge.jpg
+image: /img/series/the-green-challenge.jpg
 ---
 <iframe src="https://player.vimeo.com/video/330811653?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

@@ -1,6 +1,6 @@
 ---
 title: Pandas don't cry
-image: img/pilots/pandas-dont-cry.jpg
+image: /img/pilots/pandas-dont-cry.jpg
 ---
 <iframe src="https://player.vimeo.com/video/286027625" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

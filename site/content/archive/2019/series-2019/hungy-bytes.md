@@ -1,6 +1,6 @@
 ---
 title: Hungry Bytes
-image: img/series/hungry-bytes.jpg
+image: /img/series/hungry-bytes.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uhuewNqyDik?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

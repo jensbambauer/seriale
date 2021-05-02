@@ -1,6 +1,6 @@
 ---
 title: In Bed
-image: img/series/in-bed.jpg
+image: /img/series/in-bed.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ECGTyU3qLOM?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

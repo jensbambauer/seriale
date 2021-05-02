@@ -1,6 +1,6 @@
 ---
 title: Dreaming Whilst Black
-image: img/series/dreaming-whilst-black.jpg
+image: /img/series/dreaming-whilst-black.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cl4kTL3OEpk?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,6 @@
 ---
 title: Security
-image: img/pilots/security.jpg
+image: /img/pilots/security.jpg
 ---
 <iframe src="https://player.vimeo.com/video/331852340" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

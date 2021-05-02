@@ -14,7 +14,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@barba/core": "^2.1.0",
+    "@barba/core": "^2.9.7",
     "babel-eslint": "^8.0.0",
     "babel-loader": "^7.0.0",
     "babel-plugin-syntax-object-rest-spread": "^6.13.0",
@@ -33,7 +33,7 @@
     "exports-loader": "^0.7.0",
     "file-loader": "^2.0.0",
     "gotrue-js": "^0.9.1",
-    "gsap": "^2.1.0",
+    "gsap": "^3.6.1",
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.0",
     "gulp-postcss": "^8.0.0",

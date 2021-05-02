@@ -1,6 +1,6 @@
 ---
 title: Future History 1968
-image: img/series/future-history-1968.jpg
+image: /img/series/future-history-1968.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AQmZSAbrLdM?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

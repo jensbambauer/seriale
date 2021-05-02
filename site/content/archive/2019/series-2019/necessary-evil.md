@@ -1,6 +1,6 @@
 ---
 title: Necessary Evil
-image: img/series/necessary-evil.jpg
+image: /img/series/necessary-evil.jpg
 ---
 <iframe src="https://player.vimeo.com/video/287746724?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
