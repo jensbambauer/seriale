@@ -48,7 +48,7 @@ export default function pageTransition(init, scrollbar) {
               $("#nav-toggle").prop("checked", false);
               tl.delay(0.5);
             }
-            tl.fromTo(container, 1.1, {
+            tl.fromTo(container, 0.5, {
               y: 0,
               opacity: 1
             }, {
@@ -56,8 +56,9 @@ export default function pageTransition(init, scrollbar) {
               opacity: 0,
               y: 100
             }, "start");
-            tl.fromTo(transitionElement, 1.1, {
+            tl.fromTo(transitionElement, 0.8, {
               transform: "scaleY(0)",
+              yPercent: 0,
             }, {
               transform: "scaleY(1)",
               ease,
@@ -102,8 +103,9 @@ export default function pageTransition(init, scrollbar) {
 
           const tl = new TimelineLite();
           init();
-          tl.to(transitionElement, 1.1, {
+          tl.to(transitionElement, 0.8, {
             transform: "scaleY(0)",
+            yPercent: 100,
             ease,
             onComplete: () => {
               // resolve();
@@ -113,7 +115,7 @@ export default function pageTransition(init, scrollbar) {
 
           tl.from(container, 1.1, {
             ease,
-            y: -100,
+            y: 100,
             opacity: 0
           }, "start");
 
