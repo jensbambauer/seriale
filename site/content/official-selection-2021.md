@@ -54,8 +54,6 @@ sections:
           origin: Netherlands
         - title: HERE I COME
           origin: Russian Federation
-        - title: Hidden Drummers of India
-          origin: Ireland
         - title: I Have Three Boyfriends
           origin: South Korea
         - title: Italia Sicilia Gela (Season 2)
@@ -70,7 +68,7 @@ sections:
           origin: Australia
         - title: Metta da fein
           origin: Switzerland
-        - title: MILITIA!
+        - title: MILIZ!
           origin: Germany
         - title: Monster Week
           origin: South Korea
