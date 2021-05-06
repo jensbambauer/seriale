@@ -10,11 +10,11 @@ description: >-
   cinematic composition. The series, constructed as a short form episodic
   format, deals with different relationships, broken ones, in a family,
   switching between memories of the past and the present, reality and fantasy. 
-image: /img/titelbildblogthesquareroot.jpg
+image: /img/titelbild1blogthesquareroot.jpg
 ---
 The transitions of these scenes are elaborate and elevate the story. Boland and Osberns first episodic project _Red Bird_ was distributed by Amazon and was nominated for four Daytime Emmys. Boland has worked on many other projects as a production designer and art director and has created many shorts, which have screened in many festivals, winning awards such as Best of Fest and Audience award. Osbern is a writer, director and Emmy award winning cinematographer. We asked creators Misti Boland and Jeremy Osbern a few questions about their series: 
 
-![](/img/bild6blogthesquarerootjeremymisti.png)
+![](/img/bild2blogthesquarerootjeremymisti.jpg)
 
 **Misti Boland © Osbern Films,		Jeremy Osbern © Osbern Film**
 
@@ -38,7 +38,7 @@ The transitions of these scenes are elaborate and elevate the story. Boland and 
 
 **Jeremy Osbern: ** Definitely all the transitions were written in the script. That was from the page; planning that out. In the script we tried to be as visual as possible about how things should look and how one scene should flow to the next. So obviously the script was our blueprint and then for complicated things we’d draw it out on crappy storyboards (laughs) so we could communicate it to the crew, aside from the script. 
 
-![](/img/bild4blogthesquarerootjeremyosbernstill.jpg)
+![](/img/bild3blogthesquarerootjeremyosbernstill.jpg)
 
 **Still The Square Root, Image courtesy of Osbern Films **
 
@@ -65,4 +65,4 @@ Writer: Misti Boland, Jeremy Osbern\
 Producer: Chris Blunk, Patty Ann Dillon\
 Cast: Alexandra Goodman, Ian Stark, Joseph Lee Anderson
 
-![](/img/bild5blogthesquarerootlogo.jpg)
+![](/img/bild4blogthesquarerootlogo.jpg)
