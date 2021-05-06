@@ -20,7 +20,7 @@ The transitions of these scenes are elaborate and elevate the story. Boland and 
 
 **Seriale: **First of all – what is the meaning behind the name of the series?
 
-**Jeremy Osbern:** Each episode focuses on a different character and each episode takes place in that split second in which they’re making a decision that will change their lives from that point on. So, each episode examines all the points in time that led them to that decision, so the Square Root is sort of a reference to going down to the basic start of what led that chain of events to happen.
+**Jeremy Osbern: **Each episode focuses on a different character and each episode takes place in that split second in which they’re making a decision that will change their lives from that point on. So, each episode examines all the points in time that led them to that decision, so the Square Root is sort of a reference to going down to the basic start of what led that chain of events to happen.
 
 **Seriale: **How did you come up with the concept of the series? Was it the actual story, the characters and their lives that headed the production or the concept of making an artful series with the special jumps and transitions?
 
