@@ -1,6 +1,6 @@
 ---
 title: 'The Square Root: camera work as dance – a new language for web series'
-date: 2021-05-07T06:00:00.000Z
+date: 2021-05-06T17:10:00.000Z
 description: >-
   The Square Root is the brainchild of Misti Boland and Jeremy Osbern, two
   creators from the USA. The digital series, produced by Chris Blunk and Patty
