@@ -30,7 +30,7 @@ Frédéric Zeimet is an accomplished screenwriter and director born in Luxembour
 
 **Author:** Justin Döpp
 
-**W. **(2019)\
+**W.** (2019)\
 Country: Luxembourg\
 Genre: Detective\
 Runtime: 6 min.\
