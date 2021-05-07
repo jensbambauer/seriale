@@ -48,5 +48,5 @@ To shorten the waiting time until the take-off, this blog will provide you with 
 The whole team of the 6th DigitalSeriesFestival Giessen wishes lots of fun!
 
 **Author:** Robert Wolff\
-**Graphic Design**: Lichtacker Mediendesign
+**Graphic Design**: Lichtacker Mediendesign\
 **Photos:** Rossi Photography
