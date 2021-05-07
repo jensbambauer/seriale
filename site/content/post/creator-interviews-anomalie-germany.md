@@ -22,7 +22,7 @@ In this video we introduce you to Stephan Böhl and Christian Stadach – both h
 **Music**: Jonathan Barbir\
 **Editing**: Beate Bambauer
 
-**Anomalie **(2020)\
+**Anomalie** (2020)\
 Country: Germany\
 Genre: Sci-Fi, Coming-of-Age, Mystery\
 Runtime: 20 min.\
