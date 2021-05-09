@@ -19,6 +19,10 @@ sections:
         #   button:
         #     text: view now
         #     href: /awards-2020
+        - headline: nominees 2021
+          button:
+            text: view now
+            href: /nominations-2021
         - headline: official selection 2021
           button:
             text: view now
