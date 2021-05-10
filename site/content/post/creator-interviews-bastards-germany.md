@@ -1,6 +1,6 @@
 ---
 title: creator interviews / Bastards. / Germany
-date: 2021-05-10T16:05:00.000Z
+date: 2021-05-10T19:00:00.000Z
 vimeo: '545467265'
 description: 'Interview with Marco Eisenbarth, Director of Bastards. / Germany'
 ---
