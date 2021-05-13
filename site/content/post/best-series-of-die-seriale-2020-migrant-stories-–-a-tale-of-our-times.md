@@ -8,19 +8,15 @@ description: >-
   soon becomes clear that in this city hope and misery are just two sides of the
   same peso. We conducted an interview with screenwriter Melisa Vega and
   director Mariano Pozzi.
-image: /img/titelblogmigrantstoriesstill4agustin.png
+image: /img/titelblogmigrantstoriesstill4agustin.jpg
 ---
 **Agustín (Dylan Hurtado) © Migrant Stories**
 
 In the course of a suspenseful digital finale at die Seriale 2020 the festival came to an end by awarding the Best Series of the competition. While all participants had extraordinary stories to offer one did stand out winning our international jury over with a plot that is both “touching, well produced, and entertaining” and at the same time “gives an insight into a common and contemporary social topic”. We’re talking about _Migrant Stories_ (2019), an Argentinian production with UN3.TV the channel of the National University of Tres de Febrero in Buenos Aires that premiered at this year’s Buenos Aires Series kicking off a run of victories with no end in sight. 
 
-!\[](/img/bild2blogmigrantstoriesteam.jpg)
-
-
+![](/img/bild002blogmigrantstoriesteam.jpg)
 
 **The team behind _Migrant Stories_. Screenwriter Melisa Vega with clapperboard and director Mariano Pozzi top row, 4th from left © Migrant Stories**
-
-
 
 For those who have not seen _Migrant Stories_ yet, the premise of the story is quickly outlined. Four different people have one thing in common: They come to Buenos Aires from out-of-state or abroad striving to live a better life in the capital and are quickly confronted with the various obstacles of their endeavour. The series takes us on the journey of Agustín (Dylan Hurtado), a thoughtful young man from Bolivia seeking to study acting whilst lacking the money and credentials to get started easily; Amaral (Mariana Genesio Peña), a transwoman oscillating between sex work and her employment with a social organisation; the outgoing Pedro (Andrés Pabón), who left Colombia where he studied medicine and decided to start out from scratch trying to live independently; and the young woman Lucero (Camila Sosa), who is desperate to go back home after being trafficked to the capital to work in a sweat shop. 
 
@@ -52,7 +48,7 @@ So when it comes to your series _Migrant Stories_ it feels like you are focusing
 
 **Melisa Vega:** Yes. And when it comes to the story the focus was on their present situation:
 
-!\[](/img/bild3blogmigrantstoriesstill3lucero.png)
+![](/img/bild003blogmigrantstoriesstill3Lucero.jpg)
 
 **Camila Azul Sosa (Lucero) © Migrant Stories**
 
@@ -72,7 +68,7 @@ So when it comes to your series _Migrant Stories_ it feels like you are focusing
 
 **Mariano Pozzi:** And it is also a critique towards people who live here – born and raised – how easy it is for us to look the other way and not to help others who have less and are struggling to make a living.
 
-!\[](/img/bild4blogmigrantstoriesstill2pedro.png)
+![](/img/bild004blogmigrantstoriesstill2pedro.jpg)
 
 **Andrés Pabón (Pedro) © Migrant Stories**
 
@@ -112,9 +108,7 @@ So when it comes to your series _Migrant Stories_ it feels like you are focusing
 
 **Melisa Vega:** For a long time we had a lot of content about the Malvinas War in 1982 and the military dictatorship as it is really our recent history. And as creators we want to reflect on that and show the world our struggle. But of course people also have Netflix and HBO and it is getting harder to get people interested in stuff like the national history.
 
-!\[](/img/bild5blogmigrantstoriesstill5amaral.png)
-
-
+![](/img/bild005blogmigrantstoriesstill5amaral.jpg)
 
 **Mariana Genesio Peña (Amaral) © Migrant Stories**
 
@@ -137,8 +131,6 @@ So when it comes to your series _Migrant Stories_ it feels like you are focusing
 **Melisa Vega:** And I think a lot of time has passed since our first writing and if we can write and move into production this year we will make a second season that includes many other points of views that we have left out, or that even deal with the situation of the world right now. We had very positive feedback and we hope we can get post-pandemic-world-money to do it!
 
 **Interview by Robert Wolff**
-
-
 
 **Migrant Stories (Historias Migrantes) (2019)**\
 Country: 	Argentina\
