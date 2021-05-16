@@ -1,7 +1,7 @@
 ---
 title: 'Creators interviews / Caterpillar''s Times, Canada'
 date: 2021-05-16T15:19:49.606Z
-vimeo: '54547472002'
+vimeo: '545472002'
 description: >-
   Interview with Catherine White, Writer and Director of Caterpillars' Times,
   Canada
@@ -17,7 +17,7 @@ In this interview Catherine White, writer and director of the series, who also w
 **Music:** Jonathan Barbir\
 **Editor:** Beate Bambauer
 
-**Caterpillar’s Times (2017)**\
+**Caterpillar’s Times (Le temps des chenilles) (2017)**\
 Country: Canada\
 Genre: Coming-of-Age\
 Runtime: 5 x 8 min\
