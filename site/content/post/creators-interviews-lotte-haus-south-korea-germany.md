@@ -3,8 +3,8 @@ title: 'Creators interviews / Lotte Haus, South Korea/Germany'
 date: 2021-05-22T10:12:36.639Z
 vimeo: '545876021'
 description: >-
-  Interview with actress Genie Kim, Director Young Man Kang and Producer Joo
-  Hyun Yoo
+  Interview with actress Genie Kim, Director Young Man Kang and Producer
+  Joo-hyun Yoo
 ---
 **Interview with actress Genie Kim, director Young Man Kang and producer Joo-hyun Yoo**
 
