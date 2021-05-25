@@ -69,7 +69,7 @@ Jazmín Stuart, a well-known film, TV and theatre actress in Argentina, has also
 
 **die Seriale:** Thank you very much for the interview!
 
-Now, if you‘re curious about _Letters to my Ex_, you can view the series here: http://un3.tv/programas/cartas-a-mi-ex/capitulo/2 or on YouTube.
+Now, if you‘re curious about _Letters to my Ex_, you can view the series here: https://www.youtube.com/watch?v=xWrBnA8LuWU.
 
 **Authors:** Tobias Lack, Birgit Schweitzer\
 **Interview:** Tobias Lack
