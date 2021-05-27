@@ -1,7 +1,7 @@
 ---
 title: Luke Eve
 image: /img/speaker/luke-eve.jpg
-shortdescription: Creator, Director | Australia
+shortdescription: Creator, Director | More Sauce | Australia
 ---
 <img src="/img/speaker/luke-eve.jpg">
 ## Luke Eve

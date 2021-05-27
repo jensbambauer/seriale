@@ -1,11 +1,11 @@
 ---
 title: Adrian Garelik
 image: /img/speaker/adrian-garelik.jpg
-shortdescription: Writer, Creator | Flixxo | Argentina
+shortdescription: Writer, Creator, CEO | Flixxo | Argentina
 ---
 <img src="/img/speaker/adrian-garelik.jpg">
 ## Adrian Garelik
 
-Writer, Creator | Flixxo | Argentina
+Writer, Creator, CEO | Flixxo | Argentina
 
-Adrian Garelik is a scriptwriter and producer, involved in digital media for the last 20 years. Being involved in the Bitcoin and Blockchain space since 2013, he founded a disruptive streaming platform for short form series - Flixxo - in 2017. Since then, along with the development of the platform, he has produced 7 short form series - including three animated shows. Representing Flixxo, Adrian has been promoting short form series as a speaker in some of the most important content markets in the world - MIPCOM, MIPTV, NATPE and Berlinale's European Film Market.
+Adrian Garelik is a filmmaker and entrepreneur from Argentina. In 2016, after a succesful crowdfunding campaign, he funded Flixxo, the platform for microseries that rewards both its users and creators with cryptocurrencies. Flixxo was launched in 2020, gathering more than 70,000 users in Latin America in the first months. Now Flixxo is ready to take over the world :) In addition, he was the scriptwriter of some movies and series, including To fool a thief (Disney, 2013), Entrapped (Netflix, 2015) and In the sights (HBO+, 2021) He has also produced the movie The Red Star (2021) and the microseries Alejo and Valentina, Neptunia, ALT ESC, Movies in real life, Backstage, Bizarre Creatures and Death on Arrival.

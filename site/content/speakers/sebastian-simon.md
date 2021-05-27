@@ -8,6 +8,5 @@ shortdescription: Managing Director, Producer | PixelPEC | Germany
 
 Managing Director, Producer | PixelPEC | Germany
 
-Sebastian graduated his film study at University of Art and Design Offenbach in 2009.
-After 4 years working as project manager and assistant of managing director at Hessen Film and Media Academy, Sebastian founded PixelPEC in 2014. He now is the producer and CEO of PixelPEC. The company is specialized in animation and postproduction, and in addition to its own web series, TV formats and animations for TV, culture and business are created here.
+Sebastian is founder and managing producer of the Offenbach-based animation and film production company PixelPEC. The company focuses on developing its own film and series formats for TV and VOD. PixelPEC is a member of the Association of Hessian Film Industry and is committed to the interests of the Junge Generation Hessischer Film (Young Generation Hessian Film), an interest  club of Hessian newcomer filmmakers to politics and business.
 

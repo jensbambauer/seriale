@@ -1,7 +1,7 @@
 ---
 title: Oliver Mend
 image: /img/speaker/oliver-mend.jpg
-shortdescription: A Film To Kill For | Seriesland
+shortdescription: A Film To Kill For | Seriesland | Spain/Basque Country
 ---
 <img src="/img/speaker/oliver-mend.jpg">
 ## Oliver Mend

@@ -1,12 +1,13 @@
 ---
 title: Sergio Sosa
 image: /img/speaker/sergio-sosa.jpg
-shortdescription: VP of Operations | Flixxo | Argentina
+shortdescription: VP of Content | Flixxo | Argentina
 ---
 <img src="/img/speaker/sergio-sosa.jpg">
 ## Sergio Sosa
 
-VP of Operations | Flixxo | Argentina
+VP of Content | Flixxo | Argentina
 
-Sergio Sosa is an Argentinian audiovisual artist, music producer and Blockchain enthusiast. With a filmmaking degree from the University of Buenos Aires and studies at the Conservatory of Music Astor Piazzolla and different computer programming schools, he feels at home working in the middle of art and technology. Currently he is the VP of Operations of Flixxo, an innovative blockchain based video platform, where he focuses on content and production.
+Sergio Sosa is an Argentinian producer and audiovisual artist. He feels right at home working in the middle of art and technology. Currently, he is the VP of Content and Operations of Flixxo, an innovative blockchain-based video platform, where he focuses on producing original series.
+
 
