@@ -25,14 +25,14 @@ sections:
       paragraphs:
         - text: "&quot;die Seriale&quot; is the oldest festival in Germany for short form digital series.<br>The six-day festival is dedicated to audience, creators, students and all series fans. The Official Selection with over 70 series and pilots from 18 countries is presented in the Videmic app on demand. The supporting program offers a digital conference with lectures and panel discussions."
         - text: "At the Award Ceremony the most outstanding series will be awarded by an international expert jury. The 6th annual edition of &quot;die Seriale&quot; will be, because of the world wide pandemic situation, a virtual live event."
-  # - partial: thumb-grid
-  #   headline: official selection 2020 - series
-  #   data:
-  #     list: series
-  # - partial: thumb-grid
-  #   headline: official selection 2020 - pilots
-  #   data:
-  #     list: pilots
+  - partial: thumb-grid
+    headline: official selection 2021 - series
+    data:
+      list: series
+  - partial: thumb-grid
+    headline: official selection 2021 - pilots
+    data:
+      list: pilots
   - partial: text-and-image
     headline: Educational
     data:
@@ -63,13 +63,13 @@ sections:
   #   headline: jury pilots
   #   data:
   #     list: jury-pilots
-  - partial: text-and-image
-    headline: die Seriale in the videmic app
-    data:
-      image: /img/videmic-teaser-3.jpg
-      reversed: true
-      headline: 'Videmic App'
-      text: "die Seriale online presents its program in a channel in the videmic app. The channel offers information about die Seriale, Seriale Pro and Seriale Edu. You can download trailers of digital series and watch them everywhere. A favorites list allows you to plan your visit of the online festival.<br><br>From June 3 to 8, 2020, you can watch episodes of the selected digital series of die Seriale and live recordings of the keynotes, the panels of Seriale Educational, the red carpet event and the award ceremony in the videmic app for free. <br><br><a target=\"_blank\" class=\"button button--external\" href=\"https://videmic.de/app\">Get the Videmic App</a>"
+  # - partial: text-and-image
+  #   headline: die Seriale in the videmic app
+  #   data:
+  #     image: /img/videmic-teaser-3.jpg
+  #     reversed: true
+  #     headline: 'Videmic App'
+  #     text: "die Seriale online presents its program in a channel in the videmic app. The channel offers information about die Seriale, Seriale Pro and Seriale Edu. You can download trailers of digital series and watch them everywhere. A favorites list allows you to plan your visit of the online festival.<br><br>From June 3 to 8, 2020, you can watch episodes of the selected digital series of die Seriale and live recordings of the keynotes, the panels of Seriale Educational, the red carpet event and the award ceremony in the videmic app for free. <br><br><a target=\"_blank\" class=\"button button--external\" href=\"https://videmic.de/app\">Get the Videmic App</a>"
   - partial: slider
     data:
       slides:
@@ -129,8 +129,6 @@ sections:
           link: "https://www.giessen.de"
         - image: /img/partners/Wetzlar.png
         - image: /img/partners/sparkasse.png
-        - image: /img/partners/videmic.png
-          link: "https://videmic.de/en/"
         - image: /img/partners/Goethe-Institut.png
         - image: /img/partners/kinocenter.png
         - image: /img/partners/dobago.png

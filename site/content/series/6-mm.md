@@ -1,6 +1,6 @@
 ---
 title: 6 MM
-image: img/series/6-mm.jpg
+image: /img/series/6-mm.jpg
 ---
 <iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

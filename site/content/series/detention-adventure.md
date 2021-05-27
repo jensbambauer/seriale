@@ -1,6 +1,6 @@
 ---
 title: Detention Adventure
-image: img/series/detention-adventure.jpg
+image: /img/series/detention-adventure.jpg
 ---
 <iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,6 @@
 ---
 title: The Cat's Apprentice
-image: img/pilots/the-cats-apprentice.jpg
+image: /img/pilots/the-cats-apprentice.jpg
 ---
 
 

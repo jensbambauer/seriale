@@ -1,6 +1,6 @@
 ---
 title: 2 Minutes 
-image: img/series/2-minutes.jpg
+image: /img/series/2-minutes.jpg
 ---
 <iframe width="560" height="315" src="https://redponypictures.com/2-minuten" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

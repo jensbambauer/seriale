@@ -1,6 +1,6 @@
 ---
 title: Cafe Midnight 
-image: img/series/cafe-midnight.jpg
+image: /img/series/cafe-midnight.jpg
 ---
 <iframe width="560" height="315" src="https://youtu.be/qqDtZZPlUtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,6 @@
 ---
 title: Buschka discovers Germany - Show Me Your East Side! (Season 3) (World Festival Premiere)
-image: img/series/buschka-discovers-germany.jpg
+image: /img/series/buschka-discovers-germany.jpg
 ---
 <iframe width="560" height="315" src="https://youtu.be/UJEJpr1uxFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

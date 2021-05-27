@@ -38,13 +38,13 @@ sections:
       image: /img/dima.jpg
       headline: "Germany's first Market for Digital Series"
       text: 'The Digital Market Giessen (“DIMA Giessen”) combines a physical market especially for short form digital series  a networking platform for international producers, distributors, sales agents, broadcasters and funding representatives.<br> This year, six series will qualify additionally for “DIMA CoPro Series” - a unique platform for digital series producers who are looking for co-production opportunities. These projects will be highlighted during Seriale Pro to get that extra visibility.<br>DIMA is a collaboration  with "Bilbao Seriesland". '
-  - partial: text-and-image
-    headline: die Seriale in the videmic app
-    data:
-      image: /img/videmic-teaser-2.jpg
-      reversed: true
-      headline: "Videmic App"
-      text: 'die Seriale online presents its program in a channel in the videmic app. The channel offers information about die Seriale, Seriale Pro and Seriale Educational. You can download trailers of digital series and watch them everywhere. A favorites list allows you to plan your visit of the online festival.<br><br> From June 3 to 8, 2020, you can watch episodes of the selected digital series of die Seriale and live recordings of the keynotes and the panels of Seriale Pro in the videmic app for free.<br><br>The free videmic app is bilingual: English and German. videmic is available in the AppStore and in Google Play.<br><br><a target="_blank" class="button button--external" href="https://videmic.de/app">Get the Videmic App</a>'
+  # - partial: text-and-image
+  #   headline: die Seriale in the videmic app
+  #   data:
+  #     image: /img/videmic-teaser-2.jpg
+  #     reversed: true
+  #     headline: "Videmic App"
+  #     text: 'die Seriale online presents its program in a channel in the videmic app. The channel offers information about die Seriale, Seriale Pro and Seriale Educational. You can download trailers of digital series and watch them everywhere. A favorites list allows you to plan your visit of the online festival.<br><br> From June 3 to 8, 2020, you can watch episodes of the selected digital series of die Seriale and live recordings of the keynotes and the panels of Seriale Pro in the videmic app for free.<br><br>The free videmic app is bilingual: English and German. videmic is available in the AppStore and in Google Play.<br><br><a target="_blank" class="button button--external" href="https://videmic.de/app">Get the Videmic App</a>'
   # - partial: text-and-image
   #   headline: the venue
   #   reversed: true
@@ -71,8 +71,6 @@ sections:
           link: "https://www.seriesland.eus"
         - image: /img/partners/DIMA.png
           link: "http://dima-market.com"
-        - image: /img/partners/videmic.png
-          link: "https://videmic.de/en/"
         - image: /img/partners/FlixxoBlack.png
         - image: /img/partners/snepic_logo_type.png
         - image: /img/partners/fmws.png

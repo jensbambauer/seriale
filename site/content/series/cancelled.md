@@ -1,6 +1,6 @@
 ---
 title: CANCELLED
-image: img/series/cancelled.jpg
+image: /img/series/cancelled.jpg
 ---
 <iframe width="560" height="315" src="https://youtu.be/Uk07zS6kqeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

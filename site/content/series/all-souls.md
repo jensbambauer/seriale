@@ -1,6 +1,6 @@
 ---
 title: All Souls
-image: img/series/all-souls.jpg
+image: /img/series/all-souls.jpg
 ---
 <iframe width="560" height="315" src="https://vimeo.com/338892039" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

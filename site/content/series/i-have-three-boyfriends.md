@@ -1,6 +1,6 @@
 ---
 title: I Have Three Boyfriends
-image: img/series/i-have-three-boyfriends.jpg
+image: /img/series/i-have-three-boyfriends.jpg
 ---
 <iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

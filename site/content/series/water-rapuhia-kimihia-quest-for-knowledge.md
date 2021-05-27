@@ -1,6 +1,6 @@
 ---
 title: "Water - Rapuhia, kimihia: Quest for knowledge (European Festival Premiere)"
-image: img/series/water-rapuhia-kimihia-quest-for-knowledge.jpg
+image: /img/series/water-rapuhia-kimihia-quest-for-knowledge.jpg
 ---
 <iframe width="560" height="315" src="https://youtube.com/watch?v=PuaME3TLetk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

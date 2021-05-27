@@ -1,6 +1,6 @@
 ---
 title: Finders Keepers
-image: img/pilots/finders-keepers.jpg
+image: /img/pilots/finders-keepers.jpg
 ---
 
 

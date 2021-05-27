@@ -1,10 +1,10 @@
 ---
 title: Shamila Lengsfeld
-image: /img/jury/shamila-lengsfeld.jpg
+image: /img/speaker/shamila-lengsfeld.jpg
 shortdescription: Director, Screenwriter  | Germany
 
 ---
-<img src="/img/jury/shamila-lengsfeld.jpg">
+<img src="/img/speaker/shamila-lengsfeld.jpg">
 ## Shamila Lengsfeld
 
 Director, Screenwriter  | Germany

@@ -1,6 +1,6 @@
 ---
 title: Heat
-image: img/series/heat.jpg
+image: /img/series/heat.jpg
 ---
 <iframe width="560" height="315" src="https://vimeo.com/469499036" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

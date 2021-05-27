@@ -1,6 +1,6 @@
 ---
 title: Avocado Toast
-image: img/series/avocado-toast.jpg
+image: /img/series/avocado-toast.jpg
 ---
 <iframe width="560" height="315" src="https://www.avocadotoasttheseries.com" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

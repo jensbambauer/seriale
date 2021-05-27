@@ -1,9 +1,9 @@
 ---
 title: Riccardo Cannella
-image: /img/jury/riccardo-cannella.jpg
+image: /img/speaker/riccardo-cannella.jpg
 shortdescription: Producer, Director and Screenwriter | Cinnamon Digital Cinema Production | Sicily Web Fest |Italy
 ---
-<img src="/img/jury/riccardo-cannella.jpg">
+<img src="/img/speaker/riccardo-cannella.jpg">
 ## Riccardo Cannella
 
 Producer, Director and Screenwriter | Cinnamon Digital Cinema Production | Sicily Web Fest |Italy

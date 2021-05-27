@@ -1,6 +1,6 @@
 ---
 title: Tony (German Premiere)
-image: img/series/tony.jpg
+image: /img/series/tony.jpg
 ---
 <iframe width="560" height="315" src="https://youtu.be/RNT3rL-wnMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

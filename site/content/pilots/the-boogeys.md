@@ -1,6 +1,6 @@
 ---
 title: The Boogeys
-image: img/pilots/the-boogeys.jpg
+image: /img/pilots/the-boogeys.jpg
 ---
 
 <iframe width="560" height="315" src="https://youtu.be/RNPibtF4M6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

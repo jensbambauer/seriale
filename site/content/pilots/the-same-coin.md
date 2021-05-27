@@ -1,6 +1,6 @@
 ---
 title: The Same Coin
-image: img/pilots/the-same-coin.jpg
+image: /img/pilots/the-same-coin.jpg
 ---
 
 <iframe width="560" height="315" src="https://vimeo.com/526624913" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

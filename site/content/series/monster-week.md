@@ -1,6 +1,6 @@
 ---
 title: Monster Week
-image: img/series/monster-week.jpg
+image: /img/series/monster-week.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=z7Zui1CoSFs&t=1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

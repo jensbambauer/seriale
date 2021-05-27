@@ -1,6 +1,6 @@
 ---
 title: Bizarre Creatures (German Festival Premiere)
-image: img/series/bizarre-creatures.jpg
+image: /img/series/bizarre-creatures.jpg
 ---
 <iframe width="560" height="315" src="https://vimeo.com/509899291" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,6 @@
 ---
 title: World League of Myth and Heroes
-image: img/pilots/world-league-of-myth-and-heroes.jpg
+image: /img/pilots/world-league-of-myth-and-heroes.jpg
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=t5MiLRLoGKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,9 +1,9 @@
 ---
 title: George Reese
-image: /img/jury/george-reese.jpg
+image: /img/speaker/george-reese.jpg
 shortdescription: Executive | VP of Programming, Seeka TV | USA
 ---
-<img src="/img/jury/george-reese.jpg">
+<img src="/img/speaker/george-reese.jpg">
 ## George Reese
 
 Executive | VP of Programming, Seeka TV | USA

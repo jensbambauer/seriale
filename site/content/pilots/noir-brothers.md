@@ -1,6 +1,6 @@
 ---
 title: Noir Brothers
-image: img/pilots/noir-brothers.jpg
+image: /img/pilots/noir-brothers.jpg
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=-O8jd6SDUGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

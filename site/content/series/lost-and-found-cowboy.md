@@ -1,6 +1,6 @@
 ---
 title: Lost & Found Cowboy
-image: img/series/lost-and-found-cowboy.jpg
+image: /img/series/lost-and-found-cowboy.jpg
 ---
 <iframe width="560" height="315" src="https://vimeo.com/346070131" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

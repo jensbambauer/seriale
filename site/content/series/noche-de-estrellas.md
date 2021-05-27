@@ -1,6 +1,6 @@
 ---
 title: Noche De Estrellas (International Premiere)
-image: img/series/noche-de-estrellas.jpg
+image: /img/series/noche-de-estrellas.jpg
 ---
 
 ## Noche De Estrellas (International Premiere)

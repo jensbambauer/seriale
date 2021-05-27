@@ -1,6 +1,6 @@
 ---
 title: People Like Us (Season 2) (German Premiere)
-image: img/series/people-like-us.jpg
+image: /img/series/people-like-us.jpg
 ---
 <iframe width="560" height="315" src="https://vimeo.com/310734727" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
