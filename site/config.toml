@@ -13,6 +13,12 @@ languageCode = "en-us"
     name       = "Jury"
     url        = "/jury/"
     weight     = 2
+
+    [[menu.main]]
+    identifier = "speaker"
+    name       = "Speaker"
+    url        = "/speaker/"
+    weight     = 2
     
     [[menu.main]]
     identifier = "festival"
