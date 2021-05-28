@@ -2,7 +2,7 @@
 title: All Souls
 image: /img/series/all-souls.jpg
 ---
-<iframe width="560" height="315" src="https://vimeo.com/338892039" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/338892039" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## All Souls
 Country: United States | Genre: Drama | Director: Tijuana Ricks | Writer: Gwydion Suilebhan

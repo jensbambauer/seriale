@@ -2,7 +2,7 @@
 title: Monster Week
 image: /img/series/monster-week.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=z7Zui1CoSFs&t=1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z7Zui1CoSFs&t=1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Monster Week
 Country: South Korea | Genre: Mystery, Horror, Animation | Director: Thomas Kim | Writer: Catherine Shannon

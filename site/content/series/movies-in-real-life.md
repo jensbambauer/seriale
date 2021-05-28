@@ -2,7 +2,7 @@
 title: Movies in Real Life (German Festival Premiere)
 image: /img/series/movies-in-real-life.jpg
 ---
-<iframe width="560" height="315" src="https://vimeo.com/509894089" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/509894089" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Movies in Real Life (German Festival Premiere)
 Country: Argentinia | Genre: Documentary, Travel | Director: Nicolás Amelio-Ortiz, Tomás Gonzáles Montalvo| Writer: Nicolás Amelio-Ortiz, Tomás Gonzáles Montalvo

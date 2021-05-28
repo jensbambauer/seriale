@@ -2,7 +2,7 @@
 title: Metta da fein
 image: /img/series/metta-da-fein.jpg
 ---
-<iframe width="560" height="315" src="https://vimeo.com/484156444" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/484156444" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Metta da fein
 Country: Switzerland | Genre: Black Crime Comedy

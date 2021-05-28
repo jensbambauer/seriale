@@ -2,7 +2,6 @@
 title: Emmy & Christin
 image: /img/series/emmy-und-christin.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Emmy & Christin
 Country: Germany | Genre: Black Comedy, Dramedy, Comedy

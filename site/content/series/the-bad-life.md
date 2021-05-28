@@ -2,7 +2,7 @@
 title: The Bad Life / Bizi Txarra (German Premiere)
 image: /img/series/the-bad-life.jpg
 ---
-<iframe width="560" height="315" src="https://vimeo.com/371350874" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/371350874" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Bad Life / Bizi Txarra (German Premiere)
 Country: Spain | Genre: Comedy, Action | Director: Oliver Mend, Rose of Dolls | Writer: Oliver Mend, Rose of Dolls

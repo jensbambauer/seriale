@@ -2,7 +2,7 @@
 title: Lost & Found Cowboy
 image: /img/series/lost-and-found-cowboy.jpg
 ---
-<iframe width="560" height="315" src="https://vimeo.com/346070131" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/346070131" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Lost & Found Cowboy
 Country: Japan | Genre: Romantic Comedy, Comedy,

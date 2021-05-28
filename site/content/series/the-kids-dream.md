@@ -2,7 +2,7 @@
 title: The Kid’s Dream / El Sueño Del Pibe (German Premiere)
 image: /img/series/the-kids-dream.jpg
 ---
-<iframe width="560" height="315" src="https://youtu.be/SgVrEvvn264" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SgVrEvvn264" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Kid’s Dream / El Sueño Del Pibe (German Premiere)
 Country: Argentinia | Genre: Fantasy, Comedy | Director: Fernando Milsztajn, Mariano Swi| Writer: Fernando Milsztajn, Mariano Swi

@@ -3,7 +3,7 @@ title: The Gliwensbourg Chronicles
 image: /img/pilots/the-gliwensbourg-chronicles.jpg
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gzXJ77OV-l4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gzXJ77OV-l4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Gliwensbourg Chronicles
 Country: France | Genre: Western, Fantastic, Historic | Director: Emilie Tommasi | Writer: Emilie Tommasi

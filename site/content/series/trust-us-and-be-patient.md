@@ -2,7 +2,6 @@
 title: Trust us and be patient (International Premiere)
 image: /img/series/trust-us-and-be-patient.jpg
 ---
-<iframe width="560" height="315" src="https://youtube.com/playlist?list=PLSfzTZvxRAjMqiKHC1CBtl7whFelM5lnw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Trust us and be patient (International Premiere)
 Country: South Korea | Genre: Sci-Fi, Romance, Drama | Director: | Writer: Se Rah Park 

@@ -2,7 +2,6 @@
 title: Italia Sicilia Gela (Season 2)
 image: /img/series/italia-sicilia-gela.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Italia Sicilia Gela (Season 2)
 Country: Italy | Genre: Documentary, Food, Sicily

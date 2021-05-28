@@ -2,7 +2,7 @@
 title: KUNTERGRAU (Season 3)
 image: /img/series/kuntergrau.jpg
 ---
-<iframe width="560" height="315" src="https://youtu.be/WEyfOULzmmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WEyfOULzmmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## KUNTERGRAU (Season 3)
 Country: Germany | Genre: Drama, Coming of Age, Queer

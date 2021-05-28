@@ -2,7 +2,7 @@
 title: Love, Guns & Level Ups
 image: /img/series/love-guns-and-level-ups.jpg
 ---
-<iframe width="560" height="315" src="https://youtu.be/Uf3hzXuHlHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Uf3hzXuHlHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Love, Guns & Level Ups
 Country: Australia | Genre: Romantic, Action, Comedy
