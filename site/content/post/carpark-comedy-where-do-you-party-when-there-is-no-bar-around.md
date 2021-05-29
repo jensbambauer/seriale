@@ -18,7 +18,7 @@ _Carpark Clubbing_ is a comedy from Australia with the right sense of humour tha
 
 The web series was released in October 2019, had been nominated for the Pilot Light TV Festival in the UK and made it into the official selection of the Melbourne Webfest (both 2020). It was also nominated for die Seriale 2020 and won the award for Best Ensemble Cast. The series convinced the jury with a story that is both funny and profound and a powerful cast whose chemistry created an authentic illustration of friendship and love. It probably helped that the three main actresses Sophea Op, Monica Kumar and Tasnim Hossain wrote the script together. In the following interview, they give some insights on the show and the story they wanted to tell.
 
-!\[](/img/bild2blogcarparkclubbingstill3.jpg)
+![](/img/bild2blogcarparkclubbingstill3.jpg)
 
 **Winner of the Award Best Ensemble Cast at Seriale 2020: Sophea Op, Monica Kumar und Tasnim Hossain © Carpark Clubbing**
 
@@ -51,9 +51,9 @@ The web series was released in October 2019, had been nominated for the Pilot Li
 **Monica Kumar:** I think the last line of the show, "I can't believe you're the one that has a boyfriend", was improvised.\
 **Tasnim Hossain:** A bit of improvisation was in the second episode, the one where Nashrah is on her date. The actor who plays Pete is an improv legend in the Sydney scene, and so it would have been a waste of his talents to not let him loose. A couple of his more colourful lines when he's chilling with Sokhey and Bonita were made up on the spot.
 
-!\[](/img/bild3blogcarparkclubbingcrew.jpg)
+![](/img/bild3blogcarparkclubbingcrew.jpg)
 
-**The Crew of „Carpark Clubbing” © Carpark Clubbing**
+**The Crew of Carpark Clubbing © Carpark Clubbing**
 
 **die Seriale:** In order to get the night shots, you sometimes had to film in the middle of the night. What was that like? Do you think because of that it was easier for the cast to get into the "vibe"?
 
@@ -69,7 +69,7 @@ In Western Sydney, like other CALD (culturally and linguistically diverse) popul
 **Sophea Op:** People in western Sydney have been friends, stepparents, and in-laws with people from other ethnic backgrounds for decades, and it's about time mainstream content providers caught up. There is still a wealth gap that is broadening in our part of Sydney that isn't being addressed by public infrastructure, and the "Model Minority Myth” persists within the Asian community regardless of one's postcode.\
 I don't think any complex issues can be solved within a 9-minute episode of any comedy web series, but I do think it deserves to be told truthfully, which in our case happens to be with a laugh and the characters doing some self-reflection in how they uphold prejudice in their own communities. I don't know if we necessarily walked into “Carpark Clubbing” with a specific message, other than this is who we are, this is how we exist - we are valid as we are, and we are Australian contrary to whatever postcard you've seen that tries to crop us out of frame.
 
-!\[](/img/bild4blogcarparkclubbingleadcast2.jpg)
+![](/img/bild4blogcarparkclubbingleadcast2.jpg)
 
 **Main actresses in Carpark Clubbing: Sophea Op, Monica Kumar und Tasnim Hossain © Carpark Clubbing**
 
@@ -86,7 +86,7 @@ I don't think any complex issues can be solved within a 9-minute episode of any 
 
 **Interview:** Melina Hablitzl
 
-!\[](/img/bild5blogcarparkclubbingposter.jpg)
+![](/img/bild5blogcarparkclubbingposter.jpg)
 
 **Poster Carpark Clubbing © Carpark Clubbing**
 
