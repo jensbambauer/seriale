@@ -283,7 +283,7 @@ sections:
                       moderator:
                         - name: Thomas Veyrier
                           link: thomas-veyrier
-                      details: In each pitch block 6 fresh and brand new series projects will be presented to the industry.
+                      details: 24 international creators, get the chance to present their series project in a 3 minute long pitch video. During a digital live stream, a selected jury consisting of industry experts will give online live feedback and determine the best pitch. In each pitch block 6 fresh and brand new series projects will be presented to the industry.
                     - title: Pitch Contest | Block 2
                       length: 4
                       type: pitching | Industry exclusive or with invitation

@@ -1,9 +1,9 @@
 ---
 title: Liza Simbirskaya
-image: /img/speaker/.jpg
+image: /img/speaker/elizaveta-simbirskaya.jpg
 shortdescription: Screenwriter, Producer | Фенси Production | Russian Federation
 ---
-<img src="/img/speaker/.jpg">
+<img src="/img/speaker/elizaveta-simbirskaya.jpg">
 ## Liza Simbirskaya
 
 Screenwriter, Producer | Фенси Production | Russian Federation

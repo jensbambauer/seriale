@@ -36,7 +36,7 @@ sections:
           shortdescription: Festival Organization & Office
         - image: /img/team/Jens-Bambauer.jpg
           title: Jens Bambauer
-          shortdescription: Website & Streaming
+          shortdescription: Website
         - image: /img/team/Birgit-Schweitzer.jpg
           title: Birgit Schweitzer
           shortdescription: Public Relations & Blog Editor

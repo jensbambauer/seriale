@@ -1,8 +1,17 @@
 {{ with .data}}
 	<div class="text-and-image {{ if .reversed }} text-and-image--reversed{{end}}">
+		{{ if .image }}
 		<div class="text-and-image__col-image">
 			<img src="{{ .image }}">
 		</div>
+		{{ end }}
+		{{ if .embed }}
+		<div class="text-and-image__col-image">
+			<div class="text-and-image__col-image__video">
+				{{ .embed | safeHTML }}
+			</div>
+		</div>
+		{{ end }}
 		<div class="text-and-image__col-text">
 			<h4>{{ .headline }}</h4>
 			{{ .text | safeHTML }}

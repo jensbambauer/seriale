@@ -15,12 +15,12 @@ sections:
         - text: "The Business Day is a huge conference and networking event, it will be held for the 3rd time as part of “die Seriale“ and is expanded to two days."
         - text: "For the first time “DIMA Giessen” will be held - Germany’s very first physical market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland“."
         - text: "Finally, 15 brand new concepts for digitals series will be presented to the industry during a pitch competition."
-  # - partial: text-and-image
-  #   headline: DIGITAL SERIES PITCH CONTEST
-  #   data:
-  #     image: /img/pitch-contest.jpg
-  #     headline: "Pitch Your Project"
-  #     text: 'In cooperation with FLIXXO & flixxo Creative Lab<br><br>15 Pre-selected finalists will get 3 minutes to pitch their show concept live to an international panel of industry judges.<br><br> The winner of the pitch contest will receive €1,000 in funding for their project. Furthermore the winner is eligible to join the Flixxo Creative Lab, supporting the project with script consultations by experienced Flixxo screenwriters and producers. Plus Flixxo offers assistance throughout the making of the show and ultimately with distribution, taking advantage of their strong network. Many thanks to our Pitch Competition sponsor Flixxo!'
+  - partial: text-and-image
+    headline: DIGITAL SERIES PITCH CONTEST
+    data:
+      embed: '<iframe src="https://player.vimeo.com/video/556903080" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>'
+      headline: "Pitch Your Project"
+      text: '24 international creators, get the chance to present their series project in a 3 minute long pitch video. Among them, some creators will pitch their project for the first time. In a livestream, which will be moderated by Thomas Veyrier (Toulouses/France), Caris Vujcec (New York City/United States) and John Tague (Los Angeles/United States), the videos will be shown to a selected jury and audience. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 6th. The pitch contest takes place on the 5th of June from 4pm to 8pm and includes four rounds.'
   # - partial: teaser-grid
   #   headline: jury pitch contest
   #   data:
