@@ -11,10 +11,10 @@ sections:
     data:
       headline: About
       paragraphs:
-        - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities “Business Day”, “DIMA Giessen” and a pitch contest."
-        - text: "The Business Day is a huge conference and networking event, it will be held for the 3rd time as part of “die Seriale“ and is expanded to two days."
-        - text: "For the first time “DIMA Giessen” will be held - Germany’s very first physical market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland“."
-        - text: "Finally, 15 brand new concepts for digitals series will be presented to the industry during a pitch competition."
+        - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities “Digital Live Conference”, “DIMA Digital Market” and the “Pitch Contest”."
+        - text: "The Digital Live Conference is a huge conference and networking event, it will be held for the 5th time as part of “die Seriale”."
+        - text: "For the 3rd time “DIMA Digital Market” will be held - Germany’s very first physical market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland” and “Minnesota web Fest."
+        - text: "Finally, 24 brand new concepts for digitals series will be presented to the industry during a pitch competition."
   - partial: text-and-image
     headline: DIGITAL SERIES PITCH CONTEST
     data:
@@ -26,18 +26,18 @@ sections:
   #   data:
   #     list: jury-pitch-contest
   - partial: text-and-image
-    headline: BUSINESS DAYS
+    headline: Digital Live Conference
     data:
       reversed: true
       image: /img/business-days.jpg
-      headline: "Digital Conference"
-      text: "The two Business Days offer a large conference and networking program for the creative industry. Established international experts will present exclusive insights on the mechanisms of the global digital series market and talk about the latest developments and trends. Various possibilities for distribution, co-production and branded content will be presented and discussed in panels. Brand new project ideas will be presented and above all, this event invites to network and make new connections."
+      headline: "Conference & Networking"
+      text: "The two Digital Live Conference days offer a large conference and networking program for the creative industry. Established international experts will present exclusive insights on the mechanisms of the global digital series market and talk about the latest developments and trends. Various possibilities for distribution, co-production and branded content will be presented and discussed in panels. Brand new project ideas will be presented and above all, this event invites to network and make new connections."
   - partial: text-and-image
     headline: DIMA Digital Market
     data:
       image: /img/dima.jpg
       headline: "Germany's first Market for Digital Series"
-      text: 'The Digital Market Giessen (“DIMA Giessen”) combines a physical market especially for short form digital series  a networking platform for international producers, distributors, sales agents, broadcasters and funding representatives.<br> This year, six series will qualify additionally for “DIMA CoPro Series” - a unique platform for digital series producers who are looking for co-production opportunities. These projects will be highlighted during Seriale Pro to get that extra visibility.<br>DIMA is a collaboration  with "Bilbao Seriesland". '
+      text: 'The DIMA Digital Market Giessen (“DIMA Giessen”) combines a physical market especially for short form digital series and a networking platform for international producers, distributors, sales agents, broadcasters and funding representatives. This year, our conference program is streamed through our website, YouTube and Facebook. DIMA is a cooperation with “Bilbao Seriesland” & “Minnesota WebFest”.'
   # - partial: text-and-image
   #   headline: die Seriale in the videmic app
   #   data:
