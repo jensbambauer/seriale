@@ -3,6 +3,7 @@ title: Shadow Man
 image: /img/series/shadow-man.jpg
 ---
 
+
 ## Shadow Man
 Country: Germany | Genre: Horror | Director: Emrah Erdogru | Writer: Emrah Erdogru
 

@@ -1,9 +1,9 @@
 ---
 title: Lucie Tournant
-image: /img/speaker/lucie-tournant.jpg
+image: /img/jury/lucie-tournant.jpg
 shortdescription: Actress, Writer, Director | France
 ---
-<img src="/img/speaker/lucie-tournant.jpg">
+<img src="/img/jury/lucie-tournant.jpg">
 ## Lucie Tournant
 
 Actress, Writer, Director | France

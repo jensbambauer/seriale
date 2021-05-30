@@ -1,10 +1,10 @@
 ---
 title: Denise Jabbour
-image: /img/speaker/denise-jabbour.jpg
+image: /img/jury/denise-jabbour.jpg
 shortdescription: Creative Producer | Home of Cine-Jam, President | Lebanon
 
 ---
-<img src="/img/speaker/denise-jabbour.jpg">
+<img src="/img/jury/denise-jabbour.jpg">
 ## Denise Jabbour
 
 Creative Producer | Home of Cine-Jam, President | Lebanon

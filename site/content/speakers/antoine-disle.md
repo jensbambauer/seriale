@@ -1,11 +1,11 @@
 ---
 title: Antoine Disle
 image: /img/speaker/antoine-disle.jpg
-shortdescription: Creator | Rockzeline | France
+shortdescription: Producer, Distributor | Tam Tam stories | France
 ---
 <img src="/img/speaker/antoine-disle.jpg">
 ## Antoine Disle
 
-Creator | Rockzeline | France
+Producer, Distributor | Tam Tam stories | France
 
-Antoine is the co-founder of Rockzeline, specialists in international productions and distributors of short and long form series. Rockzeline looks to bring strong artistic convictions, producing richly scripted, editorialized fiction with a new tone, new talents and new forms. He has set up "Rockzeline Wild Studio" - The Rockzeline production label, through which he produces all over the world through Rockzeline and its affiliated companies. Antoine helped to develop the digital series landscape, accompanying Canal +, France Televisions, We Love Cinema and Blackpills in setting up their digital series platforms. He is continually looking at opening up new markets, pushing this new creative paradigm and ensuring Rockzeline remains a digital trailblazer.
+Antoine is a producer and distributor specialists in new media. Antoine helped to develop the digital series landscape, accompanying Canal +, France Télévisions and Blackpills in setting up their digital series platforms. He is continually looking at opening up new worlds, new markets, pushing this new creative paradigm and ensuring Antoine remains a digital trailblazer. With his partners Jean-Michel Albert and Alexandre Cornu they have just created the brand new production and distribution structure Tam Tam stories to explore further the production and constitute an independent short form distribution offer.

@@ -1,11 +1,11 @@
 ---
 title: Pedro Levati
 image: /img/speaker/pedro-levati.jpg
-shortdescription: Scriptwriter, Director | Buenos Aires Series. Content and Program Director| Macaco Films | Argentina
+shortdescription: Scriptwriter, Director | BUENOS AIRES SERIES | Argentina
 ---
 <img src="/img/speaker/pedro-levati.jpg">
 ## Pedro Levati
 
-Scriptwriter, Director | Buenos Aires Series. Content and Program Director | Macaco Films | Argentina
+Scriptwriter, Director | Content & Program Director at BUENOS AIRES SERIES |  Argentina
 
-Pedro Levati is a writer, director and producer from Buenos Aires, Argentina. He is the founder and CEO of ‚Macaco Films‘ as well as the program director for the ‚Buenos Aires Series Festival Content‘. His work includes ‚Estilo Esther‘, ‚Noche de Paz‘, ‚Noche de Amor‘ (Canne Series 2019 Selection) and ‚Noche de Estrellas‘.
+Screenwriter and director. Buenos Aires Series Festival Director. Teacher at Universidad del Cine. Some of his works: “Noche de Paz”, “Noche der Amor”, “Noche de Estrellas”; Canneseries 2019 Official Selection. “Estilo Esther” S1 & S2. “Millennials” S3. Director for Netflix LATAM. 

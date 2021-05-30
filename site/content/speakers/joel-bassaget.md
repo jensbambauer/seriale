@@ -1,7 +1,7 @@
 ---
 title: Joël Bassaget
-image: /img/joel-bassaget.jpg
-shortdescription:  Writer | Founder of Web Series World Cup | Germany
+image: /img/speaker/joel-bassaget.jpg
+shortdescription:  Writer | Web Series World Cup | Germany
 ---
 <img src="/img/speaker/joel-bassaget.jpg">
 ## Joël Bassaget

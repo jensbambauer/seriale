@@ -7,4 +7,4 @@ image: /img/series/movies-in-real-life.jpg
 ## Movies in Real Life (German Festival Premiere)
 Country: Argentinia | Genre: Documentary, Travel | Director: Nicolás Amelio-Ortiz, Tomás Gonzáles Montalvo| Writer: Nicolás Amelio-Ortiz, Tomás Gonzáles Montalvo
 
-Follow Nicolás and his crew as they visit the most famous film locations to discover all of their secrets. In the first season, they take a trip to Los Angeles, showing us the most emblematic places from films such as “Kill Bill”, “Back to the Future”, “Forrest Gump”, and many others.
+Follow Nicolás and his crew as they visit the most famous film locations to discover all of their secrets. In the first season, they take a trip to Los Angeles, showing us the most emblematic places from films such as “Kill Bill”, “Back to the Future”, “Forrest Gump” and many others.

@@ -1,9 +1,9 @@
 ---
 title: Young Man Kang
-image: /img/speaker/young-man-kang.jpg
+image: /img/jury/young-man-kang.jpg
 shortdescription: Director | Founder & Festival Director | Seoul Webfest, Asia Web Awards | South Korea
 ---
-<img src="/img/speaker/young-man-kang.jpg">
+<img src="/img/jury/young-man-kang.jpg">
 ## Young Man Kang
 
 Director | Founder & Festival Director | Seoul Webfest, Asia Web Awards | South Korea

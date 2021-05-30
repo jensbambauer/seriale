@@ -1,9 +1,9 @@
 ---
 title: Gisela Benenzon
-image: /img/speaker/gisela-benenzon.jpg
+image: /img/jury/gisela-benenzon.jpg
 shortdescription: Screenwriter | Argentina
 ---
-<img src="/img/speaker/gisela-benenzon.jpg">
+<img src="/img/jury/gisela-benenzon.jpg">
 ## Gisela Benenzon
 
 Screenwriter | Argentina

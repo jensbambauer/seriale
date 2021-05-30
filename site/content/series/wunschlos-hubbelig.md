@@ -3,6 +3,7 @@ title: Wunschlos hubbelig / Wishlessly Bumpy
 image: /img/series/wunschlos-hubbelig.jpg
 ---
 
+
 ## Wunschlos hubbelig / Wishlessly Bumpy
 Country: Germany | Genre: Roadtrip, Comedy, Romance | Director: Stefan Vogt | Writer: Stefan Vogt 
 

@@ -3,6 +3,7 @@ title: For Peanuts/Fuer Umme
 image: /img/series/fuer-umme.jpg
 ---
 
+
 ## For Peanuts/Fuer Umme
 Country: Germany | Genre: Comedy
 Director: Vlady Oszkiel | Writer: Michael Schumacher, Melanie Waelde, Mats Frey, Vlady Oszkiel

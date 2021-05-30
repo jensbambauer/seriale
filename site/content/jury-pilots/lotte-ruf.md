@@ -1,10 +1,10 @@
 ---
 title: Lotte Ruf
-image: /img/speaker/lotte-ruf.jpg
+image: /img/jury/lotte-ruf.jpg
 shortdescription: Producer | Haus Kummerveldt Filmproduction | Germany
 
 ---
-<img src="/img/speaker/lotte-ruf.jpg">
+<img src="/img/jury/lotte-ruf.jpg">
 ## Lotte Ruf
 
 Producer | Haus Kummerveldt Filmproduction | Germany

@@ -2,7 +2,7 @@
 title: Neptunia (German Festival Premiere)
 image: /img/series/neptunia.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L4F47T5K2qo&t" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L4F47T5K2qo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Neptunia (German Festival Premiere)
 Country: Uruguay | Genre: Comedy, Horror | Director: Maximiliano Contenti, Jhonny Angelbush, Juani Monteverdi, Alejandro Rocchi, Gonzalo Torrens, Gastón Armagno| Writer: Pedro Duarte Gurmendez, Marcelo Bessonart, Gastón Armagno

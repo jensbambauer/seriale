@@ -1,10 +1,10 @@
 ---
-title: Gaston Armagno
+title: Gastón Armagno
 image: /img/speaker/gaston-armagno.jpg
 shortdescription: Creator, Director | Spain
 ---
 <img src="/img/speaker/gaston-armagno.jpg">
-## Gaston Armagno
+## Gastón Armagno
 
 Creator, Director | Spain
 
