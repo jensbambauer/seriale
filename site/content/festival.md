@@ -129,7 +129,10 @@ sections:
           link: "https://www.giessen.de"
         - image: /img/partners/Wetzlar.png
         - image: /img/partners/sparkasse.png
-        - image: /img/partners/Goethe-Institut.png
+        - image: /img/partners/sparq-logo@1x.png
+          link: "https://www.sparqfest.live/"
+        - image: /img/partners/wktp.png
+          link: "https://www.whokilledthepig.de/"
         - image: /img/partners/kinocenter.png
         - image: /img/partners/dobago.png
           link: "http://www.dobago.de"

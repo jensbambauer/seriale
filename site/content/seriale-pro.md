@@ -71,8 +71,11 @@ sections:
           link: "https://www.seriesland.eus"
         - image: /img/partners/DIMA.png
           link: "http://dima-market.com"
+        - image: /img/partners/sparq-logo@1x.png
+          link: "https://www.sparqfest.live/"
         - image: /img/partners/FlixxoBlack.png
-        - image: /img/partners/snepic_logo_type.png
+        - image: /img/partners/wktp.png
+          link: "https://www.whokilledthepig.de/"
         - image: /img/partners/fmws.png
         - image: /img/partners/World_Wide_Webserie.png
         - image: /img/partners/un3-logo.png
