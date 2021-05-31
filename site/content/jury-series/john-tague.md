@@ -1,7 +1,7 @@
 ---
 title: John Tague
 image: /img/jury/john-tague.jpg
-shortdescription: Actor, Producer, Director | United States
+shortdescription: Actor, Director | United States
 ---
 <img src="/img/jury/john-tague.jpg">
 ## John Tague

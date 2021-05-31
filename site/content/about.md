@@ -36,7 +36,7 @@ sections:
           shortdescription: Festival Organization & Office
         - image: /img/team/Jens-Bambauer.jpg
           title: Jens Bambauer
-          shortdescription: Website
+          shortdescription: Website & Streaming
         - image: /img/team/Birgit-Schweitzer.jpg
           title: Birgit Schweitzer
           shortdescription: Public Relations & Blog Editor
@@ -102,7 +102,7 @@ sections:
           shortdescription: Jury Communication
         - image: /img/team/lucas-yalaza.jpg
           title: Lucas Yalaza
-          shortdescription: Coordination Pitch Contest
+          shortdescription: Assistance Pitch Contest Management
         - image: /img/team/Lisa-Heimbach.jpg
           title: Lisa Heimbach
           shortdescription: Interviews & Festival Trailer
@@ -118,6 +118,9 @@ sections:
         - image: /img/team/celina-schmitt.jpg
           title: Celina Schmitt
           shortdescription: Seriale Pro, Networking & Interview Team
+        - image: /img/team/princess-anyasodor.jpg
+          title: Princess Anyasodor
+          shortdescription: BlogSeocial media & Website Team
         - image: /img/team/alexa-albert.jpg
           title: Alexa Albert
           shortdescription: Social Media & Website Team
@@ -156,10 +159,13 @@ sections:
           shortdescription: Educational & Editorial Team
         - image: /img/team/laura_zinganell.jpg
           title: Laura Zinganell
-          shortdescription: Social Media, Editorial Team
+          shortdescription: Pitch Contest & Award Ceremony Team
         - image: /img/team/leah-grote.jpg
           title: Leah Grote
-          shortdescription: Pitch Contest & Award Ceremony Team
+          shortdescription: Editorial & Social Media Team
+        - image: /img/team/anna-sommer.jpg
+          title: Anna Sommer
+          shortdescription: Pitch Contest & Seriale Pro Team
         - image: /img/team/leonie-becker.jpg
           title: Leonie Becker
           shortdescription: Seriale Pro & Pitch Contest Team

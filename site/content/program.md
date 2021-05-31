@@ -81,7 +81,7 @@ sections:
                         - name: Stephan Böhl
                           link: stephan-boehl
                       details: "Talking about the importance of sound design, George Lucas once said - \"Sound is half the picture.\" We will talk about the relevance and the importance, and creative possibilities of sound design and music. We will discuss whether and why sound design is still neglected in many productions and why this should definitely not happen."
-                    - title: TITLE MISSING
+                    - title: And now for something completely different...
                       length: 3
                       type: panel discussion
                       datetime: 2021-06-04

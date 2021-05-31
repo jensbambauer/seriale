@@ -1,7 +1,7 @@
 ---
 title: Dipu Bhattacharya
 image: /img/jury/dipu-bhattacharya.jpg
-shortdescription: Producer, Director, Writer, Editor | Co-Creator of The Pantsless Detective | United States  
+shortdescription: Producer, Director | United States  
 ---
 <img src="/img/jury/dipu-bhattacharya.jpg">
 ## Dipu Bhattacharya

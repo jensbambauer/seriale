@@ -3,8 +3,8 @@ title: Daniela Zentner
 image: /img/speaker/daniela-zentner.jpg
 shortdescription: Producer | Red Pony Pictures powered by Saxonia Media | Germany
 ---
-<img src="/img/speaker/axel-ricke.jpg">
-## Axel Ricke
+<img src="/img/speaker/daniela-zentner.jpg">
+## Daniela Zentner
 
 Producer | Red Pony Pictures powered by Saxonia Media | Germany
 

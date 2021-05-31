@@ -1,7 +1,7 @@
 ---
 title: Christian Stadach
 image: /img/jury/christian-stadach.jpg
-shortdescription: Director, Creative Director, Producer | Tag & Nacht Media | Germany
+shortdescription: Director | Tag & Nacht Media | Germany
 ---
 <img src="/img/jury/christian-stadach.jpg">
 ## Christian Stadach
