@@ -55,7 +55,7 @@ sections:
               title: Opening Ceremony
               location: live stream on die-seriale.de
               size: 3
-            - time: 5pm - 7pm CEST
+            - time: 5pm - 6pm CEST
               title: Hessen Focus
               location: live stream on die-seriale.de
               size: 3
