@@ -1,0 +1,7 @@
+{{ with .data}}
+	<div class="large-teaser" style="background-image: url({{ .background }})">
+		<a class="button" href="{{ .href }}" target="_blank">
+			{{ .text }}
+		</a>
+	</div>
+{{ end }}

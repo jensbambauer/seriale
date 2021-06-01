@@ -1,0 +1,19 @@
+.large-teaser {
+  height: 160px;
+  width: 100%;
+  background: black;
+  display: flex;
+  @apply --font-style-medium;
+  color: var(--mainColor);
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  position: relative;
+
+  .button {
+    align-self: center;
+    position: relative;
+    z-index: 2;
+  }
+
+}
