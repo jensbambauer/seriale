@@ -1,6 +1,6 @@
 ---
 title: >-
-  If you accidentally buy a sex store instead of a bakery: Interview with
+  If you accidentally buy a sex store instead of a bakery / Interview with
   Vladimir Kanuhin, winner of the award Best Actor at die Seriale 2020 and
   leading actor in the Russian web series Millionaire from Balashikha
 date: 2021-06-03T14:42:16.223Z
@@ -17,7 +17,7 @@ It started from a “Modulbank” project. The task was to show the lives of ent
 
 The hero of the series is 22-year-old Bogdan Kandaurov. He is a victim of the business coaches who hold seminars of the kind "believe in yourself and everything will work out" for a lot of money. His room is covered with letters and diplomas: "You are a millionaire", he also speaks with elaborate slogans that have nothing to do with the real life of entrepreneurs – a satire of business coaches. Bogdan is least like real business people: a clumsy, shy young guy who accidentally buys the sex shop instead of the bakery. (The producers thought for a long time whether they should introduce a funeral parlor instead of a sex shop into the story, then they all agreed to sex shop). This of course also shows how little experience he still has in the business area. At the same time, Bogdan captivates the audience by never giving up and looking for creative ways to solve a problem even in times of crisis – and these creative ways make the audience laugh honestly. It also shows that money or real estate do not play the main role in success, but entrepreneurial talent, which Bogdan definitely has. For his performance he received at the Seriale 2020 the award for Best Actor. Alexandra Ansidei from the jury said: “We chose Vladimir Kanuhins performance as an earnest young business man wanting to make millions, because we thought it was hilarious and heartbreaking at the same time. His sweet nature and vulnerability is subtly performed with wide eyed optimism and we can’t help but hope he succeeds.”
 
-!\[](/img/bild2blogmillionairevladimirkanuhin.jpg)
+![](/img/bild2blogmillionairevladimirkanuhin.jpg)
 
 **Vladimir Kanuhin © Millionaire from Balashikha**
 
@@ -43,19 +43,19 @@ While we were watching the series, we got the desire to go behind the scenes of 
 
 **Vladimir Kanuhin:** At the Moscow Art Theater School, as part of the educational process, we had a subject economics where I also understood that I am not an expert in this field ... I am very sorry that I do not have the same skills as Bogdan. It seems to me that, unlike Bogdan, I am too "airy" for this job.
 
-!\[](/img/bild3blogmillionairestill.jpg)
+![](/img/bild3blogmillionairestill.jpg)
 
 **Still from Millionaire from Balashikha © Millionaire from Balashikha**
 
 **die Seriale:** The blog suggests many different tips for an aspiring millionaire to look out for. Which of these points do you think is most important?
 
-**Vladimir Kanuhin:** I am very sure - "The sleeper will only get dreams." I don't sleep much myself in order to remember the wonderful moments of the day as best I can. I fully agree with Bogdan.
+**Vladimir Kanuhin:** I am very sure – "The sleeper will only get dreams." I don't sleep much myself in order to remember the wonderful moments of the day as best I can. I fully agree with Bogdan.
 
 **die Seriale:** In the web series we see that Bagdan had previously borrowed money from his grandmother to buy a drone. Is there anything you could tell us about the possible idea behind this purchase?
 
 **Vladimir Kanuhin:** It seems to me that Bogdan would send letters to his parents in such a unique way.
 
-!\[](/img/bild4blogmillionairestvladimirkanuhinandirinachipizhenko.jpg)
+![](/img/bild4blogmillionairestvladimirkanuhinandirinachipizhenko.jpg)
 
 **Vladimir Kanuhin and Irina Chipizhenko © Millionaire from Balashikha**
 
@@ -74,6 +74,6 @@ Writers: Daler Rahimov, Trofim Pustilnik\
 Producers: Nikita Tamarov, Artyom Caregorodcev, Lena Samojlova, Andrey Paukov, Alena Valovaya, Lera Zubova\
 Cast: Vladimir Kanuhin, Irina Chipizhenko, Natalya Tetenova
 
-!\[](/img/bild5blogmillionaireposter.jpg)
+![](/img/bild5blogmillionaireposter.jpg)
 
 **Filmposter of Millionaire from Balashikha**
