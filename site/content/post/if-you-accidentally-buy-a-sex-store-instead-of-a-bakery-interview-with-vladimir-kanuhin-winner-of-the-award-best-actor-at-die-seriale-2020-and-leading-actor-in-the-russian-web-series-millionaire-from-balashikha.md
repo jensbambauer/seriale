@@ -5,7 +5,7 @@ title: >-
   leading actor in the Russian web series Millionaire from Balashikha
 date: 2021-06-03T14:42:16.223Z
 description: >-
-  Millionaire from Balashiha is a fun and varied web series that was shot in
+  Millionaire from Balashikha is a fun and varied web series that was shot in
   2017 in Russia. The comedy series about a young entrepreneur trying to keep
   his business – a sex shop on the edge of town, gained a dedicated fan
   audience, approximately 60,000 subscribers, and 6 million views. 
