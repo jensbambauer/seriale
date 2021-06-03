@@ -1,8 +1,8 @@
 ---
 title: >-
   If you accidentally buy a sex store instead of a bakery / Interview with
-  Vladimir Kanuhin, winner of the award Best Actor at die Seriale 2020 and
-  leading actor in the Russian web series Millionaire from Balashikha
+  Vladimir Kanuhin, winner of the award Best Actor (Millionaire from Balashikha)
+  at die Seriale 2020
 date: 2021-06-03T14:42:16.223Z
 description: >-
   Millionaire from Balashikha is a fun and varied web series that was shot in
