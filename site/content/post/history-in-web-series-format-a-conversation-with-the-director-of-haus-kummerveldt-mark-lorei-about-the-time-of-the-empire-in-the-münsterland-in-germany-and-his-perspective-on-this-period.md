@@ -1,8 +1,7 @@
 ---
 title: >-
-  History in web series format: A conversation with the director of Haus
-  Kummerveldt, Mark Lorei, about the time of the empire in the Münsterland in
-  Germany and his perspective on this period
+  History in web series format / A conversation with Mark Lorei, director of
+  Haus Kummerveldt, about the time of the empire in the Münsterland in Germany
 date: 2021-06-02T07:59:35.785Z
 description: >-
   "Haus Kummerveldt or how the noble Luise healed hysteria by screaming until
