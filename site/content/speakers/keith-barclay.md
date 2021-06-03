@@ -2,6 +2,7 @@
 title: Keith Barclay
 image: /img/speaker/keith-barclay.jpg
 shortdescription: Producer | CEO NZ Web Fest | New Zealand
+title: Keith Barclay
 ---
 <img src="/img/speaker/keith-barclay.jpg">
 ## Keith Barclay

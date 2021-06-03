@@ -106,6 +106,9 @@ sections:
         - image: /img/team/Lisa-Heimbach.jpg
           title: Lisa Heimbach
           shortdescription: Interviews & Festival Trailer
+        - image: /img/team/chris-mathews.jpg
+          title: Chris Tom Mathews
+          shortdescription: Interviews & Festival Trailer
         - image: /img/team/Robert-Achtel.jpg
           title: Robert G. Achtel
           shortdescription: Web Design
@@ -118,12 +121,12 @@ sections:
         - image: /img/team/celina-schmitt.jpg
           title: Celina Schmitt
           shortdescription: Seriale Pro, Networking & Interview Team
-        - image: /img/team/princess-anyasodor.jpg
-          title: Princess Anyasodor
-          shortdescription: BlogSeocial media & Website Team
+        - image: /img/team/princess-amarachi-anyasodor.jpg
+          title: Princess Amarachi Anyasodor
+          shortdescription: Blog, Social Media & Website Team
         - image: /img/team/alexa-albert.jpg
           title: Alexa Albert
-          shortdescription: Social Media & Website Team
+          shortdescription: Social Media, Website & Streaming Team
         - image: /img/team/anna-villwock.jpg
           title: Anna Villwock
           shortdescription: Award Ceremony & Red Carpet Team

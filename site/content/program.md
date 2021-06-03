@@ -38,7 +38,9 @@ sections:
                           link: lotte-ruf
                       speaker:
                         - name: Tim Reiland
+                          link: tim-reiland
                         - name: Fabian Schwab
+                          link: fabian-schwab
                         - name: Jörg Buschka
                           link: joerg-buschka
                         - name: Anna Maria Pahlke
@@ -61,7 +63,7 @@ sections:
                       length: 2
                       type: introduction
                       datetime: 2021-06-04
-                      time: 11:30 | 11:00am CEST
+                      time: 11:00 | 11:00am CEST
                       speaker:
                         - name: Anja Henningsmeyer
                       hosts:
@@ -85,7 +87,7 @@ sections:
                       length: 3
                       type: panel discussion
                       datetime: 2021-06-04
-                      time: 12:00 | 12am CEST
+                      time: 12:30 | 12.30am CEST
                       moderator:
                         - name: Anja Horstmann
                           link: anja-horstmann
@@ -94,6 +96,8 @@ sections:
                           link: malte-hagener
                         - name: Chiara Bressa
                           link: chiara-bressa
+                        - name: Joël Bassaget
+                          link: joel-bassaget
                       details: Media historians and authors take a closer look at web series with historical themes in this roundtable discussion. In which way is history presented? Does the medium influence the representation? How much history fits into a short-form digital series?
                     - title: Break
                       length: 2
@@ -136,10 +140,18 @@ sections:
                         - name: Patrick Bilodeau (Claire and the elderly)
                           link: patrick-bilodeau
                         - name: Daniela Zentner (2 Minutes)
+                          link: daniela-zentner
                         - name: Beate Maschke-Spittler (2 Minutes)
                           link: beate-maschke-spittler
                         - name: Meike Götz (2 Minutes)
+                          link: meike-goetz
                         - name: Heidi Lynch (Avocado Toast the series)
+                          link: heidi-lynch
+                        - name: Malena Filmus (Tony)
+                          link: malena-filmus
+                        - name: Vlady Oszkiel (For Peanuts/Für Umme)
+                          link: vlady-oszkiel
+                        
                       details: "Meet the creative minds behind the series of this year’s selection - This panel unites creators from around the world and asks them questions about their series, creative ambitions and film production."
                     - title: "Festival Directors from around the World"
                       type: panel discussion
@@ -153,21 +165,25 @@ sections:
                         - name: Luis Felipe Alvarado (Lima Web Fes)
                           link: luis-felipe-alvarado
                         - name: Keith Barclay (NZ Web Fest)
-                        - name: keith-barclay
+                          link: keith-barcklay
                         - name: Ajay Kishore (Stareable)
                           link: ajay-kishore
                         - name: Janet De Nardis (Digital Media Fest)
                           link: janet-de-nardis
                         - name: Bryan Thompson (Miami Web Fest)
+                          link: bryan-thompson
                         - name: Michele Pinto (Apulia Web Fest)
+                          link: michele-pinto
+                        - name: Neem Basha (NJ Web Fest)
+                        
                     - title: Producing during Pandemic
                       time: 17:00 | 5pm CEST
                       type: panel discussion
                       length: 3
                       datetime: 2021-06-04
                       moderator:
-                        - name: Rose of Dolls
-                          link: rose-of-dolls
+                        - name: Oliver Mend
+                          link: oliver-mend
                       panelists: 
                         - name: Martijn Winkler (Heat)
                           link: martijn-winkler
@@ -220,8 +236,10 @@ sections:
                         - name: Young Man Kang | Seoul, South Korea
                           link: young-man-kang
                         - name: Jihye Michelle Kim | South Korea
+                          link: kim-jihye-michelle
                         - name: Kay Heeyoung Kim | South Korea
-                      details: 
+                          link: kay-heeyoung-kim
+                      details: "Participants will talk about the web drama in South Korea, their latest projects, branded series as well as the distribution and co-production opportunities."
                     - title: Networking 1
                       length: 3
                       type: Online Networking 
@@ -243,7 +261,7 @@ sections:
                       datetime: 2021-06-05
                       length: 3
                       time: 14:00 – 15:00 | 2pm – 3pm CEST
-                      details:
+                      details: "This panel of experts gives an exclusive insight into the mechanisms of the web series market in Hesse, Germany.  Hessian web series creators talk about their productions and experiences."
                       moderator:
                         - name: Dascha Solovieva
                       panelists:
@@ -359,7 +377,7 @@ sections:
                           link: oliver-mend
                         - name: Axel Ricke
                           link: axel-ricke
-                      details:
+                      details: "Experienced producers and festival directors from Europe talk about the European digital series market."
                     - title: Break
                       length: 3
                       type: break
@@ -379,9 +397,8 @@ sections:
                       length: 3
                       moderator:
                         - name: Gisela Benenzon | Argentina
+                        - name: Gisella Waetzold-Hildebrandt | Germany
                       panelists:
-                        - name: Pedro Levati | Buenos Aires, Argentina
-                          link: pedro-levati
                         - name: Leandro Silva | Rio de Janeiro, Brazil
                           link: leandro-silva
                         - name: Luis Felipe Alvarado | Lima, Peru
@@ -394,7 +411,7 @@ sections:
                           link: sergio-sosa
                         - name: Santiago Gomez | Bogota, Columbia
                           link: santiago-gomez
-                      details:
+                      details: "The South American web series market is very active and successful. This panel of experts from different countries in South America will provide the film and media industry with an exclusive insight into the functioning of the South American web series market."
                     - title: DIMA Digital Market
                       time: 15:00 – 15:30 | 3pm – 3.30pm CEST
                       length: 3
@@ -415,7 +432,7 @@ sections:
                           link: rose-of-dolls
                       panelists:
                         - name: Antoine Disle | Tam Tam stories | France
-                          link: pedro-levati
+                          link: antoine-disle
                         - name: Saskia Baaij-Verhoeven | VIACOM CBS | Netherlands
                           link: saskia-baaij-verhoeven
                         - name: Young Man Kang | YMK Films | South Korea
@@ -428,6 +445,7 @@ sections:
                           link: rocio-carbajo
                         - name: Kristian Costa-Zahn | Banijay | Germany
                           link: kristian-costa-zahn
+                      details: "Experts from all over the world talk about the international web series market. They present their companies and fields of work and give practical advice to participate in the international market."
                     - title: Break
                       length: 3
                       type: break
