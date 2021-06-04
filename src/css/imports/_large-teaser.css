@@ -1,5 +1,5 @@
 .large-teaser {
-  height: 160px;
+  height: 280px;
   width: 100%;
   background: black;
   display: flex;
@@ -14,6 +14,16 @@
     align-self: center;
     position: relative;
     z-index: 2;
+  }
+
+  &:after {
+    content: "";
+    width: calc(100% - 40px);
+    height: calc(100% - 40px);
+    border: 10px solid var(--mainColor);
+    position: absolute;
+    left: 10px;
+    top: 10px;
   }
 
 }
