@@ -21,10 +21,14 @@ sections:
       embed: '<iframe src="https://player.vimeo.com/video/556903080" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>'
       headline: "Pitch Your Project"
       text: '24 international creators, get the chance to present their series project in a 3 minute long pitch video. Among them, some creators will pitch their project for the first time. In a livestream, which will be moderated by Thomas Veyrier (Toulouses/France), Caris Vujcec (New York City/United States) and John Tague (Los Angeles/United States), the videos will be shown to a selected jury and audience. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 6th. The pitch contest takes place on the 5th of June from 4pm to 8pm and includes four rounds.'
-  # - partial: teaser-grid
-  #   headline: jury pitch contest
-  #   data:
-  #     list: jury-pitch-contest
+  - partial: teaser-grid
+    headline: jury pitch contest
+    data:
+      list: jury-pitch-contest
+  - partial: teaser-grid
+    headline: moderators pitch contest
+    data:
+      list: pitch-contest-moderators
   - partial: text-and-image
     headline: Digital Live Conference
     data:

@@ -175,6 +175,8 @@ sections:
                         - name: Michele Pinto (Apulia Web Fest)
                           link: michele-pinto
                         - name: Neem Basha (NJ Web Fest)
+                        - name: Leandro Silva | Rio de Janeiro, Brazil
+                          link: leandro-silva
                         
                     - title: Producing during Pandemic
                       time: 17:00 | 5pm CEST
@@ -245,17 +247,28 @@ sections:
                       type: Online Networking 
                       datetime: 2021-06-05
                       time: 12:00 - 13:00 | 12pm - 1pm CEST
-                      details: Networking with wonder.me
+                      details: '<a class="button" href="https://wonder.me/r?id=1f5f1797-7b87-4361-9e35-ecd389b4ff62" target="_blank">Join wonder room</a>'
                     - title: Break
                       length: 3
                       type: break
                       datetime: 2021-06-05
-                      time: 13:30 - 14:00 | 1.30pm - 2pm CEST
+                      time: 13:00 - 13:30 | 1.30pm - 2pm CEST
                     - title: Interviews with Creators from the Official Selection
                       length: 3
                       type: Interviews
                       datetime: 2021-06-05
                       time: 13:30 - 14:00 | 1.30pm - 2pm CEST
+                      moderator:
+                        - name: Kaira Masuhr
+                        - name: Anne Failing
+                      panelists:
+                        - name: Anna-Marlene Wirtz
+                          link: anna-marlene-wirtz
+                        - name: Elena Halangk
+                          link: elena-halangk
+                        - name: Marco Eisenbarth
+                          link: marco-eisenbarth
+                      details: Interview with the Creators and the Cinematographer of Emmy & Christin
                     - title: "Hessian Digital Series: Production & Distribution"
                       type: Panel Discussion
                       datetime: 2021-06-05
@@ -307,7 +320,8 @@ sections:
                       type: pitching | Industry exclusive or with invitation
                       time: 17:00 – 18:00 | 5pm – 6pm CEST
                       moderator:
-                        - name: Tba
+                        - name: Thomas Veyrier
+                          link: thomas-veyrier
                       details: In each pitch block 6 fresh and brand new series projects will be presented to the industry.
                     - title: Pitch Contest | Block 3
                       length: 4
@@ -329,7 +343,7 @@ sections:
                       type: Online Networking 
                       datetime: 2021-06-05
                       time: 20:00 - 22:00 | 8pm - 10pm CEST
-                      details: Networking with wonder.me
+                      details: '<a class="button" href="https://wonder.me/r?id=1f5f1797-7b87-4361-9e35-ecd389b4ff62" target="_blank">Join wonder room</a>'
 
         - title: 6th june
           partial: tab-sections
@@ -361,6 +375,14 @@ sections:
                       type: Interviews
                       datetime: 2021-06-06
                       time: 11:30 - 12:00 | 11.30am - 12pm CEST
+                      moderator:
+                        - name: Kaira Masuhr
+                        - name: Anne Failing
+                      panelists:
+                        - name: Daniela Zentner (2 Minutes)
+                          link: daniela-zentner
+                        - name: Dennis Albrecht (Inventarium)
+                          link: dennis-albrecht
                     - title: Digital Series in Europe - Market & Co-Production
                       time: 12:00 – 13:00 | 12pm – 13pm CEST
                       length: 3
@@ -494,7 +516,7 @@ sections:
                       type: Online Networking 
                       datetime: 2021-06-05
                       time: 22:00 - 00:00 | 10pm - 12am CEST
-                      details: Networking with wonder.me
+                      details: '<a class="button" href="https://wonder.me/r?id=cc48f8cc-9193-4d4b-8b8e-a6ab59a0e34a" target="_blank">Join wonder room</a>'
   - partial: text-plain
     headline: connect with us
     data:
