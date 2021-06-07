@@ -17,7 +17,7 @@ sections:
             - origin: South Korea
               title: Cafe Midnight
             - origin: Canada   
-            - title: Claire and the elderly
+              title: Claire and the elderly
               highlight: true
             - origin: Netherlands
               title: Heat
@@ -86,21 +86,6 @@ sections:
               origin: Thomas Spitschka
             - title: "The Bad Life / Bizi Txarra"
               origin: Oliver Mend
-        - headline: best editing
-          list:
-            - title: 2 Minutes
-              origin: Ina Tangermann
-            - title: "Bastards / Bâtards"
-              origin: Léo Parmentier
-            - title: "Love, Guns & Level Ups"
-              origin: <b>Daniel Vink,</b><b> Nicholas Cleary,</b><b> Andrew Shanks</b>
-              highlight: true
-            - title: "Miliz!"
-              origin: <b>Sebastian Husak,</b><b> Moritz Adlon,</b><b> Wouter Wirth</b>
-            - title: Resistance
-              origin: Maxime Chefdeville
-            - title: "The Bad Life / Bizi Txarra"
-              origin: <b>Damian Karras &</b><b> Oliver Mend</b>
         - headline: best actress
           list:
             - title: Avocado Toast the series
@@ -139,6 +124,25 @@ sections:
               origin: Miguel Abrantes Ostrowski 
             - title: Neptunia
               origin: Dario Amado
+        - headline: best ensemble cast
+          list: 
+            - title: 2 Minutes
+              origin:
+              highlight: true
+            - title: Cancelled
+              origin:
+            - title: "Freelancers (Season 2)"
+              origin:
+            - title: Gutuberrak
+              origin:
+            - title: Heat
+              origin:
+            - title: Noche de Estrellas
+              origin:
+            - title: "People Like Us (Season 2)"
+              origin:
+            - title: Trust us and be patient
+              origin:
         - headline: best supporting actress
           list:
             - title: 2 Minutes
@@ -169,40 +173,21 @@ sections:
               origin: Martín Garabal
             - title: "Top Dogs: Homicides"
               origin: Thomas Beaudoin
-        - headline: best original score
+        - headline: best editing
           list:
             - title: 2 Minutes
-              origin: Freya Arde
-            - title: All Souls
-              origin: Dillon M. DeRosa
-            - title: Cafe Midnight
-              origin: "Dae-hwan Lim"
-            - title: Claire and the elderly
-              origin: "Pierre-Philippe Côté"
-              highlight: true
-            - title: Heat
-              origin: <b>James Banbury &</b><b> Pete Davis</b>
-            - title: "Kuntergrau (Season 3)"
-              origin: Maximilian Kelm
-            - title: Neptunia
-              origin: Hernan Gonzalez
-            - title: Resistance
-              origin: Benjamin Ribolet
-        - headline: best sound design
-          list:
-            - title: Heat
-              origin:
+              origin: Ina Tangermann
+            - title: "Bastards / Bâtards"
+              origin: Léo Parmentier
             - title: "Love, Guns & Level Ups"
-              origin:
+              origin: <b>Daniel Vink,</b><b> Nicholas Cleary,</b><b> Andrew Shanks</b>
               highlight: true
-            - title: Neptunia
-              origin:
+            - title: "Miliz!"
+              origin: <b>Sebastian Husak,</b><b> Moritz Adlon,</b><b> Wouter Wirth</b>
             - title: Resistance
-              origin:
-            - title: Shadow Man
-              origin:
+              origin: Maxime Chefdeville
             - title: "The Bad Life / Bizi Txarra"
-              origin:
+              origin: <b>Damian Karras &</b><b> Oliver Mend</b>
         - headline: best visual effects
           list:
             - title: "Bastards / Bâtards"
@@ -248,25 +233,40 @@ sections:
               origin:
             - title: Resistance
               origin:
-        - headline: best ensemble cast
-          list: 
-            - title: 2 Minutes
-              origin:
-              highlight: true
-            - title: Cancelled
-              origin:
-            - title: "Freelancers (Season 2)"
-              origin:
-            - title: Gutuberrak
-              origin:
+        - headline: best sound design
+          list:
             - title: Heat
               origin:
-            - title: Noche de Estrellas
+            - title: "Love, Guns & Level Ups"
               origin:
-            - title: "People Like Us (Season 2)"
+              highlight: true
+            - title: Neptunia
               origin:
-            - title: Trust us and be patient
+            - title: Resistance
               origin:
+            - title: Shadow Man
+              origin:
+            - title: "The Bad Life / Bizi Txarra"
+              origin:
+        - headline: best original score
+          list:
+            - title: 2 Minutes
+              origin: Freya Arde
+            - title: All Souls
+              origin: Dillon M. DeRosa
+            - title: Cafe Midnight
+              origin: "Dae-hwan Lim"
+            - title: Claire and the elderly
+              origin: "Pierre-Philippe Côté"
+              highlight: true
+            - title: Heat
+              origin: <b>James Banbury &</b><b> Pete Davis</b>
+            - title: "Kuntergrau (Season 3)"
+              origin: Maximilian Kelm
+            - title: Neptunia
+              origin: Hernan Gonzalez
+            - title: Resistance
+              origin: Benjamin Ribolet
         - headline: best idea
           list: 
             - title: Fake Live

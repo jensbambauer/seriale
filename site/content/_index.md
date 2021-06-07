@@ -15,7 +15,7 @@ sections:
         #     overlay: true
         #     text: watch
         #     href: /award-ceremony
-        - headline: nominees & winners 2020
+        - headline: nominees & winners 2021
           button:
             text: view now
             href: /awards-2021
