@@ -358,6 +358,6 @@ sections:
     data:
       headline: partner festival's direct selections
       paragraphs:
-        - text: '<strong>Bilbao Seriesland (Basque Country):</strong> Miliz! | with travel and accommodation<br> <strong>Seoul Webfest (South Korea):</strong> 2 Minutes<br> <strong>Asia Web Awards (South Korea):</strong> The Man For Your Sins (Season 3)<br> <strong>NZ Web Fest (New Zealand):</strong> Freelancers (Season 2)<br> <strong>Rio Web Fest (Brazil):</strong> The Man For Your Sins (Season 3)<br> <strong>Digital Media Fest (Italy):</strong> Freelancers (Season 2)<br> <strong>Apulia Web Fest (Italy):</strong> "Shadow Man | We/r"<br> <strong>Montréal Digital Webfest (Canada):</strong> "Buschka discovers Germany (Season 3) | Emmy & Christin'
+        - text: '<strong>Bilbao Seriesland (Basque Country/Spain):</strong> Miliz! | with travel and accommodation<br> <strong>Seoul Webfest (South Korea):</strong> 2 Minutes<br> <strong>Asia Web Awards (South Korea):</strong> The Man For Your Sins (Season 3)<br> <strong>NZ Web Fest (New Zealand):</strong> Freelancers (Season 2)<br> <strong>Rio Web Fest (Brazil):</strong> The Man For Your Sins (Season 3)<br> <strong>Digital Media Fest (Italy):</strong> Freelancers (Season 2)<br> <strong>Apulia Web Fest (Italy):</strong> Shadow Man | We/r<br> <strong>Montréal Digital Webfest (Canada):</strong> Buschka discovers Germany (Season 3) | Emmy & Christin'
 ---
 
