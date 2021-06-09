@@ -27,7 +27,7 @@ if (window.netlifyIdentity) {
 
 const scrollbar = Scrollbar.init(document.querySelector("[data-scrollbar]"));
 
-function init() {
+function init(container = document) {
   const swiper = new Swiper(".swiper-container", {
     slidesPerView: 2,
     spaceBetween: 0,
@@ -50,7 +50,10 @@ function init() {
   });
 
   newsletterForm();
-  stage();
+
+  $(container).find('.stage').each((index, el) => {
+    stage(el);
+  })
   masonryGrid();
   overlay();
   lazyLoad();

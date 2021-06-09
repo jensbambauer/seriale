@@ -9,8 +9,8 @@ import {TimelineLite, Power4, Power0, TweenLite} from "gsap";
 
 /*jslint browser: true*/
 
-const stage = function() {
-  const $el = $(".stage");
+const stage = function(el) {
+  const $el = $(el);
   const duration = 5;
   const tl = new TimelineLite({
     onComplete: () => {

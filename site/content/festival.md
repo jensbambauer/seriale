@@ -19,11 +19,11 @@ sections:
           button:
             text: view now
             href: /official-selection-2021
-  - partial: large-teaser
-    data:
-      background: /img/be-part-of-it-bg.jpg
-      href: https://dieseriale.sparqfest.live/en/index.html
-      text: Watch Series
+  # - partial: large-teaser
+  #   data:
+  #     background: /img/be-part-of-it-bg.jpg
+  #     href: https://dieseriale.sparqfest.live/en/index.html
+  #     text: Watch Series
   - partial: text
     data:
       headline: About

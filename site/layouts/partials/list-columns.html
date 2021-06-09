@@ -3,7 +3,7 @@
     {{ range .items }}
         <div class="list-columns__item ">
             {{ with.headline }}
-            <h4>{{ . }}</h4>
+            <h4>{{ .  | safeHTML }}</h4>
             {{ end }}
             {{ with.intro }}
             <p class="list-columns__intro">{{ . | safeHTML}}</p>

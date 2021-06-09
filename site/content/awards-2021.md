@@ -337,6 +337,9 @@ sections:
             - title: World League of Myth and Heroes
               origin:
 
+  - partial: text
+    data:
+      headline: pitch contest
   - partial: list-columns
     smallmargin: true
     data:
@@ -346,18 +349,43 @@ sections:
             - title: Straight Acting
               origin: Niklas Bauer
               highlight: true
-  - partial: list-columns
-    smallmargin: true
-    data:
-      items:
-        - headline: Honorable Mention Pitch Contest Jury
+        - headline: "honorable mention<br>pitch contest jury"
           list:
             - title: Igor Mortis
               origin: Katharina Ruß & Sophia Schönborn
   - partial: text
     data:
       headline: partner festival's direct selections
-      paragraphs:
-        - text: '<strong>Bilbao Seriesland (Basque Country/Spain):</strong> Miliz! | with travel and accommodation<br> <strong>Seoul Webfest (South Korea):</strong> 2 Minutes<br> <strong>Asia Web Awards (South Korea):</strong> The Man For Your Sins (Season 3)<br> <strong>NZ Web Fest (New Zealand):</strong> Freelancers (Season 2)<br> <strong>Rio Web Fest (Brazil):</strong> The Man For Your Sins (Season 3)<br> <strong>Digital Media Fest (Italy):</strong> Freelancers (Season 2)<br> <strong>Apulia Web Fest (Italy):</strong> Shadow Man | We/r<br> <strong>Montréal Digital Webfest (Canada):</strong> Buschka discovers Germany (Season 3) | Emmy & Christin'
+  - partial: list-columns
+    smallmargin: true
+    data:
+      items:
+        - headline: "Bilbao Seriesland<br>(Basque Country/Spain)"
+          list:
+            - title: Miliz! | with travel and accommodation
+        - headline: "Seoul Webfest (South Korea)"
+          list:
+            - title: 2 Minutes
+        - headline: "Asia Web Awards (South Korea)"
+          list:
+            - title: The Man For Your Sins (Season 3)
+        - headline: "NZ Web Fest (New Zealand)"
+          list:
+            - title: Freelancers (Season 2)
+        - headline: "Rio Web Fest (Brazil)"
+          list:
+            - title: The Man For Your Sins (Season 3)
+        - headline: "Digital Media Fest (Italy)"
+          list:
+            - title: Freelancers (Season 2)
+        - headline: "Digital Media Fest (Italy)"
+          list:
+            - title: Freelancers (Season 2)
+        - headline: "Apulia Web Fest (Italy)"
+          list:
+            - title: Shadow Man | We/r
+        - headline: "Montréal Digital Webfest (Canada)"
+          list:
+            - title: Buschka discovers Germany (Season 3) | Emmy & Christin
 ---
 

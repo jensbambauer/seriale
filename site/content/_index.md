@@ -10,11 +10,11 @@ sections:
         #   button:
         #     text: submit series
         #     href: https://filmfreeway.com/dieSeriale
-        # - headline: Award Ceremony
-        #   button:
-        #     overlay: true
-        #     text: watch
-        #     href: /award-ceremony
+        - headline: Award Ceremony
+          button:
+            overlay: true
+            text: watch
+            href: /award-ceremony
         - headline: nominees & winners 2021
           button:
             text: view now
@@ -31,11 +31,11 @@ sections:
         #   button:
         #     text: view now
         #     href: /awards-2019
-  - partial: large-teaser
-    data:
-      background: /img/be-part-of-it-bg.jpg
-      href: https://dieseriale.sparqfest.live/en/index.html
-      text: Watch Series
+  # - partial: large-teaser
+  #   data:
+  #     background: /img/be-part-of-it-bg.jpg
+  #     href: https://dieseriale.sparqfest.live/en/index.html
+  #     text: Watch Series
   - partial: time-table
     headline: streaming schedule 2021
     data:
