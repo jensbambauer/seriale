@@ -10,11 +10,11 @@ sections:
         #   button:
         #     text: submit series
         #     href: https://filmfreeway.com/dieSeriale
-        - headline: Award Ceremony
-          button:
-            overlay: true
-            text: watch
-            href: /award-ceremony
+        # - headline: Award Ceremony
+        #   button:
+        #     overlay: true
+        #     text: watch
+        #     href: /award-ceremony
         - headline: nominees & winners 2021
           button:
             text: view now
