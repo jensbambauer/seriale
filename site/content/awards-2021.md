@@ -378,7 +378,7 @@ sections:
         - headline: "Digital Media Fest (Italy)"
           list:
             - title: Freelancers (Season 2)
-        - headline: "Digital Media Fest (Italy)"
+        - headline: "Sicily Web Fest (Sicily)"
           list:
             - title: Freelancers (Season 2)
         - headline: "Apulia Web Fest (Italy)"
