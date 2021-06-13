@@ -378,14 +378,20 @@ sections:
         - headline: "Digital Media Fest (Italy)"
           list:
             - title: Freelancers (Season 2)
-        - headline: "Sicily Web Fest (Sicily)"
+        - headline: "Sicily Web Fest (Italy)"
           list:
-            - title: Shadow Man | We/r
-        - headline: "Apulia Web Fest (Italy)"
-          list:
-            - title: Shadow Man | We/r
+            - title: We/r
         - headline: "Montréal Digital Webfest (Canada)"
           list:
             - title: Buschka discovers Germany (Season 3) | Emmy & Christin
+        - headline: "Minnesota Web Fest (United States)"
+          list:
+            - title: The Man For Your Sins (Season 3)
+        - headline: "DC Web Fest (United States)"
+          list:
+            - title: 2 Minutes
+        - headline: "Apulia Web Fest (Italy)"
+          list:
+            - title: Shadow Man | We/r
 ---
 
