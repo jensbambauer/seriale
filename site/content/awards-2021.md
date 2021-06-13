@@ -380,7 +380,7 @@ sections:
             - title: Freelancers (Season 2)
         - headline: "Sicily Web Fest (Sicily)"
           list:
-            - title: Freelancers (Season 2)
+            - title: Shadow Man | We/r
         - headline: "Apulia Web Fest (Italy)"
           list:
             - title: Shadow Man | We/r
