@@ -20,7 +20,7 @@ sections:
     data:
       embed: '<iframe src="https://player.vimeo.com/video/556903080" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>'
       headline: "Pitch Your Project"
-      text: '24 international creators, get the chance to present their series project in a 3 minute long pitch video. Among them, some creators will pitch their project for the first time. In a livestream, which will be moderated by Thomas Veyrier (Toulouses/France), Caris Vujcec (New York City/United States) and John Tague (Los Angeles/United States), the videos will be shown to a selected jury and audience. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 6th. The pitch contest takes place on the 5th of June from 4pm to 8pm and includes four rounds.'
+      text: "24 international creators, get the chance to present their series project in a 3 minute long pitch video. Among them, some creators will pitch their project for the first time. In a livestream, which will be moderated by Thomas Veyrier (Toulouses/France), Caris Vujcec (New York City/United States) and John Tague (Los Angeles/United States), the videos will be shown to a selected jury and audience. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 6th. The pitch contest takes place on the 5th of June from 4pm to 8pm and includes four rounds."
   - partial: teaser-grid
     headline: jury pitch contest
     data:
@@ -41,7 +41,7 @@ sections:
     data:
       image: /img/dima.jpg
       headline: "Germany's first Market for Digital Series"
-      text: 'The DIMA Digital Market Giessen (“DIMA Giessen”) combines a physical market especially for short form digital series and a networking platform for international producers, distributors, sales agents, broadcasters and funding representatives. This year, our conference program is streamed through our website, YouTube and Facebook. DIMA is a cooperation with “Bilbao Seriesland” & “Minnesota WebFest”.'
+      text: "The DIMA Digital Market Giessen (“DIMA Giessen”) combines a physical market especially for short form digital series and a networking platform for international producers, distributors, sales agents, broadcasters and funding representatives. This year, our conference program is streamed through our website, YouTube and Facebook. DIMA is a cooperation with “Bilbao Seriesland” & “Minnesota WebFest”."
   # - partial: text-and-image
   #   headline: die Seriale in the videmic app
   #   data:
@@ -80,7 +80,6 @@ sections:
         - image: /img/partners/FlixxoBlack.png
         - image: /img/partners/wktp.png
           link: "https://www.whokilledthepig.de/"
-        - image: /img/partners/fmws.png
         - image: /img/partners/World_Wide_Webserie.png
         - image: /img/partners/un3-logo.png
         - image: /img/partners/lichtacker.png

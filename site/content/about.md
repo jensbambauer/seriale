@@ -211,9 +211,6 @@ sections:
         - image: /img/team/Ronald-Wages.jpg
           title: Ronald Wages
           shortdescription: Festival Team
-        - image: /img/team/Sandra-Bertalanffy.jpg
-          title: Sandra Bertalanffy
-          shortdescription: Seriale Pro Advisor
         - image: /img/team/Astrid-Matron.jpg
           title: Dr. Astrid Matron
           shortdescription: Educational Advisor
