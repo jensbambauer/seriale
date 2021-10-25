@@ -1,5 +1,5 @@
 ---
-title: 7th Digital Series Festival Giessen
+title: 8th Digital Series Festival Giessen
 sections:
   - partial: twitch
     widesection: true
@@ -14,12 +14,12 @@ sections:
     headline: streaming schedule 2021
     data:
       full:
-        time: June 2nd - 7th
+        time: June 2nd - 8th
         title: Screenings
         location: Watch all series & pilots on demand.
         # logo:
         # button:
-        #   text: 
+        #   text:
         #   href:
         # size: 4
       days:
@@ -55,7 +55,7 @@ sections:
               title: Conference Program
               location: live stream on die-seriale.de
               pro: true
-              size: 2  
+              size: 2
             - time: 4pm - 8pm CEST
               title: Pitch Contest
               location: exclusive live stream for industry
@@ -65,7 +65,7 @@ sections:
               title: Networking
               location: online
               pro: true
-              size: 2  
+              size: 2
         - title: June 6th
           blocks:
             - time: 10am - 3pm CEST
@@ -89,7 +89,7 @@ sections:
             - time: 10pm - 12am CEST
               title: After Show Networking
               location: online
-              size: 3  
+              size: 3
   - partial: tabs
     data:
       background: /img/be-part-of-it-bg.jpg

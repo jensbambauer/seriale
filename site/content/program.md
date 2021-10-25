@@ -1,5 +1,5 @@
 ---
-title: 7th Digital Series Festival Giessen 
+title: 8th Digital Series Festival Giessen 
 sections:
   - partial: tabs
     widesection: true

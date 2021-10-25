@@ -1,6 +1,15 @@
 h2 {
   @apply --font-style-large-slab;
 }
+h2.no-icon {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 30px;
+  color: black;
+  &:before {
+    display: none;
+  }
+}
 h3 {
   font-family: "Roboto";
   font-weight: 700;

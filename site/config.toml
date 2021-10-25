@@ -33,12 +33,6 @@ languageCode = "en-us"
     weight     = 5
     
     [[menu.main]]
-    identifier = "program"
-    name       = "Program"
-    url        = "/program/"
-    weight     = 6
-
-    [[menu.main]]
     identifier = "blog"
     name       = "Blog"
     url        = "/post/"

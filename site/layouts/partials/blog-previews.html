@@ -1,11 +1,20 @@
-test
-{{ range first 1 (where $.Page.Pages "Type" "article") }}
-    <h2>latest blog posts</h2>
+{{ range first 1 (where $.Page.Pages "Type" "post") }}
+    <h2>latest articles</h2>
 {{ end }}
-{{ range first 5 (where $.Page.Pages "Type" "article") }}
-	{{ .Permalink }}
-{{ end }}
+<div class="teaser-grid teaser-grid--blog">
+    <ul class="teaser-grid__list">
+        {{ range first 3 (where $.Page.Pages "Type" "post") }}
+            <li class="teaser-grid__list__item">
+                <a href="{{ .Permalink }}">
+                    <picture>
+                        <source srcset="{{ .Params.Image }}"/>
+                        <img src="{{ .Params.Image }}" alt="{{.Title}}"/>
+                    </picture>
 
-{{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-    {{ .Render "li"}}
-{{ end }}
+                    <p>{{ .Params.Title }}</p>
+                    <span class="button button--small">Read more</span>
+                </a>
+            </li>
+        {{ end }}
+    </ul>
+</div>
