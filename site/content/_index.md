@@ -185,7 +185,7 @@ sections:
           partial: tab-text
           data:
             headline: Submissions are open
-            text: '<p>Submissions for 2022 will open September 15th.</p><a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
+            text: '<p>Submissions for Series & Pilots are open until January 31, 2022</p><a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
         - title: subscribe
           partial: tab-newsletter
           data:
@@ -276,7 +276,7 @@ sections:
   - partial: text-plain
     headline: connect with us
     data:
-      text: "<h4>die Seriale</h4>Weidengasse 3<br>35390 Giessen<br><br>phone:   +49 641 13295 398<br>e-mail:    info@die-seriale.de"
+      text: "<h4>die Seriale</h4>Weidengasse 3<br>35390 Giessen<br><br>phone:   +49 641 97286 505<br>e-mail:    info@die-seriale.de"
   # - partial: teaser-grid
   #   headline: speaker
   #   data:

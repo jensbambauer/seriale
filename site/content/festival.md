@@ -199,7 +199,7 @@ sections:
   - partial: text-plain
     headline: connect with us
     data:
-      text: "<h4>die Seriale</h4>Weidengasse 3<br>35390 Giessen<br><br>phone:   +49 641 13295 398<br>e-mail:    info@die-seriale.de"
+      text: "<h4>die Seriale</h4>Weidengasse 3<br>35390 Giessen<br><br>phone:   +49 641 97286 505<br>e-mail:    info@die-seriale.de"
   # - partial: thumb-grid
   #   headline: official selection
   #   data:
