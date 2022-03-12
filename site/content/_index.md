@@ -6,10 +6,10 @@ sections:
     data:
       videosource: /videos/digital-loop.mp4
       slides:
-        - headline: submissions for die seriale 2022 are open
-          button:
-            text: submit series
-            href: https://filmfreeway.com/dieSeriale
+        # - headline: submissions for die seriale 2022 are open
+        #   button:
+        #     text: submit series
+        #     href: https://filmfreeway.com/dieSeriale
         # - headline: Award Ceremony
         #   button:
         #     overlay: true
@@ -184,8 +184,9 @@ sections:
         - title: submit series
           partial: tab-text
           data:
-            headline: Submissions are open
-            text: '<p>Submissions for Series & Pilots are open until January 31, 2022</p><a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
+            headline: Submissions are closed
+            text: ""
+            # text: '<p>Submissions for Series & Pilots are open until January 31, 2022</p><a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
         - title: subscribe
           partial: tab-newsletter
           data:
