@@ -137,12 +137,13 @@ sections:
   - partial: list-grid
     data:
       headline: festival statement
-      intro: "The digital series community is a worldwide family. One of the main goals of die Seriale has always been to connect international creatives and build new collaborations & friendships.
+      intro: "The digital series community is a worldwide family. One of the main goals of die Seriale has always been to connect international creatives and build new collaborations & friendships.<br/>
       In light of the humanitarian emergency and the war in Europe, we would like to express our solidarity with the people of Ukraine, as well as with the Ukrainian filmmakers and their families. We stand with them in a call for peace.
-      We would also like to pay our respect to the Russian filmmakers who have the courage to speak out publicly against the war and condemn it.
+      We would also like to pay our respect to the Russian filmmakers who have the courage to speak out publicly against the war and condemn it.<br/><br/>
       Among the numerous ways to help and donate, we would like to draw your attention to the “Emergency Fund for Filmmakers”. The worldwide initiative “International Coalition for Filmmakers at Risk” (ICFR) has set up this special fund for film practitioners directly in danger due to the ongoing war in Ukraine.
-      If you would like to donate: https://icfr.kentaa.nl/
-      More information about the ICFR: https://www.icfr.international/about-us/
-      More information about the Emergency Fund: https://www.icfr.international/news/emergency-fund-for-filmmakers/
+<br/><br/>
+      If you would like to donate: <a href=\"https://icfr.kentaa.nl/\">https://icfr.kentaa.nl/</a><br/>
+      More information about the ICFR: <a href=\"https://www.icfr.international/about-us/\">https://www.icfr.international/about-us/</a><br/>
+      More information about the Emergency Fund: <a href=\"https://www.icfr.international/news/emergency-fund-for-filmmakers/\">https://www.icfr.international/news/emergency-fund-for-filmmakers/</a><br/><br/>
       The Seriale Team"
 ---
