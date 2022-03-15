@@ -1,16 +1,14 @@
 .list-grid {
-
   &__intro {
     color: var(--flowTextColor);
     line-height: 1.5;
-    width: 46%;
+    width: 66%;
 
-
-    @media(--large-viewport) {
-      width: 60%;
+    @media (--large-viewport) {
+      width: 66%;
     }
 
-    @media(--medium-viewport) {
+    @media (--medium-viewport) {
       width: 88%;
     }
   }
@@ -20,7 +18,6 @@
     flex-wrap: wrap;
     margin-left: -12px;
     padding-left: 0;
-
 
     &__item {
       position: relative;
@@ -50,11 +47,11 @@
         display: block;
       }
 
-      @media(--medium-viewport) {
+      @media (--medium-viewport) {
         width: calc(50% - 12px);
       }
 
-      @media(--small-viewport) {
+      @media (--small-viewport) {
         width: 100%;
       }
     }

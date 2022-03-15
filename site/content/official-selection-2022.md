@@ -137,8 +137,8 @@ sections:
   - partial: list-grid
     data:
       headline: festival statement
-      intro: "The digital series community is a worldwide family. One of the main goals of die Seriale has always been to connect international creatives and build new collaborations & friendships.<br/>
-      In light of the humanitarian emergency and the war in Europe, we would like to express our solidarity with the people of Ukraine, as well as with the Ukrainian filmmakers and their families. We stand with them in a call for peace.
+      intro: "The digital series community is a worldwide family. One of the main goals of die Seriale has always been to connect international creatives and build new collaborations & friendships.<br/><br/>
+      In light of the humanitarian emergency and the war in Europe, we would like to express our solidarity with the people of Ukraine, as well as with the Ukrainian filmmakers and their families. We stand with them in a call for peace.<br/><br/>
       We would also like to pay our respect to the Russian filmmakers who have the courage to speak out publicly against the war and condemn it.<br/><br/>
       Among the numerous ways to help and donate, we would like to draw your attention to the “Emergency Fund for Filmmakers”. The worldwide initiative “International Coalition for Filmmakers at Risk” (ICFR) has set up this special fund for film practitioners directly in danger due to the ongoing war in Ukraine.
 <br/><br/>
