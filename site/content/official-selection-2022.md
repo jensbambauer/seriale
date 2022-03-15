@@ -109,7 +109,7 @@ sections:
         - title: YouTube Policeman
           origin: Russian Federation
         - title: Yunseul
-            origin: South Korea    
+          origin: South Korea
   - partial: list-grid
     data:
       headline: pilots
@@ -131,7 +131,7 @@ sections:
         - title: Under one Roof
           origin: Germany
         - title: We are free
-          origin: Germany  
+          origin: Germany
         - title: Wild Wild Talk
           origin: Germany
 ---
