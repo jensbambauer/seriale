@@ -19,10 +19,10 @@ sections:
           button:
             text: view now
             href: /official-selection-2022
-        - headline: nominees & winners 2021
-          button:
-            text: view now
-            href: /awards-2021
+        # - headline: nominees & winners 2021
+        #   button:
+        #     text: view now
+        #     href: /awards-2021
         # - headline: nominees 2021
         #   button:
         #     text: view now
