@@ -6,19 +6,19 @@ sections:
     data:
       videosource: /videos/festival-loop.mp4
       slides:
-        - headline: The festival
-          button:
-            overlay: true
-            text: watch trailer
-            href: /festival-trailer
+        # - headline: The festival
+          # button:
+          #   overlay: true
+          #   text: watch trailer
+          #   href: /festival-trailer
         # - headline: nominees & winners 2020
         #   button:
         #     text: view now
         #     href: /awards-2020
-        - headline: official selection 2021
+        - headline: official selection 2022
           button:
             text: view now
-            href: /official-selection-2021
+            href: /official-selection-2022
   # - partial: large-teaser
   #   data:
   #     background: /img/be-part-of-it-bg.jpg
@@ -28,16 +28,16 @@ sections:
     data:
       headline: About
       paragraphs:
-        - text: "&quot;die Seriale&quot; is the oldest festival in Germany for short form digital series.<br>The six-day festival is dedicated to audience, creators, students and all series fans. The Official Selection with over 70 series and pilots from 18 countries is presented in the Videmic app on demand. The supporting program offers a digital conference with lectures and panel discussions."
-        - text: "At the Award Ceremony the most outstanding series will be awarded by an international expert jury. The 6th annual edition of &quot;die Seriale&quot; will be, because of the world wide pandemic situation, a virtual live event."
-  - partial: thumb-grid
-    headline: official selection 2021 - series
-    data:
-      list: series
-  - partial: thumb-grid
-    headline: official selection 2021 - pilots
-    data:
-      list: pilots
+        - text: "&quot;die Seriale&quot; is the oldest festival in Germany for digital series.
+The twelve-day festival (six days in person & six days online) is dedicated to audience, creators, students and all series fans. The Official Selection with over 60 series and pilots from 19 countries is presented in the movie theatre, open air and on demand. The supporting program offers a conference with lectures and panel discussions."
+  # - partial: thumb-grid
+  #   headline: official selection 2021 - series
+  #   data:
+  #     list: series
+  # - partial: thumb-grid
+  #   headline: official selection 2021 - pilots
+  #   data:
+  #     list: pilots
   - partial: text-and-image
     headline: Educational
     data:

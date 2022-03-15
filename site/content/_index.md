@@ -15,6 +15,10 @@ sections:
         #     overlay: true
         #     text: watch
         #     href: /award-ceremony
+        - headline: official selection 2022
+          button:
+            text: view now
+            href: /official-selection-2022
         - headline: nominees & winners 2021
           button:
             text: view now
@@ -23,10 +27,6 @@ sections:
         #   button:
         #     text: view now
         #     href: /nominations-2021
-        # - headline: official selection 2021
-        #   button:
-        #     text: view now
-        #     href: /official-selection-2021
         # - headline: award winners 2019
         #   button:
         #     text: view now
@@ -181,22 +181,22 @@ sections:
       headline: be part of it
       intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
       tabs:
+        - title: in person & digital event
+          partial: tab-text
+          data:
+            headline: die seriale 2022 takes place as a digital live hybrid event
+            text: "<p>die seriale 2022 takes place as a digital live hybrid event</p><p>The festival event in Giessen will take place from June 8 - 13, 2022. The digital event will take place online from June 14 - 19, 2022.</p><ul><li>all series & pilots will be presented in the movie theater, open air & video on demand</li><li>educational keynotes & panel discussions</li><li>seriale pro conference & networking events</li><li>dima digital market online</li><li>pitch contest</li><li>red carpet event with creator interviews</li><li>the award ceremony will take place June 12, 8pm (CEST) in Giessen</li></ul>"
+        - title: subscribe
+          partial: tab-newsletter
+          data:
+            headline: follow us on social media
+            text: "or join our newsletter to get updates:"
         - title: submit series
           partial: tab-text
           data:
             headline: Submissions are closed
             text: ""
             # text: '<p>Submissions for Series & Pilots are open until January 31, 2022</p><a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
-        - title: subscribe
-          partial: tab-newsletter
-          data:
-            headline: follow us on social media
-            text: "or join our newsletter to get updates:"
-        - title: digital&live event
-          partial: tab-text
-          data:
-            headline: die seriale 2022 takes place as a digital live hybrid event
-            text: "<p>The festival event in giessen will take place June 8th - June 13th 2022. The digital event will take place June 13th - June 19th</p><ul><li>all series & pilots will be presented in the movie theater, open air & video on demand</li><li>educational keynotes & panel discussions</li><li>seriale pro conference & networking events</li><li>dima digital market online</li><li>pitch contest</li><li>red carpet event with creator interviews</li><li>award ceremony online presentation</li></ul>"
         # - title: get tickets
         #   partial: tab-text
         #   data:

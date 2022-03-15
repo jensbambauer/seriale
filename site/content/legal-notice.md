@@ -6,7 +6,7 @@ sections:
     data:
       text: "<p>The following legal notices are required for websites by German law.</p>
         <h4>Angaben gemäß § 5 TMG:</h4>
-        <p>DOBAGO FILM UG (haftungsbeschränkt)<br>
+        <p>DOBAGO FILM GMBH<br>
         Weidengasse 3<br>
         35390 Gießen</p>
         <p>Vertreten durch:
