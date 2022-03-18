@@ -86,8 +86,6 @@ sections:
           origin: Kazakhstan
         - title: The Hacking Universe
           origin: Russian Federation
-        - title: The Last Axel
-          origin: Ukraine
         - title: The Little Broomstick Rider
           origin: Italy
         - title: The Red Thread
