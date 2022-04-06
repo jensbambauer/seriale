@@ -64,6 +64,8 @@ sections:
           origin: United States
         - title: Night Witches
           origin: Kazakhstan
+        - title: No, you’re stupid! (Season 2)
+          origin: Russian Federation
         - title: "People Talking (Season 2) / Gente Hablando"
           origin: Spain
         - title: Per Aspera
@@ -71,7 +73,6 @@ sections:
         - title: Pille Palle
           origin: Germany
         - title: Poutiner
-          origin: Australia
         - title: Prisoner
           origin: France
         - title: RE CANCELLED
@@ -102,8 +103,6 @@ sections:
           origin: Canada
         - title: Word of Sox
           origin: Germany
-        - title: You're fool (Season 2)
-          origin: Russian Federation
         - title: YouTube Policeman
           origin: Russian Federation
         - title: Yunseul
