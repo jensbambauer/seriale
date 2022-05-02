@@ -109,7 +109,7 @@ sections:
               origin:
             - title: "Complete Time Travel Guide"
               origin:
-            - title: Detention Adventure (Season 3)
+            - title: Detention Adventure<br>(Season 3)
               origin:
             - title: "HEROES - Limited Edition"
               origin:
@@ -165,7 +165,7 @@ sections:
           list:
             - title: Abracadavers (Season 2)
               origin: Morgan Ermter
-            - title: Detention Adventure (Season 3)
+            - title: Detention Adventure<br>(Season 3)
               origin: Brock Jolliffe
             - title: "HEROES - Limited Edition"
               origin: <b>Adi Kvetner,</b><b> Nadav Rotem</b>
@@ -205,7 +205,7 @@ sections:
               origin:
         - headline: best sound design
           list:
-            - title: Detention Adventure (Season 3)
+            - title: Detention Adventure<br>(Season 3)
               origin:
             - title: Minimally Invasive Procedure
               origin:
