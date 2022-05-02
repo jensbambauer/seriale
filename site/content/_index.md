@@ -15,6 +15,10 @@ sections:
         #     overlay: true
         #     text: watch
         #     href: /award-ceremony
+        - headline: nominees 2022
+          button:
+            text: view now
+            href: /nominations-2022
         - headline: official selection 2022
           button:
             text: view now
@@ -23,10 +27,6 @@ sections:
         #   button:
         #     text: view now
         #     href: /awards-2021
-        # - headline: nominees 2021
-        #   button:
-        #     text: view now
-        #     href: /nominations-2021
         # - headline: award winners 2019
         #   button:
         #     text: view now
