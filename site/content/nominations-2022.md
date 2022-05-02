@@ -18,7 +18,7 @@ sections:
             - origin: <b>Rose of Dolls,</b><b> Oliver Mend</b>
               title: "Complete Time Travel Guide"
             - origin: Josiane Blanc
-              title: "Hogtown / Ainsi va Manu"
+              title: "Hogtown"
             - origin: Andrea Traina
               title: Per Aspera
             - origin: Luke Eve
@@ -35,15 +35,15 @@ sections:
               origin: <b>Chloe De Souza,</b><b> Nick Rusconi</b>
             - title: Discontent
               origin: <b>Kathleen Lee,</b><b> Sam Rogers</b>
-            - title: "Geese Palace / Palacio los gansos"
+            - title: "Geese Palace"
               origin: Silvina Ganger
             - title: "Lost & Found Cowboy<br>(Season 2)"
               origin: Atsushi Ogata
-            - title: "People Talking / Gente Hablando (Season 2)"
+            - title: "People Talking<br>(Season 2)"
               origin: Álvaro Carmona
             - title: Prisoner
               origin: Ingrid Franchi
-            - title: "This Is Not A Hotel / Esto No Es Un Hotel"
+            - title: "This Is Not A Hotel"
               origin: Dana Crosa
             - title: UP UP
               origin: <b>Maximilian Allgeier, Linus Joos,</b><b> Anisha Cornips, Christoph A. Klimke,</b><b> Jonathan Steinhardt</b>
@@ -61,7 +61,7 @@ sections:
               origin: Sherkhan Tansykbaev
             - title: Per Aspera
               origin: <b>Antonio Riva,</b><b> Luca Cappello</b>
-            - title: "Wipe me away / Je voudrais qu'on m’efface"
+            - title: "Wipe me away"
               origin: "Philippe<br>St-Gelais"
             - title: Yunseul
               origin: Ho Yeon Joo
@@ -71,21 +71,21 @@ sections:
               origin: Vanessa Compagnucci
             - title: Discontent
               origin: Kathleen Lee
-            - title: "Geese Palace / Palacio los gansos"
+            - title: "Geese Palace"
               origin: Lucila Brea
-            - title: "Hogtown / Ainsi va Manu"
+            - title: "Hogtown"
               origin: Cindy Charles
             - title: "@IAmSophieScholl"
               origin: Luna Wedler
-            - title: "Sasha and her STI / Sas heeft een soa"
+            - title: "Sasha and her STI"
               origin: Britt Scholte
             - title: The Youth
               origin: Ga En Lee
-            - title: "This Is Not A Hotel / Esto No Es Un Hotel"
+            - title: "This Is Not A Hotel"
               origin: Mara Bestelli
         - headline: best actor
           list:
-            - title: "A little while / Un Tiempito"
+            - title: "A little while"
               origin: Rodrigo Casavalle
             - title: Arthur (Season 2)
               origin: Ettore Nicoletti
@@ -123,7 +123,7 @@ sections:
           list:
             - title: Cafe Midnight (Season 3)
               origin: In I Kim
-            - title: "Hogtown / Ainsi va Manu"
+            - title: "Hogtown"
               origin: Sandra Dorélas
             - title: The Red Thread
               origin: Chrissie Shaw
@@ -139,11 +139,11 @@ sections:
               origin: Massimo Viafora
             - title: Cafe Midnight (Season 3)
               origin: Joo Hwan Shin
-            - title: "Geese Palace / Palacio los gansos"
+            - title: "Geese Palace"
               origin: Claudio Mattos
-            - title: "People Talking / Gente Hablando (Season 2)"
+            - title: "People Talking<br>(Season 2)"
               origin: Miki Esparbé
-            - title: "This Is Not A Hotel / Esto No Es Un Hotel"
+            - title: "This Is Not A Hotel"
               origin: Santiago Gobernori
             - title: UP UP
               origin: Joel Olano
@@ -153,7 +153,7 @@ sections:
               origin: <b>Andrés Estrada,</b><b> Miguel Goicoeche,</b><b> Enrique Blanchard</b>
             - title: "Complete Time Travel Guide"
               origin: <b>Damian Karras,</b><b> Oliver Mend</b>
-            - title: "Lost & Found Cowboy (Season 2)"
+            - title: "Lost & Found Cowboy<br>(Season 2)"
               origin: Atsushi Ogata
             - title: Night Witches
               origin: Ernar Nurgaliev
@@ -223,13 +223,13 @@ sections:
               origin: Elias Bertini
             - title: Cafe Midnight (Season 3)
               origin: Sung Min Kwon
-            - title: "Hogtown / Ainsi va Manu"
+            - title: "Hogtown"
               origin: Lora Bidner
             - title: Per Aspera
               origin: Marco Cascone
             - title: UP UP
               origin: Bertolt Pohl
-            - title: "Wipe me away / Je voudrais qu'on m’efface"
+            - title: "Wipe me away"
               origin: Joseph Marchand
         - headline: best idea
           list:
@@ -243,7 +243,7 @@ sections:
               origin:
             - title: "Minimally Invasive Procedure"
               origin:
-            - title: "Recife is an egg / Recife é um ovo"
+            - title: "Recife is an egg"
               origin:
 
   - partial: list-columns
@@ -274,7 +274,7 @@ sections:
               origin:
             - title: DOPAMINE
               origin:
-            - title: "Matarife / The Butcher"
+            - title: "The Butcher"
               origin:
             - title: Matrimoine
               origin:
