@@ -16,7 +16,7 @@ sections:
             - origin: Nick Rusconi
               title: Arthur (Season 2)
             - origin: <b>Rose of Dolls,</b><b> Oliver Mend</b>
-              title: "Complete Time Travel Guide / Denboran Bidaiatzeko Gida Osoa"
+              title: "Complete Time Travel Guide"
             - origin: Josiane Blanc
               title: "Hogtown / Ainsi va Manu"
             - origin: Andrea Traina
@@ -37,7 +37,7 @@ sections:
               origin: <b>Kathleen Lee,</b><b> Sam Rogers</b>
             - title: "Geese Palace / Palacio los gansos"
               origin: Silvina Ganger
-            - title: "Lost & Found Cowboy (Season 2)"
+            - title: "Lost & Found Cowboy<br>(Season 2)"
               origin: Atsushi Ogata
             - title: "People Talking / Gente Hablando (Season 2)"
               origin: Álvaro Carmona
@@ -46,23 +46,23 @@ sections:
             - title: "This Is Not A Hotel / Esto No Es Un Hotel"
               origin: Dana Crosa
             - title: UP UP
-              origin: <b>Maximilian Allgeier,</b><b> Linus Joos,</b><b> Anisha Cornips,</b><b> Christoph A. Klimke,</b><b> Jonathan Steinhardt</b>
+              origin: <b>Maximilian Allgeier, Linus Joos,</b><b> Anisha Cornips, Christoph A. Klimke,</b><b> Jonathan Steinhardt</b>
         - headline: best cinematography
           list:
-            - title: Arthur (Season 2) 
+            - title: Arthur (Season 2)
               origin: Giacomo Jaeggli
             - title: "BASTARD2. BAD COMPANY"
               origin: <b>Laura Köhler,</b><b> Marco Eisenbarth</b>
             - title: Cafe Midnight (Season 3)
               origin: Jae Hong Pack
-            - title: "Complete Time Travel Guide / Denboran Bidaiatzeko Gida Osoa"
+            - title: "Complete Time Travel Guide"
               origin: "Rocío De Las Muñecas"
             - title: Night Witches
               origin: Sherkhan Tansykbaev
             - title: Per Aspera
               origin: <b>Antonio Riva,</b><b> Luca Cappello</b>
             - title: "Wipe me away / Je voudrais qu'on m’efface"
-              origin: "Philippe St-Gelais"
+              origin: "Philippe<br>St-Gelais"
             - title: Yunseul
               origin: Ho Yeon Joo
         - headline: best actress
@@ -73,7 +73,7 @@ sections:
               origin: Kathleen Lee
             - title: "Geese Palace / Palacio los gansos"
               origin: Lucila Brea
-            - title: "Hogtown / Ainsi va Manu" 
+            - title: "Hogtown / Ainsi va Manu"
               origin: Cindy Charles
             - title: "@IAmSophieScholl"
               origin: Luna Wedler
@@ -98,16 +98,16 @@ sections:
             - title: Sheker (Season 2)
               origin: Azat Zhumadil
             - title: UP UP
-              origin: Thiago Braga de Oliveira 
+              origin: Thiago Braga de Oliveira
             - title: YouTube Policeman
               origin: Fyodor Lavrov
         - headline: best ensemble cast
-          list: 
+          list:
             - title: Abracadavers (Season 2)
               origin:
             - title: Casa De Ma
               origin:
-            - title: "Complete Time Travel Guide / Denboran Bidaiatzeko Gida Osoa"
+            - title: "Complete Time Travel Guide"
               origin:
             - title: Detention Adventure (Season 3)
               origin:
@@ -118,7 +118,7 @@ sections:
             - title: UP UP
               origin:
             - title: VODKA VARIATIONS
-              origin:	  
+              origin:
         - headline: best supporting actress
           list:
             - title: Cafe Midnight (Season 3)
@@ -130,7 +130,7 @@ sections:
             - title: UP UP
               origin: Charlotte Irene Thompson
             - title: VODKA VARIATIONS
-              origin: Anne Kulbatzki 
+              origin: Anne Kulbatzki
             - title: VODKA VARIATIONS
               origin: Stefanie Reinsperger
         - headline: best supporting actor
@@ -143,7 +143,7 @@ sections:
               origin: Claudio Mattos
             - title: "People Talking / Gente Hablando (Season 2)"
               origin: Miki Esparbé
-            - title: "This Is Not A Hotel / Esto No Es Un Hotel" 
+            - title: "This Is Not A Hotel / Esto No Es Un Hotel"
               origin: Santiago Gobernori
             - title: UP UP
               origin: Joel Olano
@@ -151,7 +151,7 @@ sections:
           list:
             - title: Casa De Ma
               origin: <b>Andrés Estrada,</b><b> Miguel Goicoeche,</b><b> Enrique Blanchard</b>
-            - title: Complete Time Travel Guide / Denboran Bidaiatzeko Gida Osoa
+            - title: "Complete Time Travel Guide"
               origin: <b>Damian Karras,</b><b> Oliver Mend</b>
             - title: "Lost & Found Cowboy (Season 2)"
               origin: Atsushi Ogata
@@ -179,7 +179,7 @@ sections:
           list:
             - title: Abracadavers (Season 2)
               origin: <b>Kenya Weaver,</b><b> Mike Kasper</b>
-            - title: Complete Time Travel Guide / Denboran Bidaiatzeko Gida Osoa
+            - title: "Complete Time Travel Guide"
               origin: <b>Tania Soprano,</b><b> Rose of Dolls</b>
             - title: "@IAmSophieScholl"
               origin: Stefanie Probst
@@ -193,7 +193,7 @@ sections:
           list:
             - title: Abracadavers (Season 2)
               origin: Kenya Weaver
-            - title: "Complete Time Travel Guide / Denboran Bidaiatzeko Gida Osoa"
+            - title: "Complete Time Travel Guide"
               origin:
             - title: "HEROES - Limited Edition"
               origin: Tal Kilshon
@@ -232,7 +232,7 @@ sections:
             - title: "Wipe me away / Je voudrais qu'on m’efface"
               origin: Joseph Marchand
         - headline: best idea
-          list: 
+          list:
             - title: How To
               origin:
             - title: "@IAmSophieScholl"
@@ -253,17 +253,17 @@ sections:
         - headline: best animation/puppetry
           list:
             - title: Broadcast My Ass
-              origin: 
+              origin:
             - title: Fox in the Woods
               origin:
             - title: Lucidity
               origin:
             - title: The Hacking Universe
-              origin:  
+              origin:
             - title: The Little Broomstick Rider
               origin:
             - title: Word of Sox
-              origin:    
+              origin:
         - headline: best documentary
           list:
             - title: Ana Beirut
@@ -281,7 +281,7 @@ sections:
             - title: Pille Palle
               origin:
             - title: Poutiner
-              origin:  
+              origin:
         - headline: best pilot
           list:
             - title: Death on Arrival
@@ -305,6 +305,5 @@ sections:
             - title: We are free
               origin:
             - title: Wild Wild Talk
-              origin:   
+              origin:
 ---
-
