@@ -219,6 +219,28 @@ sections:
   #       - text: "If you like to come here by plane, you need to book your flight to FRANKFURT AIRPORT (FRA). The city is called: Frankfurt am Main. It is the biggest airport in Germany and you can reach GIESSEN easily by train."
   #       - text: "In most cases you will have the opportunity to book direct flights. We recommend these flights as they are often on same price-level as step-over-flights and quite more comfortable."
   #       - text: "Preferred credit-cards in Germany are MASTER CARD and VISA - only 50% of shops and hotels accept AMERICAN EXPRESS. Please be aware that in Germany people usually pay in cash for amounts below 30€."
+  - partial: teaser-grid
+    smallmargin: true
+    data:
+      teasers:
+        - image: /img/hotel-ludwigsplatz.jpg
+          title: Hotel am Ludwigsplatz
+          shortdescription: Located in the center of Giessen close to the theatre, town hall, cinema, pedestrian area, the old castle and one of the oldest botanical gardens in Europe.
+          button:
+            href: http://www.hotel-am-ludwigsplatz.de/en
+            text: visit site
+        - image: /img/city-hotel-giessen.jpg
+          title: City Hotel Giessen
+          shortdescription: Located in the city centre of Giessen in the pedestrian zone near the famous globe fountain. The university, the congress hall, the local theatre, the central bus station at the market place, the botanic garden, the castle, shopping facilities and many restaurants and cafés are situated nearby.
+          button:
+            href: https://www.cityhotel-giessen.de/en/
+            text: visit site
+        - image: /img/gaestehaus-wilhelma.jpg
+          title: Guest House Wilhelma
+          shortdescription: This guest house has a long tradition. Here you will find bright and friendly rooms with modern equipment. You can also find apartments and apartments with kitchens here.
+          button:
+            href: http://www.gaestehaus-wilhelma.de
+            text: visit site
   # - partial: teaser-grid
   #   smallmargin: true
   #   data:
