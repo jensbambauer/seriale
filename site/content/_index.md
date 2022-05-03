@@ -220,7 +220,6 @@ sections:
   #       - text: "In most cases you will have the opportunity to book direct flights. We recommend these flights as they are often on same price-level as step-over-flights and quite more comfortable."
   #       - text: "Preferred credit-cards in Germany are MASTER CARD and VISA - only 50% of shops and hotels accept AMERICAN EXPRESS. Please be aware that in Germany people usually pay in cash for amounts below 30€."
   - partial: teaser-grid
-    smallmargin: true
     headline: selected accommodations
     data:
       teasers:
