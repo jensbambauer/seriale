@@ -221,6 +221,7 @@ sections:
   #       - text: "Preferred credit-cards in Germany are MASTER CARD and VISA - only 50% of shops and hotels accept AMERICAN EXPRESS. Please be aware that in Germany people usually pay in cash for amounts below 30€."
   - partial: teaser-grid
     smallmargin: true
+    headline: selected accommodations
     data:
       teasers:
         - image: /img/hotel-ludwigsplatz.jpg

@@ -1,39 +1,40 @@
 {{ with .data}}
 <div class="teaser-grid {{if .col4}}teaser-grid--col-4{{ end }}">
-    <ul class="teaser-grid__list">
-        {{ range where $.Page.Site.Pages "Section" .list }}
-            {{ if .Params.Image }}
-                <li class="teaser-grid__list__item">
-                    <a href="{{ .Permalink }}" data-role="overlay-wide" data-barba-prevent>
-                        <picture>
-                            <source media="(max-width: 767px)" 
-                                    sizes="1px"
-                        srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w"/>
-                            <source media="(min-width: 768px)" 
-                                    srcset="{{ .Params.Image }}"/>
-                            <img src="{{ .Params.Image }}" alt="{{.Title}}"/>
-                        </picture>
+  {{ with.headline }}
+  <h4>{{ . }}</h4>
+  {{ end }}
+  <ul class="teaser-grid__list">
+    {{ range where $.Page.Site.Pages "Section" .list }} {{ if .Params.Image }}
+    <li class="teaser-grid__list__item">
+      <a href="{{ .Permalink }}" data-role="overlay-wide" data-barba-prevent>
+        <picture>
+          <source
+            media="(max-width: 767px)"
+            sizes="1px"
+            srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w"
+          />
+          <source media="(min-width: 768px)" srcset="{{ .Params.Image }}" />
+          <img src="{{ .Params.Image }}" alt="{{.Title}}" />
+        </picture>
 
-                        <h4>{{ .Title }}</h4>
-                        {{ if .Params.Shortdescription }}
-                            <p>{{ .Params.Shortdescription }}</p>
-                        {{ end }}
-                    </a>
-                </li>
-            {{ end }}
+        <h4>{{ .Title }}</h4>
+        {{ if .Params.Shortdescription }}
+        <p>{{ .Params.Shortdescription }}</p>
         {{ end }}
-        {{ range .teasers}}
-            <li class="teaser-grid__list__item">
-                <div class="teaser-grid__list__item__image-container">
-                    <img src="{{ .image }}" />
-                </div>
-            <h4>{{ .title }}</h4>
-            <p>{{ .shortdescription }}</p>
-            {{if .button}}
-                <a href="{{ .button.href }}" class="button button--external">{{ .button.text }}</a>
-            {{end}}
-            </li>
-        {{ end }}
-    </ul>
+      </a>
+    </li>
+    {{ end }} {{ end }} {{ range .teasers}}
+    <li class="teaser-grid__list__item">
+      <div class="teaser-grid__list__item__image-container">
+        <img src="{{ .image }}" />
+      </div>
+      <h4>{{ .title }}</h4>
+      <p>{{ .shortdescription }}</p>
+      {{if .button}}
+      <a href="{{ .button.href }}" class="button button--external">{{ .button.text }}</a>
+      {{end}}
+    </li>
+    {{ end }}
+  </ul>
 </div>
 {{ end }}
