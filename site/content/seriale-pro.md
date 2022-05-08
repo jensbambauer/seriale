@@ -22,14 +22,14 @@ sections:
       embed: '<iframe src="https://player.vimeo.com/video/556903080" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>'
       headline: "Pitch Your Project"
       text: "More than 20 international creators, get the chance to present their series project in a 3 minute long pitch. Among them, some creators will pitch their project for the first time. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 12. The pitch contest takes place on Saturday, June 11, from of 4pm to 8pm at Giessen City Hall."
-  - partial: teaser-grid
-    headline: jury pitch contest
-    data:
-      list: jury-pitch-contest
-  - partial: teaser-grid
-    headline: moderators pitch contest
-    data:
-      list: pitch-contest-moderators
+  # - partial: teaser-grid
+  #   headline: jury pitch contest
+  #   data:
+  #     list: jury-pitch-contest
+  # - partial: teaser-grid
+  #   headline: moderators pitch contest
+  #   data:
+  #     list: pitch-contest-moderators
   - partial: text-and-image
     headline: Digital Live Conference
     data:
