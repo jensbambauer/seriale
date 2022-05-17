@@ -184,7 +184,7 @@ sections:
               title: Gettogether
               location:
               size: 2
-        - title: &nbsp;
+        - title: "&nbsp;"
           blocks:
             - time: 5:30pm - 7pm
               title: SCREENINGS with Q&A
