@@ -36,145 +36,253 @@ sections:
   #     background: /img/be-part-of-it-bg.jpg
   #     href: https://dieseriale.sparqfest.live/en/index.html
   #     text: Watch Series
+  # - partial: time-table
+  #   headline: streaming schedule 2021
+  #   data:
+  #     full:
+  #       time: June 2nd - 7th
+  #       title: Screenings
+  #       location: Watch all series & pilots on demand.
+  #       # logo:
+  #       # button:
+  #       #   text:
+  #       #   href:
+  #       # size: 4
+  #     days:
+  #       - title: June 2nd
+  #         blocks:
+  #           - time: 4pm - 5pm CEST
+  #             title: Opening Ceremony
+  #             location: live stream on die-seriale.de
+  #             size: 3
+  #           - time: 5pm - 6pm CEST
+  #             title: Hessen Focus
+  #             location: live stream on die-seriale.de
+  #             size: 3
+  #       - title: June 4th
+  #         blocks:
+  #           - time: 10.30am - 6pm CEST
+  #             title: Educational
+  #             location: live stream on die-seriale.de
+  #             size: 6
+  #       - title: June 5th
+  #         blocks:
+  #           - time: 10am - 12pm CEST
+  #             title: Conference Program
+  #             location: live stream on die-seriale.de
+  #             pro: true
+  #             size: 2
+  #           - time: 12pm - 1pm CEST
+  #             title: Networking
+  #             location: online
+  #             pro: true
+  #             size: 2
+  #           - time: 1pm - 4pm CEST
+  #             title: Conference Program
+  #             location: live stream on die-seriale.de
+  #             pro: true
+  #             size: 2
+  #           - time: 4pm - 8pm CEST
+  #             title: Pitch Contest
+  #             location: exclusive live stream for industry
+  #             pro: true
+  #             size: 2
+  #           - time: 8pm - 10pm CEST
+  #             title: Networking
+  #             location: online
+  #             pro: true
+  #             size: 2
+  #       - title: June 6th
+  #         blocks:
+  #           - time: 10am - 3pm CEST
+  #             title: Conference Program
+  #             location: live stream on die-seriale.de
+  #             pro: true
+  #             size: 6
+  #           - time: 3pm - 4.30pm CEST
+  #             title: DIMA Digital Market
+  #             location: live stream on die-seriale.de
+  #             pro: true
+  #             size: 2
+  #           - time: 6pm - 8pm CEST
+  #             title: Red Carpet
+  #             location: live stream on die-seriale.de
+  #             size: 3
+  #           - time: 8pm - 10pm CEST
+  #             title: Award Ceremony
+  #             location: live stream on die-seriale.de
+  #             size: 3
+  #           - time: 10pm - 12am CEST
+  #             title: After Show Networking
+  #             location: online
+  #             size: 3
   - partial: time-table
-    headline: streaming schedule 2021
+    headline: schedule 2022
     data:
-      full:
-        time: June 2nd - 7th
-        title: Screenings
-        location: Watch all series & pilots on demand.
-        # logo:
-        # button:
-        #   text:
-        #   href:
-        # size: 4
       days:
-        - title: June 2nd
+        - title: June 8th
           blocks:
-            - time: 4pm - 5pm CEST
-              title: Opening Ceremony
-              location: live stream on die-seriale.de
+            - time: 7pm - 9:30pm
+              title: HESSEN FOCUS
+              location: Reception & Panel Discussions <br>Lottehof, Wetzlar
+              size: 4
+            - time: 9:30pm-11:30pm
+              title: Open Air Screenings
+              location:
               size: 3
-            - time: 5pm - 6pm CEST
-              title: Hessen Focus
-              location: live stream on die-seriale.de
-              size: 3
-        - title: June 4th
+        - title: June 9th
           blocks:
-            - time: 10.30am - 6pm CEST
-              title: Educational
-              location: live stream on die-seriale.de
+            - time: 1pm - 4pm
+              title: CREATORS TALK
+              location:
               size: 6
-        - title: June 5th
+        - title: June 10th
           blocks:
-            - time: 10am - 12pm CEST
-              title: Conference Program
-              location: live stream on die-seriale.de
-              pro: true
-              size: 2
-            - time: 12pm - 1pm CEST
-              title: Networking
-              location: online
-              pro: true
-              size: 2
-            - time: 1pm - 4pm CEST
-              title: Conference Program
-              location: live stream on die-seriale.de
-              pro: true
-              size: 2
-            - time: 4pm - 8pm CEST
-              title: Pitch Contest
-              location: exclusive live stream for industry
-              pro: true
-              size: 2
-            - time: 8pm - 10pm CEST
-              title: Networking
-              location: online
-              pro: true
-              size: 2
-        - title: June 6th
-          blocks:
-            - time: 10am - 3pm CEST
-              title: Conference Program
-              location: live stream on die-seriale.de
-              pro: true
+            - time: 9:30am - 4pm
+              title: EDUCATIONAL
+              location: heyligenstaedt<br/>Conference Program / Workshops<br/>Public, Free entrance
               size: 6
-            - time: 3pm - 4.30pm CEST
-              title: DIMA Digital Market
-              location: live stream on die-seriale.de
-              pro: true
+            - time: 5:30pm - 7:30pm
+              title: OPNENING CEREMONY & PREMIERE
+              location: Kinocenter Gießen
+              size: 4
+            - time: 7:30pm - 9:30pm
+              title: SCREENINGS with Q&A
+              location: Kinocenter Gießen
+              size: 4
+            - time: 9.30pm - 11:00pm
+              title: SCREENINGS with Q&A
+              location: Kinocenter Gießen
+              size: 3
+            - time: 11pm - open end
+              title: Networking Night
+              location:
               size: 2
-            - time: 6pm - 8pm CEST
-              title: Red Carpet
-              location: live stream on die-seriale.de
-              size: 3
-            - time: 8pm - 10pm CEST
-              title: Award Ceremony
-              location: live stream on die-seriale.de
-              size: 3
-            - time: 10pm - 12am CEST
-              title: After Show Networking
-              location: online
-              size: 3
   - partial: time-table
-    headline: streaming schedule
     data:
       full:
-        time: June 3th - June 8th
-        title: Screenings
-        location: Watch all series & pilots on demand in the Videmic App.
-        logo: /img/cropped-videmic_logo_4c.png
+        time: 14th - 19thJune
+        title: SCREENINGS at SPARQ
+        location: Watch all series & pilots on demand.
+        logo:
         button:
-          text: Download Videmic App
-          href: https://videmic.de/app/
+          text:
+          href:
         size: 4
       days:
-        - title: June 3th
+        - title: June 11th
           blocks:
-            - time: 4pm - 5pm
-              title: Opening Ceremony
-              location: live stream on die-seriale.de
-              size: 3
-            - time: 4pm - 5pm
-              title: Opening Ceremony
-              location: live stream on die-seriale.de
-              size: 3
-            - time: 4pm - 5pm
-              title: Opening Ceremony
-              location: live stream on die-seriale.de
-              size: 3
-        - title: June 5th
-          blocks:
-            - time: 10.30am - 6pm
-              title: Educational
-              location: live stream on die-seriale.de
-              size: 6
-        - title: June 6th
-          blocks:
-            - time: 10am - 4pm
-              title: Conference Program
-              location: live stream on die-seriale.de
-              pro: true
+            - time: 10am - 3pm
+              title: SERIALE PRO
+              location: Town Hall Giessen
               size: 6
             - time: 4pm - 8pm
-              title: DIMA Digital Market
-              location: live stream on die-seriale.de
+              title: Pitch Contest
+              location: Town Hall Giessen
+              size: 6
+            - time: 8pm - 9:30pm
+              title: Gettogether
+              location:
               size: 2
-        - title: June 7th
+        - title: &nbsp;
+          blocks:
+            - time: 5:30pm - 7pm
+              title: SCREENINGS with Q&A
+              location: Kinocenter Gießen
+              size: 4
+            - time: 7pm - 9pm
+              title: SCREENINGS with Q&A
+              location: Kinocenter Gießen
+              size: 4
+            - time: 9pm - 10:30pm
+              title: SCREENINGS with Q&A
+              location: Kinocenter Gießen
+              size: 4
+            - time: 10:30pm - open end
+              title: Networking Night
+              location: Dach Cafe, Giessen
+              size: 4
+        - title: June 12th
           blocks:
             - time: 10am - 4pm
-              title: Conference Program
-              location: live stream on die-seriale.de
-              pro: true
+              title: SERIALE PRO ()
+              location: Town Hall Giessen
               size: 6
-            - time: 6pm - 8pm
-              title: Red Carpet
-              location: live stream on die-seriale.de
+            - time: 4pm - 6pm
+              title: SCREENINGS
+              location: Kinocenter Gießen
+              size: 4
+            - time: xxx
+              title: RED CARPET
+              location: heyligenstaedt (invitation only)
+              size: 4
+            - time: xxx
+              title: AWARD CEREMONY
+              location: heyligenstaedt (invitation only)
               size: 3
-            - time: 8pm - 10pm
-              title: Award Ceremony
-              location: live stream on die-seriale.de
-              size: 3
+            - time: xxx
+              title: After Show - Networking Event
+              location:
+              size: 2
+  # - partial: time-table
+  #   headline: streaming schedule
+  #   data:
+  #     full:
+  #       time: June 3th - June 8th
+  #       title: Screenings
+  #       location: Watch all series & pilots on demand in the Videmic App.
+  #       logo: /img/cropped-videmic_logo_4c.png
+  #       button:
+  #         text: Download Videmic App
+  #         href: https://videmic.de/app/
+  #       size: 4
+  #     days:
+  #       - title: June 3th
+  #         blocks:
+  #           - time: 4pm - 5pm
+  #             title: Opening Ceremony
+  #             location: live stream on die-seriale.de
+  #             size: 3
+  #           - time: 4pm - 5pm
+  #             title: Opening Ceremony
+  #             location: live stream on die-seriale.de
+  #             size: 3
+  #           - time: 4pm - 5pm
+  #             title: Opening Ceremony
+  #             location: live stream on die-seriale.de
+  #             size: 3
+  #       - title: June 5th
+  #         blocks:
+  #           - time: 10.30am - 6pm
+  #             title: Educational
+  #             location: live stream on die-seriale.de
+  #             size: 6
+  #       - title: June 6th
+  #         blocks:
+  #           - time: 10am - 4pm
+  #             title: Conference Program
+  #             location: live stream on die-seriale.de
+  #             pro: true
+  #             size: 6
+  #           - time: 4pm - 8pm
+  #             title: DIMA Digital Market
+  #             location: live stream on die-seriale.de
+  #             size: 2
+  #       - title: June 7th
+  #         blocks:
+  #           - time: 10am - 4pm
+  #             title: Conference Program
+  #             location: live stream on die-seriale.de
+  #             pro: true
+  #             size: 6
+  #           - time: 6pm - 8pm
+  #             title: Red Carpet
+  #             location: live stream on die-seriale.de
+  #             size: 3
+  #           - time: 8pm - 10pm
+  #             title: Award Ceremony
+  #             location: live stream on die-seriale.de
+  #             size: 3
   - partial: tabs
     data:
       background: /img/be-part-of-it-bg.jpg
