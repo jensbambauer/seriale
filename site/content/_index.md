@@ -129,7 +129,7 @@ sections:
             - time: 9:30pm - 11:30pm
               title: Open Air Screenings
               location:
-              size: 3
+              size: 4
         - title: June 9th
           blocks:
             - time: 1pm - 4pm
@@ -141,7 +141,7 @@ sections:
             - time: 9:30am - 4pm
               title: EDUCATIONAL
               location: heyligenstaedt<br/>Conference Program / Workshops<br/>public, free entry
-              size: 3
+              size: 4
             - time: 5:30pm - 7:30pm
               title: OPNENING CEREMONY & PREMIERE
               location: Kinocenter Gießen
@@ -164,10 +164,6 @@ sections:
         time: 14th - 19thJune
         title: SCREENINGS at SPARQ
         location: Watch all series & pilots on demand.
-        logo:
-        button:
-          text:
-          href:
         size: 4
       days:
         - title: June 11th
@@ -209,6 +205,7 @@ sections:
             - time: 10am - 4pm
               title: SERIALE PRO
               location: "Town Hall Giessen<br/>with registration"
+              pro: true
               size: 4
             - time: 5pm - 6:30pm
               title: SCREENINGS
