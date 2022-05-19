@@ -140,7 +140,7 @@ sections:
           blocks:
             - time: 9:30am - 4pm
               title: EDUCATIONAL
-              location: heyligenstaedt<br/>Conference Program / Workshops<br/>public, free entry
+              location: heyligenstaedt<br/>Conference Program<br/>public, free entry
               size: 4
             - time: 5:30pm - 7:30pm
               title: OPENING CEREMONY & PREMIERE
@@ -148,11 +148,11 @@ sections:
               size: 3
             - time: 7:30pm - 9:30pm
               title: SCREENINGS with Q&A
-              location: "Kinocenter Gießen<br/>Tickets at Kinocenter Gießen"
+              location: "Kinocenter Gießen | buy tickets on site & online"
               size: 3
             - time: 9.30pm - 11:00pm
               title: SCREENINGS with Q&A
-              location: "Kinocenter Gießen<br/>Tickets at Kinocenter Gießen"
+              location: "Kinocenter Gießen | buy tickets on site & online"
               size: 3
             - time: 11pm - open end
               title: Networking Night
@@ -186,15 +186,15 @@ sections:
           blocks:
             - time: 5:30pm - 7pm
               title: SCREENINGS with Q&A
-              location: "Kinocenter Gießen<br/>Tickets at Kinocenter Gießen"
+              location: "Kinocenter Gießen | buy tickets on site & online"
               size: 4
             - time: 7pm - 9pm
               title: SCREENINGS with Q&A
-              location: "Kinocenter Gießen<br/>Tickets at Kinocenter Gießen"
+              location: "Kinocenter Gießen | buy tickets on site & online"
               size: 4
             - time: 9pm - 10:30pm
               title: SCREENINGS with Q&A
-              location: "Kinocenter Gießen<br/>Tickets at Kinocenter Gießen"
+              location: "Kinocenter Gießen | buy tickets on site & online"
               size: 4
             - time: 10:30pm - open end
               title: Networking Night
@@ -208,7 +208,7 @@ sections:
               size: 4
             - time: 5pm - 6:30pm
               title: SCREENINGS
-              location: "Kinocenter Gießen<br/>Tickets at Kinocenter Gießen"
+              location: "Kinocenter Gießen | buy tickets on site & online"
               size: 3
             - time: 6pm - 8pm
               title: RED CARPET
