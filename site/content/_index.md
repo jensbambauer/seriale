@@ -128,12 +128,12 @@ sections:
               size: 4
             - time: 9:30pm - 11:30pm
               title: Open Air Screenings
-              location:
+              location: "Lottehof, Wetzlar<br/>free entry"
               size: 4
         - title: June 9th
           blocks:
             - time: 1pm - 4pm
-              title: CREATORS TALK
+              title: CREATOR'S TALK
               location:
               size: 6
         - title: June 10th
@@ -143,16 +143,16 @@ sections:
               location: heyligenstaedt<br/>Conference Program / Workshops<br/>public, free entry
               size: 4
             - time: 5:30pm - 7:30pm
-              title: OPNENING CEREMONY & PREMIERE
+              title: OPENING CEREMONY & PREMIERE
               location: Kinocenter Gießen
               size: 3
             - time: 7:30pm - 9:30pm
               title: SCREENINGS with Q&A
-              location: Kinocenter Gießen
+              location: "Kinocenter Gießen<br/>Tickets at Kinocenter Gießen"
               size: 3
             - time: 9.30pm - 11:00pm
               title: SCREENINGS with Q&A
-              location: Kinocenter Gießen
+              location: "Kinocenter Gießen<br/>Tickets at Kinocenter Gießen"
               size: 3
             - time: 11pm - open end
               title: Networking Night
@@ -179,26 +179,25 @@ sections:
               location: "Town Hall Giessen<br/>by invitation only"
               size: 4
             - time: 8pm - 9:30pm
-              title: Gettogether
+              title: Get together
               location:
               size: 4
         - title: "&nbsp;"
           blocks:
             - time: 5:30pm - 7pm
               title: SCREENINGS with Q&A
-              location: Kinocenter Gießen
+              location: "Kinocenter Gießen<br/>Tickets at Kinocenter Gießen"
               size: 4
             - time: 7pm - 9pm
               title: SCREENINGS with Q&A
-              location: Kinocenter Gießen
+              location: "Kinocenter Gießen<br/>Tickets at Kinocenter Gießen"
               size: 4
             - time: 9pm - 10:30pm
               title: SCREENINGS with Q&A
-              location: Kinocenter Gießen
+              location: "Kinocenter Gießen<br/>Tickets at Kinocenter Gießen"
               size: 4
             - time: 10:30pm - open end
               title: Networking Night
-              location: Dach Cafe, Giessen
               size: 4
         - title: June 12th
           blocks:
