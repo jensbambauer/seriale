@@ -126,7 +126,7 @@ sections:
               title: HESSEN FOCUS
               location: Reception & Panel Discussions <br>Lottehof, Wetzlar
               size: 4
-            - time: 9:30pm-11:30pm
+            - time: 9:30pm - 11:30pm
               title: Open Air Screenings
               location:
               size: 3
@@ -140,16 +140,16 @@ sections:
           blocks:
             - time: 9:30am - 4pm
               title: EDUCATIONAL
-              location: heyligenstaedt<br/>Conference Program / Workshops<br/>Public, Free entrance
-              size: 6
+              location: heyligenstaedt<br/>Conference Program / Workshops<br/>public, free entry
+              size: 3
             - time: 5:30pm - 7:30pm
               title: OPNENING CEREMONY & PREMIERE
               location: Kinocenter Gießen
-              size: 4
+              size: 3
             - time: 7:30pm - 9:30pm
               title: SCREENINGS with Q&A
               location: Kinocenter Gießen
-              size: 4
+              size: 3
             - time: 9.30pm - 11:00pm
               title: SCREENINGS with Q&A
               location: Kinocenter Gießen
@@ -157,7 +157,7 @@ sections:
             - time: 11pm - open end
               title: Networking Night
               location:
-              size: 2
+              size: 3
   - partial: time-table
     data:
       full:
@@ -174,16 +174,18 @@ sections:
           blocks:
             - time: 10am - 3pm
               title: SERIALE PRO
-              location: Town Hall Giessen
-              size: 6
+              pro: true
+              location: "Town Hall Giessen<br/>with registration"
+              size: 4
             - time: 4pm - 8pm
               title: Pitch Contest
-              location: Town Hall Giessen
-              size: 6
+              pro: true
+              location: "Town Hall Giessen<br/>by invitation only"
+              size: 4
             - time: 8pm - 9:30pm
               title: Gettogether
               location:
-              size: 2
+              size: 4
         - title: "&nbsp;"
           blocks:
             - time: 5:30pm - 7pm
@@ -205,25 +207,25 @@ sections:
         - title: June 12th
           blocks:
             - time: 10am - 4pm
-              title: SERIALE PRO ()
-              location: Town Hall Giessen
-              size: 6
-            - time: 4pm - 6pm
+              title: SERIALE PRO
+              location: "Town Hall Giessen<br/>with registration"
+              size: 4
+            - time: 5pm - 6:30pm
               title: SCREENINGS
-              location: Kinocenter Gießen
-              size: 4
-            - time: xxx
-              title: RED CARPET
-              location: heyligenstaedt (invitation only)
-              size: 4
-            - time: xxx
-              title: AWARD CEREMONY
-              location: heyligenstaedt (invitation only)
+              location: "Kinocenter Gießen<br/>Tickets at Kinocenter Gießen"
               size: 3
-            - time: xxx
+            - time: 6pm - 8pm
+              title: RED CARPET
+              location: "heyligenstaedt<br/>invitation only"
+              size: 3
+            - time: 8pm - 10pm
+              title: AWARD CEREMONY
+              location: "heyligenstaedt<br/>invitation only"
+              size: 3
+            - time: 10pm - 2pm
               title: After Show - Networking Event
               location:
-              size: 2
+              size: 3
   # - partial: time-table
   #   headline: streaming schedule
   #   data:
