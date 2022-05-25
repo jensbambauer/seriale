@@ -34,8 +34,6 @@ sections:
           origin: Australia
         - title: DOPAMINE
           origin: France
-        - title: Eat. Drink. Dish.
-          origin: United States
         - title: Fox in the Woods
           origin: South Korea
         - title: "Geese Palace / Palacio los gansos"
@@ -113,6 +111,8 @@ sections:
       list:
         - title: Death on Arrival
           origin: Argentina
+        - title: Eat. Drink. Dish.
+          origin: United States
         - title: Fishing Avocados
           origin: Germany
         - title: Four Tracks

@@ -110,7 +110,7 @@ sections:
             - title: "Complete Time Travel Guide"
               origin:
             - title: Detention Adventure<br>(Season 3)
-              origin:
+              origin: Sebastian Harder
             - title: "HEROES - Limited Edition"
               origin:
             - title: "No, you’re stupid! (Season 2)"
@@ -122,7 +122,7 @@ sections:
         - headline: best supporting actress
           list:
             - title: Cafe Midnight (Season 3)
-              origin: In I Kim
+              origin: Do Young
             - title: "Hogtown"
               origin: Sandra Dorélas
             - title: The Red Thread
