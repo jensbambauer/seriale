@@ -1,5 +1,5 @@
 ---
-title: Cafe Midnight: The Curious Stalker (Season 3)
+title: "Cafe Midnight: The Curious Stalker (Season 3)"
 image: /img/series/cafe-midnight.jpg
 ---
 
