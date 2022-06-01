@@ -26,7 +26,7 @@ sections:
         - headline: series/pilots trailers 2022
           button:
             text: watch now
-            href: /festival
+            href: /festival/
         # - headline: nominees & winners 2021
         #   button:
         #     text: view now
