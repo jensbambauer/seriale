@@ -5,6 +5,10 @@ sections:
     headline: official selection series 2022
     data:
       list: series
+  - partial: thumb-grid
+    headline: official selection pilots 2022
+    data:
+      list: pilots
   # - partial: stage
   #   widesection: true
   #   data:
