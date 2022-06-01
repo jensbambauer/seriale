@@ -1,6 +1,6 @@
 ---
 title: Lost & Found Cowboy (Season 2) (German Festival Premiere)
-image: /img/series/lost-found-cowboy.jpg
+image: /img/series/lost-found-cowboy-season-2.jpg
 ---
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/692476497" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
