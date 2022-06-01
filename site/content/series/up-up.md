@@ -3,7 +3,7 @@ title: UP UP (World Festival Premiere)
 image: /img/series/up-up.jpg
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ekVBHy8_2Gc&t=4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ekVBHy8_2Gc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## UP UP (World Festival Premiere)
 

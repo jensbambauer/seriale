@@ -3,7 +3,7 @@ title: Matarife / The Butcher
 image: /img/series/matarife.jpg
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fNYcVKxusCc&t=1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fNYcVKxusCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Matarife / The Butcher
 

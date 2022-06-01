@@ -3,7 +3,7 @@ title: Sheker (Season 2) (International Festival Premiere)
 image: /img/series/sheker.jpg
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9zL40kZ2NxE&t=4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9zL40kZ2NxE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Sheker (Season 2) (International Festival Premiere)
 

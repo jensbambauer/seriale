@@ -3,7 +3,7 @@ title: Lucidity
 image: /img/series/lucidity.jpg
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eE7kiEQKLAE&t=1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eE7kiEQKLAE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Lucidity
 

@@ -3,7 +3,7 @@ title: HEROES - Limited Edition (International Premiere)
 image: /img/series/heroes-limited-edition.jpg
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf_TrmBZWsk&ab_channel=EliorEliyahuAmsalem" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf_TrmBZWsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## HEROES - Limited Edition (International Premiere)
 
