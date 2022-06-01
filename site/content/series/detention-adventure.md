@@ -1,11 +1,12 @@
 ---
-title: Detention Adventure (Season 2)
+title: Detention Adventure (Season 3) (European Premiere)
 image: /img/series/detention-adventure.jpg
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MimFsYNJu_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Detention Adventure (Season 2) 
-Country: Canada | Genre: Kids, Adventure |
-Director: Joe Kicak | Writer: Joe Kicak, Carmen Albano
+## Detention Adventure (Season 3) (European Premiere)
 
-Framed for an epic prank, the "Detention Adventure Four" are joined by a new ally with clues that might help them find Ignatius Cockshutt's lost fortune.
+Country: Canada | Genre: Family, Action, Adventure | Directors: Joe Kicak, Mike Lobel | Writers: Carmen Albano, Joe Kicak, Lisa Rose Snow, Cassie Cao, Jay Vaidya
+
+The Detention Team are at it again only this time their antics get them shipped off to Island School where they explore the mysterious secrets left behind by the visionary artist Lawren Harris, and discover the true meaning of art.
