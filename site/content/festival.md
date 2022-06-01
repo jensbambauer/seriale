@@ -1,24 +1,28 @@
 ---
 title: 8th Digital Series Festival Giessen 
 sections:
-  - partial: stage
-    widesection: true
+  - partial: thumb-grid
+    headline: official selection series 2022
     data:
-      videosource: /videos/festival-loop.mp4
-      slides:
-        # - headline: The festival
-          # button:
-          #   overlay: true
-          #   text: watch trailer
-          #   href: /festival-trailer
-        # - headline: nominees & winners 2020
-        #   button:
-        #     text: view now
-        #     href: /awards-2020
-        - headline: official selection 2022
-          button:
-            text: view now
-            href: /official-selection-2022
+      list: series
+  # - partial: stage
+  #   widesection: true
+  #   data:
+  #     videosource: /videos/festival-loop.mp4
+  #     slides:
+  #       # - headline: The festival
+  #         # button:
+  #         #   overlay: true
+  #         #   text: watch trailer
+  #         #   href: /festival-trailer
+  #       # - headline: nominees & winners 2020
+  #       #   button:
+  #       #     text: view now
+  #       #     href: /awards-2020
+  #       - headline: official selection 2022
+  #         button:
+  #           text: view now
+  #           href: /official-selection-2022
   # - partial: large-teaser
   #   data:
   #     background: /img/be-part-of-it-bg.jpg
