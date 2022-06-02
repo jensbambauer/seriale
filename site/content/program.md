@@ -26,12 +26,12 @@ sections:
                       length: 2
                       datetime: 2022-06-08
                       time: 19:00 | 7pm
-					  type: networking
+                      type: networking
                     - title: Welcome
                       length: 2
                       datetime: 2021-06-08
                       time: 20:00 | 8pm
-					  type: welcome
+                      type: welcome
                       details: "Official Welcome by Norbert Kortlüke, city council of Wetzlar, and Festival Director Csongor Dobrotka"
                       host:
                         - name: Dascha Solovieva
@@ -77,7 +77,7 @@ sections:
                       length: 4
                       datetime: 2022-06-09
                       time: 13:00 | 1pm
-					  type: talk
+                      type: talk
                       host:
                         - name: Dascha Solovieva
                     - title: "Screening Block 2 (Open Air)"
@@ -204,17 +204,17 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 17:30 | 5:30pm
-					  type: screening
+                      type: screening
                     - title: Screening Block 4
                       length: 2
                       datetime: 2022-06-10
                       time: 19:45 | 7:45pm
-					  type: screening
+                      type: screening
                     - title: Screening Block 5
                       length: 2
                       datetime: 2022-06-10
                       time: 21:30 | 9:30pm
-					  type: screening
+                      type: screening
               - partial: text-plain
                 headline: Networking Night
                 data:
@@ -228,7 +228,7 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 23:00 | 11pm
-					  type: networking
+                      type: networking
         - title: 11th june
           partial: tab-sections
           data:
@@ -244,7 +244,7 @@ sections:
                   items:
                     - title: Welcome to Seriale Pro
                       time: 10:00 | 10am
-					  type: opening
+                      type: opening
                       length: 2
                       details: Introduction of the program and all panelists of the day.
                       hosts:
@@ -324,7 +324,7 @@ sections:
                       datetime: 2021-06-10
                       time: 15:00 | 3pm
                     - title: "Pitch Contest"
-					  type: pitch contest
+                      type: pitch contest
                       length: 3
                       datetime: 2021-06-10
                       time: 16:00 | 4pm
@@ -366,17 +366,17 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 17:30 | 5:30pm
-					  type: screening
+                      type: screening
                     - title: Screening Block 7
                       length: 2
                       datetime: 2022-06-10
                       time: 19:00 | 7pm
-					  type: screening
+                      type: screening
                     - title: Screening Block 8
                       length: 2
                       datetime: 2022-06-10
                       time: 21:00 | 9pm
-					  type: screening
+                      type: screening
               - partial: text-plain
                 headline: Club Night
                 data:
@@ -389,7 +389,7 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 22:30 | 10:30pm
-					  type: networking
+                      type: networking
         - title: 12th june
           partial: tab-sections
           data:
@@ -405,7 +405,7 @@ sections:
                   items:
                     - title: Welcome to Seriale Pro day 2
                       time: 10:00 | 10:00am
-					  type: introduction
+                      type: introduction
                       length: 2
                       details: Introduction of the program and all panelists of the day.
                       hosts:
@@ -491,7 +491,7 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 17:00 | 5pm
-					  type: screening
+                      type: screening
               - partial: text-plain
                 headline: "Red Carpet & Award Ceremony"
               - partial: program
@@ -502,7 +502,7 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 18:00 | 6pm
-					  type: red carpet
+                      type: red carpet
                       host:
                         - name: Dascha Solovieva
                       details: "The Red Carpet is the preparation for the 8th Seriale Award Ceremony. Besides champagne reception and photo sessions, Dascha Solovieva welcomes the series creators on the red carpet with numerous interviews."
@@ -510,7 +510,7 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 20:00 | 8pm
-					  type: award ceremony
+                      type: award ceremony
                       host:
                         - name: Anne Failing
                         - name: Kaira Masuhr
@@ -519,7 +519,7 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 22:00 | 10pm
-					  type: after show
+                      type: after show
                       details: "Celebration & Networking"
         - title: workshop
           partial: tab-sections
@@ -540,7 +540,7 @@ sections:
   - partial: text-plain
     headline: connect with us
     data:
-      text: "<h4>die Seriale</h4>Weidengasse 3<br>35390 Giessen<br><br>phone   +49 641 97286 505<br>fax         +49 641 13295 433<br><br>e-mail    info@die-seriale.de"
+      text: "<h4>die Seriale</h4>Weidengasse 3<br>35390 Giessen<br><br>phone: +49 641 97286 505<br><br>e-mail: info@die-seriale.de"
   # - partial: thumb-grid
   #   headline: official selection
   #   data:
