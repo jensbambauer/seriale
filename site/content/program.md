@@ -233,7 +233,7 @@ sections:
               - partial: text-plain
                 headline: "seriale pro: day 1"
                 data:
-                  text: "Seriale Pro offers a comprehensive business platform for the digital series industry, including the industry-related events, DIMA - Digital Market, Networking and the Pitch Contest. Seriale Pro is a large-scale conference and networking event that takes place for the sixth time as part of Seriale. DIMA Giessen took place for the first time three years ago as the first German physical market to focus on short-format digital series. DIMA - Digital Market Giessen is a Seriale collaboration with Bilbao Seriesland, Spain, and Minnesota Web Fest, United States and the only market worldwide with a focus on Digital Series. The DIMA online platform is available throughout the year for series creators to present their projects to the industry. DIMA will be held during Seriale Pro. The Pitch Contest will present 24 brand new concepts for Digital Series to the industry.  <br/> <br/> Seriale Pro is sponsored by the Hessian Ministry of Economics, Energy, Transport and Housing and by the Economic Development Giessen.<br/><br/>Town Hall Giessen - Berliner Platz 1, 35390 Giessen"
+                  text: "Seriale Pro offers a comprehensive business platform for the digital series industry, including the industry-related events, DIMA - Digital Market, Networking and the Pitch Contest. Seriale Pro is a large-scale conference and networking event that takes place for the sixth time as part of Seriale. DIMA Giessen took place for the first time three years ago as the first German physical market to focus on short-format digital series. DIMA - Digital Market Giessen is a Seriale collaboration with Bilbao Seriesland, Spain, and Minnesota Web Fest, United States and the only market worldwide with a focus on Digital Series. The DIMA online platform is available throughout the year for series creators to present their projects to the industry. DIMA will be held during Seriale Pro. The Pitch Contest will present 24 brand new concepts for Digital Series to the industry.  <br/><br/>Town Hall Giessen - Berliner Platz 1, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
@@ -393,7 +393,7 @@ sections:
               - partial: text-plain
                 headline: "seriale pro: day 2"
                 data:
-                  text: "Seriale Pro offers a comprehensive business platform for the digital series industry, including the industry-related events, DIMA - Digital Market, Networking and the Pitch Contest. Seriale Pro is a large-scale conference and networking event that takes place for the sixth time as part of Seriale. DIMA Giessen took place for the first time three years ago as the first German physical market to focus on short-format digital series. DIMA - Digital Market Giessen is a Seriale collaboration with Bilbao Seriesland, Spain, and Minnesota Web Fest, United States and the only market worldwide with a focus on Digital Series. The DIMA online platform is available throughout the year for series creators to present their projects to the industry. DIMA will be held during Seriale Pro. The Pitch Contest will present 24 brand new concepts for Digital Series to the industry.  <br/> <br/> Seriale Pro is sponsored by the Hessian Ministry of Economics, Energy, Transport and Housing and by the Economic Development Giessen.<br/><br/>Town Hall Giessen - Berliner Platz 1, 35390 Giessen"
+                  text: "Seriale Pro offers a comprehensive business platform for the digital series industry, including the industry-related events, DIMA - Digital Market, Networking and the Pitch Contest. Seriale Pro is a large-scale conference and networking event that takes place for the sixth time as part of Seriale. DIMA Giessen took place for the first time three years ago as the first German physical market to focus on short-format digital series. DIMA - Digital Market Giessen is a Seriale collaboration with Bilbao Seriesland, Spain, and Minnesota Web Fest, United States and the only market worldwide with a focus on Digital Series. The DIMA online platform is available throughout the year for series creators to present their projects to the industry. DIMA will be held during Seriale Pro. The Pitch Contest will present 24 brand new concepts for Digital Series to the industry. <br/><br/>Town Hall Giessen - Berliner Platz 1, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
@@ -531,7 +531,7 @@ sections:
                       length: 3
                       time: 11:00 | 11am
                       details: "A two hour lighting workshop for training our eyes. It addresses not exclusively, but foremost low budget filmmakers. Concepts of aesthetic portrait lighting, available light and light treatment will be presented in practical experiments. Please register in advance, places are limited.<br/><br/>Hotel & Restaurant heyligenstaedt, Aulweg 41, 35392 Giessen"
-                      workshop by:
+                      speaker:
                         - name: Joachim Jung
                           link: joachim-jung
   - partial: text-plain
