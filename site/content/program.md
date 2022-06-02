@@ -26,12 +26,14 @@ sections:
                       length: 2
                       datetime: 2022-06-08
                       time: 19:00 | 7pm
+					  type: networking
                     - title: Welcome
                       length: 2
                       datetime: 2021-06-08
                       time: 20:00 | 8pm
-                      details: "Official Welcome by City council of Wetzlar Norbert Kortlüke, Festival Director Csongor Dobrotka"
-                      moderator:
+					  type: welcome
+                      details: "Official Welcome by Norbert Kortlüke, city council of Wetzlar, and Festival Director Csongor Dobrotka"
+                      host:
                         - name: Dascha Solovieva
                     - title: "Hessen Focus: Meet the Creators"
                       length: 3
@@ -45,7 +47,7 @@ sections:
                           link: joerg-buschka
                         - name: Josua Krug
                         - name: Joschua Keßler
-                        - name: Sven Unland,
+                        - name: Sven Unland
                         - name: Linda Gasser
                         - name: Paul Becht
                         - name: Kristin Rasch
@@ -66,7 +68,7 @@ sections:
                 headline: late night talks
                 data:
                   narrow: true
-                  text: "Conversations with series creators in a cozy evening atmosphere in front of a live audience. The talks will be recorded and published on the YouTube channel of die Seriale in the coming weeks."
+                  text: "Conversations with series creators in a cozy evening atmosphere in front of a live audience. The talks will be recorded and published on the YouTube channel of die Seriale in the coming weeks.<br/><br/>Hotel & Restaurant heyligenstaedt, Aulweg 41, 35392 Giessen"
               - partial: program
                 smallmargin: true
                 data:
@@ -75,10 +77,13 @@ sections:
                       length: 4
                       datetime: 2022-06-09
                       time: 13:00 | 1pm
+					  type: talk
+                      host:
+                        - name: Dascha Solovieva
                     - title: "Screening Block 2 (Open Air)"
                       length: 3
                       datetime: 2021-06-08
-                      details: "Berliner Platz Gießen"
+                      details: "Open Air, Berliner Platz, 35390 Giessen"
                       time: 21:30 | 9:30pm
                       type: screening
         - title: 10th june
@@ -89,7 +94,7 @@ sections:
                 headline: "educational"
                 data:
                   narrow: true
-                  text: "The Educational offers lectures and discussions that bring together media theorists and creators. What is new in the world of Digital Series? Which new ideas and formats are being developed? What is the status, and where are we going? Digital series will be analyzed through a film and media analytical perspective. In addition to analyzing the current situation of web series and discussing series from this year‘s selection, a look back will be taken. Web series that deal with history and the history of web series are central to the debate this year. Scholars and creators will discuss the possibilities and limits of historically based series. However, the historicity of the format itself will also be considered.<br/><br/>Hotel & Restaurant heyligenstaedt"
+                  text: "The Educational offers lectures and discussions that bring together media theorists and creators. What is new in the world of Digital Series? Which new ideas and formats are being developed? What is the status, and where are we going? Digital series will be analyzed through a film and media analytical perspective. In addition to analyzing the current situation of web series and discussing series from this year‘s selection, a look back will be taken. Web series that deal with history and the history of web series are central to the debate this year. Scholars and creators will discuss the possibilities and limits of historically based series. However, the historicity of the format itself will also be considered.<br/><br/>Hotel & Restaurant heyligenstaedt, Aulweg 41, 35392 Giessen"
               - partial: program
                 smallmargin: true
                 data:
@@ -101,9 +106,9 @@ sections:
                     - title: Opening Educational
                       length: 2
                       time: 10:00 | 10:00am
-                      type: introduction
+                      type: opening
                       details: "Anja Henningsmeyer, Managing Director of Hessen Film and Media Academy (hFMA), Isabella Pianto, Educational Managerin, and Csongor Dobrotka, die Seriale Festival Director, will open this year’s Educational."
-                      speaker:
+                      speakers:
                         - name: Anja Henningsmeyer
                         - name: Csongor Dobrotka
                         - name: Isabello Pianto
@@ -111,7 +116,7 @@ sections:
                       length: 2
                       time: 10:15 | 10:15am
                       type: keynote
-                      details: "Joël Bassaget is taking a look at web series production around the World. What is the posi- tion of the format on the global content market and what are its future perspectives?"
+                      details: "Joël Bassaget is taking a look at web series production around the world. What is the position of the format on the global content market and what are its future perspectives?"
                       speaker:
                         - name: Joël Bassaget
                           link: joel-bassaget
@@ -119,7 +124,7 @@ sections:
                       type: Panel Discussion
                       length: 3
                       time: 11:00 | 11:00am
-                      details: "This panel aims to discuss the chances and limits of historically based series. It takes a closer look at the Instagram Series “Ich bin Sophie Scholl” @ichbinsophiescholl and focuses on ques- tions about the limits of fictionalizing historic events for entertainment value. Are new media formats adding to fading the borders between fact and fiction and what consequences does this have for our understanding of history?"
+                      details: "This panel aims to discuss the chances and limits of historically based series. It takes a closer look at the Instagram Series “Ich bin Sophie Scholl” @ichbinsophiescholl and focuses on questions about the limits of fictionalizing historic events for entertainment value. Are new media formats adding to fading the borders between fact and fiction and what consequences does this have for our understanding of history?"
                       moderator:
                         - name: Isabella Pianto
                       panelists:
@@ -138,7 +143,7 @@ sections:
                       type: Keynote Video Lecture
                       length: 3
                       time: 12:30 | 12:30pm
-                      details: "This video essay tells the – still young but already testifying to numerous media upheavals – story of the form “web series”. The focus here is on the complex relationship with privat- ized digital platform structures. How web series have responded to specific social media, their aesthetics, and narrative devices? How did they imitate, reflect, and critique them? What can we learn from web series about the structures, form of communication and constructions of reality of those platforms in which they were/are embedded?"
+                      details: "This video essay tells the – still young but already testifying to numerous media upheavals – story of the form “web series”. The focus here is on the complex relationship with privatized digital platform structures. How web series have responded to specific social media, their aesthetics, and narrative devices? How did they imitate, reflect, and critique them? What can we learn from web series about the structures, form of communication and constructions of reality of those platforms in which they were/are embedded?"
                       speaker:
                         - name: Martha-Lotta Körber
                     - title: Break
@@ -187,7 +192,9 @@ sections:
                         - name: Gabriela Corés
                         - name: Andrea Meneses
               - partial: text-plain
-                headline: Kinocenter Gießen
+                headline: Kinocenter Giessen
+                data:
+                  text: "Kinocenter Giessen, Bahnhofstrasse 34, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
@@ -197,18 +204,21 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 17:30 | 5:30pm
+					  type: screening
                     - title: Screening Block 4
                       length: 2
                       datetime: 2022-06-10
                       time: 19:45 | 7:45pm
+					  type: screening
                     - title: Screening Block 5
                       length: 2
                       datetime: 2022-06-10
                       time: 21:30 | 9:30pm
+					  type: screening
               - partial: text-plain
                 headline: Networking Night
                 data:
-                  text: "LIEBLINGSMENSCH, Katharinengasse 12, 35390 Gießen"
+                  text: "LIEBLINGSMENSCH, Katharinengasse 12, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
@@ -218,6 +228,7 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 23:00 | 11pm
+					  type: networking
         - title: 11th june
           partial: tab-sections
           data:
@@ -226,13 +237,14 @@ sections:
                 headline: "seriale pro: day 1"
                 data:
                   narrow: true
-                  text: "Seriale Pro offers a comprehensive business platform for the digital series industry, including the industry-related events, DIMA - Digital Market, Networking and the Pitch Contest. Seriale Pro is a large-scale conference and networking event that takes place for the sixth time as part of Seriale. DIMA Giessen took place for the first time three years ago as the first German physical market to focus on short-format digital series. DIMA - Digital Market Giessen is a Seriale collaboration with Bilbao Seriesland, Spain, and Minnesota Web Fest, United States and the only market worldwide with a focus on Digital Series. The DIMA online platform is available throughout the year for series creators to present their projects to the industry. DIMA will be held during Seriale Pro. The Pitch Contest will present 24 brand new concepts for Digital Series to the industry.  <br/> <br/> Seriale Pro is sponsored by the Hessian Ministry of Economics, Energy, Transport and Housing and by the Economic Development Giessen.<br/><br/>Townhall Giessen - Berliner Platz 1, 35390 Giessen"
+                  text: "Seriale Pro offers a comprehensive business platform for the digital series industry, including the industry-related events, DIMA - Digital Market, Networking and the Pitch Contest. Seriale Pro is a large-scale conference and networking event that takes place for the sixth time as part of Seriale. DIMA Giessen took place for the first time three years ago as the first German physical market to focus on short-format digital series. DIMA - Digital Market Giessen is a Seriale collaboration with Bilbao Seriesland, Spain, and Minnesota Web Fest, United States and the only market worldwide with a focus on Digital Series. The DIMA online platform is available throughout the year for series creators to present their projects to the industry. DIMA will be held during Seriale Pro. The Pitch Contest will present 24 brand new concepts for Digital Series to the industry.  <br/> <br/> Seriale Pro is sponsored by the Hessian Ministry of Economics, Energy, Transport and Housing and by the Economic Development Giessen.<br/><br/>Town Hall Giessen - Berliner Platz 1, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
                   items:
                     - title: Welcome to Seriale Pro
-                      time: 10:00 | 10.00am
+                      time: 10:00 | 10am
+					  type: opening
                       length: 2
                       details: Introduction of the program and all panelists of the day.
                       hosts:
@@ -245,12 +257,12 @@ sections:
                       speaker:
                         - name: Young Man Kang
                           link: young-man-kang
-                      details: "South Korean web dramas have attracted great international attention in recent years, especially outside their home country, and are becoming increasingly successful and popular. Young Man Kang from Seoul will introduce the success concepts behind the most popular web dramas, as well as talk about co-production opportunities and the distribution of web series in South Korea and Asia. He is a film producer, director of the Seoul Webfest and the LA Webfest and with his company YMK Productions he focuses on branded series. He also represents the VOD platform KTH (Korea Telecom Hitel) at Seriale, who is specifically looking for web series."
+                      details: "South Korean web dramas have attracted great international attention in recent years, especially outside their home country, and are becoming increasingly successful and popular. Young Man Kang from Seoul will introduce the success concepts behind the most popular web dramas, as well as talk about co-production opportunities and the distribution of web series in South Korea and Asia. He is a film producer, director of the Seoul Webfest, Asia Web Awards and the LA Webfest and with his company YMK Productions he focuses on branded series."
                     - title: Web Series Market in South America
                       type: Business Talk
                       length: 2
                       time: 11:00 | 11am
-                      speaker:
+                      speakers:
                         - name: Gastón Haag
                         - name: Sergio Sosa
                           link: sergio-sosa
@@ -312,19 +324,11 @@ sections:
                       datetime: 2021-06-10
                       time: 15:00 | 3pm
                     - title: "Pitch Contest"
+					  type: pitch contest
                       length: 3
                       datetime: 2021-06-10
                       time: 16:00 | 4pm
                       details: "24 pre-selected finalists will get three minutes to pitch their series concept to an international Jury of experts."
-                      jury:
-                        - name: George Reese
-                          link: george-reese
-                        - name: Julia Weber
-                        - name: Melvina Kotios
-                        - name: Mia Rogelsek
-                        - name: Mariana Schneider
-                        - name: Frank Böhm
-                        - name: Sergio Sosa
                     - title: "Pitch Block 1"
                       type: pitch contest
                       length: 3
@@ -351,7 +355,9 @@ sections:
                       datetime: 2021-06-10
                       time: 20:00 | 8pm
               - partial: text-plain
-                headline: Kinocenter Gießen
+                headline: Kinocenter Giessen
+                data:
+                  text: "Kinocenter Giessen, Bahnhofstrasse 34, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
@@ -360,18 +366,21 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 17:30 | 5:30pm
+					  type: screening
                     - title: Screening Block 7
                       length: 2
                       datetime: 2022-06-10
                       time: 19:00 | 7pm
+					  type: screening
                     - title: Screening Block 8
                       length: 2
                       datetime: 2022-06-10
                       time: 21:00 | 9pm
+					  type: screening
               - partial: text-plain
                 headline: Club Night
                 data:
-                  text: "Dach Café Gießen, Ludwigsplatz 11, 35390 Gießen"
+                  text: "Dach Café Giessen, Ludwigsplatz 11, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
@@ -380,6 +389,7 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 22:30 | 10:30pm
+					  type: networking
         - title: 12th june
           partial: tab-sections
           data:
@@ -388,23 +398,24 @@ sections:
                 headline: "seriale pro: day 2"
                 data:
                   narrow: true
-                  text: "Seriale Pro offers a comprehensive business platform for the digital series industry, including the industry-related events, DIMA - Digital Market, Networking and the Pitch Contest. Seriale Pro is a large-scale conference and networking event that takes place for the sixth time as part of Seriale. DIMA Giessen took place for the first time three years ago as the first German physical market to focus on short-format digital series. DIMA - Digital Market Giessen is a Seriale collaboration with Bilbao Seriesland, Spain, and Minnesota Web Fest, United States and the only market worldwide with a focus on Digital Series. The DIMA online platform is available throughout the year for series creators to present their projects to the industry. DIMA will be held during Seriale Pro. The Pitch Contest will present 24 brand new concepts for Digital Series to the industry.  <br/> <br/> Seriale Pro is sponsored by the Hessian Ministry of Economics, Energy, Transport and Housing and by the Economic Development Giessen.<br/><br/>Townhall Giessen - Berliner Platz 1, 35390 Giessen"
+                  text: "Seriale Pro offers a comprehensive business platform for the digital series industry, including the industry-related events, DIMA - Digital Market, Networking and the Pitch Contest. Seriale Pro is a large-scale conference and networking event that takes place for the sixth time as part of Seriale. DIMA Giessen took place for the first time three years ago as the first German physical market to focus on short-format digital series. DIMA - Digital Market Giessen is a Seriale collaboration with Bilbao Seriesland, Spain, and Minnesota Web Fest, United States and the only market worldwide with a focus on Digital Series. The DIMA online platform is available throughout the year for series creators to present their projects to the industry. DIMA will be held during Seriale Pro. The Pitch Contest will present 24 brand new concepts for Digital Series to the industry.  <br/> <br/> Seriale Pro is sponsored by the Hessian Ministry of Economics, Energy, Transport and Housing and by the Economic Development Giessen.<br/><br/>Town Hall Giessen - Berliner Platz 1, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
                   items:
                     - title: Welcome to Seriale Pro day 2
-                      time: 10:00 | 10.00am
+                      time: 10:00 | 10:00am
+					  type: introduction
                       length: 2
                       details: Introduction of the program and all panelists of the day.
                       hosts:
                         - name: Celina Schmitt
                         - name: Alexandra Manlik
                     - title: DIMA Business Round Table
-                      type: Business Talk
+                      type: dima
                       length: 2
                       time: 10:15 | 10:15am
-                      speaker:
+                      speakers:
                         - name: Csongor Dobrotka
                         - name: Rose of Dolls
                           link: rose-of-dolls
@@ -414,26 +425,28 @@ sections:
                           link: george-reese
                       details: "International digital series market: Current developments and co-production"
                     - title: DIMA Business Meetings
-                      type: one on one
+                      type: dima
                       length: 2
                       time: 11:30 | 11:30am
-                      details: "Bookable One-On-One Meetings where platforms, distributors, representatives of TV stations and media libraries can network with authors, producers and the creative industry."
+                      details: "Bookable One-On-One Meetings where platforms, distributors, representatives of TV stations and media libraries can network with authors, producers and the creative industry. Please register in advance, places are limited."
                     - title: "A look inside “Arthur”"
                       type: talk
                       length: 2
                       moderator:
                         - name: Can Taş
+                      guest:
+                        - name: Ettore Nicoletti
                       time: 11:30 | 11:30am
-                      details: "„Arthur“ was the most awarded web series in the world in 2016. This year, the long-awaited second season will be presented at Seriale. In a conversation with Ettore Nicoletti, who plays the title character, we take a look behind the special storytelling of the series, as well as inside the main character Arthur."
-                    - title: "The adventure “Per Aspera”"
+                      details: "“Arthur“ was the most awarded web series in the world in 2016. This year, the long-awaited second season will be presented at Seriale. In a conversation with Ettore Nicoletti, who plays the title character, we take a look behind the special storytelling of the series, as well as inside the main character Arthur."
+                    - title: "The adventure “Per Aspera“"
                       type: talk
                       length: 2
                       moderator:
                         - name: Isabella Pianto
-                      panelists:
+                      guest:
                         - name: Andrea Traina
                       time: 12:30 | 12:30am
-                      details: "The series „Per Aspera“ is an epic web series about origin, change and identity and both on screen and behind the scenes a great adventure and mystery. In conversation with Andrea Traina, the director of the series, we explore how from an educational project and cinema initiative in schools, a quality series was born."
+                      details: "The series “Per Aspera“ is an epic web series about origin, change and identity and both on screen and behind the scenes a great adventure and mystery. In conversation with Andrea Traina, the director of the series, we explore how from an educational project and cinema initiative in schools, a quality series was born."
                     - title: Break
                       length: 2
                       type: break
@@ -443,7 +456,7 @@ sections:
                       type: Business Talk
                       length: 2
                       time: 14:30 | 2:30pm
-                      speaker:
+                      speakers:
                         - name: Riccardo Cannella
                           link: riccardo-cannella
                         - name: Young Man Kang
@@ -454,8 +467,7 @@ sections:
                       length: 2
                       time: 15:00 | 3pm
                       moderator:
-                        - name: Gisealla Waetzoldt-Hildebrandt
-
+                        - name: Gisella Waetzoldt-Hildebrandt
                       panelists:
                         - name: Mia Rogelsek
                         - name: Antoine Disle
@@ -468,7 +480,9 @@ sections:
                           link: julia-weber
                       details: "Experienced producers, distributors and platform owners, from all over the world, talk about  the international digital series market. They present their companies as well as their field of work and provide smart tips on how series should be produced in a way that they can participate in the international market."
               - partial: text-plain
-                headline: Kinocenter Gießen
+                headline: Kinocenter Giessen
+                data:
+                  text: "Kinocenter Giessen, Bahnhofstrasse 34, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
@@ -477,8 +491,9 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 17:00 | 5pm
+					  type: screening
               - partial: text-plain
-                headline: "Hotel & Restaurant heyligenstaedt"
+                headline: "Red Carpet & Award Ceremony"
               - partial: program
                 smallmargin: true
                 data:
@@ -487,35 +502,39 @@ sections:
                       length: 2
                       datetime: 2022-06-10
                       time: 18:00 | 6pm
+					  type: red carpet
                       host:
                         - name: Dascha Solovieva
-                      details: "The Red Carpet is the preparation for the 8th Seriale Award Ceremony. Besides champagne reception and photo sessions Dascha Solovieva welcomes the panelists on the red carpet with nu- merous interviews."
+                      details: "The Red Carpet is the preparation for the 8th Seriale Award Ceremony. Besides champagne reception and photo sessions, Dascha Solovieva welcomes the series creators on the red carpet with numerous interviews."
                     - title: 8th Award Ceremony of die Seriale
                       length: 2
                       datetime: 2022-06-10
                       time: 20:00 | 8pm
+					  type: award ceremony
                       host:
                         - name: Anne Failing
                         - name: Kaira Masuhr
-                      details: "At the Award Ceremony 2022, directly after the Red Carpet, the most outstanding series will be honored with a total of 20 awards, selected by our international expert Jury. The event will be hosted by Anne Failing and Kaira Masuhr. This year’s Award Ceremony will be accentuated with music by the band “La Finesse“."
+                      details: "At the Award Ceremony 2022, directly after the Red Carpet, the most outstanding series will be honored with a total of 20 awards, selected by our international expert Jury. The event will be hosted by Anne Failing and Kaira Masuhr. This year’s Award Ceremony will be accentuated with music by the string quartet “La Finesse“."
                     - title: After Show
                       length: 2
                       datetime: 2022-06-10
-                      time: 20:00 | 8pm
+                      time: 22:00 | 10pm
+					  type: after show
                       details: "Celebration & Networking"
         - title: workshop
           partial: tab-sections
           data:
             sections:
-              - partial: program
+              - partial: text-plain
+                headline: "workshop"
                 data:
                   items:
                     - title: "Basic Lighting Workshop"
                       type: workshop
                       length: 3
                       time: 11:00 | 11am
-                      details: "A lighting workshop for training our eyes. It addresses not exclusively, but foremost low budget filmmakers. Concepts of aesthetic portrait lighting, available light and light treatment will be presented in practical experiments."
-                      speaker:
+                      details: "A two hour lighting workshop for training our eyes. It addresses not exclusively, but foremost low budget filmmakers. Concepts of aesthetic portrait lighting, available light and light treatment will be presented in practical experiments. Please register in advance, places are limited.<br/><br/>Hotel & Restaurant heyligenstaedt, Aulweg 41, 35392 Giessen"
+                      workshop by:
                         - name: Joachim Jung
                           link: joachim-jung
   - partial: text-plain
