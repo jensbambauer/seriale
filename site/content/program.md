@@ -30,16 +30,16 @@ sections:
                       datetime: 2021-06-08
                       time: 20:00 | 8pm
                       details: "Official Welcome by City council of Wetzlar Norbert Kortlüke, Festival Director Csongor Dobrotka"
-                      hosts:
+                      moderator:
                         - name: Dascha Solovieva
                     - title: "Hessen Focus: Meet the Creators"
                       length: 3
                       datetime: 2021-06-08
-                      time: 20:00 | 8pm
+                      time: 20:15 | 8:15pm
                       type: panel discussion
-                      moderators:
+                      moderator:
                         - name: Dascha Solovieva
-                      guests:
+                      panelists:
                         - name: Jörg Buschka
                           link: joerg-buschka
                         - name: Josua Krug
@@ -127,7 +127,7 @@ sections:
                         - name: Susanne Bauer
                         - name: Holle Barbara Zoz
                     - title: Break
-                      length: 3
+                      length: 2
                       type: break
                       datetime: 2021-06-10
                       time: 12:15 | 12:15pm
@@ -139,7 +139,7 @@ sections:
                       speaker:
                         - name: Martha-Lotta Körber
                     - title: Break
-                      length: 3
+                      length: 2
                       type: break
                       datetime: 2021-06-10
                       time: 13:00 | 1:00pm
@@ -164,7 +164,7 @@ sections:
                       details: "Together with series creators from our this year’s selection we would like to talk about the creative process of their work. Where do they get their inspiration and what challenges do the creators face from the basic idea to the realization of their work?"
                       moderator:
                         - name: "Can Taş"
-                      guests:
+                      panelists:
                         - name: Marco Eisenbarth
                           link: marco-eisenbarth
                         - name: Laura Köhler
@@ -177,20 +177,12 @@ sections:
                       details: "Together with series creators from our this year’s selection we would like to talk about the creative process of their work. Where do they get their inspiration and what challenges do the creators face from the basic idea to the realization of their work?"
                       moderator:
                         - name: "Can Taş"
-                      guests:
+                      panelists:
                         - name: Eva Maria Sommersberg
                         - name: Alina Rank
                         - name: Till Schadeck
                         - name: Gabriela Corés
                         - name: Andrea Meneses
-                    - title: "Basic Lighting Workshop"
-                      type: workshop
-                      length: 3
-                      time: 11:00 | 11am
-                      details: "A lighting workshop for training our eyes. It addresses not exclusively, but foremost low budget filmmakers. Concepts of aesthetic portrait lighting, available light and light treatment will be presented in practical experiments."
-                      speaker:
-                        - name: Joachim Jung
-                          link: joachim-jung
               - partial: text-plain
                 headline: Kinocenter Gießen
               - partial: program
@@ -238,7 +230,7 @@ sections:
                     - title: Welcome to Seriale Pro
                       time: 10:00 | 10.00am
                       length: 2
-                      details: Introduction of the program and all guests of the day.
+                      details: Introduction of the program and all panelists of the day.
                       hosts:
                         - name: Kaira Masuhr
                         - name: Anne Failing
@@ -280,7 +272,7 @@ sections:
                       details: "This panel of experts gives the Hessian film and media industry an exclusive insight into the domestic mechanisms of the web series market. Topics such as nationwide and international co-production, funding and distribution opportunities will be discussed. The participants of the discussion are all representatives of the Hessian creative industry and film funding. Together they will give an exclusive insight and report from different perspectives about their productions, experiences and market opportunities."
                       moderator:
                         - name: Celina Schmidt
-                      guests:
+                      panelists:
                         - name: Christian Stadach
                           link: christian-stadach
                         - name: Jörg Buschka
@@ -304,7 +296,7 @@ sections:
                       details: "Experienced producers, distributors, platform owners and license traders from Germany talk about the web series market. They present their companies and their fields of work and give practical advice on how series should be produced in order to participate successfully in the German market."
                       moderator:
                         - name: Gisella Waetzoldt-Hildebrandt
-                      guests:
+                      panelists:
                         - name: Jonathan Steinhardt
                         - name: Julia Weber
                         - name: Maximilian Allgeier
@@ -399,7 +391,7 @@ sections:
                     - title: Welcome to Seriale Pro day 2
                       time: 10:00 | 10.00am
                       length: 2
-                      details: Introduction of the program and all guests of the day.
+                      details: Introduction of the program and all panelists of the day.
                       hosts:
                         - name: Celina Schmitt
                         - name: Alexandra Manlik
@@ -433,7 +425,7 @@ sections:
                       length: 2
                       moderator:
                         - name: Isabella Pianto
-                      guests:
+                      panelists:
                         - name: Andrea Traina
                       time: 12:30 | 12:30am
                       details: "The series „Per Aspera“ is an epic web series about origin, change and identity and both on screen and behind the scenes a great adventure and mystery. In conversation with Andrea Traina, the director of the series, we explore how from an educational project and cinema initiative in schools, a quality series was born."
@@ -459,7 +451,7 @@ sections:
                       moderator:
                         - name: Gisealla Waetzoldt-Hildebrandt
 
-                      guests:
+                      panelists:
                         - name: Mia Rogelsek
                         - name: Antoine Disle
                           link: antoine-disle
@@ -492,7 +484,7 @@ sections:
                       time: 18:00 | 6pm
                       host:
                         - name: Dascha Solovieva
-                      details: "The Red Carpet is the preparation for the 8th Seriale Award Ceremony. Besides champagne reception and photo sessions Dascha Solovieva welcomes the guests on the red carpet with nu- merous interviews."
+                      details: "The Red Carpet is the preparation for the 8th Seriale Award Ceremony. Besides champagne reception and photo sessions Dascha Solovieva welcomes the panelists on the red carpet with nu- merous interviews."
                     - title: 8th Award Ceremony of die Seriale
                       length: 2
                       datetime: 2022-06-10
@@ -506,6 +498,21 @@ sections:
                       datetime: 2022-06-10
                       time: 20:00 | 8pm
                       details: "Celebration & Networking"
+        - title: workshop
+          partial: tab-sections
+          data:
+            sections:
+              - partial: program
+                data:
+                  items:
+                    - title: "Basic Lighting Workshop"
+                      type: workshop
+                      length: 3
+                      time: 11:00 | 11am
+                      details: "A lighting workshop for training our eyes. It addresses not exclusively, but foremost low budget filmmakers. Concepts of aesthetic portrait lighting, available light and light treatment will be presented in practical experiments."
+                      speaker:
+                        - name: Joachim Jung
+                          link: joachim-jung
   - partial: text-plain
     headline: connect with us
     data:
