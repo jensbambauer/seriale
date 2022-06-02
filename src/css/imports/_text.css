@@ -1,26 +1,30 @@
 .text {
-    @apply --font-style-flow;
+  @apply --font-style-flow;
 
-    &--background {
-        background: var(--mainColor);
-        padding: 20px;
-        color: white;
+  &--background {
+    background: var(--mainColor);
+    padding: 20px;
+    color: white;
 
-        h4 {
-            color: white;
-        }
+    h4 {
+      color: white;
+    }
+  }
+
+  &--narrow {
+    max-width: 960px;
+  }
+
+  &__columns {
+    column-count: 2;
+    column-gap: 8%;
+
+    @media (--small-viewport) {
+      column-count: 1;
     }
 
-    &__columns {
-        column-count: 2;
-        column-gap: 8%;
-
-        @media(--small-viewport) {
-            column-count: 1;
-        }
-
-        p {
-            break-inside: avoid-column;
-        }
+    p {
+      break-inside: avoid-column;
     }
+  }
 }

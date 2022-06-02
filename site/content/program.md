@@ -15,6 +15,7 @@ sections:
               - partial: text-plain
                 headline: focus hessen
                 data:
+                  narrow: true
                   text: "At the extraordinary location “Lottehof” in Wetzlar, the kick-off of the 8th edition of the festival will take place with panel discussions and interviews with Hessian creators. Series created in Hesse will be shown open air.<br/><br/>Lottehof, Lottestrasse 8-10, 35578 Wetzlar"
               - partial: program
                 smallmargin: true
@@ -64,6 +65,7 @@ sections:
               - partial: text-plain
                 headline: late night talks
                 data:
+                  narrow: true
                   text: "Conversations with series creators in a cozy evening atmosphere in front of a live audience. The talks will be recorded and published on the YouTube channel of die Seriale in the coming weeks."
               - partial: program
                 smallmargin: true
@@ -86,6 +88,7 @@ sections:
               - partial: text-plain
                 headline: "educational"
                 data:
+                  narrow: true
                   text: "The Educational offers lectures and discussions that bring together media theorists and creators. What is new in the world of Digital Series? Which new ideas and formats are being developed? What is the status, and where are we going? Digital series will be analyzed through a film and media analytical perspective. In addition to analyzing the current situation of web series and discussing series from this year‘s selection, a look back will be taken. Web series that deal with history and the history of web series are central to the debate this year. Scholars and creators will discuss the possibilities and limits of historically based series. However, the historicity of the format itself will also be considered.<br/><br/>Hotel & Restaurant heyligenstaedt"
               - partial: program
                 smallmargin: true
@@ -222,6 +225,7 @@ sections:
               - partial: text-plain
                 headline: "seriale pro: day 1"
                 data:
+                  narrow: true
                   text: "Seriale Pro offers a comprehensive business platform for the digital series industry, including the industry-related events, DIMA - Digital Market, Networking and the Pitch Contest. Seriale Pro is a large-scale conference and networking event that takes place for the sixth time as part of Seriale. DIMA Giessen took place for the first time three years ago as the first German physical market to focus on short-format digital series. DIMA - Digital Market Giessen is a Seriale collaboration with Bilbao Seriesland, Spain, and Minnesota Web Fest, United States and the only market worldwide with a focus on Digital Series. The DIMA online platform is available throughout the year for series creators to present their projects to the industry. DIMA will be held during Seriale Pro. The Pitch Contest will present 24 brand new concepts for Digital Series to the industry.  <br/> <br/> Seriale Pro is sponsored by the Hessian Ministry of Economics, Energy, Transport and Housing and by the Economic Development Giessen.<br/><br/>Townhall Giessen - Berliner Platz 1, 35390 Giessen"
               - partial: program
                 smallmargin: true
@@ -383,6 +387,7 @@ sections:
               - partial: text-plain
                 headline: "seriale pro: day 2"
                 data:
+                  narrow: true
                   text: "Seriale Pro offers a comprehensive business platform for the digital series industry, including the industry-related events, DIMA - Digital Market, Networking and the Pitch Contest. Seriale Pro is a large-scale conference and networking event that takes place for the sixth time as part of Seriale. DIMA Giessen took place for the first time three years ago as the first German physical market to focus on short-format digital series. DIMA - Digital Market Giessen is a Seriale collaboration with Bilbao Seriesland, Spain, and Minnesota Web Fest, United States and the only market worldwide with a focus on Digital Series. The DIMA online platform is available throughout the year for series creators to present their projects to the industry. DIMA will be held during Seriale Pro. The Pitch Contest will present 24 brand new concepts for Digital Series to the industry.  <br/> <br/> Seriale Pro is sponsored by the Hessian Ministry of Economics, Energy, Transport and Housing and by the Economic Development Giessen.<br/><br/>Townhall Giessen - Berliner Platz 1, 35390 Giessen"
               - partial: program
                 smallmargin: true
@@ -418,7 +423,7 @@ sections:
                       length: 2
                       moderator:
                         - name: Can Taş
-                      time: 12:00 | 12am
+                      time: 11:30 | 11:30am
                       details: "„Arthur“ was the most awarded web series in the world in 2016. This year, the long-awaited second season will be presented at Seriale. In a conversation with Ettore Nicoletti, who plays the title character, we take a look behind the special storytelling of the series, as well as inside the main character Arthur."
                     - title: "The adventure “Per Aspera”"
                       type: talk
@@ -473,7 +478,7 @@ sections:
                       datetime: 2022-06-10
                       time: 17:00 | 5pm
               - partial: text-plain
-                headline: "Hotel & Restauran heyligenstaedt"
+                headline: "Hotel & Restaurant heyligenstaedt"
               - partial: program
                 smallmargin: true
                 data:

@@ -1,5 +1,4 @@
 .program {
-
   .button {
     font-size: 16px;
     padding: 6px 12px;
@@ -25,7 +24,7 @@
     font-family: "Roboto Slab";
     font-weight: 700;
   }
-  
+
   &__item {
     margin-bottom: 40px;
 
@@ -65,7 +64,7 @@
       }
     }
     &__body {
-      background: #F3F3F3;
+      background: #f3f3f3;
       padding: 12px 10px 10px;
       p {
         margin-bottom: 0;
@@ -75,6 +74,7 @@
       }
       p {
         color: #808080;
+        max-width: 960px;
       }
 
       h4 + p {
