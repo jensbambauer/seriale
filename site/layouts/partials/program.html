@@ -1,68 +1,65 @@
 {{ with.data }}
 <div class="program">
-    {{ range.items }}
-      <div class="program__item">
-        <div class="program__item__time program__item__time--{{.length}}">
-          <time datetime="{{.datetime}} {{.time}}">{{.time}}</time>
-          {{ if .type }}
-            <small>{{ .type }}</small>
-          {{ end }}
-        </div>
-        <div class="program__item__body">
-          <h4>{{.title}}</h4>
-          {{ if .details}}
-          <p>{{ .details | safeHTML }}</p>
-          {{ end }}
-          {{ if .moderator }}
-            <div class="program__speaker">
-              <h4>Moderation</h4>
-              {{ range.moderator }}
-                {{ if .link }}
-                <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
-                {{ else }}
-                <span class="speaker-no-link">{{.name}}</span>
-                {{ end }}
-              {{ end }}
-            </div>
-          {{ end }}
-          {{ if .panelists }}
-            <div class="program__speaker">
-              <h4>Guests</h4>
-              {{ range.panelists }}
-                {{ if .link }}
-                <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
-                {{ else }}
-                <span class="speaker-no-link">{{.name}}</span>
-                {{ end }}
-              {{ end }}
-            </div>
-          {{ end }}
-          {{ if .speaker }}
-            <div class="program__speaker">
-              <h4>Speaker</h4>
-              {{ range.speaker }}
-                {{ if .link }}
-                <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
-                {{ else }}
-                <span class="speaker-no-link">{{.name}}</span>
-                {{ end }}
-              {{ end }}
-            </div>
-          {{ end }}
-          {{ if .hosts }}
-            <div class="program__speaker">
-              <h4>Hosts</h4>
-              {{ range.hosts }}
-                {{ if .link }}
-                <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
-                {{ else }}
-                <span class="speaker-no-link">{{.name}}</span>
-                {{ end }}
-              {{ end }}
-            </div>
-          {{ end }}
-        </div>
+  {{ range.items }}
+  <div class="program__item">
+    <div class="program__item__time program__item__time--{{.length}}">
+      <time datetime="{{.datetime}} {{.time}}">{{.time}}</time>
+      {{ if .type }}
+      <small>{{ .type }}</small>
+      {{ end }}
+    </div>
+    <div class="program__item__body">
+      <h4>{{.title}}</h4>
+      {{ if .details}}
+      <p>{{ .details | safeHTML }}</p>
+      {{ end }} {{ if .moderator }}
+      <div class="program__speaker">
+        <h4>Moderation</h4>
+        {{ range.moderator }} {{ if .link }}
+        <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        {{ else }}
+        <span class="speaker-no-link">{{.name}}</span>
+        {{ end }} {{ end }}
       </div>
-    {{ end }}
+      {{ end }} {{ if .panelists }}
+      <div class="program__speaker">
+        <h4>Guests</h4>
+        {{ range.panelists }} {{ if .link }}
+        <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        {{ else }}
+        <span class="speaker-no-link">{{.name}}</span>
+        {{ end }} {{ end }}
+      </div>
+      {{ end }} {{ if .speaker }}
+      <div class="program__speaker">
+        <h4>Speaker</h4>
+        {{ range.speaker }} {{ if .link }}
+        <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        {{ else }}
+        <span class="speaker-no-link">{{.name}}</span>
+        {{ end }} {{ end }}
+      </div>
+      {{ end }} {{ if .hosts }}
+      <div class="program__speaker">
+        <h4>Hosts</h4>
+        {{ range.hosts }} {{ if .link }}
+        <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        {{ else }}
+        <span class="speaker-no-link">{{.name}}</span>
+        {{ end }} {{ end }}
+      </div>
+      {{ end }} {{ if .jury }}
+      <div class="program__speaker">
+        <h4>Jury</h4>
+        {{ range.hosts }} {{ if .link }}
+        <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        {{ else }}
+        <span class="speaker-no-link">{{.name}}</span>
+        {{ end }} {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
 </div>
 {{ end }}

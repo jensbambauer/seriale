@@ -9,6 +9,12 @@ languageCode = "en-us"
     weight     = 1
 
     [[menu.main]]
+    identifier = "program"
+    name       = "Program"
+    url        = "/program/"
+    weight     = 1
+
+    [[menu.main]]
     identifier = "festival"
     name       = "Festival"
     url        = "/festival/"

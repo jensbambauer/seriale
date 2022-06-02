@@ -1,5 +1,5 @@
 ---
-title: 8th Digital Series Festival Giessen 
+title: 8th Digital Series Festival Giessen
 sections:
   - partial: tabs
     widesection: true
@@ -8,515 +8,504 @@ sections:
       background: ../img/program.jpg
       headline: program
       tabs:
-        - title: 2nd june
+        - title: 8th june
           partial: tab-sections
           data:
             sections:
+              - partial: text-plain
+                headline: focus hessen
+                data:
+                  text: "At the extraordinary location “Lottehof” in Wetzlar, the kick-off of the 8th edition of the festival will take place with panel discussions and interviews with Hessian creators. Series created in Hesse will be shown open air.<br/><br/>Lottehof, Lottestrasse 8-10, 35578 Wetzlar"
               - partial: program
                 smallmargin: true
                 data:
                   items:
-                    - title: Opening
+                    - title: Reception | Networking
+                      details: "Champagne reception and networking"
                       length: 2
-                      datetime: 2021-06-02
-                      time: 16:00 | 4pm CEST
+                      datetime: 2022-06-08
+                      time: 19:00 | 7pm
+                    - title: Welcome
+                      length: 2
+                      datetime: 2021-06-08
+                      time: 20:00 | 8pm
+                      details: "Official Welcome by City council of Wetzlar Norbert Kortlüke, Festival Director Csongor Dobrotka"
                       hosts:
-                        - name: Lotte Ruf
-                          link: lotte-ruf
-                      speaker:
-                        - name: Dietlind Grabe-Bolz (Mayor of the City of Giessen)
-                        - name: Anna Schoeppe (CEO of HessenFilm and Media)
-                        - name: Jörg Kratkey (cultural department Wetzlar)
-                        - name: Csongor Dobrotka (Festival Director of die Seriale)
-                    - title: Hessen Focus
-                      length: 2
-                      type: Interviews
-                      datetime: 2021-06-02
-                      time: 17:00 | 5pm CEST
-                      moderator:
-                        - name: Lotte Ruf
-                          link: lotte-ruf
-                      speaker:
-                        - name: Tim Reiland
-                          link: tim-reiland
-                        - name: Fabian Schwab
-                          link: fabian-schwab
+                        - name: Dascha Solovieva
+                    - title: "Hessen Focus: Meet the Creators"
+                      length: 3
+                      datetime: 2021-06-08
+                      time: 20:00 | 8pm
+                      type: panel discussion
+                      moderators:
+                        - name: Dascha Solovieva
+                      guests:
                         - name: Jörg Buschka
                           link: joerg-buschka
-                        - name: Anna Maria Pahlke
-                          link: anna-maria-pahlke
-                        - name: Kathrin Frech
-                          link: kathrin-frech
-        - title: 4th june
+                        - name: Josua Krug
+                        - name: Joschua Keßler
+                        - name: Sven Unland,
+                        - name: Linda Gasser
+                        - name: Paul Becht
+                        - name: Kristin Rasch
+                        - name: Micky Jukovic
+                        - name: Till Schadeck
+                        - name: Dennis Albrecht
+                          link: dennis-albrecht
+                    - title: "Screening Block 1 (Open Air)"
+                      length: 3
+                      datetime: 2021-06-08
+                      time: 21:30 | 9:30pm
+                      type: screening
+        - title: 9th june
           partial: tab-sections
           data:
             sections:
               - partial: text-plain
-                headline: educational
+                headline: late night talks
                 data:
-                  text: "The Educational offers lectures and discussions that intend to bring together media theorists and creators. What's new in the world of Digital Series? Which new ideas and formats are being developed? Where are we at, and where are we going? And how can we theorize Digital Series through a film and media analytical perspective? Besides the theoretical reflection of Digital Series, this year's focus will be on the work of the creators. We'll take a special look at sound design and story development."
+                  text: "Conversations with series creators in a cozy evening atmosphere in front of a live audience. The talks will be recorded and published on the YouTube channel of die Seriale in the coming weeks."
               - partial: program
                 smallmargin: true
                 data:
                   items:
+                    - title: Creators Talk
+                      length: 4
+                      datetime: 2022-06-09
+                      time: 13:00 | 1pm
+                    - title: "Screening Block 2 (Open Air)"
+                      length: 3
+                      datetime: 2021-06-08
+                      details: "Berliner Platz Gießen"
+                      time: 21:30 | 9:30pm
+                      type: screening
+        - title: 10th june
+          partial: tab-sections
+          data:
+            sections:
+              - partial: text-plain
+                headline: "educational"
+                data:
+                  text: "The Educational offers lectures and discussions that bring together media theorists and creators. What is new in the world of Digital Series? Which new ideas and formats are being developed? What is the status, and where are we going? Digital series will be analyzed through a film and media analytical perspective. In addition to analyzing the current situation of web series and discussing series from this year‘s selection, a look back will be taken. Web series that deal with history and the history of web series are central to the debate this year. Scholars and creators will discuss the possibilities and limits of historically based series. However, the historicity of the format itself will also be considered.<br/><br/>Hotel & Restaurant heyligenstaedt"
+              - partial: program
+                smallmargin: true
+                data:
+                  items:
+                    - title: Festival Pass Pick Up
+                      type: entry
+                      length: 2
+                      time: 9:30 | 9:30am
                     - title: Opening Educational
                       length: 2
+                      time: 10:00 | 10:00am
                       type: introduction
-                      datetime: 2021-06-04
-                      time: 11:00 | 11:00am CEST
+                      details: "Anja Henningsmeyer, Managing Director of Hessen Film and Media Academy (hFMA), Isabella Pianto, Educational Managerin, and Csongor Dobrotka, die Seriale Festival Director, will open this year’s Educational."
                       speaker:
                         - name: Anja Henningsmeyer
-                      hosts:
-                        - name: Isabella Sophie Pianto
-                      details: "Anja Henningsmeyer, CEO of Hessen Film and Media Academy (hFMA), and Isabella Sophie Pianto, Educational coordinator, will open this year’s Educational."
-                    - title: Sound Design
-                      type: panel discussion
-                      length: 3
-                      datetime: 2021-06-04
-                      time: 11:30 | 11.30am CEST
-                      moderator:
-                        - name: Daniel Jobst
-                          link: daniel-jobst
-                      panelists:
-                        - name: Andreas Lucas
-                          link: andreas-lucas
-                        - name: Stephan Böhl
-                          link: stephan-boehl
-                      details: "Talking about the importance of sound design, George Lucas once said - \"Sound is half the picture.\" We will talk about the relevance and the importance, and creative possibilities of sound design and music. We will discuss whether and why sound design is still neglected in many productions and why this should definitely not happen."
-                    - title: And now for something completely different...
-                      length: 3
-                      type: panel discussion
-                      datetime: 2021-06-04
-                      time: 12:30 | 12.30am CEST
-                      moderator:
-                        - name: Anja Horstmann
-                          link: anja-horstmann
-                      panelists:
-                        - name: Prof. Dr. Malte Hagener
-                          link: malte-hagener
-                        - name: Chiara Bressa
-                          link: chiara-bressa
+                        - name: Csongor Dobrotka
+                        - name: Isabello Pianto
+                    - title: Web series – A quick look at the state of the format
+                      length: 2
+                      time: 10:15 | 10:15am
+                      type: keynote
+                      details: "Joël Bassaget is taking a look at web series production around the World. What is the posi- tion of the format on the global content market and what are its future perspectives?"
+                      speaker:
                         - name: Joël Bassaget
                           link: joel-bassaget
-                      details: Media historians and authors take a closer look at web series with historical themes in this roundtable discussion. In which way is history presented? Does the medium influence the representation? How much history fits into a short-form digital series?
-                    - title: Break
-                      length: 2
-                      type: break
-                      datetime: 2021-06-04
-                      time: 13:30 | 1.30pm CEST
-                    - title: UN3 Story Development
-                      type: workshop
-                      length: 2
-                      datetime: 2021-06-04
-                      time: 14:30 | 2.30pm CEST
-                      details: In this workshop, Laura Seijo and Roçio Carbajo from UN3, Argentina, will explain the origins of their collective and how they produce their series - with special emphasis on story development. 
-                      speaker:
-                        - name: Laura Seijo | Argentina
-                          link: laura-seijo
-                        - name: Rocío Carbajo | Argentina
-                          link: rocio-carbajo
-                    - title: Creator's Panel
-                      time: 15:00 | 3pm CEST
-                      type: panel discussion
+                    - title: "Ich bin Sophie Scholl – Finding balance between fact and fiction, education and entertainment"
+                      type: Panel Discussion
                       length: 3
-                      datetime: 2021-06-04
+                      time: 11:00 | 11:00am
+                      details: "This panel aims to discuss the chances and limits of historically based series. It takes a closer look at the Instagram Series “Ich bin Sophie Scholl” @ichbinsophiescholl and focuses on ques- tions about the limits of fictionalizing historic events for entertainment value. Are new media formats adding to fading the borders between fact and fiction and what consequences does this have for our understanding of history?"
                       moderator:
-                        - name: Isabella Sophie Pianto
-                      panelists: 
-                        - name: Kathrin Frech (GinGin~PomPom~PomPommes)
-                          link: kathrin-frech
-                        - name: Anna Maria Pahlke (GinGin~PomPom~PomPommes)
-                          link: anna-maria-pahlke
-                        - name: Wouter Wirth (Miliz!)
-                          link: wouter-wirth
-                        - name: Andrey Fenochka (Here I come)
-                          link: andrey-fenochka
-                        - name: Liza Simbirskaya (Here I come)
-                          link: liza-simbirskaya
-                        - name: Alexandre Paes Leme (Fake Live)
-                          link: alexandre-paes-leme
-                        - name: Joachim Jung (The Man for your Sins)
-                          link: joachim-jung
-                        - name: Patrick Bilodeau (Claire and the elderly)
-                          link: patrick-bilodeau
-                        - name: Daniela Zentner (2 Minutes)
-                          link: daniela-zentner
-                        - name: Beate Maschke-Spittler (2 Minutes)
-                          link: beate-maschke-spittler
-                        - name: Meike Götz (2 Minutes)
-                          link: meike-goetz
-                        - name: Heidi Lynch (Avocado Toast the series)
-                          link: heidi-lynch
-                        - name: Malena Filmus (Tony)
-                          link: malena-filmus
-                        - name: Vlady Oszkiel (For Peanuts/Für Umme)
-                          link: vlady-oszkiel
-                        
-                      details: "Meet the creative minds behind the series of this year’s selection - This panel unites creators from around the world and asks them questions about their series, creative ambitions and film production."
-                    - title: "Festival Directors from around the World"
-                      type: panel discussion
-                      length: 3
-                      datetime: 2021-06-04
-                      time: 16:00 | 4pm CEST
-                      details: "In this panel we welcome festival directors from our partner festivals from all around the world. How has the web series landscape developed and changed in the different countries over the past year? How is the industry doing and which opportunities and challenges will the future bring?"
-                      moderator:
-                        - name: Csongor Dobrotka
+                        - name: Isabella Pianto
                       panelists:
-                        - name: Luis Felipe Alvarado (Lima Web Fes)
-                          link: luis-felipe-alvarado
-                        - name: Keith Barclay (NZ Web Fest)
-                          link: keith-barcklay
-                        - name: Ajay Kishore (Stareable)
-                          link: ajay-kishore
-                        - name: Janet De Nardis (Digital Media Fest)
-                          link: janet-de-nardis
-                        - name: Bryan Thompson (Miami Web Fest)
-                          link: bryan-thompson
-                        - name: Michele Pinto (Apulia Web Fest)
-                          link: michele-pinto
-                        - name: Neem Basha (NJ Web Fest)
-                        - name: Leandro Silva | Rio de Janeiro, Brazil
-                          link: leandro-silva
-                        
-                    - title: Producing during Pandemic
-                      time: 17:00 | 5pm CEST
-                      type: panel discussion
+                        - name: Anja Horstmann
+                          link: anja-horstmann
+                        - name: Prof. Dr. Malte Hagener
+                        - name: Charlotte Jahnz
+                        - name: Susanne Bauer
+                        - name: Holle Barbara Zoz
+                    - title: Break
                       length: 3
-                      datetime: 2021-06-04
+                      type: break
+                      datetime: 2021-06-10
+                      time: 12:15 | 12:15pm
+                    - title: "User generated series and the history of the internet: web series in the field of tension between imitation, innovation and reflection of digital media cultures."
+                      type: Keynote Video Lecture
+                      length: 3
+                      time: 12:30 | 12:30pm
+                      details: "This video essay tells the – still young but already testifying to numerous media upheavals – story of the form “web series”. The focus here is on the complex relationship with privat- ized digital platform structures. How web series have responded to specific social media, their aesthetics, and narrative devices? How did they imitate, reflect, and critique them? What can we learn from web series about the structures, form of communication and constructions of reality of those platforms in which they were/are embedded?"
+                      speaker:
+                        - name: Martha-Lotta Körber
+                    - title: Break
+                      length: 3
+                      type: break
+                      datetime: 2021-06-10
+                      time: 13:00 | 1:00pm
+                    - title: "A small history of web series – A digital format in constant process"
+                      type: Panel Discussion
+                      length: 3
+                      time: 14:00 | 2pm
+                      details: "Following Martha-Lotta Körbers video lecture, the history of web series is explored and discussed. Where are the roots of web series and what has contributed to their success? In what direction is the format developing at the moment and where is the journey going?"
                       moderator:
-                        - name: Oliver Mend
-                          link: oliver-mend
-                      panelists: 
-                        - name: Martijn Winkler (Heat)
-                          link: martijn-winkler
-                        - name: Gastón Armagno (Backstage)
-                          link: gaston-armagno
-                      details: "This panel will take a closer look at the difficulties of series production during the ongoing pandemic. We bring series creators together, who produced during the past year, and will ask them about their personal experiences."               
-
-        - title: 5th june
-          partial: tab-sections
-          data:
-            sections:
+                        - name: Isabella Pianto
+                      panelists:
+                        - name: Joël Bassaget
+                          link: joel-bassaget
+                        - name: Rose of Dolls
+                          link: rose-of-dolls
+                        - name: Young Man Kang
+                          link: young-man-kang
+                    - title: "Creators Panel I"
+                      type: talk
+                      length: 3
+                      time: 15:00 | 3pm
+                      details: "Together with series creators from our this year’s selection we would like to talk about the creative process of their work. Where do they get their inspiration and what challenges do the creators face from the basic idea to the realization of their work?"
+                      moderator:
+                        - name: "Can Taş"
+                      guests:
+                        - name: Marco Eisenbarth
+                          link: marco-eisenbarth
+                        - name: Laura Köhler
+                        - name: Maximilian Allgeier
+                        - name: Jonathan Steinhardt
+                    - title: "Creators Panel II"
+                      type: talk
+                      length: 3
+                      time: 15:30 | 3:30pm
+                      details: "Together with series creators from our this year’s selection we would like to talk about the creative process of their work. Where do they get their inspiration and what challenges do the creators face from the basic idea to the realization of their work?"
+                      moderator:
+                        - name: "Can Taş"
+                      guests:
+                        - name: Eva Maria Sommersberg
+                        - name: Alina Rank
+                        - name: Till Schadeck
+                        - name: Gabriela Corés
+                        - name: Andrea Meneses
+                    - title: "Basic Lighting Workshop"
+                      type: workshop
+                      length: 3
+                      time: 11:00 | 11am
+                      details: "A lighting workshop for training our eyes. It addresses not exclusively, but foremost low budget filmmakers. Concepts of aesthetic portrait lighting, available light and light treatment will be presented in practical experiments."
+                      speaker:
+                        - name: Joachim Jung
+                          link: joachim-jung
               - partial: text-plain
-                headline: "seriale pro: digital live conference"
-                data:
-                  text: 'Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities "Digital Live Conference", the "Pitch Contest", "Networking" and the "DIMA Digital Market". DIMA is a cooperation with "Bilbao Seriesland" & "Minnesota WebFest". This all is streamed through our website, YouTube and Facebook. Seriale Pro is supported by the "Hessian Ministry of Economics, Energy, Transport and Housing" and the "Economic Development Giessen"'
+                headline: Kinocenter Gießen
               - partial: program
                 smallmargin: true
                 data:
                   items:
-                    - title: Opening
-                      type: introduction
+                    - title: Screening Block 3
+                      details: "Opening & Festival World Premiere BASTARD2. BAD COMPANY Screening"
                       length: 2
-                      time: 10:00 | 10.00am CEST
+                      datetime: 2022-06-10
+                      time: 17:30 | 5:30pm
+                    - title: Screening Block 4
+                      length: 2
+                      datetime: 2022-06-10
+                      time: 19:45 | 7:45pm
+                    - title: Screening Block 5
+                      length: 2
+                      datetime: 2022-06-10
+                      time: 21:30 | 9:30pm
+              - partial: text-plain
+                headline: Networking Night
+                data:
+                  text: "LIEBLINGSMENSCH, Katharinengasse 12, 35390 Gießen"
+              - partial: program
+                smallmargin: true
+                data:
+                  items:
+                    - title: Networking Night
+                      details: "Coffee - gin - good stuff"
+                      length: 2
+                      datetime: 2022-06-10
+                      time: 23:00 | 11pm
+        - title: 11th june
+          partial: tab-sections
+          data:
+            sections:
+              - partial: text-plain
+                headline: "seriale pro: day 1"
+                data:
+                  text: "Seriale Pro offers a comprehensive business platform for the digital series industry, including the industry-related events, DIMA - Digital Market, Networking and the Pitch Contest. Seriale Pro is a large-scale conference and networking event that takes place for the sixth time as part of Seriale. DIMA Giessen took place for the first time three years ago as the first German physical market to focus on short-format digital series. DIMA - Digital Market Giessen is a Seriale collaboration with Bilbao Seriesland, Spain, and Minnesota Web Fest, United States and the only market worldwide with a focus on Digital Series. The DIMA online platform is available throughout the year for series creators to present their projects to the industry. DIMA will be held during Seriale Pro. The Pitch Contest will present 24 brand new concepts for Digital Series to the industry.  <br/> <br/> Seriale Pro is sponsored by the Hessian Ministry of Economics, Energy, Transport and Housing and by the Economic Development Giessen.<br/><br/>Townhall Giessen - Berliner Platz 1, 35390 Giessen"
+              - partial: program
+                smallmargin: true
+                data:
+                  items:
+                    - title: Welcome to Seriale Pro
+                      time: 10:00 | 10.00am
+                      length: 2
                       details: Introduction of the program and all guests of the day.
                       hosts:
                         - name: Kaira Masuhr
                         - name: Anne Failing
-                    - title: "Digital Series in Australia"
-                      type: Panel Discussion
-                      length: 3
-                      time: 10:30 – 11:00 | 10.30am – 11am CEST
-                      details:
-                      moderator:
-                        - name: Gisella Waetzoldt-Hildebrandt
-                      panelists:
-                        - name: Steinar Ellingsen | Melbourne, Australia
-                          link: steinar-ellingsen
-                        - name: Maria Albiñana | Valencia, Spain
-                          link: maria-albinana
-                        - name: Luke Eve | Sydney, Australia
-                          link: luke-eve
-                    - title: "Digital Series: Web Drama in South Korea"
-                      type: Panel Discussion
-                      length: 3
-                      time: 11:00 – 12:00 | 11am – 12pm CEST
-                      details:
-                      moderator:
-                        - name: Gisella Waetzoldt-Hildebrandt
-                      panelists:
-                        - name: Young Man Kang | Seoul, South Korea
+                    - title: Web Drama in South Korea
+                      type: Business Talk
+                      length: 2
+                      time: 10:30 | 10:30am
+                      speaker:
+                        - name: Young Man Kang
                           link: young-man-kang
-                        - name: Jihye Michelle Kim | South Korea
-                          link: kim-jihye-michelle
-                        - name: Kay Heeyoung Kim | South Korea
-                          link: kay-heeyoung-kim
-                      details: "Participants will talk about the web drama in South Korea, their latest projects, branded series as well as the distribution and co-production opportunities."
-                    - title: Networking 1
-                      length: 3
-                      type: Online Networking 
-                      datetime: 2021-06-05
-                      time: 12:00 - 13:00 | 12pm - 1pm CEST
-                      details: '<a class="button" href="https://wonder.me/r?id=1f5f1797-7b87-4361-9e35-ecd389b4ff62" target="_blank">Join wonder room</a>'
+                      details: "South Korean web dramas have attracted great international attention in recent years, especially outside their home country, and are becoming increasingly successful and popular. Young Man Kang from Seoul will introduce the success concepts behind the most popular web dramas, as well as talk about co-production opportunities and the distribution of web series in South Korea and Asia. He is a film producer, director of the Seoul Webfest and the LA Webfest and with his company YMK Productions he focuses on branded series. He also represents the VOD platform KTH (Korea Telecom Hitel) at Seriale, who is specifically looking for web series."
+                    - title: Web Series Market in South America
+                      type: Business Talk
+                      length: 2
+                      time: 11:00 | 11am
+                      speaker:
+                        - name: Gastón Haag
+                        - name: Sergio Sosa
+                          link: sergio-sosa
+                      details: "Sergio Sosa and Gastón Haag will talk about the South American web series market and give an exclusive insight into the functioning mechanisms of this market, which is very lively, successful and diverse. It will become clear that the market operates to very different mechanisms in different countries. Distribution opportunities and co-production possibilities will be highlighted. Sergio Sosa will also present the VOD platform FLIXXO."
+                    - title: Market Opportunities for Web Series in the United States & North America
+                      type: Business Talk
+                      length: 2
+                      time: 11:30 | 11:30am
+                      speaker:
+                        - name: George Reese
+                          link: goerge-reese
+                      details: "George Reese will talk about the distribution of web series in the US and North America in general and will also explain the market opportunities first hand. He is a film producer, co-founder and Vice President of the VOD platform Seeka TV in the US/North America, the largest platform specifically for web series in the US. He is also a producer at Sparq TV Production (the production behind Seeka TV)."
                     - title: Break
                       length: 3
                       type: break
-                      datetime: 2021-06-05
-                      time: 13:00 - 13:30 | 1.30pm - 2pm CEST
-                    - title: Interviews with Creators from the Official Selection
-                      length: 3
-                      type: Interviews
-                      datetime: 2021-06-05
-                      time: 13:30 - 14:00 | 1.30pm - 2pm CEST
-                      moderator:
-                        - name: Kaira Masuhr
-                        - name: Anne Failing
-                      panelists:
-                        - name: Anna-Marlene Wirtz
-                          link: anna-marlene-wirtz
-                        - name: Elena Halangk
-                          link: elena-halangk
-                        - name: Marco Eisenbarth
-                          link: marco-eisenbarth
-                      details: Interview with the Creators and the Cinematographer of Emmy & Christin
+                      datetime: 2021-06-10
+                      time: 12:00 | 12pm
                     - title: "Hessian Digital Series: Production & Distribution"
-                      type: Panel Discussion
-                      datetime: 2021-06-05
                       length: 3
-                      time: 14:00 – 15:00 | 2pm – 3pm CEST
-                      details: "This panel of experts gives an exclusive insight into the mechanisms of the web series market in Hesse, Germany.  Hessian web series creators talk about their productions and experiences."
+                      type: panel discussion
+                      datetime: 2021-06-10
+                      time: 13:00 | 1pm
+                      details: "This panel of experts gives the Hessian film and media industry an exclusive insight into the domestic mechanisms of the web series market. Topics such as nationwide and international co-production, funding and distribution opportunities will be discussed. The participants of the discussion are all representatives of the Hessian creative industry and film funding. Together they will give an exclusive insight and report from different perspectives about their productions, experiences and market opportunities."
                       moderator:
-                        - name: Dascha Solovieva
-                      panelists:
-                        - name: Mariana Schneider
-                          link: mariana-schneider
-                        - name: Guido Hettinger
-                          link: guido-hettinger
-                        - name: Anna-Marlene Wirtz
-                          link: anna-marlene-wirtz
-                        - name: Elena Halangk
-                          link: elena-halangk
-                        - name: Marco Eisenbarth
-                          link: marco-eisenbarth
+                        - name: Celina Schmidt
+                      guests:
+                        - name: Christian Stadach
+                          link: christian-stadach
                         - name: Jörg Buschka
                           link: joerg-buschka
-                        - name: Sebastian Simon
-                          link: sebastian-simon
-                    - title: "Film Location Hessen"
+                        - name: Marc Boutter
+                          link: marc-boutter
+                        - name: Marco Eisenbarth
+                          link: marco-eisenbarth
+                        - name: Mariana Schneider
+                          link: mariana-schneider
+                        - name: Moritz Becherer
+                          link: moritz-becherer
+                        - name: Noah Kofort
+                        - name: Thomas Schneider-Trumpp
+                          link: thomas-schneider-trumpp
+                    - title: "Web Series Market in Germany"
                       length: 3
-                      type: presentation
-                      time: 15:00 – 16.00 | 3pm – 4pm CEST
-                      speaker:
-                        - name: Merle Rueffer | Germany
-                          link: merle-rueffer
-                        - name: Patrick Schaaf | Germany
-                          link: patrick-schaaf
-                      Guests:
-                        - name: PixelPec | Offenbach
-                        - name: Tag & Nacht Media | Darmstadt
-                        - name: Roter Panda Film | Frankfurt
-                        - name: 4ReelDocs | Darmstadt
-                      details: "Merle Rueffer of Film Comission Hessen together with Patrick Schaaf of HessenFilm and Media, the film fund of the state of Hesse, are presenting the variety of film locations in Hesse. They will provide you with ideas and inspiration where to shoot your next series. They will introduce 4 companies from Hesse and talk about best possible locations for different genres."
-                    - title: Pitch Contest | Block 1
-                      length: 4
-                      type: pitching | Industry exclusive or with invitation
-                      time: 16:00 – 17:00 | 4pm – 5pm CEST
+                      type: panel discussion
+                      datetime: 2021-06-10
+                      time: 14:00 | 2pm
+                      details: "Experienced producers, distributors, platform owners and license traders from Germany talk about the web series market. They present their companies and their fields of work and give practical advice on how series should be produced in order to participate successfully in the German market."
                       moderator:
-                        - name: Thomas Veyrier
-                          link: thomas-veyrier
-                      details: 24 international creators, get the chance to present their series project in a 3 minute long pitch video. During a digital live stream, a selected jury consisting of industry experts will give online live feedback and determine the best pitch. In each pitch block 6 fresh and brand new series projects will be presented to the industry.
-                    - title: Pitch Contest | Block 2
-                      length: 4
-                      type: pitching | Industry exclusive or with invitation
-                      time: 17:00 – 18:00 | 5pm – 6pm CEST
-                      moderator:
-                        - name: Thomas Veyrier
-                          link: thomas-veyrier
-                      details: In each pitch block 6 fresh and brand new series projects will be presented to the industry.
-                    - title: Pitch Contest | Block 3
-                      length: 4
-                      type: pitching | Industry exclusive or with invitation
-                      time: 18:00 – 19:00 | 6pm – 7pm CEST
-                      moderator:
-                        - name: Caris Vujcec
-                          link: caris-vujcec
-                      details: In each pitch block 6 fresh and brand new series projects will be presented to the industry.
-                    - title: Pitch Contest | Block 4
-                      length: 4
-                      type: pitching | Industry exclusive or with invitation
-                      time: 19:00 – 20:00 | 7pm – 8pm CEST
-                      moderator:
-                        - name: John Tague
-                      details: In each pitch block 6 fresh and brand new series projects will be presented to the industry.
-                    - title: Networking 2
+                        - name: Gisella Waetzoldt-Hildebrandt
+                      guests:
+                        - name: Jonathan Steinhardt
+                        - name: Julia Weber
+                        - name: Maximilian Allgeier
+                        - name: Melvina Kotios
+                        - name: Mia Rogelsek
+                    - title: Break
                       length: 3
-                      type: Online Networking 
-                      datetime: 2021-06-05
-                      time: 20:00 - 22:00 | 8pm - 10pm CEST
-                      details: '<a class="button" href="https://wonder.me/r?id=1f5f1797-7b87-4361-9e35-ecd389b4ff62" target="_blank">Join wonder room</a>'
-
-        - title: 6th june
+                      type: break
+                      datetime: 2021-06-10
+                      time: 15:00 | 3pm
+                    - title: "Pitch Contest"
+                      length: 3
+                      datetime: 2021-06-10
+                      time: 16:00 | 4pm
+                      details: "24 pre-selected finalists will get three minutes to pitch their series concept to an international Jury of experts."
+                      jury:
+                        - name: George Reese
+                          link: george-reese
+                        - name: Julia Weber
+                        - name: Melvina Kotios
+                        - name: Mia Rogelsek
+                        - name: Mariana Schneider
+                        - name: Frank Böhm
+                        - name: Sergio Sosa
+                    - title: "Pitch Block 1"
+                      type: pitch contest
+                      length: 3
+                      datetime: 2021-06-10
+                      time: 16:00 | 4pm
+                    - title: "Pitch Block 2"
+                      type: pitch contest
+                      length: 3
+                      datetime: 2021-06-10
+                      time: 17:00 | 5pm
+                    - title: "Pitch Block 3"
+                      type: pitch contest
+                      length: 3
+                      datetime: 2021-06-10
+                      time: 18:00 | 6pm
+                    - title: "Pitch Block 4"
+                      type: pitch contest
+                      length: 3
+                      datetime: 2021-06-10
+                      time: 19:00 | 7pm
+                    - title: "Get Together"
+                      type: networking
+                      length: 3
+                      datetime: 2021-06-10
+                      time: 20:00 | 8pm
+              - partial: text-plain
+                headline: Kinocenter Gießen
+              - partial: program
+                smallmargin: true
+                data:
+                  items:
+                    - title: Screening Block 6
+                      length: 2
+                      datetime: 2022-06-10
+                      time: 17:30 | 5:30pm
+                    - title: Screening Block 7
+                      length: 2
+                      datetime: 2022-06-10
+                      time: 19:00 | 7pm
+                    - title: Screening Block 8
+                      length: 2
+                      datetime: 2022-06-10
+                      time: 21:00 | 9pm
+              - partial: text-plain
+                headline: Club Night
+                data:
+                  text: "Dach Café Gießen, Ludwigsplatz 11, 35390 Gießen"
+              - partial: program
+                smallmargin: true
+                data:
+                  items:
+                    - title: Club Night
+                      length: 2
+                      datetime: 2022-06-10
+                      time: 22:30 | 10:30pm
+        - title: 12th june
           partial: tab-sections
           data:
             sections:
               - partial: text-plain
-                headline: "seriale pro: digital live conference"
+                headline: "seriale pro: day 2"
+                data:
+                  text: "Seriale Pro offers a comprehensive business platform for the digital series industry, including the industry-related events, DIMA - Digital Market, Networking and the Pitch Contest. Seriale Pro is a large-scale conference and networking event that takes place for the sixth time as part of Seriale. DIMA Giessen took place for the first time three years ago as the first German physical market to focus on short-format digital series. DIMA - Digital Market Giessen is a Seriale collaboration with Bilbao Seriesland, Spain, and Minnesota Web Fest, United States and the only market worldwide with a focus on Digital Series. The DIMA online platform is available throughout the year for series creators to present their projects to the industry. DIMA will be held during Seriale Pro. The Pitch Contest will present 24 brand new concepts for Digital Series to the industry.  <br/> <br/> Seriale Pro is sponsored by the Hessian Ministry of Economics, Energy, Transport and Housing and by the Economic Development Giessen.<br/><br/>Townhall Giessen - Berliner Platz 1, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
                   items:
-
-                    - title: Introduction of the program and all guests of the day.
-                      time: 10:30 | 10.30am CEST
+                    - title: Welcome to Seriale Pro day 2
+                      time: 10:00 | 10.00am
                       length: 2
+                      details: Introduction of the program and all guests of the day.
                       hosts:
-                        - name: Kaira Masuhr
-                        - name: Anne Failing
-                    - title: Focus Canada - Canadian Opportunities for Digital Series
-                      type: presentation
-                      length: 3
-                      time: 11:00 – 11:30 | 11am – 11.30am CEST
+                        - name: Celina Schmitt
+                        - name: Alexandra Manlik
+                    - title: DIMA Business Round Table
+                      type: Business Talk
+                      length: 2
+                      time: 10:15 | 10:15am
                       speaker:
-                        - name: Suzette Laqua | Vancouver, Canada
-                          link: suzette-laqua
-                      details: "Suzette Laqua will talk about the market, business, funding & distribution possibilities, platforms and the opportunities for creators."
-                    - title: Interviews with Creators from the Official Selection
-                      length: 3
-                      type: Interviews
-                      datetime: 2021-06-06
-                      time: 11:30 - 12:00 | 11.30am - 12pm CEST
+                        - name: Csongor Dobrotka
+                        - name: Rose of Dolls
+                          link: rose-of-dolls
+                        - name: Oliver Mend
+                          link: oliver-mend
+                        - name: George Reese
+                          link: george-reese
+                      details: "International digital series market: Current developments and co-production"
+                    - title: DIMA Business Meetings
+                      type: one on one
+                      length: 2
+                      time: 11:30 | 11:30am
+                      details: "Bookable One-On-One Meetings where platforms, distributors, representatives of TV stations and media libraries can network with authors, producers and the creative industry."
+                    - title: "A look inside “Arthur”"
+                      type: talk
+                      length: 2
                       moderator:
-                        - name: Kaira Masuhr
-                        - name: Anne Failing
-                      panelists:
-                        - name: Daniela Zentner (2 Minutes)
-                          link: daniela-zentner
-                        - name: Dennis Albrecht (Inventarium)
-                          link: dennis-albrecht
-                    - title: Digital Series in Europe - Market & Co-Production
-                      time: 12:00 – 13:00 | 12pm – 13pm CEST
-                      length: 3
-                      type: Presentation
+                        - name: Can Taş
+                      time: 12:00 | 12am
+                      details: "„Arthur“ was the most awarded web series in the world in 2016. This year, the long-awaited second season will be presented at Seriale. In a conversation with Ettore Nicoletti, who plays the title character, we take a look behind the special storytelling of the series, as well as inside the main character Arthur."
+                    - title: "The adventure “Per Aspera”"
+                      type: talk
+                      length: 2
                       moderator:
-                        - name: Chiara Bressa
-                          link: chiara-bressa
-                      panelists:
+                        - name: Isabella Pianto
+                      guests:
+                        - name: Andrea Traina
+                      time: 12:30 | 12:30am
+                      details: "The series „Per Aspera“ is an epic web series about origin, change and identity and both on screen and behind the scenes a great adventure and mystery. In conversation with Andrea Traina, the director of the series, we explore how from an educational project and cinema initiative in schools, a quality series was born."
+                    - title: Break
+                      length: 3
+                      type: break
+                      datetime: 2021-06-10
+                      time: 13:30 | 1:30pm
+                    - title: Branded Series
+                      type: Business Talk
+                      length: 2
+                      time: 14:30 | 2:30pm
+                      speaker:
                         - name: Riccardo Cannella
                           link: riccardo-cannella
-                        - name: Frédéric Deleersnyder
-                          link: frederic-deleersnyder
-                        - name: Oliver Mend | Bilbao, Basque Country
-                          link: oliver-mend
-                        - name: Axel Ricke
-                          link: axel-ricke
-                      details: "Experienced producers and festival directors from Europe talk about the European digital series market."
-                    - title: Break
-                      length: 3
-                      type: break
-                      datetime: 2021-06-06
-                      time: 13:00 - 13:30 | 1pm - 1.30pm CEST
-                    - title: Flixxo
-                      time: 13:30 – 14:00 | 1.30pm – 2pm CEST
-                      type: Presentation
-                      length: 3
-                      speaker:
-                        - name: Adrian Garelik | Argentina
-                          link: adrian-garelik
-                      details: "Flixxo is a state-of-the-art platform for short form series, built on top of cryptocurrencies and gamification schemes - think Candy Crush meets Netflix. Learn how to start monetizing your series right now, while keeping control over your work!"
-                    - title: Digital Series in South America
-                      type: Panel Discussion 
-                      time: 14:00 – 15:00 | 2pm – 3pm CEST
-                      length: 3
-                      moderator:
-                        - name: Gisela Benenzon | Argentina
-                        - name: Gisella Waetzold-Hildebrandt | Germany
-                      panelists:
-                        - name: Leandro Silva | Rio de Janeiro, Brazil
-                          link: leandro-silva
-                        - name: Luis Felipe Alvarado | Lima, Peru
-                          link: luis-felipe-alvarado
-                        - name: Laura Seijo | Buenos Aires, Argentina
-                          link: laura-seijo
-                        - name: Gastón Armagno | Montevideo, Uruguay
-                          link: gaston-armagno
-                        - name: Sergio Sosa | Buenos Aires, Argentina
-                          link: sergio-sosa
-                        - name: Santiago Gomez | Bogota, Columbia
-                          link: santiago-gomez
-                      details: "The South American web series market is very active and successful. This panel of experts from different countries in South America will provide the film and media industry with an exclusive insight into the functioning of the South American web series market."
-                    - title: DIMA Digital Market
-                      time: 15:00 – 15:30 | 3pm – 3.30pm CEST
-                      length: 3
-                      type: Presentation
-                      speaker:
-                        - name: Rose of Dolls | Bilbao, Spain
-                          link: rose-of-dolls 
-                        - name: George Reese | Minneapolis, United States
-                          link: george-reese
-                        - name: Csongor Dobrotka | Giessen, Germany
-                      details:
-                    - title: International Distribution
-                      time: 15:30 – 16:30 | 3.30pm – 4.30pm CEST
-                      length: 4
-                      type: Panel Discussion 
-                      moderator:
-                        - name: Rose of Dolls | Spain
-                          link: rose-of-dolls
-                      panelists:
-                        - name: Antoine Disle | Tam Tam stories | France
-                          link: antoine-disle
-                        - name: Saskia Baaij-Verhoeven | VIACOM CBS | Netherlands
-                          link: saskia-baaij-verhoeven
-                        - name: Young Man Kang | YMK Films | South Korea
+                        - name: Young Man Kang
                           link: young-man-kang
-                        - name: George Reese | Seeka TV | United States
+                      details: "Young Man Kang from Seoul and Riccardo Cannella from Italy talk about the possibilities and market opportunities of Branded Series."
+                    - title: Distribution International
+                      type: Panel Discussion
+                      length: 2
+                      time: 15:00 | 3pm
+                      moderator:
+                        - name: Gisealla Waetzoldt-Hildebrandt
+
+                      guests:
+                        - name: Mia Rogelsek
+                        - name: Antoine Disle
+                          link: antoine-disle
+                        - name: Goerge Reese
                           link: george-reese
-                        - name: Adrian Garelik | Flixxo | Argentina
-                          link: adrian-garelik
-                        - name: Rocío Carbajo | UN3 | Argentina
-                          link: rocio-carbajo
-                        - name: Kristian Costa-Zahn | Banijay | Germany
-                          link: kristian-costa-zahn
-                      details: "Experts from all over the world talk about the international web series market. They present their companies and fields of work and give practical advice to participate in the international market."
-                    - title: Break
-                      length: 3
-                      type: break
-                      datetime: 2021-06-06
-                      time: 16:30 - 17:30 | 4.30pm - 5.30pm CEST
+                        - name: Sergio Sosa
+                          link: sergio-sosa
+                        - name: Julia Weber
+                          link: julia-weber
+                      details: "Experienced producers, distributors and platform owners, from all over the world, talk about  the international digital series market. They present their companies as well as their field of work and provide smart tips on how series should be produced in a way that they can participate in the international market."
               - partial: text-plain
-                headline: Award Ceremony
+                headline: Kinocenter Gießen
               - partial: program
                 smallmargin: true
                 data:
                   items:
-                    - title: Red Carpet | Jury Introduction
-                      length: 3
-                      hosts:
+                    - title: Screening Block 9
+                      length: 2
+                      datetime: 2022-06-10
+                      time: 17:00 | 5pm
+              - partial: text-plain
+                headline: "Hotel & Restauran heyligenstaedt"
+              - partial: program
+                smallmargin: true
+                data:
+                  items:
+                    - title: Red Carpet
+                      length: 2
+                      datetime: 2022-06-10
+                      time: 18:00 | 6pm
+                      host:
                         - name: Dascha Solovieva
-                      datetime: 2021-06-06
-                      time: 17:30 - 18:00 | 5.30pm - 6pm CEST
-                    - title: Red Carpet | Creator Interviews Part 1
-                      length: 3
-                      hosts:
-                        - name: Dascha Solovieva
-                      datetime: 2021-06-06
-                      time: 18:00 - 19:00 | 6pm - 7pm CEST
-                    - title: Red Carpet | Creator Interviews Part 2
-                      length: 3
-                      hosts:
-                        - name: Dascha Solovieva
-                      datetime: 2021-06-06
-                      time: 19:00 - 20:00 | 7pm - 8pm CEST
-                    - title: Award Ceremony
-                      length: 3
-                      hosts:
-                        - name: Magdalena Kaim
-                        - name: Axel Ricke
-                        - name: Henning Ricke
-                      datetime: 2021-06-06
-                      time: 20:00 - 21:30 | 8pm - 9:30pm CEST
-                    - title: Red Carpet | Award Winner Interviews
-                      length: 3
-                      hosts:
-                        - name: Dascha Solovieva
-                      datetime: 2021-06-06
-                      time: 21:30 - 22:00 | 9.30pm - 10pm CEST
+                      details: "The Red Carpet is the preparation for the 8th Seriale Award Ceremony. Besides champagne reception and photo sessions Dascha Solovieva welcomes the guests on the red carpet with nu- merous interviews."
+                    - title: 8th Award Ceremony of die Seriale
+                      length: 2
+                      datetime: 2022-06-10
+                      time: 20:00 | 8pm
+                      host:
+                        - name: Anne Failing
+                        - name: Kaira Masuhr
+                      details: "At the Award Ceremony 2022, directly after the Red Carpet, the most outstanding series will be honored with a total of 20 awards, selected by our international expert Jury. The event will be hosted by Anne Failing and Kaira Masuhr. This year’s Award Ceremony will be accentuated with music by the band “La Finesse“."
                     - title: After Show
-                      length: 3
-                      type: Online Networking 
-                      datetime: 2021-06-05
-                      time: 22:00 - 00:00 | 10pm - 12am CEST
-                      details: '<a class="button" href="https://wonder.me/r?id=cc48f8cc-9193-4d4b-8b8e-a6ab59a0e34a" target="_blank">Join wonder room</a>'
+                      length: 2
+                      datetime: 2022-06-10
+                      time: 20:00 | 8pm
+                      details: "Celebration & Networking"
   - partial: text-plain
     headline: connect with us
     data:
