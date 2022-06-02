@@ -260,7 +260,7 @@ sections:
                           link: goerge-reese
                       details: "George Reese will talk about the distribution of web series in the US and North America in general and will also explain the market opportunities first hand. He is a film producer, co-founder and Vice President of the VOD platform Seeka TV in the US/North America, the largest platform specifically for web series in the US. He is also a producer at Sparq TV Production (the production behind Seeka TV)."
                     - title: Break
-                      length: 3
+                      length: 2
                       type: break
                       datetime: 2021-06-10
                       time: 12:00 | 12pm
@@ -303,7 +303,7 @@ sections:
                         - name: Melvina Kotios
                         - name: Mia Rogelsek
                     - title: Break
-                      length: 3
+                      length: 2
                       type: break
                       datetime: 2021-06-10
                       time: 15:00 | 3pm
@@ -430,7 +430,7 @@ sections:
                       time: 12:30 | 12:30am
                       details: "The series „Per Aspera“ is an epic web series about origin, change and identity and both on screen and behind the scenes a great adventure and mystery. In conversation with Andrea Traina, the director of the series, we explore how from an educational project and cinema initiative in schools, a quality series was born."
                     - title: Break
-                      length: 3
+                      length: 2
                       type: break
                       datetime: 2021-06-10
                       time: 13:30 | 1:30pm
