@@ -108,7 +108,7 @@ sections:
                       time: 10:00 | 10:00am
                       type: opening
                       details: "Anja Henningsmeyer, Managing Director of Hessen Film and Media Academy (hFMA), Isabella Pianto, Educational Managerin, and Csongor Dobrotka, die Seriale Festival Director, will open this year’s Educational."
-                      speakers:
+                      speaker:
                         - name: Anja Henningsmeyer
                         - name: Csongor Dobrotka
                         - name: Isabello Pianto
@@ -262,7 +262,7 @@ sections:
                       type: Business Talk
                       length: 2
                       time: 11:00 | 11am
-                      speakers:
+                      speaker:
                         - name: Gastón Haag
                         - name: Sergio Sosa
                           link: sergio-sosa
@@ -415,7 +415,7 @@ sections:
                       type: dima
                       length: 2
                       time: 10:15 | 10:15am
-                      speakers:
+                      speaker:
                         - name: Csongor Dobrotka
                         - name: Rose of Dolls
                           link: rose-of-dolls
@@ -456,7 +456,7 @@ sections:
                       type: Business Talk
                       length: 2
                       time: 14:30 | 2:30pm
-                      speakers:
+                      speaker:
                         - name: Riccardo Cannella
                           link: riccardo-cannella
                         - name: Young Man Kang

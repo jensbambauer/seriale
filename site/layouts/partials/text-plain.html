@@ -1,5 +1,3 @@
 {{ with.data }}
-<div class="text">
-  {{ .text | safeHTML }}
-</div>
+<div class="text">{{ with.text }} {{ .text | safeHTML }} {{ end }}</div>
 {{ end }}
