@@ -520,8 +520,8 @@ sections:
           partial: tab-sections
           data:
             sections:
-              - partial: text-plain
-                headline: "workshop"
+              - partial: program
+                smallmargin: true
                 data:
                   items:
                     - title: "Basic Lighting Workshop"
