@@ -11,18 +11,18 @@ sections:
     data:
       headline: About
       paragraphs:
-        - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities “Digital Live Conference”, “DIMA Digital Market” and the “Pitch Contest”"
+        - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities, “DIMA Digital Market”, the “Pitch Contest” and two days of Conference Program."
 
-        - text: "The Digital Live Conference is a huge conference and networking event, it will be held for the 6th time as part of “die Seriale”."
+        - text: "The Seriale Pro is a huge conference and networking event, it will be held for the 6th time as part of “die Seriale”."
         - text: "For the 4th time “DIMA Digital Market” will be held - Germany’s very first physical market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland” and “Minnesota Web Fest."
         - text: "Finally more than 20 brand new concepts for digitals series will be presented to the industry during a pitch competition."
   - partial: text-and-image
     headline: DIGITAL SERIES PITCH CONTEST
     data:
-      # embed: '<iframe src="https://player.vimeo.com/video/556903080" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>'
-      image: /img/pitch-contest.jpg
+      embed: '<iframe src="https://player.vimeo.com/video/716729217" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>'
+      # image: /img/pitch-contest.jpg
       headline: "Pitch Your Project"
-      text: "More than 20 international creators, get the chance to present their series project in a 3 minute long pitch. Among them, some creators will pitch their project for the first time. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 12. The pitch contest takes place on Saturday, June 11, from of 4pm to 8pm at Giessen City Hall."
+      text: "More than 20 international creators, get the chance to present their series project in a 3 minute long pitch. Among them, some creators will pitch their project for the first time. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 12. The pitch contest takes place on Saturday, June 11, from of 4pm to 8pm at Giessen Town Hall."
   # - partial: teaser-grid
   #   headline: jury pitch contest
   #   data:
@@ -32,7 +32,7 @@ sections:
   #   data:
   #     list: pitch-contest-moderators
   - partial: text-and-image
-    headline: Digital Live Conference
+    headline: Conference Program
     data:
       reversed: true
       image: /img/business-days.jpg
