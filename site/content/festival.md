@@ -146,6 +146,7 @@ The twelve-day festival (six days in person & six days online) is dedicated to a
           link: "https://www.sparqfest.live/"
         - image: /img/partners/wktp.png
           link: "https://www.whokilledthepig.de/"
+        - image: /img/partners/mm-eventservice.jpg
         - image: /img/partners/kinocenter.png
         - image: /img/partners/dobago.png
           link: "http://www.dobago.de"
@@ -159,6 +160,7 @@ The twelve-day festival (six days in person & six days online) is dedicated to a
           link: "https://www.worldwidewebserie.com"
         - image: /img/partners/Unsere_Serien.svg
         - image: /img/partners/elefantenklo_magazin_logo.png
+        - image: /img/partners/wswc2022.jpg
   - partial: grid
     headline: our partner festivals
     data:

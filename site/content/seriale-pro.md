@@ -75,6 +75,7 @@ sections:
           link: "https://watch.seeka.tv"
         - image: /img/partners/Bilbao-Seriesland1.png
           link: "https://www.seriesland.eus"
+        - image: /img/partners/mm-eventservice.jpg
         - image: /img/partners/DIMA.png
           link: "http://dima-market.com"
         - image: /img/partners/sparq-logo@1x.png
