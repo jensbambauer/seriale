@@ -140,7 +140,7 @@ sections:
               title: CREATOR'S TALK
               location:
               size: 6
-            - title: "9:30pm - 11:30pm"
+            - time: "9:30pm - 11:30pm"
               length: 3
               title: "Open Air Screening, Berliner Platz, 35390 Giessen"
         - title: June 10th
