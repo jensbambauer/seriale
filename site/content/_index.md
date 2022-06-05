@@ -140,6 +140,9 @@ sections:
               title: CREATOR'S TALK
               location:
               size: 6
+            - title: "9:30pm - 11:30pm"
+              length: 3
+              title: "Open Air Screening, Berliner Platz, 35390 Giessen"
         - title: June 10th
           blocks:
             - time: 9:30am - 4pm
@@ -150,12 +153,12 @@ sections:
               title: OPENING CEREMONY & PREMIERE
               location: Kinocenter Gießen
               size: 3
-            - time: 7:30pm - 9:30pm
+            - time: 7:45pm - 9:30pm
               title: SCREENINGS with Q&A
               location: "Kinocenter Gießen | buy tickets on site & online"
               size: 3
             - time: 9.30pm - 11:00pm
-              title: SCREENINGS with Q&A
+              title: SCREENING
               location: "Kinocenter Gießen | buy tickets on site & online"
               size: 3
             - time: 11pm - open end
