@@ -1,7 +1,7 @@
 ---
 title: George Reese
 image: /img/speaker/george-reese.jpg
-shortdescription: Executive, VP of Programming | Seeka TV | Director of Minnesota WebFest | United States
+shortdescription: Seeka TV | Minnesota WebFest | United States
 ---
 <img src="/img/speaker/george-reese.jpg">
 ## George Reese

@@ -1,7 +1,7 @@
 ---
 title: Oliver Mend 
 image: /img/speaker/oliver-mend.jpg
-shortdescription: Head of Artistic Development at A FILM TO KILL FOR | Content Director at SERIESLAND | Spain 
+shortdescription: A FILM TO KILL FOR | SERIESLAND | Spain 
 ---
 <img src="/img/speaker/oliver-mend.jpg">
 ## Oliver Mend 

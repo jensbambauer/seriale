@@ -1,7 +1,7 @@
 ---
 title: Marco Eisenbarth
 image: /img/speaker/marco-eisenbarth.jpg
-shortdescription: Cinematographer, Director | 4ReelDocs | Germany
+shortdescription: Cinematographer, Director | Germany
 ---
 <img src="/img/speaker/marco-eisenbarth.jpg">
 ## Marco Eisenbarth

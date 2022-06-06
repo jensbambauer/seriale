@@ -1,7 +1,7 @@
 ---
 title: Sergio Sosa
 image: /img/speaker/sergio-sosa.jpg
-shortdescription: Producer, Distributor, VP of Content | Flixxo | Argentina
+shortdescription: Flixxo | Argentina
 ---
 <img src="/img/speaker/sergio-sosa.jpg">
 ## Sergio Sosa

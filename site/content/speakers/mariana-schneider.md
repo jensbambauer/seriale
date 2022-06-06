@@ -1,7 +1,7 @@
 ---
 title: Mariana Schneider 
 image: /img/speaker/mariana-schneider.jpg
-shortdescription: Funding Consultant | HessenFilm und Medien GmbH | Germany
+shortdescription: Funding Consultant | Germany
 ---
 <img src="/img/speaker/mariana-schneider.jpg">
 ## Mariana Schneider

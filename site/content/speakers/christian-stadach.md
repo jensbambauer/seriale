@@ -1,7 +1,7 @@
 ---
 title: Christian Stadach
 image: /img/speaker/christian-stadach.jpg
-shortdescription: Director | Tag & Nacht Media | Germany
+shortdescription: Director | Germany
 ---
 <img src="/img/speaker/christian-stadach.jpg">
 ## Christian Stadach

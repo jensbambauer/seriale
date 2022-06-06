@@ -1,7 +1,7 @@
 ---
 title: Marc Boutter
 image: /img/speaker/marc-boutter.jpg
-shortdescription: Producer, Actor | 4ReelDocs | Germany
+shortdescription: Producer, Actor | Germany
 ---
 <img src="/img/speaker/marc-boutter.jpg">
 ## Marc Boutter

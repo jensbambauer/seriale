@@ -1,7 +1,7 @@
 ---
 title: Mia Rogelsek
 image: /img/speaker/mia-rogelsek.jpg
-shortdescription: Content and Production Expert | Digital Content Production Lead | Germany
+shortdescription: Content and Production Expert | Germany
 ---
 <img src="/img/speaker/mia-rogelsek.jpg">
 ## Mia Rogelsek
