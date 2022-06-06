@@ -44,14 +44,22 @@ sections:
                       panelists:
                         - name: Jörg Buschka
                           link: joerg-buschka
-                        - name: Josua Krug
+                        - name: Josia Krug
+                          link: josia-krug
                         - name: Joschua Keßler
+                          link: joschua-kessler
                         - name: Sven Unland
+                          link: sven-unland
                         - name: Linda Gasser
+                          link: linda-gasser
                         - name: Paul Becht
+                          link: paul-becht
                         - name: Kristin Rasch
+                          link: kristin-rasch
                         - name: Micky Jukovic
+                          link: micky-jukovic
                         - name: Till Schadeck
+                          link: till-georg-schadeck
                         - name: Dennis Albrecht
                           link: dennis-albrecht
                     - title: "Screening Block 1 (Open Air)"
@@ -107,6 +115,7 @@ sections:
                       details: "Anja Henningsmeyer, Managing Director of Hessen Film and Media Academy (hFMA), Isabella Pianto, Educational Managerin, and Csongor Dobrotka, die Seriale Festival Director, will open this year’s Educational."
                       speaker:
                         - name: Anja Henningsmeyer
+                          link: anja-henningsmeyer
                         - name: Csongor Dobrotka
                         - name: Isabello Pianto
                     - title: Web series – A quick look at the state of the format
@@ -128,9 +137,13 @@ sections:
                         - name: Anja Horstmann
                           link: anja-horstmann
                         - name: Prof. Dr. Malte Hagener
+                          link: malte-hagener
                         - name: Charlotte Jahnz
+                          link: charlotte-jahnz
                         - name: Susanne Bauer
+                          link: susanne-bauer
                         - name: Holle Barbara Zoz
+                          link: holle-barbara-zoz
                     - title: Break
                       length: 2
                       type: break
@@ -143,6 +156,7 @@ sections:
                       details: "This video essay tells the – still young but already testifying to numerous media upheavals – story of the form “web series”. The focus here is on the complex relationship with privatized digital platform structures. How web series have responded to specific social media, their aesthetics, and narrative devices? How did they imitate, reflect, and critique them? What can we learn from web series about the structures, form of communication and constructions of reality of those platforms in which they were/are embedded?"
                       speaker:
                         - name: Martha-Lotta Körber
+                          link: martha-lotta-koerber
                     - title: Break
                       length: 2
                       type: break
@@ -173,8 +187,11 @@ sections:
                         - name: Marco Eisenbarth
                           link: marco-eisenbarth
                         - name: Laura Köhler
+                          link: laura-koehler
                         - name: Maximilian Allgeier
+                          link: maximilian-allgeier
                         - name: Jonathan Steinhardt
+                          link: jonathan-steinhardt
                     - title: "Creators Panel II"
                       type: talk
                       length: 3
@@ -184,10 +201,15 @@ sections:
                         - name: "Can Taş"
                       panelists:
                         - name: Eva Maria Sommersberg
+                          link: eva-maria-sommersberg
                         - name: Alina Rank
+                          link: alina-rank
                         - name: Till Schadeck
+                          link: till-georg-schadeck
                         - name: Gabriela Corés
+                          link: gabriela-cortes
                         - name: Andrea Meneses
+                          link: andrea-meneses
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
@@ -260,6 +282,7 @@ sections:
                       time: 11:00 | 11am
                       speaker:
                         - name: Gastón Haag
+                          link: gaston-haag
                         - name: Sergio Sosa
                           link: sergio-sosa
                       details: "Sergio Sosa and Gastón Haag will talk about the South American web series market and give an exclusive insight into the functioning mechanisms of this market, which is very lively, successful and diverse. It will become clear that the market operates to very different mechanisms in different countries. Distribution opportunities and co-production possibilities will be highlighted. Sergio Sosa will also present the VOD platform FLIXXO."
@@ -298,6 +321,7 @@ sections:
                         - name: Moritz Becherer
                           link: moritz-becherer
                         - name: Noah Kofort
+                          link: noah-kofort
                         - name: Thomas Schneider-Trumpp
                           link: thomas-schneider-trumpp
                     - title: "Web Series Market in Germany"
@@ -310,10 +334,15 @@ sections:
                         - name: Gisella Waetzoldt-Hildebrandt
                       panelists:
                         - name: Jonathan Steinhardt
+                          link: jonathan-steinhardt
                         - name: Julia Weber
+                          link: julia-weber
                         - name: Maximilian Allgeier
+                          link: maximilian-allgeier
                         - name: Melvina Kotios
+                          link: melvina-kotios
                         - name: Mia Rogelsek
+                          link: mia-rogelsek
                     - title: Break
                       length: 2
                       type: break
@@ -431,6 +460,7 @@ sections:
                         - name: Can Taş
                       guest:
                         - name: Ettore Nicoletti
+                          link: ettore-nicoletti
                       time: 11:30 | 11:30am
                       details: "“Arthur“ was the most awarded web series in the world in 2016. This year, the long-awaited second season will be presented at Seriale. In a conversation with Ettore Nicoletti, who plays the title character, we take a look behind the special storytelling of the series, as well as inside the main character Arthur."
                     - title: "The adventure “Per Aspera“"
@@ -440,6 +470,7 @@ sections:
                         - name: Isabella Pianto
                       guest:
                         - name: Andrea Traina
+                          link: andrea-traina
                       time: 12:30 | 12:30am
                       details: "The series “Per Aspera“ is an epic web series about origin, change and identity and both on screen and behind the scenes a great adventure and mystery. In conversation with Andrea Traina, the director of the series, we explore how from an educational project and cinema initiative in schools, a quality series was born."
                     - title: Break
@@ -465,6 +496,7 @@ sections:
                         - name: Gisella Waetzoldt-Hildebrandt
                       panelists:
                         - name: Mia Rogelsek
+                          link: mia-rogelsek
                         - name: Antoine Disle
                           link: antoine-disle
                         - name: Goerge Reese

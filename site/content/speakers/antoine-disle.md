@@ -1,11 +1,11 @@
 ---
 title: Antoine Disle
 image: /img/speaker/antoine-disle.jpg
-shortdescription: Producer, Distributor | Tam Tam stories | France
+shortdescription: Producer, Distributor | France 
 ---
 <img src="/img/speaker/antoine-disle.jpg">
 ## Antoine Disle
 
-Producer, Distributor | Tam Tam stories | France
+Producer, Distributor | Founder of Tamtam Stories | France
 
-Antoine is a producer and distributor specialists in new media. Antoine helped to develop the digital series landscape, accompanying Canal +, France Télévisions and Blackpills in setting up their digital series platforms. He is continually looking at opening up new worlds, new markets, pushing this new creative paradigm and ensuring Antoine remains a digital trailblazer. With his partners Jean-Michel Albert and Alexandre Cornu they have just created the brand new production and distribution structure Tam Tam stories to explore further the production and constitute an independent short form distribution offer.
+Antoine has had a long career in business launches whose common point has always been the dissemination of culture. For nearly 30 years, he fostered artistic creation both in Europe and in the United States, where he still has offices today. Passionate about prospective studies and breakthrough technologies, he founded pioneering companies in their field and sometimes ahead of time. Édifice, launched in 1985, helped television stations and offered consultancy services to the SFP.

@@ -1,11 +1,11 @@
 ---
 title: Dennis Albrecht
 image: /img/speaker/dennis-albrecht.jpg
-shortdescription: Creator, Producer | Unsere Serien
+shortdescription: Director, Producer, Media Educator | Germany
 ---
 <img src="/img/speaker/dennis-albrecht.jpg">
 ## Dennis Albrecht
 
-Creator, Producer | Unsere Serien | Germany
+Director, Producer, Media Educator | Germany
 
-Founder of “Unsere Serien“. Director and producer of the web series “Filmcity“ and “We all Love Football“ and co-founder of “die Seriale“.
+Director, producer and web series creator since 2008 (Filmstadt, We All Love Football). Co-Founder of “die Seriale”. Curation for Snowdance Independent Filmfest, SerienCamp, Filmfest Hamburg, Wendie Webfest Hamburg and guest lecturer at Filmschule Berlin-Hamburg, FH Kiel, HFF München.

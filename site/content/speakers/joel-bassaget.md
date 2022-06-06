@@ -1,11 +1,11 @@
 ---
 title: Joël Bassaget
 image: /img/speaker/joel-bassaget.jpg
-shortdescription:  Writer | Web Series World Cup | Germany
+shortdescription: Screenwriter, Consultant | Germany
 ---
 <img src="/img/speaker/joel-bassaget.jpg">
 ## Joël Bassaget
 
-Writer | Founder of Web Series World Cup | Germany
+Screenwriter, Associate Researcher, Consultant | Founder & Director of Web Series World Cup | Germany
 
-Joël Bassaget lives in Berlin and has been a television writer since 1990. In 2014 he created the blog "Web Séries Mag" for the online edition of the French newspaper "Liberation", on which he discussed web series from all over the world. He is also the founder of the "Web Series World Cup", a freelance consultant for producers and networks of digital content, and wrote two books about web series: "Le guide des webséries: La Nouvelle Vague" and "Short, Narrative & Serialized: A complete guide to the web series phenomenon", the last one together with Meredith Burkholder.
+Joël Bassaget writes scripts for TV since 1989 and is a bigtime shortform aficionado. Launched in 2001 the first European portal for Flash animated indie cartoons. In 2014, he founded the blog "Web Series Mag" for the online version of French newspaper Liberation. The next year, he founded the Web Series World Cup. He is the author of “Le guide des Webséries – la nouvelle vague” and co-author with Meredith Burkholder of “Short Narrative & Serialized“. He is now Partner researcher at University of Wollongong.

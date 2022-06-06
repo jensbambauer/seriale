@@ -1,11 +1,11 @@
 ---
 title: Riccardo Cannella
-image: /img/speaker/riccardo-cannella.jpg 
-shortdescription: Cinnamon Digital Cinema Production | Sicily Web Fest | Italy
+image: /img/speaker/riccardo-cannella.jpg
+shortdescription: Producer, Director, Screenwriter | President of Cinnamon Digital Cinema Production |Founder & Artistic Director at Sicily Web Fest | Italy
 ---
 <img src="/img/speaker/riccardo-cannella.jpg">
 ## Riccardo Cannella
 
-Producer, Director, Screenwriter | President of Cinnamon Digital Cinema Production | Founder of Sicily Web Fest | Italy
+Producer, Director, Screenwriter | President of Cinnamon Digital Cinema Production |Founder & Artistic Director at Sicily Web Fest | Italy
 
-Director, producer and screenwriter, winner of 8 international awards for best director, from Los Angeles to Bilbao. Digital serial expert for cinema and web. Founder of the Sicily Web Fest, a festival that brings numerous professionals from all over the world to Sicily and founder of Cinnamon Digital Cinema Production, which has obtained over 40 awards worldwide. Awarded by the mayor of Palermo, Leoluca Orlando, with the "Prestigiosa Tessera del Mosaico" as excellence for the city of Palermo.
+Riccardo Cannella is an award-winning director, producer and screenwriter. He has worked for several companies designing content for communication in the audiovisual field and his series are distributed in several international markets, including Russian, Chinese, Korean, French, German and South American markets. He is the Founder and Artistic Director of Sicily Web Fest, a festival for digital series, and now with his production company Cinnamon, he is making his first film "U Scrusciu du Mari".

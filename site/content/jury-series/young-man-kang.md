@@ -1,12 +1,11 @@
 ---
 title: Young Man Kang
-image: /img/jury/young-man-kang.jpg
-shortdescription: Director | YMK Films | Seoul Webfest | South Korea
+image: /img/speaker/young-man-kang.jpg
+shortdescription: Director | YMK Films | Founder & Festival Director of Seoul Webfest & Asia Web Awards | Festival Director of LAWEBFEST | South Korea
 ---
-<img src="/img/jury/young-man-kang.jpg">
+<img src="/img/speaker/young-man-kang.jpg">
 ## Young Man Kang
 
-Director | YMK Films | Founder & Festival Director of Seoul Webfest & Asia Web Awards | South Korea
+Director | YMK Films | Founder & Festival Director of Seoul Webfest & Asia Web Awards | Festival Director of LAWEBFEST | South Korea
 
-Young Man Kang directed several feature films and over 10 web series. All feature films have been released on VOD in Netflix and Amazon in the US and have sold in 15 countries. He has a total of 18 awards from a number of film festivals and web fests. Young Man Kang collaborated with fellow film "Avatar" alumni, Just Cause 3D, on his "4D Experience" Project. His latest series, "Lotte Haus", won 8 awards and selected over 30 film festivals. He is a founder and executive director of the Seoul Webfest & Asia Web Awards. He has been a jury member at several web fests such as Die Seriale, Digital Media Webfest, etc.
-
+Young Man Kang directed several feature films and over 10 web series. All feature films have been released on VOD in Netflix and Amazon in the US, and have sold in 15 countries. He has a total of 18 awards from a number of film festivals and webfests. Young Man Kang collaborated with fellow film "Avatar" alumni, Just Cause 3D, on his "4D Experience" Project. His latest series "Lotte Haus" won 8 awards and got selected by over 30 film festivals. He is Founder and Executive Director of Seoul Webfest & Asia Web Awards. He has been a Jury Member at several web fests such as Die Seriale, Digital Media Webfest and more. Also he became Festival Director of LAWEBFEST 2022.
