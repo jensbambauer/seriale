@@ -1,9 +1,10 @@
 ---
 title: Stefan Vogt
-image: /img/speaker/stefan-vogt.jpeg
+image: /img/speaker/stefan-vogt.jpg
 shortdescription: Director | Germany
 ---
-<img src="/img/speaker/stefan-vogt.jpeg">
+
+<img src="/img/speaker/stefan-vogt.jpg">
 ## Stefan Vogt
 
 Director | Germany

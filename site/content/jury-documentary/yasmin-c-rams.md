@@ -1,9 +1,10 @@
 ---
 title: Yasmin C. Rams
-image: /img/speaker/yasmin-c-rams.jpeg
+image: /img/speaker/yasmin-c-rams.jpg
 shortdescription: Producer, Director | Germany
 ---
-<img src="/img/speaker/yasmin-c-rams.jpeg">
+
+<img src="/img/speaker/yasmin-c-rams.jpg">
 ## Yasmin C. Rams
 
 Producer, Director | Germany
