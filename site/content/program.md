@@ -292,7 +292,7 @@ sections:
                       time: 11:30 | 11:30am
                       speaker:
                         - name: George Reese
-                          link: goerge-reese
+                          link: george-reese
                       details: "George Reese will talk about the distribution of web series in the US and North America in general and will also explain the market opportunities first hand. He is a film producer, co-founder and Vice President of the VOD platform Seeka TV in the US/North America, the largest platform specifically for web series in the US. He is also a producer at Sparq TV Production (the production behind Seeka TV)."
                     - title: Break
                       length: 2
