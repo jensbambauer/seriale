@@ -2,7 +2,7 @@
 title: "creators interviews / Emmy & christin, Germany"
 date: 2022-06-05T12:53:43.045Z
 vimeo: "717145134"
-image: /img/titelbildblogemmychristin.jpg
+thumbnail: /img/titelbildblogemmychristin.jpg
 description: >-
   Interview with Elena Halangk, Anna Marlene Wirtz, the writers, producers and
   main actors of Emmy & Christin and Marco Eisenbarth, DOP of Emmy & Christin

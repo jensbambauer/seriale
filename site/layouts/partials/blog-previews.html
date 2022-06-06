@@ -1,20 +1,27 @@
 {{ range first 1 (where $.Page.Pages "Type" "post") }}
-    <h2>latest articles</h2>
+<h2>latest articles</h2>
 {{ end }}
 <div class="teaser-grid teaser-grid--blog">
-    <ul class="teaser-grid__list">
-        {{ range first 3 (where $.Page.Pages "Type" "post") }}
-            <li class="teaser-grid__list__item">
-                <a href="{{ .Permalink }}">
-                    <picture>
-                        <source srcset="{{ .Params.Image }}"/>
-                        <img src="{{ .Params.Image }}" alt="{{.Title}}"/>
-                    </picture>
-
-                    <p>{{ .Params.Title }}</p>
-                    <span class="button button--small">Read more</span>
-                </a>
-            </li>
+  <ul class="teaser-grid__list">
+    {{ range first 3 (where $.Page.Pages "Type" "post") }}
+    <li class="teaser-grid__list__item">
+      <a href="{{ .Permalink }}">
+        {{ if .Params.Image}}
+        <picture>
+          <source srcset="{{ .Params.Image }}" />
+          <img src="{{ .Params.Image }}" alt="{{.Title}}" />
+        </picture>
+        {{ end }} {{ if .Params.Thumbnail}}
+        <picture>
+          <source srcset="{{ .Params.Thumbnail }}" />
+          <img src="{{ .Params.Thumbnail }}" alt="{{.Title}}" />
+        </picture>
         {{ end }}
-    </ul>
+
+        <p>{{ .Params.Title }}</p>
+        <span class="button button--small">Read more</span>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
 </div>

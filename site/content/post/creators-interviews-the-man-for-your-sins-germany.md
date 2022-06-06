@@ -2,7 +2,7 @@
 title: "creators interviews / The Man for your Sins, Germany"
 date: 2022-06-06T12:28:11.431Z
 vimeo: "717238739"
-image: /img/titelbildblogmanforyoursins.jpg
+thumbnail: /img/titelbildblogmanforyoursins.jpg
 description: "Interview with Joachim Jung, creator of The Man for your Sins "
 ---
 
