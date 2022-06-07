@@ -12,7 +12,7 @@ It is the story of a longing for genuine understanding and encounter. As a Hessi
 
 As a qualified designer, Buschka owns storyboards, as an author he writes concepts for documentaries and advertising formats and makes films for television. He has been in front of the camera himself since 2006. In 2019 he received the Seriale critics' prize as Best German Series for _Buschka discovers Germany_. It was also nominated for the Golden Prometheus in 2008 as Online Journalist of the Year.
 
-**Text:**Lisa Heimbach\
+**Text:** Lisa Heimbach\
 **Interview:** Lisa Heimbach, Chris Tom Mathews, Celina Schmitt\
 **Camera:** Chris Tom Mathews\
 **Sound:** Lisa Heimbach \
