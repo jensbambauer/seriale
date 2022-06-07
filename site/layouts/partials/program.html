@@ -51,11 +51,17 @@
       {{ end }} {{ if .jury }}
       <div class="program__speaker">
         <h4>Jury</h4>
-        {{ range.hosts }} {{ if .link }}
+        {{ range.jury }} {{ if .link }}
         <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
         {{ else }}
         <span class="speaker-no-link">{{.name}}</span>
         {{ end }} {{ end }}
+      </div>
+      {{ end }} {{ if .external }}
+      <div class="program__speaker">
+        {{ range.external }}
+        <a class="button" href="{{.link}}" target="_blank" data-barba-prevent>{{.name}}</a>
+        {{ end }}
       </div>
       {{ end }}
     </div>

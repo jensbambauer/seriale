@@ -224,16 +224,25 @@ sections:
                       datetime: 2022-06-10
                       time: 17:30 | 5:30pm
                       type: screening
+                      external:
+                        - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2022/3713
+                          name: get tickets
                     - title: Screening Block 4
                       length: 2
                       datetime: 2022-06-10
                       time: 19:45 | 7:45pm
                       type: screening
+                      external:
+                        - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2022/3713
+                          name: get tickets
                     - title: Screening Block 5
                       length: 2
                       datetime: 2022-06-10
                       time: 21:30 | 9:30pm
                       type: screening
+                      external:
+                        - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2022/3713
+                          name: get tickets
               - partial: text-plain
                 headline: Networking Night
                 data:
@@ -392,16 +401,25 @@ sections:
                       datetime: 2022-06-10
                       time: 17:30 | 5:30pm
                       type: screening
+                      external:
+                        - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2022/3713
+                          name: get tickets
                     - title: Screening Block 7
                       length: 2
                       datetime: 2022-06-10
                       time: 19:00 | 7pm
                       type: screening
+                      external:
+                        - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2022/3713
+                          name: get tickets
                     - title: Screening Block 8
                       length: 2
                       datetime: 2022-06-10
                       time: 21:00 | 9pm
                       type: screening
+                      external:
+                        - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2022/3713
+                          name: get tickets
               - partial: text-plain
                 headline: Club Night
                 data:
@@ -519,6 +537,9 @@ sections:
                       datetime: 2022-06-10
                       time: 17:00 | 5pm
                       type: screening
+                      external:
+                        - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2022/3713
+                          name: get tickets
               - partial: text-plain
                 headline: "Red Carpet & Award Ceremony"
               - partial: program
