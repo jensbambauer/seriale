@@ -90,7 +90,7 @@ sections:
             - title: Arthur (Season 2)
               origin: Ettore Nicoletti
             - title: Cafe Midnight (Season 3)
-              origin: Do Young Kim
+              origin: Do young
             - title: CROSS
               origin: Marcelo Subiotto
             - title: Per Aspera
@@ -110,7 +110,7 @@ sections:
             - title: "Complete Time Travel Guide"
               origin:
             - title: Detention Adventure<br>(Season 3)
-              origin: Sebastian Harder
+              origin:
             - title: "HEROES - Limited Edition"
               origin:
             - title: "No, you’re stupid! (Season 2)"
@@ -122,7 +122,7 @@ sections:
         - headline: best supporting actress
           list:
             - title: Cafe Midnight (Season 3)
-              origin: Do Young
+              origin: In I Kim
             - title: "Hogtown"
               origin: Sandra Dorélas
             - title: The Red Thread
@@ -166,7 +166,7 @@ sections:
             - title: Abracadavers (Season 2)
               origin: Morgan Ermter
             - title: Detention Adventure<br>(Season 3)
-              origin: Brock Jolliffe
+              origin: Sebastian Harder
             - title: "HEROES - Limited Edition"
               origin: <b>Adi Kvetner,</b><b> Nadav Rotem</b>
             - title: Inimigo Oculto
