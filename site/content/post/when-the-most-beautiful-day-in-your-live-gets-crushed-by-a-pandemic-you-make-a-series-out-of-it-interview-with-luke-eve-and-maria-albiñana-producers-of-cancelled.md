@@ -12,7 +12,7 @@ description: >-
   lockdown in Spain. 
 image: /img/cancelledstill3.jpg
 ---
-A very personal story that somehow touches us all, gets told touching and with a lot of humor.  The webseries also convinces  with its acting performance and cast ensemble. _Cancelled _therefore got nominated at die Seriale for Best Screenplay and Best ensemble Cast. Maria Albiñana, who is a spanish actress, writer and producer was awarded for the best actor in 2020 and the series for the best script 2020 at the British Web Awards. She has an MA degree in Acting and gained a lot of experience, working over 11 years for TV-shows, movies, and theatre. Maria is a director and co-founder of the webseries section at the Cinema Jove Film festival in Valencia.
+A very personal story that somehow touches us all, gets told touching and with a lot of humor.  The webseries also convinces  with its acting performance and cast ensemble. _Cancelled_ therefore got nominated at die Seriale for Best Screenplay and Best ensemble Cast. Maria Albiñana, who is a spanish actress, writer and producer was awarded for the best actor in 2020 and the series for the best script 2020 at the British Web Awards. She has an MA degree in Acting and gained a lot of experience, working over 11 years for TV-shows, movies, and theatre. Maria is a director and co-founder of the webseries section at the Cinema Jove Film festival in Valencia.
 
 Her partner Luke Eve is an Australian screen director and producer, who started as a photographer. His series High Life has won over 30 major awards. For _Cancelled_ he won the award for the best director 2020 at the nzWebfest. Both were willing to give us an interview about _Cancelled_.
 
