@@ -14,7 +14,7 @@ sections:
         - headline: best series
           list:
             - origin:
-            title: "No, you're stupid! (Season 2)"	
+              title: "No, you're stupid! (Season 2)"	
   - partial: list-columns
     smallmargin: true
     data:
