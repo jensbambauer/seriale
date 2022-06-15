@@ -14,7 +14,8 @@ sections:
         - headline: best series
           list:
             - origin:
-              title: "No, you're stupid! (Season 2)"	
+              title: "No, you're stupid! (Season 2)"
+              highlight: true
   - partial: list-columns
     smallmargin: true
     data:
@@ -346,7 +347,7 @@ sections:
     data:
       headline: Series Jury | Statement for Best Directing
       paragraphs:
-        - text: "Fast pace, with a lot of surprises. Not only has the series great and bold directing, it also has an important political message. We admire, that he puts his voice out there with such a great series. We felt his hope for changes in the future."		
+        - text: "Fast pace, with a lot of surprises. Not only has the series great and bold directing, it also has an important political message. We admire, that he puts his voice out there with such a great series. We felt his hope for changes in the future."
   - partial: text
     data:
       headline: Series Jury | Statement for Best Original Score
@@ -376,5 +377,5 @@ sections:
     data:
       headline: Pitch Contest Jury | Honorable Mention
       paragraphs:
-        - text: "For “How Grinchi and Mrs. Claus bloodied Christmas“ by Gabriela Cortés & Andrea Meneses: These women show us that we do not need superpowers to be powerful. We appreciated to be able to understand that through female solidarity we can “SAVE the world“".				  
+        - text: "For “How Grinchi and Mrs. Claus bloodied Christmas“ by Gabriela Cortés & Andrea Meneses: These women show us that we do not need superpowers to be powerful. We appreciated to be able to understand that through female solidarity we can “SAVE the world“."
 ---
