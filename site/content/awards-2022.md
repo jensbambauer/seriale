@@ -365,7 +365,7 @@ sections:
     data:
       headline: Series Jury | Honorable Mention
       paragraphs:
-        - text: "For "This is not a Hotel": This series holds up a mirror to all of us. Let’s rethink the attitude to our next of kin. Especially the complex relationship to our mother always leaves room for improvement. The story touches our heart right in the centre."
+        - text: 'For "This is not a Hotel": This series holds up a mirror to all of us. Let’s rethink the attitude to our next of kin. Especially the complex relationship to our mother always leaves room for improvement. The story touches our heart right in the centre.'
   - partial: text
     headline:
     data:
