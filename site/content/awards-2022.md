@@ -14,7 +14,7 @@ sections:
         - headline: best series
           list:
             - origin:
-              title: "No, you're stupid! (Season 2)"
+              title: "No, you're stupid! (Season 2)"	
   - partial: list-columns
     smallmargin: true
     data:
@@ -343,39 +343,38 @@ sections:
               origin: Bronze
               highlight: true
   - partial: text
-    headline:
     data:
       headline: Series Jury | Statement for Best Directing
       paragraphs:
-        - text: "Fast pace, with a lot of surprises. Not only has the series great and bold directing, it also has an important political message. We admire, that he puts his voice out there with such a great series. We felt his hope for changes in the future."
+        - text: "Fast pace, with a lot of surprises. Not only has the series great and bold directing, it also has an important political message. We admire, that he puts his voice out there with such a great series. We felt his hope for changes in the future."		
   - partial: text
-    headline:
     data:
       headline: Series Jury | Statement for Best Original Score
       paragraphs:
         - text: "The music draws you into the magic of this wonderful story. The score manages to make us feel the emotional impact in a real connected way."
   - partial: text
-    headline:
     data:
       headline: Series Jury | Statement for Best Production Design
       paragraphs:
         - text: "Just beautiful historical richness, masterful color concept, the world was created with so much love to detail we were blown away."
   - partial: text
-    headline:
     data:
       headline: Series Jury | Honorable Mention
       paragraphs:
         - text: 'For "This is not a Hotel": This series holds up a mirror to all of us. Let’s rethink the attitude to our next of kin. Especially the complex relationship to our mother always leaves room for improvement. The story touches our heart right in the centre.'
   - partial: text
-    headline:
     data:
       headline: Pilots Jury | Honorable Mention
       paragraphs:
         - text: "For “Four Tracks“: The characters took us straight on the journey, and we were right in the center of the action. The main character was tangible, emphatic and lively: her life is about existence, conflicts, problems. We wanted to keep watching, it’s interesting to see how her life will turn out. A very successful pilot episode."
   - partial: text
-    headline:
     data:
       headline: Documentary Jury | Honorable Mention
       paragraphs:
         - text: "For “Ana Beirut“: For its ability to tell raw stories of brutal realities with the delicacy only poetry can have."
+  - partial: text
+    data:
+      headline: Pitch Contest Jury | Honorable Mention
+      paragraphs:
+        - text: "For “How Grinchi and Mrs. Claus bloodied Christmas“ by Gabriela Cortés & Andrea Meneses: These women show us that we do not need superpowers to be powerful. We appreciated to be able to understand that through female solidarity we can “SAVE the world“".				  
 ---
