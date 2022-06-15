@@ -37,7 +37,7 @@ sections:
               title: VODKA VARIATIONS
             - origin: Akaki Sakhelashvili
               title: YouTube Policeman
-			  highlight: true
+              highlight: true
         - headline: best screenplay
           list:
             - title: Arthur (Season 2)
