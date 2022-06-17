@@ -349,113 +349,132 @@ sections:
       paragraphs:
         - text:
   - partial: text
+    smallmargin: true
     data:
       headline: Series Jury | Honorable Mention for “UP UP“
       paragraphs:
         - text:
   - partial: text
+    smallmargin: true
     data:
       headline: Series Jury | Honorable Mention for “Casa de Ma“
       paragraphs:
         - text:
   - partial: text
+    smallmargin: true
     data:
       headline: Pilots Jury | Honorable Mention for “Four Tracks“
       paragraphs:
         - text:
   - partial: text
+    smallmargin: true
     data:
       headline: Documentary Jury | Honorable Mention for “Ana Beirut“
   - partial: text
+    smallmargin: true
     data:
       headline: Animation Jury | Honorable Mention for “The Little Broomstick Rider“
   - partial: text
+    smallmargin: true
     data:
       headline: Pitch Contest Jury | Honorable Mention for for “How Grinchi and Mrs. Claus bloodied Christmas“ by Gabriela Cortés, Andrea Meneses
   - partial: text
+    smallmargin: true
     headline: Partner Festival's Direct Selections
     data:
       headline: "Bilbao Seriesland (Spain): @IamSophieScholl (with flight and accommodation)"
   - partial: text
-    headline:
+    smallmargin: true
     data:
       headline: "Seoul Webfest (South Korea): BASTARDS2. BAD COMPANY, UP UP, VODKA VARIATIONS"
   - partial: text
-    headline:
+    smallmargin: true
     data:
       headline: "LAWEBFEST (United Stated): BASTARD2. BAD COMPANY"
   - partial: text
-    headline:
+    smallmargin: true
     data:
       headline: "Sicily Web Fest (Italy): BASTARD2. BAD COMPANY"
   - partial: text
-    headline:
+    smallmargin: true
     data:
       headline: "Rio Web Fest (Brazil): Word of Sox"
   - partial: text
-    headline:
+    smallmargin: true
     data:
       headline: "Minnesota Web Fest (United States): Wild Wild Talk"
   - partial: text
-    headline:
+    smallmargin: true
     data:
       headline: "Miami Web Fest (United States): Serkar"
   - partial: text
+    smallmargin: true
     data:
       headline: Documentary Jury | Statement for Best Documentary
       paragraphs:
         - text: "The docu-series stands out because of its complete and compelling storytelling. The characters are three-dimensional and entertaining, driving the audience into the wrestling world they are passionate about. Last but not least, the execution is stylistically very strong."
   - partial: text
+    smallmargin: true
     data:
       headline: Pilot Jury | Statement for Best Pilot
       paragraphs:
         - text: "It boldly convinces from the first moment with its poetic visual language, and is carried from then on by its convincing cast. The refreshingly new premise makes you want more!"
   - partial: text
+    smallmargin: true
     data:
       headline: Series Jury | Statement for Best Directing
       paragraphs:
         - text: "Fast pace, with a lot of surprises. Not only has the series great and bold directing, it also has an important political message. We admire, that he puts his voice out there with such a great series. We felt his hope for changes in the future."
   - partial: text
+    smallmargin: true
     data:
       headline: Series Jury | Statement for Best Editing
       paragraphs:
         - text: "They play in a skill full way with rhythm and speed. With help of their editing they make us travel in time through references to fantastic movies of the past."
   - partial: text
+    smallmargin: true
     data:
       headline: Series Jury | Statement for Best Ensemble Cast
       paragraphs:
         - text: "Tour de force of acting, combined with natural improvisation. An ensemble masterpiece."
   - partial: text
+    smallmargin: true
     data:
       headline: Series Jury | Statement for Best Original Score
       paragraphs:
         - text: "The music draws you into the magic of this wonderful story. The score manages to make us feel the emotional impact in a real connected way."
   - partial: text
+    smallmargin: true
     data:
       headline: Series Jury | Statement for Best Production Design
       paragraphs:
         - text: "Just beautiful historical richness, masterful color concept, the world was created with so much love to detail we were blown away."
   - partial: text
+    smallmargin: true
     data:
       headline: Series Jury | Statement for Best Visual Effects
       paragraphs:
         - text: "First we thought we were watching a Hollywood movie, then we realized it was a great web series with exceptional visual effects."
   - partial: text
+    smallmargin: true
     data:
       headline: Series Jury | Honorable Mention for “This is not a Hotel“
       paragraphs:
         - text: "This series holds up a mirror to all of us. Let’s rethink the attitude to our next of kin. Especially the complex relationship to our mother always leaves room for improvement. The story touches our heart right in the centre."
   - partial: text
+    smallmargin: true
     data:
       headline: Pilots Jury | Honorable Mention for “Four Tracks“
       paragraphs:
         - text: "The characters took us straight on the journey, and we were right in the center of the action. The main character was tangible, emphatic and lively: her life is about existence, conflicts, problems. We wanted to keep watching, it’s interesting to see how her life will turn out. A very successful pilot episode."
   - partial: text
+    smallmargin: true
     data:
       headline: Documentary Jury | Honorable Mention for “Ana Beirut“
       paragraphs:
         - text: "For its ability to tell raw stories of brutal realities with the delicacy only poetry can have."
   - partial: text
+    smallmargin: true
     data:
       headline: Pitch Contest Jury | Honorable Mention for “How Grinchi and Mrs. Claus bloodied Christmas“ by Gabriela Cortés, Andrea Meneses
       paragraphs:
