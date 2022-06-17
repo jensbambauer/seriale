@@ -357,7 +357,7 @@ sections:
     data:
       headline: Series Jury | Honorable Mention for “Casa de Ma“
       paragraphs:
-        - text:		
+        - text:
   - partial: text
     data:
       headline: Pilots Jury | Honorable Mention for “Four Tracks“
@@ -366,60 +366,40 @@ sections:
   - partial: text
     data:
       headline: Documentary Jury | Honorable Mention for “Ana Beirut“
-      paragraphs:
-	    - text:
   - partial: text
     data:
       headline: Animation Jury | Honorable Mention for “The Little Broomstick Rider“
-      paragraphs:
-	    - text:		
   - partial: text
     data:
       headline: Pitch Contest Jury | Honorable Mention for for “How Grinchi and Mrs. Claus bloodied Christmas“ by Gabriela Cortés, Andrea Meneses
-      paragraphs:
-        - text:
   - partial: text
     headline: Partner Festival's Direct Selections
     data:
       headline: "Bilbao Seriesland (Spain): @IamSophieScholl (with flight and accommodation)"
-      paragraphs:
-        - text:
   - partial: text
     headline:
     data:
       headline: "Seoul Webfest (South Korea): BASTARDS2. BAD COMPANY, UP UP, VODKA VARIATIONS"
-      paragraphs:
-        - text:
   - partial: text
     headline:
     data:
       headline: "LAWEBFEST (United Stated): BASTARD2. BAD COMPANY"
-      paragraphs:
-        - text:		
   - partial: text
     headline:
     data:
       headline: "Sicily Web Fest (Italy): BASTARD2. BAD COMPANY"
-      paragraphs:
-        - text:
   - partial: text
     headline:
     data:
       headline: "Rio Web Fest (Brazil): Word of Sox"
-      paragraphs:
-        - text:				
   - partial: text
     headline:
     data:
       headline: "Minnesota Web Fest (United States): Wild Wild Talk"
-      paragraphs:
-        - text:
   - partial: text
     headline:
     data:
       headline: "Miami Web Fest (United States): Serkar"
-      paragraphs:
-        - text:					
   - partial: text
     data:
       headline: Documentary Jury | Statement for Best Documentary
@@ -432,7 +412,7 @@ sections:
         - text: "It boldly convinces from the first moment with its poetic visual language, and is carried from then on by its convincing cast. The refreshingly new premise makes you want more!"
   - partial: text
     data:
-      headline: Series Jury | Statement for Best Directing 
+      headline: Series Jury | Statement for Best Directing
       paragraphs:
         - text: "Fast pace, with a lot of surprises. Not only has the series great and bold directing, it also has an important political message. We admire, that he puts his voice out there with such a great series. We felt his hope for changes in the future."
   - partial: text
@@ -442,7 +422,7 @@ sections:
         - text: "They play in a skill full way with rhythm and speed. With help of their editing they make us travel in time through references to fantastic movies of the past."
   - partial: text
     data:
-      headline: Series Jury | Statement for Best Ensemble Cast 
+      headline: Series Jury | Statement for Best Ensemble Cast
       paragraphs:
         - text: "Tour de force of acting, combined with natural improvisation. An ensemble masterpiece."
   - partial: text
@@ -479,5 +459,5 @@ sections:
     data:
       headline: Pitch Contest Jury | Honorable Mention for “How Grinchi and Mrs. Claus bloodied Christmas“ by Gabriela Cortés, Andrea Meneses
       paragraphs:
-        - text: "These woman show us that we do not need superpowers to be powerful. We appreciated to be able to understand that through female solidarity we can “SAVE the world“."		
+        - text: "These woman show us that we do not need superpowers to be powerful. We appreciated to be able to understand that through female solidarity we can “SAVE the world“."
 ---
