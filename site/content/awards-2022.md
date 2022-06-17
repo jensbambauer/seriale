@@ -345,9 +345,106 @@ sections:
               highlight: true
   - partial: text
     data:
-      headline: Series Jury | Statement for Best Directing
+      headline: Series Jury | Honorable Mention for “This is not a Hotel“
+      paragraphs:
+        - text:
+  - partial: text
+    data:
+      headline: Series Jury | Honorable Mention for “UP UP“
+      paragraphs:
+        - text:
+  - partial: text
+    data:
+      headline: Series Jury | Honorable Mention for “Casa de Ma“
+      paragraphs:
+        - text:		
+  - partial: text
+    data:
+      headline: Pilots Jury | Honorable Mention for “Four Tracks“
+      paragraphs:
+        - text:
+  - partial: text
+    data:
+      headline: Documentary Jury | Honorable Mention for “Ana Beirut“
+      paragraphs:
+	    - text:
+  - partial: text
+    data:
+      headline: Animation Jury | Honorable Mention for “The Little Broomstick Rider“
+      paragraphs:
+	    - text:		
+  - partial: text
+    data:
+      headline: Pitch Contest Jury | Honorable Mention for for “How Grinchi and Mrs. Claus bloodied Christmas“ by Gabriela Cortés, Andrea Meneses
+      paragraphs:
+        - text:
+  - partial: text
+    headline: Partner Festival's Direct Selections
+    data:
+      headline: "Bilbao Seriesland (Spain): @IamSophieScholl (with flight and accommodation)"
+      paragraphs:
+        - text:
+  - partial: text
+    headline:
+    data:
+      headline: "Seoul Webfest (South Korea): BASTARDS2. BAD COMPANY, UP UP, VODKA VARIATIONS"
+      paragraphs:
+        - text:
+  - partial: text
+    headline:
+    data:
+      headline: "LAWEBFEST (United Stated): BASTARD2. BAD COMPANY"
+      paragraphs:
+        - text:		
+  - partial: text
+    headline:
+    data:
+      headline: "Sicily Web Fest (Italy): BASTARD2. BAD COMPANY"
+      paragraphs:
+        - text:
+  - partial: text
+    headline:
+    data:
+      headline: "Rio Web Fest (Brazil): Word of Sox"
+      paragraphs:
+        - text:				
+  - partial: text
+    headline:
+    data:
+      headline: "Minnesota Web Fest (United States): Wild Wild Talk"
+      paragraphs:
+        - text:
+  - partial: text
+    headline:
+    data:
+      headline: "Miami Web Fest (United States): Serkar"
+      paragraphs:
+        - text:					
+  - partial: text
+    data:
+      headline: Documentary Jury | Statement for Best Documentary
+      paragraphs:
+        - text: "The docu-series stands out because of its complete and compelling storytelling. The characters are three-dimensional and entertaining, driving the audience into the wrestling world they are passionate about. Last but not least, the execution is stylistically very strong."
+  - partial: text
+    data:
+      headline: Pilot Jury | Statement for Best Pilot
+      paragraphs:
+        - text: "It boldly convinces from the first moment with its poetic visual language, and is carried from then on by its convincing cast. The refreshingly new premise makes you want more!"
+  - partial: text
+    data:
+      headline: Series Jury | Statement for Best Directing 
       paragraphs:
         - text: "Fast pace, with a lot of surprises. Not only has the series great and bold directing, it also has an important political message. We admire, that he puts his voice out there with such a great series. We felt his hope for changes in the future."
+  - partial: text
+    data:
+      headline: Series Jury | Statement for Best Editing
+      paragraphs:
+        - text: "They play in a skill full way with rhythm and speed. With help of their editing they make us travel in time through references to fantastic movies of the past."
+  - partial: text
+    data:
+      headline: Series Jury | Statement for Best Ensemble Cast 
+      paragraphs:
+        - text: "Tour de force of acting, combined with natural improvisation. An ensemble masterpiece."
   - partial: text
     data:
       headline: Series Jury | Statement for Best Original Score
@@ -360,22 +457,27 @@ sections:
         - text: "Just beautiful historical richness, masterful color concept, the world was created with so much love to detail we were blown away."
   - partial: text
     data:
-      headline: Series Jury | Honorable Mention
+      headline: Series Jury | Statement for Best Visual Effects
       paragraphs:
-        - text: 'For "This is not a Hotel": This series holds up a mirror to all of us. Let’s rethink the attitude to our next of kin. Especially the complex relationship to our mother always leaves room for improvement. The story touches our heart right in the centre.'
+        - text: "First we thought we were watching a Hollywood movie, then we realized it was a great web series with exceptional visual effects."
   - partial: text
     data:
-      headline: Pilots Jury | Honorable Mention
+      headline: Series Jury | Honorable Mention for “This is not a Hotel“
       paragraphs:
-        - text: "For “Four Tracks“: The characters took us straight on the journey, and we were right in the center of the action. The main character was tangible, emphatic and lively: her life is about existence, conflicts, problems. We wanted to keep watching, it’s interesting to see how her life will turn out. A very successful pilot episode."
+        - text: "This series holds up a mirror to all of us. Let’s rethink the attitude to our next of kin. Especially the complex relationship to our mother always leaves room for improvement. The story touches our heart right in the centre."
   - partial: text
     data:
-      headline: Documentary Jury | Honorable Mention
+      headline: Pilots Jury | Honorable Mention for “Four Tracks“
       paragraphs:
-        - text: "For “Ana Beirut“: For its ability to tell raw stories of brutal realities with the delicacy only poetry can have."
+        - text: "The characters took us straight on the journey, and we were right in the center of the action. The main character was tangible, emphatic and lively: her life is about existence, conflicts, problems. We wanted to keep watching, it’s interesting to see how her life will turn out. A very successful pilot episode."
   - partial: text
     data:
-      headline: Pitch Contest Jury | Honorable Mention
+      headline: Documentary Jury | Honorable Mention for “Ana Beirut“
       paragraphs:
-        - text: "For “How Grinchi and Mrs. Claus bloodied Christmas“ by Gabriela Cortés & Andrea Meneses: These women show us that we do not need superpowers to be powerful. We appreciated to be able to understand that through female solidarity we can “SAVE the world“."
+        - text: "For its ability to tell raw stories of brutal realities with the delicacy only poetry can have."
+  - partial: text
+    data:
+      headline: Pitch Contest Jury | Honorable Mention for “How Grinchi and Mrs. Claus bloodied Christmas“ by Gabriela Cortés, Andrea Meneses
+      paragraphs:
+        - text: "These woman show us that we do not need superpowers to be powerful. We appreciated to be able to understand that through female solidarity we can “SAVE the world“."		
 ---
