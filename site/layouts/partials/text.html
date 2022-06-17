@@ -4,7 +4,7 @@
   <h4>{{ . }}</h4>
   {{ end }} {{ with.paragraphs }}
   <div class="text__columns">
-    {{ range.paragraphs }}
+    {{ range . }}
     <p>{{ .text | safeHTML }}</p>
     {{ end }}
   </div>
