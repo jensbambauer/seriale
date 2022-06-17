@@ -2,11 +2,12 @@
 <div class="text {{ with.background }} text--background{{end}} {{ with.narrow }} text--narrow{{end}}">
   {{ with.headline }}
   <h4>{{ . }}</h4>
-  {{ end }}
+  {{ end }} {{ with.paragraphs }}
   <div class="text__columns">
-    {{ range.paragraphs }} {{ with.text }}
+    {{ range.paragraphs }}
     <p>{{ .text | safeHTML }}</p>
-    {{ end }} {{ end }}
+    {{ end }}
   </div>
+  {{ end }}
 </div>
 {{ end }}
