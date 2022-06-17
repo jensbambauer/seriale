@@ -15,19 +15,19 @@ sections:
         #     overlay: true
         #     text: watch
         #     href: /award-ceremony
-        - headline: The festival
-          button:
-            overlay: true
-            text: watch trailer
-            href: /festival-trailer
-        - headline: nominees 2022
-          button:
-            text: view now
-            href: /nominations-2022
-        - headline: official selection 2022
+        # - headline: The festival
+        #   button:
+        #     overlay: true
+        #     text: watch trailer
+        #     href: /festival-trailer
+        - headline: awards 2022
           button:
             text: view now
-            href: /official-selection-2022
+            href: /awards-2022
+        # - headline: official selection 2022
+        #   button:
+        #     text: view now
+        #     href: /official-selection-2022
         - headline: series/pilots trailers 2022
           button:
             text: watch now

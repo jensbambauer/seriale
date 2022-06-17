@@ -9,24 +9,29 @@ sections:
     headline: official selection pilots 2022
     data:
       list: pilots
-  # - partial: stage
-  #   widesection: true
-  #   data:
-  #     videosource: /videos/festival-loop.mp4
-  #     slides:
-  #       # - headline: The festival
-  #         # button:
-  #         #   overlay: true
-  #         #   text: watch trailer
-  #         #   href: /festival-trailer
-  #       # - headline: nominees & winners 2020
-  #       #   button:
-  #       #     text: view now
-  #       #     href: /awards-2020
-  #       - headline: official selection 2022
-  #         button:
-  #           text: view now
-  #           href: /official-selection-2022
+  - partial: stage
+    widesection: true
+    data:
+      videosource: /videos/festival-loop.mp4
+      slides:
+        - headline: The festival
+          button:
+            overlay: true
+            text: watch trailer
+            href: /festival-trailer
+        # - headline: The festival
+          # button:
+          #   overlay: true
+          #   text: watch trailer
+          #   href: /festival-trailer
+        # - headline: nominees & winners 2020
+        #   button:
+        #     text: view now
+        #     href: /awards-2020
+        # - headline: official selection 2022
+        #   button:
+        #     text: view now
+        #     href: /official-selection-2022
   # - partial: large-teaser
   #   data:
   #     background: /img/be-part-of-it-bg.jpg
