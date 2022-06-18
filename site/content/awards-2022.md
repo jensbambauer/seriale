@@ -408,6 +408,11 @@ sections:
     data:
       headline: "Miami Web Fest (United States): Serkar"
   - partial: text
+    data:
+      headline: Series Jury | Statement for Best Series
+      paragraphs:
+        - text: "A rollercoaster of emotions. We completely related to the complex relationship of this intimate story. The combination of great acting, great directing and great storytelling touches not only the target audience but also all generations. We just loved it."
+  - partial: text
     smallmargin: true
     data:
       headline: Documentary Jury | Statement for Best Documentary
