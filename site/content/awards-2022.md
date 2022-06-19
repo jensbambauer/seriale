@@ -379,7 +379,6 @@ sections:
     data:
       headline: Pitch Contest Jury | Honorable Mention for for “How Grinchi and Mrs. Claus bloodied Christmas“ by Gabriela Cortés, Andrea Meneses
   - partial: text
-    smallmargin: true
     headline: Partner Festival's Direct Selections
     data:
       headline: "Bilbao Seriesland (Spain): @IamSophieScholl (with flight and accommodation)"
