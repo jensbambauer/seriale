@@ -6,6 +6,10 @@ sections:
     data:
       videosource: /videos/digital-loop.mp4
       slides:
+        - headline: Series Screening
+          button:
+            text: watch now
+            href: https://dieseriale.sparqfest.live/
         # - headline: submissions for die seriale 2022 are open
         #   button:
         #     text: submit series
