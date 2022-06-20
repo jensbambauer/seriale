@@ -6,7 +6,7 @@ sections:
     data:
       videosource: /videos/digital-loop.mp4
       slides:
-        - headline: Series Screening
+        - headline: Series Screening on Demand
           button:
             text: watch now
             href: https://dieseriale.sparqfest.live/
@@ -129,115 +129,115 @@ sections:
   #             title: After Show Networking
   #             location: online
   #             size: 3
-  - partial: time-table
-    headline: schedule 2022
-    data:
-      days:
-        - title: June 8th
-          blocks:
-            - time: 7pm - 9:30pm
-              title: HESSEN FOCUS
-              location: Reception & Panel Discussions <br>Lottehof, Wetzlar
-              size: 4
-            - time: 9:30pm - 11:30pm
-              title: Open Air Screenings
-              location: "Lottehof, Wetzlar<br/>free entry"
-              size: 4
-        - title: June 9th
-          blocks:
-            - time: 1pm - 4pm
-              title: CREATOR'S TALK
-              location:
-              size: 6
-            - time: "9:30pm - 11:30pm"
-              length: 3
-              title: "Open Air Screening, Berliner Platz, 35390 Giessen"
-        - title: June 10th
-          blocks:
-            - time: 9:30am - 4pm
-              title: EDUCATIONAL
-              location: heyligenstaedt<br/>Conference Program<br/>public, free entry
-              size: 4
-            - time: 5:30pm - 7:30pm
-              title: OPENING CEREMONY & PREMIERE
-              location: Kinocenter Gießen
-              size: 3
-            - time: 7:45pm - 9:30pm
-              title: SCREENINGS with Q&A
-              location: "Kinocenter Gießen | buy tickets on site & online"
-              size: 3
-            - time: 9.30pm - 11:00pm
-              title: SCREENING
-              location: "Kinocenter Gießen | buy tickets on site & online"
-              size: 3
-            - time: 11pm - open end
-              title: Networking Night
-              location:
-              size: 3
-  - partial: time-table
-    data:
-      full:
-        time: 14th - 19thJune
-        title: SCREENINGS at SPARQ
-        location: Watch all series & pilots on demand.
-        size: 4
-      days:
-        - title: June 11th
-          blocks:
-            - time: 10am - 3pm
-              title: SERIALE PRO
-              pro: true
-              location: "Town Hall Giessen<br/>with registration"
-              size: 4
-            - time: 4pm - 8pm
-              title: Pitch Contest
-              pro: true
-              location: "Town Hall Giessen<br/>by invitation only"
-              size: 4
-            - time: 8pm - 9:30pm
-              title: Get together
-              location:
-              size: 4
-        - title: "&nbsp;"
-          blocks:
-            - time: 5:30pm - 7pm
-              title: SCREENINGS with Q&A
-              location: "Kinocenter Gießen | buy tickets on site & online"
-              size: 4
-            - time: 7pm - 9pm
-              title: SCREENINGS with Q&A
-              location: "Kinocenter Gießen | buy tickets on site & online"
-              size: 4
-            - time: 9pm - 10:30pm
-              title: SCREENINGS with Q&A
-              location: "Kinocenter Gießen | buy tickets on site & online"
-              size: 4
-            - time: 10:30pm - open end
-              title: Networking Night
-              size: 4
-        - title: June 12th
-          blocks:
-            - time: 10am - 4pm
-              title: SERIALE PRO
-              location: "Town Hall Giessen<br/>with registration"
-              pro: true
-              size: 4
-            - time: 5pm - 6:30pm
-              title: SCREENINGS
-              location: "Kinocenter Gießen | buy tickets on site & online"
-              size: 3
-            - time: 6pm - 8pm
-              title: RED CARPET
-              location: "heyligenstaedt<br/>invitation only"
-              size: 3
-            - time: 8pm - 10pm
-              title: AWARD CEREMONY
-              location: "heyligenstaedt<br/>invitation only"
-              size: 3
-            - time: 10pm - 2pm
-              title: After Show - Networking Event
-              location:
-              size: 3
+  # - partial: time-table
+  #   headline: schedule 2022
+  #   data:
+  #     days:
+  #       - title: June 8th
+  #         blocks:
+  #           - time: 7pm - 9:30pm
+  #             title: HESSEN FOCUS
+  #             location: Reception & Panel Discussions <br>Lottehof, Wetzlar
+  #             size: 4
+  #           - time: 9:30pm - 11:30pm
+  #             title: Open Air Screenings
+  #             location: "Lottehof, Wetzlar<br/>free entry"
+  #             size: 4
+  #       - title: June 9th
+  #         blocks:
+  #           - time: 1pm - 4pm
+  #             title: CREATOR'S TALK
+  #             location:
+  #             size: 6
+  #           - time: "9:30pm - 11:30pm"
+  #             length: 3
+  #             title: "Open Air Screening, Berliner Platz, 35390 Giessen"
+  #       - title: June 10th
+  #         blocks:
+  #           - time: 9:30am - 4pm
+  #             title: EDUCATIONAL
+  #             location: heyligenstaedt<br/>Conference Program<br/>public, free entry
+  #             size: 4
+  #           - time: 5:30pm - 7:30pm
+  #             title: OPENING CEREMONY & PREMIERE
+  #             location: Kinocenter Gießen
+  #             size: 3
+  #           - time: 7:45pm - 9:30pm
+  #             title: SCREENINGS with Q&A
+  #             location: "Kinocenter Gießen | buy tickets on site & online"
+  #             size: 3
+  #           - time: 9.30pm - 11:00pm
+  #             title: SCREENING
+  #             location: "Kinocenter Gießen | buy tickets on site & online"
+  #             size: 3
+  #           - time: 11pm - open end
+  #             title: Networking Night
+  #             location:
+  #             size: 3
+  # - partial: time-table
+  #   data:
+  #     full:
+  #       time: 14th - 19thJune
+  #       title: SCREENINGS at SPARQ
+  #       location: Watch all series & pilots on demand.
+  #       size: 4
+  #     days:
+  #       - title: June 11th
+  #         blocks:
+  #           - time: 10am - 3pm
+  #             title: SERIALE PRO
+  #             pro: true
+  #             location: "Town Hall Giessen<br/>with registration"
+  #             size: 4
+  #           - time: 4pm - 8pm
+  #             title: Pitch Contest
+  #             pro: true
+  #             location: "Town Hall Giessen<br/>by invitation only"
+  #             size: 4
+  #           - time: 8pm - 9:30pm
+  #             title: Get together
+  #             location:
+  #             size: 4
+  #       - title: "&nbsp;"
+  #         blocks:
+  #           - time: 5:30pm - 7pm
+  #             title: SCREENINGS with Q&A
+  #             location: "Kinocenter Gießen | buy tickets on site & online"
+  #             size: 4
+  #           - time: 7pm - 9pm
+  #             title: SCREENINGS with Q&A
+  #             location: "Kinocenter Gießen | buy tickets on site & online"
+  #             size: 4
+  #           - time: 9pm - 10:30pm
+  #             title: SCREENINGS with Q&A
+  #             location: "Kinocenter Gießen | buy tickets on site & online"
+  #             size: 4
+  #           - time: 10:30pm - open end
+  #             title: Networking Night
+  #             size: 4
+  #       - title: June 12th
+  #         blocks:
+  #           - time: 10am - 4pm
+  #             title: SERIALE PRO
+  #             location: "Town Hall Giessen<br/>with registration"
+  #             pro: true
+  #             size: 4
+  #           - time: 5pm - 6:30pm
+  #             title: SCREENINGS
+  #             location: "Kinocenter Gießen | buy tickets on site & online"
+  #             size: 3
+  #           - time: 6pm - 8pm
+  #             title: RED CARPET
+  #             location: "heyligenstaedt<br/>invitation only"
+  #             size: 3
+  #           - time: 8pm - 10pm
+  #             title: AWARD CEREMONY
+  #             location: "heyligenstaedt<br/>invitation only"
+  #             size: 3
+  #           - time: 10pm - 2pm
+  #             title: After Show - Networking Event
+  #             location:
+  #             size: 3
   # - partial: time-table
   #   headline: streaming schedule
   #   data:
@@ -341,28 +341,28 @@ sections:
   #       - text: "If you like to come here by plane, you need to book your flight to FRANKFURT AIRPORT (FRA). The city is called: Frankfurt am Main. It is the biggest airport in Germany and you can reach GIESSEN easily by train."
   #       - text: "In most cases you will have the opportunity to book direct flights. We recommend these flights as they are often on same price-level as step-over-flights and quite more comfortable."
   #       - text: "Preferred credit-cards in Germany are MASTER CARD and VISA - only 50% of shops and hotels accept AMERICAN EXPRESS. Please be aware that in Germany people usually pay in cash for amounts below 30€."
-  - partial: teaser-grid
-    headline: selected accommodations
-    data:
-      teasers:
-        - image: /img/hotel-ludwigsplatz.jpg
-          title: Hotel am Ludwigsplatz
-          shortdescription: Located in the center of Giessen close to the theatre, town hall, cinema, pedestrian area, the old castle and one of the oldest botanical gardens in Europe.
-          button:
-            href: http://www.hotel-am-ludwigsplatz.de/en
-            text: visit site
-        - image: /img/city-hotel-giessen.jpg
-          title: City Hotel Giessen
-          shortdescription: Located in the city centre of Giessen in the pedestrian zone near the famous globe fountain. The university, the congress hall, the local theatre, the central bus station at the market place, the botanic garden, the castle, shopping facilities and many restaurants and cafés are situated nearby.
-          button:
-            href: https://www.cityhotel-giessen.de/en/
-            text: visit site
-        - image: /img/gaestehaus-wilhelma.jpg
-          title: Guest House Wilhelma
-          shortdescription: This guest house has a long tradition. Here you will find bright and friendly rooms with modern equipment. You can also find apartments and apartments with kitchens here.
-          button:
-            href: http://www.gaestehaus-wilhelma.de
-            text: visit site
+  # - partial: teaser-grid
+  #   headline: selected accommodations
+  #   data:
+  #     teasers:
+  #       - image: /img/hotel-ludwigsplatz.jpg
+  #         title: Hotel am Ludwigsplatz
+  #         shortdescription: Located in the center of Giessen close to the theatre, town hall, cinema, pedestrian area, the old castle and one of the oldest botanical gardens in Europe.
+  #         button:
+  #           href: http://www.hotel-am-ludwigsplatz.de/en
+  #           text: visit site
+  #       - image: /img/city-hotel-giessen.jpg
+  #         title: City Hotel Giessen
+  #         shortdescription: Located in the city centre of Giessen in the pedestrian zone near the famous globe fountain. The university, the congress hall, the local theatre, the central bus station at the market place, the botanic garden, the castle, shopping facilities and many restaurants and cafés are situated nearby.
+  #         button:
+  #           href: https://www.cityhotel-giessen.de/en/
+  #           text: visit site
+  #       - image: /img/gaestehaus-wilhelma.jpg
+  #         title: Guest House Wilhelma
+  #         shortdescription: This guest house has a long tradition. Here you will find bright and friendly rooms with modern equipment. You can also find apartments and apartments with kitchens here.
+  #         button:
+  #           href: http://www.gaestehaus-wilhelma.de
+  #           text: visit site
   # - partial: teaser-grid
   #   smallmargin: true
   #   data:
