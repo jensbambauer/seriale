@@ -16,6 +16,7 @@ At die Seriale 2021 (German premiere), the series was awarded for the Best serie
 We had an interview with the producer Patrick Bilodeau about the background of the series. 
 
 ![](/img/patrickbilodeau.jpg)
+Patrick Bilodeau © UGO.Media2020
 
 **die Seriale**: Congratulations on the awards Best series, Best Screenplay and Best Original score at die Seriale 2021! The plotline of the series is based on a real story; how did you find out about these events?
 
@@ -56,6 +57,7 @@ Irlande Côté and Muriel Dutil © UGO.Media2020
 **Patrick Bilodeau**: It is a way to show that elderly homes are full of life and that seniors can still have a whole life.
 
 ![](/img/MurielDutilClaireandtheelderly.jpg)
+Muriel Dutil © UGO.Media2020
 
 **die Seriale**: How did you cast the young actress? 
 
