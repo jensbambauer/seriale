@@ -17,7 +17,7 @@ We had an interview with the producer Patrick Bilodeau about the background of t
 
 ![](/img/patrickbilodeau.jpg)
 
-**die Seriale**: Congratulations on the awards Best series, Best Screenplay and Best Original score at die Seriale 2021! The plotline of the series is based on a real story; how did you find out about these events? 
+**die Seriale**: Congratulations on the awards Best series, Best Screenplay and Best Original score at die Seriale 2021! The plotline of the series is based on a real story; how did you find out about these events?
 **Patrick Bilodeau**: The story is inspired by the childhood of my girlfriend, Edith. We knew something was interesting to do with her past, but we struggled to find the right way to tell the story. At some point, we found a way, and we developed the structure together. Then we hired Sarah Pellerin, screenwriter, and Charles Grenier director, who took our structure and made it into a series.
 
 **die Seriale**: The series shows many details and moments. This is especially challenging in a short form format. The series shows an authentic world. How did you do the research?
