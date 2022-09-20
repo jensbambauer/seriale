@@ -87,11 +87,18 @@ Charles Grenier with Irlande Côté © UGO.Media2020
 The interview was held by Suzanne Marie Zell
 
 **Claire and the Elderly (Claire et les vieux) 2020**
+
 Country: Canada
+
 Genre: Drama
+
 Runtime: 6x 10- 13 min
+
 Director: Charles Grenier
+
 Writer: Sarah Pellerin
+
 Producers: Patrick Bilodeau
+
 Cast: Irlande Côté, Muriel Dutil, Bénédicte Décary, Raymond Cloutier, Reda Guerinik, Dominique Quesnel 
 ![](/img/claireandtheelderlyposterquer.jpg)
