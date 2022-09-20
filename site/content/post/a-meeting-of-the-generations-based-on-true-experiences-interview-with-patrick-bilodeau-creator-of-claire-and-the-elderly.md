@@ -15,10 +15,10 @@ At die Seriale 2021 (German premiere), the series was awarded for the Best serie
 
 We had an interview with the producer Patrick Bilodeau about the background of the series. 
 
+**die Seriale**: Congratulations on the awards Best series, Best Screenplay and Best Original score at die Seriale 2021! The plotline of the series is based on a real story; how did you find out about these events?
+
 ![](/img/patrickbilodeau.jpg)
 Patrick Bilodeau © UGO.Media2020
-
-**die Seriale**: Congratulations on the awards Best series, Best Screenplay and Best Original score at die Seriale 2021! The plotline of the series is based on a real story; how did you find out about these events?
 
 **Patrick Bilodeau**: The story is inspired by the childhood of my girlfriend, Edith. We knew something was interesting to do with her past, but we struggled to find the right way to tell the story. At some point, we found a way, and we developed the structure together. Then we hired Sarah Pellerin, screenwriter, and Charles Grenier director, who took our structure and made it into a series.
 
@@ -88,7 +88,7 @@ The interview was held by Suzanne Marie Zell
 
 **Claire and the Elderly (Claire et les vieux) 2020**
 Country: Canada
-Genre: Drama 
+Genre: Drama
 Runtime: 6x 10- 13 min
 Director: Charles Grenier
 Writer: Sarah Pellerin
