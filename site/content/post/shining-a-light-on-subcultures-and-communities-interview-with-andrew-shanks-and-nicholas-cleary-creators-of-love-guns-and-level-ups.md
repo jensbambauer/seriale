@@ -4,7 +4,7 @@ title: >-
   and Nicholas Cleary, creators of Love, Guns and Level-Ups 
 date: 2022-09-28T10:00:47.014Z
 description: >-
-  Love, Guns and Level-Ups is a series by Nicholas Cleary and Andrew Shanks, two
+  Love, Guns and Level Ups is a series by Nicholas Cleary and Andrew Shanks, two
   filmmakers from Adelaide, Australia, and is available on their Youtube-channel
   Fury Fingers. In it, two characters, Bree and Elliot, meet in an online video
   game and start a relationship. Gaming and related topics such as Cosplay are
@@ -15,7 +15,7 @@ description: >-
 image: /img/titellovegunsandlevelups©morrisabraham.jpg
 ---
 The series was nominated at die Seriale 2021 for Best Visual Effects, Best Production Design and Best Actress and won the awards for Best Costume Design, Best Sound Design and Best Editing.
-At the time of this Interview (August 2021), _Love Guns and Level-Ups_ was leading in the Web Series World Cup 2021 with 175 points.
+At the time of this Interview (August 2021), _Love, Guns and Level Ups_ was leading in the Web Series World Cup 2021 with 175 points.
 
 **die Seriale**: You were nominated for Best Visual Effects, Best Production Design and Best Actress and won the awards Best Costume Design, Best Sound Design and Best Editing at die Seriale 2021. Congratulations! How big was your team, and how did you accomplish such a high-level production?
 
@@ -81,7 +81,7 @@ Set @ Love, Guns and Level Ups
 
 **Andrew Shanks**: So there’s a funding body in Australia called Screen Australia and they have a funding initiative called Skip Ahead which is focussed on giving funding to Australian Youtubers and giving them the chance to make something bigger. And we have a Youtube channel, Fury Fingers, which we’ve done a lot of stuff on in the past that has been relatively successful with a few videos, so we were given the opportunity to apply for that funding, and that’s where we started: „We got this opportunity to make something bigger, what do we do?“ That’s where it started and then it evolved from there, like Nick said, we took inspiration from our own lives, because Nick’s got a good friend who lives in the States and I’ve got a friend who lives overseas and for many years now, the way we’ve kept contact is by playing games together and I always thought it was funny how you would be playing a game together, and you’re in the middle of a really intense session, but while you’re doing that, you’re just talking about simple everyday stuff, you’re talking about „How is life in London?“, „How is school?“, „How is your mom?“ So we just thought there was a nice contrast between having characters in crazy settings but having really honest, human, even in some cases dull conversations in very heightened environments. Also me and Nick were both single men at the time and we dated, so we were drawing on our own experiences, our own successes and failures on the dating scene, so it was very relevant, some of the stuff, i’m not going to say specifically, but there’s some stuff in there that’s very real and quite raw.
 
-**Nicholas Cleary: **I remember when Bree has her big monologue at the end, when she’s breaking up with Elliot, she says some stuff that definitely never got said to us and I remember saying to Lisa Fanto: „it’s actually validating to hear you say them, it’s sort of like this therapy session we never got or something“.
+**Nicholas Cleary**: I remember when Bree has her big monologue at the end, when she’s breaking up with Elliot, she says some stuff that definitely never got said to us and I remember saying to Lisa Fanto: „it’s actually validating to hear you say them, it’s sort of like this therapy session we never got or something“.
 
 **Andrew Shanks**: I think when we were writing it, we were both kind of exorcising some demons, which i think is what you do, that’s what artists do with their art, right? Exorcise demons with their art and we definitely did that, I’m not afraid to admit that, and it feels really good.
 
