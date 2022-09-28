@@ -21,9 +21,9 @@ At the time of this Interview (August 2021), _Love Guns and Level-Ups_ was leadi
 
 **Andrew Shanks**: It was a pretty big team we had. The VFX were done by Nick and our other collaborator Dan, so that was a big job, just two people doing all those VFX. We had a pretty big crew, this was definitely the biggest production we’ve done up to this point, we got a little bit of funding, so we were able to pay people and get some really good crew out, so when it came to the shoot, we did have all of our bases covered, especially with things like production design, we had four, five people most days running around, setting stuff up. We had a few different people focussed on different areas, for example, we had one of our production designers, Jess, she was focussed on the Western setting for episode 2 and that was her big job, and then Sam did little bits and pieces, he helped out a lot with the zombie world, but then also as a team, everybody pitched in here and there. There was a lot of people working on a lot of different areas to create that look that we had. It was pretty ambitious, every episode has different settings, so it was a big job.
 
-!\[](/img/teamlovegunsandlevelups.jpg)
+![](/img/teamlovegunsandlevelups.jpg)
 
-Team Love guns and Levelups @ Morris Abraham
+Team Love, Guns and Level Ups @ Morris Abraham
 
 **Nicholas Cleary**: Well that’s one thing about our project: the production design, we were always choosing sets and locations, that we knew we had access to, so we’re writing for sets and stuff that meant that it wasn’t a big dressing job, like the forest was as is, the desert environment was as is, the biggest production design challenge was what we were calling the battle world, the sort of Fornite, colorful, expressive world, and that was when we found that location at a laser tag area, it dictated a lot of how we would dress, what we would do, but the world became more street-y on that location, it became grungy and dirtier, which was really fun. The whole project was basing itself around a simple solution from the beginning.
 
@@ -38,8 +38,6 @@ One of the other challenges was, obviously we didn’t shoot in England, and she
 
 **die Seriale**: Were there specific games (or other pop culture references) you wanted to incorporate into your series?
 
-**Andrew Shanks**: Yeah, there definitely was.
-
 **Nicholas Cleary**: But never specific games. It was more of a broad feeling of Red Dead Redemption or Fortnite. We always tried to do our own take on it, which means we can be creative and do our own thing with it. I think the biggest jump for the world, because we hadn’t played in it, was the adventure world with the mummies and the Indiana Jones-y vibe, we hadn’t played a lot of games in that area, we watched a lot of movies in that realm. So in that way, we were kind of creating our own thing and having fun with it, because people could still see, and that’s what the web series is: We love games, we also love movies, we are entering all the genres. The zombie-episode has a big Horror film taste to it, the Western-theme feels like a western game or movie, even in the cinematography, all these things were always influencing how we would create a world. That’s what’s really fun about Love Guns and Level-Ups, it’s not just a rom-com, it is many genres.
 
 **Andrew Shanks**: Yeah, 100% Nick. When we were first writing it, I am sure there were other games, that we toyed with including. So the series ended up being six episodes, but when we first planned it out, it was actually eight. What was it Nick, like a pirate sequence?
@@ -49,9 +47,9 @@ One of the other challenges was, obviously we didn’t shoot in England, and she
 **Andrew Shanks**: Yeah, so something that we tried to do was that the video games somewhat mirror where they are at in their relationship and it is quite vague and subtle at times. Episode four with the zombies is probably the most obvious one, where the zombies are a metaphor for the relationship. The pirate idea was similar, we had this whole idea where they were going to spend more time together in the longer version of it, and they would travel around Australia a bit, Elliot would go with Bree to the different conventions across Australia, and we were going to have a whole sequence at the start where they were getting ready to go on this whole voyage and it was going to be a pirate ship in this old school setting, getting the ship ready to go.\
 We also had a whole scene, not necessarily specifically one game but it’s a scene I love. Bree and Elliot are playing a game together and Bree is creating a character and it was a lot of gags about how sexist it is with the boobs scale for the female characters, so there was a whole scene about that, but we had to cut that, but I loved that, that scene was really fun.
 
-!\[](/img/lisafanto.jpg)
+![](/img/lisafanto.jpg)
 
-Lisa Fanto @ Love, guns and Levelups
+Lisa Fanto @ Love, Guns and Level Ups
 
 **Nicholas Cleary**: Yeah, only for time we had to cut that, because I was thinking about that scene the other day and it was a really great detail for Bree as a character to have that scene, it discussed some things about her personality, who she was.
 
@@ -75,9 +73,9 @@ Lisa Fanto @ Love, guns and Levelups
 
 **Andrew Shanks**: We thought that would be really cool, the idea of doing a rom-com in this crazy video-game setting really appealed to us.
 
-!\[](/img/setlovegunsandlevelups.jpg)
+![](/img/setlovegunsandlevelups.jpg)
 
-Set @ Love, guns and levelups
+Set @ Love, Guns and Level Ups
 
 **die Seriale**: You already talked about the relationships that inspired the series but besides that, how did you come up with the idea?
 
@@ -87,13 +85,11 @@ Set @ Love, guns and levelups
 
 **Andrew Shanks**: I think when we were writing it, we were both kind of exorcising some demons, which i think is what you do, that’s what artists do with their art, right? Exorcise demons with their art and we definitely did that, I’m not afraid to admit that, and it feels really good.
 
-**Nicholas Cleary**: Some of my favourite feedback was male friends or male strangers saying „Dude, I cried at the end.“ I was like „Really?“ „Yeah, that guy got me there, that Ed Geyl guy? when he started welling up, I was in tears.“ And I was like „Thanks for letting me know!“.
+**Nicholas Cleary**: Some of my favourite feedback was male friends or male strangers saying „Dude, I cried at the end.“ I was like „Really?“ „Yeah, that guy got me there, that Ed Geyl guy? when he started welling up, I was in tears.“ 
 
-!\[](/img/stilllovegunsandlevelups.jpg)
+![](/img/stilllovegunsandlevelups.jpg)
 
-Still @ Love, guns and levelups
-
-
+Still @ Love, Guns and Level Ups
 
 **die Seriale**: The series tells a love story. Two people, from different parts of the world, find each other and don't even know each other's appearance at first. However, the story does not stop when they meet each other, it continues and also tells of difficulties that emerge when reality comes along. How does communication take place in the series?
 
@@ -125,20 +121,12 @@ Interview by Benjamin Jochum
 
 **Love, Guns and Level-Ups (2020)**
 
-
-
-Country: Australia 
-
-Genre: Action 
-
-Runtime: 6 x 10 min 
-
-Director: Nicholas Cleary, Andrew Shanks
-
-Writer: Nicholas Cleary, Andrew Shanks, Daniel Vink
-
-Producers: Jodie Kirkbride 
-
+Country: Australia \
+Genre: Action \
+Runtime: 6 x 10 min \
+Director: Nicholas Cleary, Andrew Shanks\
+Writer: Nicholas Cleary, Andrew Shanks, Daniel Vink\
+Producers: Jodie Kirkbride \
 Cast: Lisa Fanto, Eduard Geyl, Walter Buckley, Shabana Azeez 
 
-!\[](/img/lovegunsandlevelupsposter.jpg)
+![](/img/lovegunsandlevelupsposter.jpg)
