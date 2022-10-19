@@ -440,7 +440,8 @@ sections:
     data:
       image: /img/Hotel-heyligenstaedt-Giessen-01.jpg
       headline: "Educational: Hotel & Restaurant heyligenstaedt"
-      text: 'The "Educational" with lectures & panels will take place here. The events are free and open for everyone.
+      text:
+        'The "Educational" with lectures & panels will take place here. The events are free and open for everyone.
         <br><br>Hotel & Restaurant heyligenstaedt
         <br>Aulweg 41
         <br>35392 Giessen
@@ -460,7 +461,8 @@ sections:
     data:
       image: /img/Dachcafe-Giessen.jpg
       headline: "Club Night: Dach Cafe Giessen"
-      text: "The Saturday evening and the Club Night will take place at the Dach Cafe, above the roofs of Giessen.
+      text:
+        "The Saturday evening and the Club Night will take place at the Dach Cafe, above the roofs of Giessen.
         <br><br>Dachcafe Giessen
         <br>Ludwigsplatz 11
         <br>35390 Giessen"

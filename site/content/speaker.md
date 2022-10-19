@@ -1,5 +1,5 @@
 ---
-title: 8th Digital Series Festival Giessen
+title: 9th Digital Series Festival Giessen
 sections:
   - partial: teaser-grid
     headline: speaker
