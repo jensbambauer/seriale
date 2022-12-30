@@ -1,6 +1,10 @@
 ---
 title: 9th Digital Series Festival Giessen
 sections:
+  - partial: twitch
+    widesection: true
+    data:
+      channel: dieSeriale
   - partial: stage
     widesection: true
     data:
