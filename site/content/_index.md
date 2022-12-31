@@ -1,53 +1,49 @@
 ---
 title: 9th Digital Series Festival Giessen
 sections:
-  - partial: twitch
+  - partial: stage
     widesection: true
     data:
-      channel: dieSeriale
-  # - partial: stage
-  #   widesection: true
-  #   data:
-  #     videosource: /videos/digital-loop.mp4
-  #     slides:
-  #       # - headline: Series Screening on Demand
-  #       #   button:
-  #       #     text: watch now
-  #       #     href: https://dieseriale.sparqfest.live/
-  #       - headline: submissions for die seriale 2023 are open
-  #         button:
-  #           text: submit series
-  #           href: https://filmfreeway.com/dieSeriale
-  #       # - headline: Award Ceremony
-  #       #   button:
-  #       #     overlay: true
-  #       #     text: watch
-  #       #     href: /award-ceremony
-  #       # - headline: The festival
-  #       #   button:
-  #       #     overlay: true
-  #       #     text: watch trailer
-  #       #     href: /festival-trailer
-  #       - headline: awards 2022
-  #         button:
-  #           text: view now
-  #           href: /awards-2022
-  #       # - headline: official selection 2022
-  #       #   button:
-  #       #     text: view now
-  #       #     href: /official-selection-2022
-  #       # - headline: series/pilots trailers 2022
-  #       #   button:
-  #       #     text: watch now
-  #       #     href: /festival/
-  #       # - headline: nominees & winners 2021
-  #       #   button:
-  #       #     text: view now
-  #       #     href: /awards-2021
-  #       # - headline: award winners 2019
-  #       #   button:
-  #       #     text: view now
-  #       #     href: /awards-2019
+      videosource: /videos/digital-loop.mp4
+      slides:
+        # - headline: Series Screening on Demand
+        #   button:
+        #     text: watch now
+        #     href: https://dieseriale.sparqfest.live/
+        - headline: submissions for die seriale 2023 are open
+          button:
+            text: submit series
+            href: https://filmfreeway.com/dieSeriale
+        # - headline: Award Ceremony
+        #   button:
+        #     overlay: true
+        #     text: watch
+        #     href: /award-ceremony
+        # - headline: The festival
+        #   button:
+        #     overlay: true
+        #     text: watch trailer
+        #     href: /festival-trailer
+        - headline: awards 2022
+          button:
+            text: view now
+            href: /awards-2022
+        # - headline: official selection 2022
+        #   button:
+        #     text: view now
+        #     href: /official-selection-2022
+        # - headline: series/pilots trailers 2022
+        #   button:
+        #     text: watch now
+        #     href: /festival/
+        # - headline: nominees & winners 2021
+        #   button:
+        #     text: view now
+        #     href: /awards-2021
+        # - headline: award winners 2019
+        #   button:
+        #     text: view now
+        #     href: /awards-2019
   # - partial: large-teaser
   #   data:
   #     background: /img/be-part-of-it-bg.jpg
