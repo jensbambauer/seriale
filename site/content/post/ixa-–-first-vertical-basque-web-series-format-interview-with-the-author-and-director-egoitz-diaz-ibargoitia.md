@@ -63,7 +63,7 @@ Egoitz Diaz Ibargoitia, winner of the award Best Cinematography at die Seriale 2
 
 - - -
 
-**Shooting_ IXA_ © Irati Vergara**
+**Shooting _IXA_ © Irati Vergara**
 
 \
 **Egoitz Diaz Ibargoitia**: We recorded everything horizontally, focused on the main part of the screen and played in a bit with inventing new shots in this vertical format. It was kind of that. Every day we had so many difficulties designing the shot in vertical because sometimes having good hands is having a good person. They cannot be far away from them, so sometimes they were speak-ing like in this distance, and it's kind of felt weird to be speaking with somebody who was very nar-row from them. This effect could be seen on the screen, and it did not look so close. But we had to play so much with all these positions and actions and the camera. But we did it.
