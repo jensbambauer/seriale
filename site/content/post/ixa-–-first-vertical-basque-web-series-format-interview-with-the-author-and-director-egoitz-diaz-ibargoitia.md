@@ -20,7 +20,7 @@ The first episode takes place in the nightlife. It is not immediately obvious wh
 
 In the second episode, a woman is accompanied while shopping in the supermarket. The camera follows her around—a little boy, who appears to be her son, whines. The camera work becomes in-creasingly chaotic. While the mother plays a message from her son, audible to all, she begins to walk around more and more frantically. The scenery is filmed rather shakily. The woman's face is shown up close and often only half of it, making it possible to observe her emotions closely. Only small sections are shown, so one knows that the protagonist is at the supermarket. Many voices are raised, strange things happen to the son, who eventually chases his mother, who is running away. Towards the end of this scene, the woman appears to have entered a state of madness. In the next scene, we see the woman shopping again, being more relaxed this time, while the little boy is with another woman. Everything seems ordinary, especially in comparison with the disorderly scenes from be-fore. However, the viewer is left bewildered, and the question remains, which of the scenes are closer to reality.
 
-The third episode takes place at an airport. Two men, one young and one old, watch the planes arriving and departing, and the music gives the scenes a mystical character. Both of them are taking pho-tos, and the younger man snaps the older one and the latter photographs the planes. Not once is a shot of the entire surroundings included; merely details are being shown, making the scenes seem fragmented. The sounds of the aircraft and the camera shutter release partly drown out the conversation between the protagonists. While they argue, the music becomes more and more powerful - until the episode ends with a dramatic climax.
+The third episode takes place at an airport. Two men, one young and one old, watch the planes arriving and departing, and the music gives the scenes a mystical character. Both of them are taking photos, and the younger man snaps the older one and the latter photographs the planes. Not once is a shot of the entire surroundings included; merely details are being shown, making the scenes seem fragmented. The sounds of the aircraft and the camera shutter release partly drown out the conversation between the protagonists. While they argue, the music becomes more and more powerful - until the episode ends with a dramatic climax.
 
 The fourth episode begins similarly mystical as the previous one due to the camera work and the underlying music. Again and again, a telephone operator is disturbed at his workplace and observed by the boss. The boss is also listening when he gets a call from a friend. He is under a lot of time pressure because the person who doesn't make it into the company's internal ranking will be fired. Men and women are called either Mikel or Miren, which shows how different individuals are op-pressed in the workplace. Their individual life stories are often uninteresting to the workplace and our society. As the boss listens to the conversation between her employee and his caller, the pressure becomes palpable. Mikel finally quits by phone and is proud of himself; he disappears into a seem-ingly happier world, leaving control, time pressure and invisibility behind.
 
@@ -32,11 +32,11 @@ A particular type of camerawork characterizes all six episodes; close-ups of fac
 
 Egoitz Diaz Ibargoitia, winner of the award Best Cinematography at die Seriale 2021, is a student at ECAM, the School of Cinematography and Audiovisual of the Community of Madrid, where he came up with the idea for the series _IXA_.
 
-!\[](/img/unaiandegoitzk.jpg)
+![](/img/unaiandegoitzk.jpg)
+
+- - -
 
 **Unai Portilla and Egoitz Diaz Ibargoitia © Irati Vergara**
-
-
 
 **die Seriale**: Congratulations on winning Best Cinematography at Seriale 2021! How long did it take from the initial idea to the finished series?\
 **Egoitz Diaz Ibargoitia**: We spent like ten days filming all the series, but we started like half a year before the filming to find money, the actors, the collaborations and then finally we started with filming.
@@ -59,8 +59,9 @@ Egoitz Diaz Ibargoitia, winner of the award Best Cinematography at die Seriale 2
 
 **die Seriale**: _IXA_ won the award for Best Cinematography at Seriale 2021. It's a vertical series, but it's technically staged to a very high standard and inviting in its image design. How did you make it work technically?
 
+![](/img/pana7554k.jpg)
 
-!\[](/img/pana7554k.jpg)
+- - -
 
 **Shooting_ IXA_ © Irati Vergara**
 
@@ -75,9 +76,11 @@ Egoitz Diaz Ibargoitia, winner of the award Best Cinematography at die Seriale 2
 \
 **Egoitz Diaz Ibargoitia**: Yes. Because we had worked with him before and we have a good under-standing. We understand very well, mainly in the filming moments, because he's an outstanding professional and teaches photography in a Film school. So, he knows a lot about it, he has worked a lot, and we thought he was best for this project. We explained to him that the Film would be verti-cal, he was kind of shocked and impressed with the new challenge, and so, of course, he agreed to be in the project. And now he's pleased because he won the best cinematography award. Ander Mu-jika was the best for this project, and we could not imagine working with someone else. Mujika had previously worked on vertical, so he knew a bit about all these compositions of the shots.
 
-!\[](/img/pana9520k.jpg)
+![](/img/pana9520k.jpg)
 
-**Shooting_ IXA_ © Irati Vergara**
+- - -
+
+**Shooting _IXA_ © Irati Vergara**
 
 **die Seriale**: You address different topics in _IXA_. How did you come up with it, and what was the intention behind it? Is there an overarching theme?
 \
@@ -95,9 +98,9 @@ Egoitz Diaz Ibargoitia, winner of the award Best Cinematography at die Seriale 2
 \
 **Egoitz Diaz Ibargoitia**: Yes, this was a challenge because our problem was that we wanted to tell very long stories in a short time. So, we had many discussions about these, what to put in and out, because we recorded a lot more. For every episode, we had like 15 minutes of every episode about we could intuition have to cut in the half of them to have like those 5 minutes in the episodes. It wasn't easy to think or to guess what could not fit in the episode. It wasn't easy to believe that it will end in the same way if we take out this sequence, but we think we did it less. Our problem was to ensure those stories because we had a very long situation. So, the challenge for us in scriptwriting was to provide those stories. That's also why something was happening every minute because we cut out all those sequences or scenes that finally didn't happen. So in all the episodes, there is more like-ly something to happen. I mean in the ending, in the climax. It was challenging to do that. That was a problem that we had with the script. We knew that it was way too heavy. If your script has 20 pages, the final project will have like 15, 20 minutes. We have to make it; our problem was not to make 10 pages episodes. But well, I think we finally did it and did it well and have that result.
 
-!\[](/img/Egoitzk.jpg)
+![](/img/Egoitzk.jpg)
 
- **Egoitz Diaz Ibargoitia directing © Irati Vergara**
+**Egoitz Diaz Ibargoitia directing © Irati Vergara**
 
 **die Seriale**: What is the significance of the locations in which the episodes are set?
 \
@@ -120,4 +123,4 @@ Writer: Egoitz D. Ibargoitia, Unai Portilla, Gorka Alvarez de Arcaya, Eñaut Lar
 Producers: Gorka Álvarez de Arcaya, Egoitz D. Ibargoitia and Unai Portilla\
 Cast: Mikele Arizkorreta Angela Lopez, Mirena Nafarrate, Salma Aristizabal, Amaia Lizarralde, Aritz Fernandez, Beñat Arizabaleta, Nerea Ulibarri, Ane Hernandez, Ainhoa Ullibarri, Julio Hidal-go, Anunciación Ruiz de Eguino, Arantza Martinez Marigorta, Ander Rodriguez, Cristina Ajuria, Olga Lopez de Munain, Iñigo Gastesi, Peio Arnaez, Xabi Ortuzar, Olatz Beobide, Mikel Ibarguren, Marta Berganzo, Amaia Calvo, Andoni Martinez de Madina, Amaia Aguirre, Yolanda Gubia, Maider Donoso, Osane Arrizabalaga, Hobeko Gonzalez de Viñaspre, Mariaje Izeta, Patxi Santama-ria, Puri Urretabizkaia, Santi Basterretxea, Ana Miranda, Maialen Sorzabalbere, Oier Quincoces, Paquita Quincoces, Ines Alonso, Manu Arakama, Aniceto Portilla, Maria Jesus Alonso, Kepa Er-rasti, Benan Oribe, Ane Zuazubiskar, Irati Briñas
 
-!\[](/img/ixaposterquer.png)
+![](/img/ixaposterquer.png)
