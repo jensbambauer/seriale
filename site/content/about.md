@@ -25,7 +25,7 @@ sections:
         - image: /img/team/Ralf-Hofacker.jpg
           title: Ralf Hofacker
           shortdescription: Festival Manager & Media Design
-        - image: /img/team/Sandra-Wages.jpg
+        - image: /img/team/Sandra-Wages-2.jpg
           title: Sandra Wages
           shortdescription: Event Manager
         - image: /img/team/anne-failing-2.jpg
@@ -55,7 +55,7 @@ sections:
         - image: /img/team/alexandra-manlig-2.jpg
           title: Alexandra Manlig
           shortdescription: Seriale Pro Organization & Communication
-        - image: /img/team/Dorian-Lummel.jpg
+        - image: /img/team/Dorian-Lummel-2.jpg
           title: Dorian Lummel
           shortdescription: Seriale Pro Organization & Communication
         - image: /img/team/Kaira-Masuhr.jpg
@@ -70,7 +70,7 @@ sections:
         - image: /img/team/chris-mathews.jpg
           title: Chris Tom Mathews
           shortdescription: Interviews & Festival Trailer
-        - image: /img/team/Ronald-Wages.jpg
+        - image: /img/team/Ronald-Wages-2.jpg
           title: Ronald Wages
           shortdescription: Screening Coordination
         - image: /img/team/Christoforos-Mechanezidis.jpg
