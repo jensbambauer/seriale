@@ -64,10 +64,10 @@ sections:
         - image: /img/team/can-tas-2.jpg
           title: Can Tas
           shortdescription: Videographer & Host
-        - image: /img/team/Lisa-Heimbach.jpg
+        - image: /img/team/Lisa-Heimbach-2.jpg
           title: Lisa Heimbach
           shortdescription: Interviews & Festival Trailer
-        - image: /img/team/chris-mathews.jpg
+        - image: /img/team/chris-mathews-2.jpg
           title: Chris Tom Mathews
           shortdescription: Interviews & Festival Trailer
         - image: /img/team/Ronald-Wages-2.jpg
