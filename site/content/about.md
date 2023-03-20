@@ -33,7 +33,7 @@ sections:
           shortdescription: Festival Organization, Office & Host
         - image: /img/team/daria-solovieva-2.jpg
           title: Daria Solovieva
-          shortdescription: Festival Organization, Office & Host  
+          shortdescription: Festival Organization, Office & Host
         - image: /img/team/Jens-Bambauer.jpg
           title: Jens Bambauer
           shortdescription: Website & Streaming
@@ -48,7 +48,7 @@ sections:
           shortdescription: Seriale Pro Manager & Festival Organization
         - image: /img/team/elke-baumann.jpg
           title: Elke Baumann
-		  shortdescription: Pitch Contest Manager
+          shortdescription: Pitch Contest Manager
         - image: /img/team/Martin-Otto.jpg
           title: Martin Otto
           shortdescription: Screening Organization
