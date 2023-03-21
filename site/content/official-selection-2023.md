@@ -71,7 +71,7 @@ sections:
         - title: The Photo of My Life
           origin: South Korea
         - title: The Photographer
-		  origin: Israel
+          origin: Israel
         - title: "The Universe Conspires. An Essay on Love."
           origin: Uruguay
         - title: The Y Theory (Season 3)
