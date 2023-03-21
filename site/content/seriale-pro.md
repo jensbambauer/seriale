@@ -14,7 +14,6 @@ sections:
         - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities, “DIMA Digital Market”, the “Pitch Contest” and a Conference Program."
 
         - text: "The Seriale Pro is a huge conference and networking event, it will be held for the 7th time as part of “die Seriale”."
-        - text: "For the 4th time “DIMA Digital Market” will be held - Germany’s very first physical market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland” and “Minnesota Web Fest."
         - text: "The “DIMA Digital Market” is Germany’s very first physical market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland” and “Minnesota Web Fest."
         - text: "Finally about 12 brand new concepts for digitals series will be presented to the industry during a pitch competition."
   # - partial: text-and-image

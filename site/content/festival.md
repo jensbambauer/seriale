@@ -7,10 +7,10 @@ sections:
       videosource: /videos/festival-loop.mp4
       slides:
         - headline: The festival
-          button:
-            overlay: true
-            text: watch trailer
-            href: /festival-trailer
+          # button:
+          #   overlay: true
+          #   text: watch trailer
+          #   href: /festival-trailer
         # - headline: The festival
           # button:
           #   overlay: true
