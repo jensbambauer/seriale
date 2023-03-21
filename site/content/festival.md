@@ -29,20 +29,19 @@ sections:
   #     background: /img/be-part-of-it-bg.jpg
   #     href: https://dieseriale.sparqfest.live/en/index.html
   #     text: Watch Series
-  - partial: thumb-grid
-    headline: official selection series 2022
-    data:
-      list: series
-  - partial: thumb-grid
-    headline: official selection pilots 2022
-    data:
-      list: pilots
+  # - partial: thumb-grid
+  #   headline: official selection series 2022
+  #   data:
+  #     list: series
+  # - partial: thumb-grid
+  #   headline: official selection pilots 2022
+  #   data:
+  #     list: pilots
   - partial: text
     data:
       headline: About
       paragraphs:
-        - text: "&quot;die Seriale&quot; is the oldest festival in Germany for digital series.
-The twelve-day festival (six days in person & six days online) is dedicated to audience, creators, students and all series fans. The Official Selection with over 60 series and pilots from 19 countries is presented in the movie theatre, open air and on demand. The supporting program offers a conference with lectures and panel discussions."
+        - text: "&quot;die Seriale&quot; is the oldest festival in Germany for digital series. The festival is dedicated to audience, creators, students and all series fans. The Official Selection with over 50 series and pilots from 18 countries is presented in the movie theatre, open air and on demand. The supporting program offers a conference with lectures and panel discussions."
   # - partial: thumb-grid
   #   headline: official selection 2021 - series
   #   data:
@@ -146,12 +145,12 @@ The twelve-day festival (six days in person & six days online) is dedicated to a
         - image: /img/partners/giessen.png
           link: "https://www.giessen.de"
         - image: /img/partners/Wetzlar.png
-        - image: /img/partners/sparkasse.png
+        # - image: /img/partners/sparkasse.png
         - image: /img/partners/sparq-logo@1x.png
           link: "https://www.sparqfest.live/"
         - image: /img/partners/wktp.png
           link: "https://www.whokilledthepig.de/"
-        - image: /img/partners/mm-eventservice.jpg
+        # - image: /img/partners/mm-eventservice.jpg
         - image: /img/partners/kinocenter.png
         - image: /img/partners/dobago.png
           link: "http://www.dobago.de"
@@ -160,11 +159,11 @@ The twelve-day festival (six days in person & six days online) is dedicated to a
           link: "https://stolenmoments.de"
         - image: /img/partners/Lumatik.png
           link: "https://www.lumatik.media"
-        - image: /img/partners/heyligenstaedt.png
+        # - image: /img/partners/heyligenstaedt.png
         - image: /img/partners/World_Wide_Webserie.png
           link: "https://www.worldwidewebserie.com"
         - image: /img/partners/Unsere_Serien.svg
-        - image: /img/partners/elefantenklo_magazin_logo.png
+        # - image: /img/partners/elefantenklo_magazin_logo.png
         - image: /img/partners/wswc2022.jpg
   - partial: grid
     headline: our partner festivals

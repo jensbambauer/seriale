@@ -10,10 +10,10 @@ sections:
         #   button:
         #     text: watch now
         #     href: https://dieseriale.sparqfest.live/
-        - headline: submissions for die seriale 2023 are open
-          button:
-            text: submit series
-            href: https://filmfreeway.com/dieSeriale
+        # - headline: submissions for die seriale 2023 are open
+        #   button:
+        #     text: submit series
+        #     href: https://filmfreeway.com/dieSeriale
         # - headline: Award Ceremony
         #   button:
         #     overlay: true
@@ -24,14 +24,14 @@ sections:
         #     overlay: true
         #     text: watch trailer
         #     href: /festival-trailer
-        - headline: awards 2022
-          button:
-            text: view now
-            href: /awards-2022
-        # - headline: official selection 2022
+        # - headline: awards 2022
         #   button:
         #     text: view now
-        #     href: /official-selection-2022
+        #     href: /awards-2022
+        - headline: official selection 2023
+          button:
+            text: view now
+            href: /official-selection-2023
         # - headline: series/pilots trailers 2022
         #   button:
         #     text: watch now
@@ -306,8 +306,9 @@ sections:
         - title: submit series
           partial: tab-text
           data:
-            headline: Submissions are open
-            text: '<p>Submissions for Series & Pilots are open until January 31, 2023</p><a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
+            headline: Submissions for 2023 are closed
+            text: ""
+            # text: '<p>Submissions for Series & Pilots are open until January 31, 2023</p><a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
         # - title: in person & digital event
         #   partial: tab-text
         #   data:
