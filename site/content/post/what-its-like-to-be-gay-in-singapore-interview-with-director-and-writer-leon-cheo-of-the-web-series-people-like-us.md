@@ -12,7 +12,7 @@ description: >+
 
 image: /img/still1peoplelikeus.jpg
 ---
-The LGBTQ series was nominated at die Seriale 2021 in the category Best Ensemble Cast. We had an interview with director and writer Leon Cheo.
+The second season of the series portrays five Asian gay men and how they handle their sexuality and life in Singapore. People like us deals with various problems such as coming out, sexually transmitted infections (STI) and acceptance, in the hope that the series can help change the hearts and minds of the people and government of Singapore. The LGBTQ series was nominated at die Seriale 2021 in the category Best Ensemble Cast. We had an interview with director and writer Leon Cheo.
 
 **Die Seriale**: How did you come up with the topic of an LGBTQ series? And are you entering a new field of web series in Singapore? 
 
@@ -30,7 +30,7 @@ The LGBTQ series was nominated at die Seriale 2021 in the category Best Ensemble
 
 **Leon Cheo**: Having music like a score and non-diegetic music was something I didn’t want to do. If there was music or some kind of background music it has to be explained, maybe they are listening to music or they are in a club. I didn’t want a score to tell the audience what they are supposed to feel and that’s also back to the whole observational feel of it. I didn’t want the director to be too obvious in terms of the storytelling so I guess it has a quite real feel to the series so that people can get an as realistic sense as possible. In the end of each episode each credit has its special song or a piece of music that was specially selected or composed and all the feelings end up there. 
 
-**Die Seriale**: Since _People like us_ was nominated in the category of Best ensemble Cast, I am of course interested in how the actors were chosen.
+**Die Seriale**: Since _People like us_ was nominated in the category of Best Ensemble Cast, I am of course interested in how the actors were chosen.
 
 ![](/img/filmklappe.jpg)
 
@@ -82,7 +82,7 @@ The characters in the series reflect the problems in terms of coming out for exa
 
 **Interview**: Johanna Jusek
 
-**People like us - season 2**(2019)\
+**People like us - season 2** (2019)\
 Country: Singapore\
 Genre: Drama, LGBTQ\
 Runtime: 6 x 8-12 min\
