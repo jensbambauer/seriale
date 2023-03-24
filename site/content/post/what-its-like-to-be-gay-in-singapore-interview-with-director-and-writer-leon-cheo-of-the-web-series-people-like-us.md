@@ -1,18 +1,18 @@
 ---
 title: >-
   What it's like to be gay in Singapore / Interview with director and writer
-  Leon Cheo of the web series "People like us".
+  Leon Cheo of the web series People like us
 date: 2023-03-24T20:44:55.898Z
 description: >+
   The second season of the series portrays five Asian gay men and how they
-  handle their sexuality and life in Singapore. "People like us" deals with
+  handle their sexuality and life in Singapore. People like us deals with
   various problems such as coming out, sexually transmitted infections (STI) and
   acceptance, in the hope that the series can help change the hearts and minds
   of the people and government of Singapore.
 
 image: /img/still1peoplelikeus.jpg
 ---
-The LGBTQ series was nominated at die Seriale 2021 in the category “best ensemble cast”. We had an interview with director and writer Leon Cheo.
+The LGBTQ series was nominated at die Seriale 2021 in the category Best Ensemble Cast. We had an interview with director and writer Leon Cheo.
 
 **Die Seriale**: How did you come up with the topic of an LGBTQ series? And are you entering a new field of web series in Singapore? 
 
