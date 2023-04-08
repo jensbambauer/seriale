@@ -15,6 +15,8 @@ description: >
   her own life. Will Fernanda get her own life back?
 image: /img/fernandapaesleme.jpg
 ---
+**Fernanda Paes Leme © Fake Live**
+
 The series is about Fernanda, an actress and influencer who posts and shares everything on Instagram for her fans and interacts with them. However, she is hacked by a person who takes over her profile and also her life. Fernanda loses control. She no longer has access to her Instagram account and sees dubious videos and live streams on her profile of a woman who looks exactly like herself. This loss of control over her life slowly makes Fernanda go crazy. Even her friends, her manager and her own family think that Fake Fernanda is the real one, but she is completely ignored and ostracized from her own life. Will Fernanda get her own life back?
 
 The web series _Fake Live_ is a short web series with nine episodes, shot at home as a low budget project during the quarantine period in Brazil, by the two siblings Fernanda Paes Leme and Alexandre Paes Leme. The web series has been very successful with over 7 million views, and it is also the directorial debut of Alexandre Paes Leme. _Fake Live_ received an award for the Best idea at Seriale 2021.
