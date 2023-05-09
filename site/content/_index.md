@@ -50,17 +50,8 @@ sections:
   #     href: https://dieseriale.sparqfest.live/en/index.html
   #     text: Watch Series
   - partial: time-table
-    headline: streaming schedule 2021
+    headline: schedule 2023
     data:
-      full:
-        time: June 2nd - 7th
-        title: Screenings
-        location: Watch all series & pilots on demand.
-        # logo:
-        # button:
-        #   text:
-        #   href:
-        # size: 4
       days:
         - title: June 14th
           blocks:
