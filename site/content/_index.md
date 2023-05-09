@@ -99,6 +99,9 @@ sections:
               title: Networking Night
               location: Lieblingsmensch
               size: 4
+  - partial: time-table
+    data:
+      days:
         - title: June 17th
           blocks:
             - time: 10am - 5pm
