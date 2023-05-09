@@ -49,6 +49,117 @@ sections:
   #     background: /img/be-part-of-it-bg.jpg
   #     href: https://dieseriale.sparqfest.live/en/index.html
   #     text: Watch Series
+  - partial: time-table
+    headline: streaming schedule 2021
+    data:
+      full:
+        time: June 2nd - 7th
+        title: Screenings
+        location: Watch all series & pilots on demand.
+        # logo:
+        # button:
+        #   text:
+        #   href:
+        # size: 4
+      days:
+        - title: June 14th
+          blocks:
+            - time: 7pm - 9:30pm
+              title: HESSEN FOCUS
+              location: Reception & Panel Discussions <br>Lottehof, Wetzlar
+              size: 4
+            - time: 9:30pm - 11:30pm
+              title: Open Air Screenings
+              location: "Lottehof, Wetzlar<br/>free entry"
+              size: 4
+        - title: June 15th
+          blocks:
+            - time: 7pm - 9pm
+              title: LIVE MUSIC
+              location: "Open Air, Berliner Platz, 35390 Giessen"
+              size: 6
+            - time: 9pm - 9:30pm
+              length: 3
+              title: "Open Air Screening, Berliner Platz, 35390 Giessen"
+            - time: 9:30pm - 11:00pm
+              length: 3
+              title: OPEN AIR SCREENINGS
+              location: "Open Air, Berliner Platz, 35390 Giessen"
+              size:
+        - title: June 16th
+          blocks:
+            - time: 10am - 5pm
+              title: EDUCATIONAL
+              location: Stadttheater Gießen<br/>Conference Program<br/>public, free entry
+              size: 4
+            - time: 5:30pm - 7:30pm
+              title: OPENING CEREMONY & PREMIERE
+              location: Kinocenter Gießen
+              size: 3
+            - time: 8pm - 9:30pm
+              title: SCREENINGS with Q&A
+              location: "Kinocenter Gießen | buy tickets on site & online"
+              size: 3
+            - time: 9.30pm - 11:00pm
+              title: SCREENING with Q&A
+              location: "Kinocenter Gießen | buy tickets on site & online"
+              size: 3
+            - time: 11pm - open end
+              title: Networking Night
+              location: Lieblingsmensch
+              size: 3
+        - title: June 17th
+          blocks:
+            - time: 10am - 5pm
+              title: SERIALE PRO
+              location: Stadttheater Gießen<br/>Conference Program<br/>public, free entry
+              size: 4
+            - time: 4pm - 5:30pm
+              title: SCREENINGS with Q&A
+              location: Kinocenter Gießen  | buy tickets on site & online"
+              size: 3
+            - time: 6pm - 7pm
+              title: series Quiz with seriesly AWESOME
+              location: Kinocenter Gießen, free entry
+              size: 3
+            - time: 7:30pm - 9pm
+              title: SCREENINGS with Q&A
+              location: "Kinocenter Gießen | buy tickets on site & online"
+              size: 3
+            - time: 9pm - 10:30pm
+              title: SCREENINGS with Q&A
+              location: "Kinocenter Gießen | buy tickets on site & online"
+              size: 3
+            - time: 10:30pm - open end
+              title: Networking Night
+              location:
+              size: 3
+        - title: June 18th
+          blocks:
+            - time: 11:30am - 3pm
+              title: Networking
+              location: Marine-Verein Gießen<br/>Conference Program<br/>public, free entry
+              size: 4
+            - time: 3pm - 3:30pm
+              title: SCREENINGS
+              location: "Kinocenter Gießen | buy tickets on site & online"
+              size: 3
+            - time: 4:30pm - 6pm
+              title: SCREENINGS
+              location: "Kinocenter Gießen | buy tickets on site & online"
+              size: 3
+            - time: 6pm - 8pm
+              title: RED CARPET
+              location: City Hall | entry ith invitation
+              size: 3
+            - time: 8pm - 10pm
+              title: AWARD CEREMONY of the 9th DIE SERIALE Digital Series Festival
+              location: City Hall | entry ith invitation
+              size: 3
+            - time: 10pm - open end
+              title: Aftershow
+              location:
+              size: 3
   # - partial: time-table
   #   headline: streaming schedule 2021
   #   data:
