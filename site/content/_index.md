@@ -98,7 +98,7 @@ sections:
             - time: 11pm - open end
               title: Networking Night
               location: Lieblingsmensch
-              size: 3
+              size: 4
         - title: June 17th
           blocks:
             - time: 10am - 5pm
