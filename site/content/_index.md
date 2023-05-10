@@ -144,16 +144,22 @@ sections:
               size: 3
             - time: 6pm - 8pm
               title: RED CARPET
-              location: City Hall | entry ith invitation
+              location: City Hall | by invitation only
               size: 3
             - time: 8pm - 10pm
               title: AWARD CEREMONY of the 9th DIE SERIALE Digital Series Festival
-              location: City Hall | entry ith invitation
+              location: City Hall | by invitation only
               size: 3
             - time: 10pm - open end
               title: Aftershow
               location:
               size: 3
+        - title: June 19th
+          blocks:
+            - time: 11:30am - 3pm
+              title: Networking & Sightseeing Tour
+              location: tba
+              size: 5
   # - partial: time-table
   #   headline: streaming schedule 2021
   #   data:
