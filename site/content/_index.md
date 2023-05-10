@@ -156,7 +156,7 @@ sections:
               size: 3
         - title: June 19th
           blocks:
-            - time: 11:30am - 3pm
+            - time:
               title: Networking & Sightseeing Tour
               location: tba
               size: 5
