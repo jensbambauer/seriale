@@ -530,6 +530,8 @@ sections:
             sections:
               - partial: text-plain
                 headline: "workshops"
+                data:
+                  text: ""
               - partial: program
                 smallmargin: true
                 data:
