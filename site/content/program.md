@@ -47,7 +47,7 @@ sections:
                       type: panel discussion
                       moderator:
                         - name: Can Taş
-                      guest:
+                      panelists:
                         - name: Magdalena Kaim
                           link: magdalena-kaim
                         - name: Kathrin Göpfert 
@@ -67,7 +67,7 @@ sections:
                       type: panel discussion
                       moderator:
                         - name: Can Taş
-                      guest:
+                      panelists:
                         - name: Elena Halangk 
                           link: elena-halangk
                         - name: Josia Krug
@@ -98,7 +98,7 @@ sections:
                       type: talk
                       host:
                         - name: Daria Solovieva
-                  guest:
+                  panelists:
                     - title: "Screening Block 2 (Open Air)"
                       length: 3
                       datetime: 2021-06-15
@@ -138,7 +138,7 @@ sections:
                       details: "In our first Creators Panel, the series creators of this year’s Official Selection will talk about their works. What inspired them? Which message(s) do they want to send with their series? And what advice would they like to give aspiring creators on their journey into the film industry?"
                       moderator:
                         - name: Dipu Bhattacharya
-                      guest:
+                      panelists:
                         - name: Kyle Leland Cullerton  
                           link: kyle-leland-cullerton 
                         - name: Mel House  
@@ -154,7 +154,7 @@ sections:
                       details: "In this panel we will look at the growing influence of artificial intelligence. How is AI being used in creative media? What are the advantages and disadvantages of using AI for creators? What are the opportunities and challenges? And what exact changes are expected in the creative world due to AI?"
                       moderator:
                         - name: Isabella Pianto
-                      guest:
+                      panelists:
                         - name: Angela Krewani
                           link: angela-krewani 
                         - name: Thomas Krupa 
@@ -173,7 +173,7 @@ sections:
                       moderators:
                         - name: Isabella Pianto 
                         - name: Anne Failing
-                      guest:
+                      panelists:
                         - name: Mikel Ayllon 
                           link: mikel-ayllon 
                         - name: Oliver Fahle 
@@ -190,7 +190,7 @@ sections:
                       details: "In our second Creators Panel, the series creators of this year's Official Selection will talk about their projects and the creative process of their work. Where do they get inspiration and what challenges do they face from the basic idea to the realization?"
                       moderator:
                         - name: Mariia Eliseeva 
-                      guest:
+                      panelists:
                         - name: Ludmila Wagnest 
                           link: ludmila-wagnest
                         - name: Mathilde Bourbin 
@@ -204,7 +204,7 @@ sections:
                       details: "Director Thomas Krupa and VR Artist Tobias Biesecke will present and speak about their VR film “Die Wand (360°)”. The possibilities of VR in general and for series will be discussed. Visitors will have the opportunity to watch “Die Wand (360°)” during the Educational."
                       moderator:
                         - name: Isabella Pianto 
-                      guest:
+                      panelists:
                         - name: Thomas Krupa 
                           link: thomas-krupa 
                         - name: Tobias Bieseke 
@@ -325,7 +325,7 @@ sections:
                       time: 11:40 | 11:40am
                       moderator:
                         - name: Alexandra Manlig 
-                      guest:
+                      panelists:
                         - name: Daniel Götz 
                           link: daniel-goetz  
                         - name: Dr. Tina Kaiser 
@@ -348,7 +348,7 @@ sections:
                       details: "Various financing options for web series will be discussed in this panel, which are not necessarily mutually exclusive, but can complement each other in the best way possible. The panel will also explore the options of private investors and co-productions and how they can support both the creative and financial aspects of web series production. The experienced speakers will share their insights in financing web series and provide valuable advice for those seeking funding opportunities."
                       moderator:
                         - name: Rose of Dolls 
-                      guest:
+                      panelists:
                         - name: Kate Madison 
                           link: kate-madison
                         - name: Sofía Szelske 
@@ -365,7 +365,7 @@ sections:
                       details: "The distribution of web series has undergone significant changes in recent years and new distribution platforms and markets have emerged. This panel will discuss the latest developments and opportunities in web series distribution, including the role of streaming platforms, as well as social media channels. The experienced speakers will share their insights in marketing web series and present strategies to reach audiences in new markets, including the specifics of web series and the importance of subtitles. Additionally, the role of the festival circuit in web series distribution will be discussed. This panel provides a great opportunity for web series creators and industry professionals to learn more about the latest trends and challenges in web series distribution and gain valuable insights and advice from experienced experts."
                       moderator:
                         - name: Celina Schmitt 
-                      guest:
+                      panelists:
                         - name: Antoine Disle 
                           link: antoine-disle 
                         - name: Lea von den Steinen 
