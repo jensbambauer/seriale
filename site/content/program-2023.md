@@ -288,7 +288,7 @@ sections:
               - partial: text-plain
                 headline: "seriale pro"
                 data:
-                  text: "Seriale Pro is the festival’s platform where the various players from the industry can meet and network. This year it is taking place for the 7th time as part of Seriale and offers a Conference Program, many Networking Events and the Pitch Contest. <br/><br/>Location: Stadttheater Giessen, Südanlage 1, 35390 Giessen"
+                  text: "Seriale Pro is the festival’s platform where the various players from the industry can meet and network. This year it is taking place for the 7th time as part of Seriale and offers a Conference Program and many Networking Events.<br/><br/>Location: Stadttheater Giessen, Südanlage 1, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
