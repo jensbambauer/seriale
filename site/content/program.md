@@ -164,7 +164,6 @@ sections:
                         - name: Waref Abu Quba 
                           link: waref-abu-quba
                         - name: ChatGPT 
-                          link: chatgpt
                     - title: "Gender Onscreen: The Constructions of Gender and Identity in Digital Series."
                       type: Panel Discussion
                       length: 3
