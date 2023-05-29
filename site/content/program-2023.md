@@ -271,8 +271,6 @@ sections:
                           name: get tickets
               - partial: text-plain
                 headline: Networking Night
-                data:
-                  text:
               - partial: program
                 smallmargin: true
                 data:
@@ -530,8 +528,6 @@ sections:
             sections:
               - partial: text-plain
                 headline: "workshops"
-                data:
-                  text: ""
               - partial: program
                 smallmargin: true
                 data:
