@@ -29,14 +29,14 @@ sections:
   #     background: /img/be-part-of-it-bg.jpg
   #     href: https://dieseriale.sparqfest.live/en/index.html
   #     text: Watch Series
-  # - partial: thumb-grid
-  #   headline: official selection series 2022
-  #   data:
-  #     list: series
-  # - partial: thumb-grid
-  #   headline: official selection pilots 2022
-  #   data:
-  #     list: pilots
+  - partial: thumb-grid
+    headline: official selection series 2023
+    data:
+      list: series
+  - partial: thumb-grid
+    headline: official selection pilots 2023
+    data:
+      list: pilots
   - partial: text
     data:
       headline: About

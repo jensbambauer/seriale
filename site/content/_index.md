@@ -36,10 +36,10 @@ sections:
           button:
             text: view now
             href: /official-selection-2023
-        # - headline: series/pilots trailers 2022
-        #   button:
-        #     text: watch now
-        #     href: /festival/
+        - headline: series/pilots trailers 2023
+          button:
+            text: watch now
+            href: /festival/
         # - headline: nominees & winners 2021
         #   button:
         #     text: view now
