@@ -380,21 +380,21 @@ sections:
                           link: rocio-carbajo 
                         - name: Rose of Dolls 
                           link: rose-of-dolls
-	           - partial: text-plain
-	             headline: late night talks
-	             data:
-	               text: "Conversations with series creators in a cozy evening atmosphere in front of a live audience.<br/><br/>Location: Stadttheater Giessen, Südanlage 1, 35390 Giessen"
-	                - partial: program
-	                  smallmargin: true
-	                  data:
-	                    items:
-	                      - title: Creators Talk
-	                        length: 4
-	                        datetime: 2023-06-17
-	                        time: 15:00 | 3pm
-	                        type: talk
-	                        host:
-	                          - name: Daria Solovieva 
+              - partial: text-plain
+                headline: late night talks
+                data:
+                  text: "Conversations with series creators in a cozy evening atmosphere in front of a live audience.<br/><br/>Location: Stadttheater Giessen, Südanlage 1, 35390 Giessen"
+                    - partial: program
+                      smallmargin: true
+                      data:
+                        items:
+                          - title: Creators Talk
+                            length: 4
+                            datetime: 2023-06-17
+                            time: 15:00 | 3pm
+                            type: talk
+                            host:
+                              - name: Daria Solovieva 
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
