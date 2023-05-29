@@ -131,7 +131,7 @@ sections:
                           link: anja-henningsmeyer
                         - name: Csongor Dobrotka
                         - name: Isabella Pianto
-                    - title: The Creative Process in Digital Series: A Panel of Experts 
+                    - title: "The Creative Process in Digital Series: A Panel of Experts"
                       length: 2
                       time: 10:15 | 10:15am
                       type: Panel Discussion 
