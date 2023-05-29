@@ -2,7 +2,6 @@
 title: Mid-to-Late (International Premiere)
 image: /img/series/mid-to-late.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Mid-to-Late (International Premiere)
 Country: United States | Genre: Dramedy | Creator & Writer: Lindsey Shaw | Director: Kyle Leland Cullerton | Producers: Lindsey Shaw, Kyle Leland Cullerton | Main Cast: Lindsey Shaw

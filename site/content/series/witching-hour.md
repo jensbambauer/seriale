@@ -2,7 +2,6 @@
 title: Witching Hour (German Premiere)
 image: /img/series/witching-hour.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Witching Hour (German Premiere)
 Country: Spain | Genre: Horror, Mockumentary | Creators, Writers, Directors & Producers: Rose of Dolls, Oliver Mend | Main Cast: Sofia Zallio

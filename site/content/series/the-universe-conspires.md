@@ -2,7 +2,6 @@
 title: The Universe Conspires. An Essay on Love. (German Festival Premiere)
 image: /img/series/the-universe-conspires.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Universe Conspires. An Essay on Love. (German Festival Premiere)
 Country: Uruguay | Genre: Dramatic Comedy | Creator, Writer & Director: Leonardo Pintos | Producers: Maysa Correa, Leonardo Pintos | Main Cast: Rodolfo Agüero, Camila Parard, Santiago Bozzolo, Cecilia Yañez, Lula González, Camilo Ripoll, Bruno Acevedo Quevedo, Bruno Brandolino

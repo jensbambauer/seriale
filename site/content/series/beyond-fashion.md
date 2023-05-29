@@ -2,7 +2,6 @@
 title: Beyond Fashion
 image: /img/series/beyond-fashion.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Beyond Fashion
 Country: Germany | Genre: Documentary | Creators: Ineke Hagedorn, Susanne Bauer, Manuel Freundt | Writer: Susanne Bauer | Directors: Paola Calvo, Patrick Jasim | Producers: Ineke Hagedorn, Manuel Freundt | Hostin: Avi Jakobs
