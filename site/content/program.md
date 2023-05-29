@@ -534,20 +534,28 @@ sections:
                   items:
                     - title: "Flixxo & die Seriale Writing Residence"
                       type: workshop
-                      length: 3
-                      time: 10:00 | 10am
+                      length: 4
+                      time: June 14 - 18 | 10:00 - 15:00 | 10am - 3pm
                       details: "During the Writing Residence the participants will work on the development of series projects. The writers will work intensely with theoretical classes and practical exercises, in order to enhance each project. Some of the topics that will be worked on during the 5 days: character construction, dialogues, narrative structure, pitch and project presentation in markets.<br/><br/>Location: City Hall, Berlinerplatz 1, 35392 Giessen"
                       speaker:
                         - name: Pedro Levati 
                           link: pedro-levati
                     - title: "Beyond the Shadows - Budget-Friendly Concepts in Film Lighting"
                       type: workshop
-                      length: 3
-                      time: 10:00 | 10am
+                      length: 4
+                      time: June 18 | 10:00 - 11:30 | 10am - 11:30am
                       details: "The workshop focuses on basic techniques for creating a separation between the subject and the background. It covers fundamental lighting philosophy and its application. Overcoming uneven lighting, shadows, and color imbalances is also addressed during the workshop. Hands-on exercises are included to practice creative use of practical lights and natural light.<br/><br/>Location: City Hall, Berlinerplatz 1, 35392 Giessen"
                       speaker:
                         - name: Joachim Jung
                           link: joachim-jung
+                    - title: "Social Media Marketing"
+                      type: workshop
+                      length: 4
+                      time: Date and location tba
+                      details: "During the workshop Sara Mauleón Carbayo will explain how to create video content for Instagram Reel and TikTok to promote own projects. The focus will be on the difference between the two platforms and how to use that knowledge for good Social Media Marketing content. "
+                      speaker:
+                        - name: Sara Mauleón Carbayo
+                          link: sara-mauleon-carbayo
   - partial: text-plain
     headline: connect with us
     data:
