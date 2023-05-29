@@ -173,7 +173,7 @@ sections:
                       moderators:
                         - name: Isabella Pianto 
                         - name: Anne Failing
-                       guests:
+                      guests:
                         - name: Mikel Ayllon 
                           link: mikel-ayllon 
                         - name: Oliver Fahle 
