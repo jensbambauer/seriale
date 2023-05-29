@@ -145,8 +145,8 @@ sections:
                           link: mel-house 
                         - name: Rose of Dolls 
                           link: rose-of-dolls
-  						- name: Ruairi Glasheen 
-  						  link: ruairi-glasheen
+                        - name: Ruairi Glasheen 
+                          link: ruairi-glasheen
                     - title: "AI - The Good, the Bad and the Future"
                       type: Panel Discussion
                       length: 3
