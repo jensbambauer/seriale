@@ -1,11 +1,15 @@
 ---
-title: Oliver Mend 
+title: Oliver Mend
 image: /img/speaker/oliver-mend.jpg
-shortdescription: A FILM TO KILL FOR | SERIESLAND | Spain 
+shortdescription: Director, Producer, Actor | A FILM TO KILL FOR | Spain
 ---
 <img src="/img/speaker/oliver-mend.jpg">
-## Oliver Mend 
+## Oliver Mend
 
-Head of Artistic Development at A FILM TO KILL FOR | Content Director at SERIESLAND | Spain 
+Director, Producer, Actor, Editor, Creative Director | A FILM TO KILL FOR | Spain
 
-Director, actor, editor and really prolific in everything he attempts, Oliver has directed over 30 works as a writer and director. After studying Fine Arts, he completed a Master in Audiovisual Company Management and excelled in directing genre films, digital series, short films and music videos, in his previous company “Happy Latex Productions“, and also now at “A Film To Kill For“.
+Director, Actor, Editor and really prolific in everything he attempts, Oliver has directed over 40 works as a writer and director. After studying Fine Arts, he studied a Master in Audiovisual Company Management and excelled in directing genre films, digital series, short films and music videos, in his previous company “Happy Latex Productions”, and also now at “A FILM TO KILL FOR”, with over 50 award winning productions. He is the owner and managing director of “Happy Latex Studios” in Bilbao, and the creative director of the festival “Bilbao Seriesland”.
+
+
+
+

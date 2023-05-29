@@ -6,6 +6,6 @@ shortdescription: Producer, Distributor | France
 <img src="/img/speaker/antoine-disle.jpg">
 ## Antoine Disle
 
-Producer, Distributor | Founder of Tamtam Stories | France
+Producer, Distributor | Founder of TamTam Stories | France
 
-Antoine has had a long career in business launches whose common point has always been the dissemination of culture. For nearly 30 years, he fostered artistic creation both in Europe and in the United States, where he still has offices today. Passionate about prospective studies and breakthrough technologies, he founded pioneering companies in their field and sometimes ahead of time. Édifice, launched in 1985, helped television stations and offered consultancy services to the SFP.
+Antoine began his career producing documentaries. Passionate about digital media, he collaborated with the first digital players. Antoine saw the potential of this expanding space to reach a more specific audience, young adults, with a new, shorter format. A pioneer in this field, he broke the traditional series codes for a more original and impactful result. He then teamed up with young writers, actors, and consultants to rethink established writing rules and create innovative workshops, where upfront casting contributed to the writing process and helped capture the right tone. With TamTam Stories, created with his comrades Alexandre Cornu and Jean-Michel Albert, Antoine continued to discover new talents and new forms of creation, developing films & series. Antoine also developed international distribution for short web series and sold about 40 titles to platforms in 2022.
