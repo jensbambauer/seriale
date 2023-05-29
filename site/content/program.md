@@ -476,7 +476,7 @@ sections:
                       length: 2
                       moderator:
                         - name: Can Taş
-                      guest:
+                      panelists:
                         - name: Ettore Nicoletti
                           link: ettore-nicoletti
                       time: 11:30 | 11:30am
@@ -486,7 +486,7 @@ sections:
                       length: 2
                       moderator:
                         - name: Isabella Pianto
-                      guest:
+                      panelists:
                         - name: Andrea Traina
                           link: andrea-traina
                       time: 12:30 | 12:30am
