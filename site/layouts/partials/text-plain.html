@@ -1,3 +1,5 @@
 {{ with.data }}
+{{ with.text }}
 <div class="text">{{ .text | safeHTML }}</div>
+{{ end }}
 {{ end }}
