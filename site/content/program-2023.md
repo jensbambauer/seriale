@@ -47,7 +47,7 @@ sections:
                       type: panel discussion
                       moderator:
                         - name: Can Taş
-                      guests:
+                      guest:
                         - name: Magdalena Kaim
                           link: magdalena-kaim
                         - name: Kathrin Göpfert 
@@ -67,7 +67,7 @@ sections:
                       type: panel discussion
                       moderator:
                         - name: Can Taş
-                      guests:
+                      guest:
                         - name: Elena Halangk 
                           link: elena-halangk
                         - name: Josia Krug
@@ -98,7 +98,7 @@ sections:
                       type: talk
                       host:
                         - name: Daria Solovieva
-                  guests:
+                  guest:
                     - title: "Screening Block 2 (Open Air)"
                       length: 3
                       datetime: 2021-06-15
@@ -138,7 +138,7 @@ sections:
                       details: "In our first Creators Panel, the series creators of this year’s Official Selection will talk about their works. What inspired them? Which message(s) do they want to send with their series? And what advice would they like to give aspiring creators on their journey into the film industry?"
                       moderator:
                         - name: Dipu Bhattacharya
-                      guests:
+                      guest:
                         - name: Kyle Leland Cullerton  
                           link: kyle-leland-cullerton 
                         - name: Mel House  
@@ -154,7 +154,7 @@ sections:
                       details: "In this panel we will look at the growing influence of artificial intelligence. How is AI being used in creative media? What are the advantages and disadvantages of using AI for creators? What are the opportunities and challenges? And what exact changes are expected in the creative world due to AI?"
                       moderator:
                         - name: Isabella Pianto
-                      guests:
+                      guest:
                         - name: Angela Krewani
                           link: angela-krewani 
                         - name: Thomas Krupa 
@@ -173,7 +173,7 @@ sections:
                       moderators:
                         - name: Isabella Pianto 
                         - name: Anne Failing
-                      guests:
+                      guest:
                         - name: Mikel Ayllon 
                           link: mikel-ayllon 
                         - name: Oliver Fahle 
@@ -190,21 +190,21 @@ sections:
                       details: "In our second Creators Panel, the series creators of this year's Official Selection will talk about their projects and the creative process of their work. Where do they get inspiration and what challenges do they face from the basic idea to the realization?"
                       moderator:
                         - name: Mariia Eliseeva 
-                      guests:
+                      guest:
                         - name: Ludmila Wagnest 
                           link: ludmila-wagnest
                         - name: Mathilde Bourbin 
                           link: mathilde-bourbin 
                         - name: Frédéric Zeimet 
                           link: frederic-zeimet 
-                    - title: "“Die Wand (360°)” – Film as a sensually perceptible experience"
+                    - title: "Die Wand (360°) - Film as a sensually perceptible experience"
                       type: Talk 
                       length: 3
                       time: 14:00 | 2pm
                       details: "Director Thomas Krupa and VR Artist Tobias Biesecke will present and speak about their VR film “Die Wand (360°)”. The possibilities of VR in general and for series will be discussed. Visitors will have the opportunity to watch “Die Wand (360°)” during the Educational."
                       moderator:
                         - name: Isabella Pianto 
-                      guests:
+                      guest:
                         - name: Thomas Krupa 
                           link: thomas-krupa 
                         - name: Tobias Bieseke 
@@ -213,13 +213,13 @@ sections:
                       type: VR-Screenings 
                       length: 3
                       time: 10:00 - 19:30 | 10am - 7:30pm
-                      details: "Start times: 10am | 12pm | 2pm | 4pm | 6pm (5 visitors per screening)<br/><br/>Country: Germany | Genre: Drama, Mystery | Runtime: 80 min<br/><br/>Creator & Director: Thomas Krupa<br/><br/>Writer/Novel: Marlen Haushofer<br/><br/>VR-Artist: Tobias Bieseke<br/><br/>Producer: Schauspiel Essen<br/><br/>Main Cast: Floriane Kleinpaß, Alexey Ekimov, Sabine Osthoff, Stefan Migge, Stefan Diekmann
-                      Visitors of the Educational can watch the VR film “Die Wand (360°)” at the specified start times. The film was made at “Schauspiel Essen” and is based on the novel by Marlen Haushofer, the VR version was created by Thomas Krupa.<br/><br/>Suddenly there is a wall. In the middle of the landscape - invisible, impenetrable, endless. Yesterday, the nameless woman was waving at her cousin and her husband, who were only going into the village for a short while - today she wakes up and is alone in their hunting lodge. Only the dog Luchs is still with her. Outside the wall there is complete standstill, inside the will to survive of those left behind awakens. Together with some animal companions, the narrator gets to know the beauty and horror of untamed nature far away from any civilisation, experiences moments of great sadness and surprising contentment, feels loneliness and freedom in equal measure. Just when she no longer expects it, a man suddenly appears in the seclusion of her existence. Is this the end of the nightmare? Or its beginning?"	
+                      details: "Start times: 10am | 12pm | 2pm | 4pm | 6pm (5 visitors per screening)<br/>Country: Germany | Genre: Drama, Mystery | Runtime: 80 min<br/>Creator & Director: Thomas Krupa<br/>Writer/Novel: Marlen Haushofer<br/>VR-Artist: Tobias Bieseke<br/>Producer: Schauspiel Essen<br/>Main Cast: Floriane Kleinpaß, Alexey Ekimov, Sabine Osthoff, Stefan Migge, Stefan Diekmann <br/><br/>Visitors of the Educational can watch the VR film “Die Wand (360°)” at the specified start times. The film was made at “Schauspiel Essen” and is based on the novel by Marlen Haushofer, the VR version was created by Thomas Krupa.<br/><br/>
+                      Suddenly there is a wall. In the middle of the landscape - invisible, impenetrable, endless. Yesterday, the nameless woman was waving at her cousin and her husband, who were only going into the village for a short while - today she wakes up and is alone in their hunting lodge. Only the dog Luchs is still with her. Outside the wall there is complete standstill, inside the will to survive of those left behind awakens. Together with some animal companions, the narrator gets to know the beauty and horror of untamed nature far away from any civilisation, experiences moments of great sadness and surprising contentment, feels loneliness and freedom in equal measure. Just when she no longer expects it, a man suddenly appears in the seclusion of her existence. Is this the end of the nightmare? Or its beginning?"
                     - title: "Let's change the picture together"
                       type: Panel Discussion 
                       length: 3
                       time: 14:30 | 2:30pm
-                      details: "In this panel discussion we talk about the inequality of women* in the film industry. Together with ProQuote Film and international guests, we will ask about the conditions and role models that we can create ourselves to improve the status quo. If you can see it, you can be it!"
+                      details: "In this panel discussion we talk about the inequality of women* in the film industry. Together with ProQuote Film and international guest, we will ask about the conditions and role models that we can create ourselves to improve the status quo. If you can see it, you can be it!"
                       moderator:
                         - name: Johanna Polley 
                       panelists:
@@ -297,7 +297,7 @@ sections:
                       time: 10:30 | 10:30am
                       type: Opening
                       length: 2
-                      details: "Introduction of the program and all guests of the day."
+                      details: "Introduction of the program and all guest of the day."
                       hosts:
                         - name: Alexandra Manlig 
                         - name: Celina Schmitt 
@@ -325,7 +325,7 @@ sections:
                       time: 11:40 | 11:40am
                       moderator:
                         - name: Alexandra Manlig 
-                      guests:
+                      guest:
                         - name: Daniel Götz 
                           link: daniel-goetz  
                         - name: Dr. Tina Kaiser 
@@ -348,7 +348,7 @@ sections:
                       details: "Various financing options for web series will be discussed in this panel, which are not necessarily mutually exclusive, but can complement each other in the best way possible. The panel will also explore the options of private investors and co-productions and how they can support both the creative and financial aspects of web series production. The experienced speakers will share their insights in financing web series and provide valuable advice for those seeking funding opportunities."
                       moderator:
                         - name: Rose of Dolls 
-                      guests:
+                      guest:
                         - name: Kate Madison 
                           link: kate-madison
                         - name: Sofía Szelske 
@@ -365,7 +365,7 @@ sections:
                       details: "The distribution of web series has undergone significant changes in recent years and new distribution platforms and markets have emerged. This panel will discuss the latest developments and opportunities in web series distribution, including the role of streaming platforms, as well as social media channels. The experienced speakers will share their insights in marketing web series and present strategies to reach audiences in new markets, including the specifics of web series and the importance of subtitles. Additionally, the role of the festival circuit in web series distribution will be discussed. This panel provides a great opportunity for web series creators and industry professionals to learn more about the latest trends and challenges in web series distribution and gain valuable insights and advice from experienced experts."
                       moderator:
                         - name: Celina Schmitt 
-                      guests:
+                      guest:
                         - name: Antoine Disle 
                           link: antoine-disle 
                         - name: Lea von den Steinen 
@@ -490,7 +490,7 @@ sections:
                       hosts:
                         - name: Alexandra Manlig
                         - name: Celina Schmitt
-                      details: "This year, an exceptional networking event will take place on the “Lahnlust” boat in Giessen. After pre-registration, producers, filmmakers, distributors, representatives of VOD platforms and members of film funds will have the opportunity to network during an idyllic boat trip on the Lahn river. There is room for 30 guests on board and during the 90-minute trip, discussion rounds and one-on-one meetings will take place."
+                      details: "This year, an exceptional networking event will take place on the “Lahnlust” boat in Giessen. After pre-registration, producers, filmmakers, distributors, representatives of VOD platforms and members of film funds will have the opportunity to network during an idyllic boat trip on the Lahn river. There is room for 30 guest on board and during the 90-minute trip, discussion rounds and one-on-one meetings will take place."
               - partial: text-plain
                 headline: "Red Carpet & Award Ceremony"
                 data:
