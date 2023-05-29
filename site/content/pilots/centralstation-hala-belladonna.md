@@ -2,7 +2,6 @@
 title: Centralstation - Hala Belladonna (Festival Premiere)
 image: /img/series/centralstation-hala-belladonna.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Centralstation - Hala Belladonna (Festival Premiere)
 Country: Germany | Genre: Experimental Music Video | Creator, Writer, Director & Producer: Kathrin Göpfert | Main Cast: Heinz Nielow, Claas Grüning, Holger Knatsch, Ralph Wildner, Ludwig Conrad, Eva Naomi Watanabe, Bettina Kowalsky, Jörg Hertstein 

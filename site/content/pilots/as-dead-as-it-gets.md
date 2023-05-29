@@ -2,7 +2,6 @@
 title: As Dead As It Gets (World Premiere)
 image: /img/series/as-dead-as-it-gets.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## As Dead As It Gets (World Premiere)
 Country: Germany | Genre: Crime Comedy | Creators, Writers & Producers: Dietrich Faber, Magdalena Kaim | Director: Magdalena Kaim | Main Cast: Dietrich Faber, Greta Dimroth 

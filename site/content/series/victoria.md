@@ -2,7 +2,7 @@
 title: Victoria (German Premiere)
 image: /img/series/victoria.jpg
 ---
-<iframe width="560" height="315" src="https://vimeo.com/759630336?share=copy" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/759630336?share=copy" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Victoria (German Premiere)
 Country: Argentina | Genre: Drama | Writer & Director: Agustina Gatto | Producers: Mariano Pozzi, Pedro Levati, Sergio Sosa (Flixxo) | Main Cast: Magela Zanotta, Hector Díaz

@@ -2,7 +2,7 @@
 title: Daniel/a (German Premiere)
 image: /img/series/daniela.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zqvP8Titq1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zqvP8Titq1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Daniel/a (German Premiere)  
 Country: Spain | Genre: Drama | Creator & Writer: Mikel Ayllon | Director: Nora Alberdi | Producer: Irati Agirreazkuenaga | Main Cast: Leire Ormazabal 

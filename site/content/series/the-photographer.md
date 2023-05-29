@@ -2,7 +2,7 @@
 title: The Photographer (German Premiere)
 image: /img/series/the-photographer.jpg
 ---
-<iframe width="560" height="315" src="https://vimeo.com/739379853" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/739379853" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Photographer (German Premiere)
 Country: Israel | Genre: Drama | Creators: Eynat Baranovsky, Dina Zvi Riklis | Writer: Eynat Baranovsky | Director: Dina Zvi Riklis | Producer: Arik Bernstein | Main Cast: Eynat Baranovsky, Tom Antopolsky, Efrat Arnon, May Keshet, Reimond Amsalem, Joni Eilati, Tatiana Cannelis Olier, Liron Baranes

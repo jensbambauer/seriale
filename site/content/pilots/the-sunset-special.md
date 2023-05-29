@@ -2,7 +2,7 @@
 title: The Sunset Special
 image: /img/series/the-sunset-special.jpg
 ---
-<iframe width="560" height="315" src="https://vimeo.com/575285576" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/575285576" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Sunset Special
 Country: Germany | Genre: Experimental, Dystopia, Gaming, Retro | Creator, Writer, Director, Producer & Main Cast: Nicolas Gebbe

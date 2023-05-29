@@ -2,7 +2,7 @@
 title: Black Sunday 
 image: /img/series/black-sunday.jpg
 ---
-<iframe width="560" height="315" src="https://vimeo.com/811749342" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/811749342" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Black Sunday 
 Country: Spain | Genre: Drama, Thriller | Creator, Writer, Director & Producer: Ludmila Wagnest | Main Cast: Victorio D'Alessandro, Mina El Hammani, Ramiro Blas, Diego Domínguez

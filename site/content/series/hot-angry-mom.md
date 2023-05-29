@@ -2,7 +2,7 @@
 title: HOT ANGRY MOM (International Premiere)
 image: /img/series/hot-angry-mom.jpg
 ---
-<iframe width="560" height="315" src="https://vimeo.com/770037955" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/770037955" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## HOT ANGRY MOM (International Premiere)
 Country: United States | Genre: Comedy, Drama, Dark Comedy | Creator & Writer: Mel House | Director: Clarissa de los Reyes | Producers: Mel House, Clarissa de los Reyes, Katie Rosin | Main Cast: Mel House, Devin Haqq, Ivory Aquino, Eric Ruffin, Welker White, Pun Bandhu

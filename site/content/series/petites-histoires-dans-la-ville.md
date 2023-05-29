@@ -2,7 +2,7 @@
 title: Petites Histoires dans la Ville (European Festival Premiere)
 image: /img/series/petites-histoires-dans-la-ville.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7apLz4JzcNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7apLz4JzcNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Petites Histoires dans la Ville (European Festival Premiere)
 Country: Canada | Genre: Drama | Creators: Ariel Abrego Gaitan, Juan Carlos Garcia | Writer: Ariel Abrego Gaitan | Director: Garcia JC | Producer: Eloane Venkatapen | Main Cast: Manuel Aranguiz, Aracelli Lillo,  Uriel Villaverde
