@@ -2,7 +2,7 @@
 title: Akanuanua
 image: /img/series/akanuanua.jpg
 ---
-<iframe width="560" height="315" src="https://youtu.be/ofmW63p5wOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ofmW63p5wOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Akanuanua
 Country: New Zealand | Genre: Documentary | Creator, Writer, Director & Producer: Elizabeth Koroivulaono | Main Cast: Asi Taouma Levy

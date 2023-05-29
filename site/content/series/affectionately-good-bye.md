@@ -2,7 +2,6 @@
 title: Affectionately, Good bye (German Premiere)
 image: /img/series/affectionately-good-bye.jpg
 ---
-https://www.youtube.com/embed/byZ7g9fuOaA
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bawDLsWnbX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Affectionately, Good bye (German Premiere)

@@ -2,7 +2,7 @@
 title: Tokens (Season 2) (European Festival Premiere)
 image: /img/series/tokens.jpg
 ---
-<iframe width="560" height="315" src="https://youtu.be/LYHWK55hAHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LYHWK55hAHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tokens (Season 2) (European Festival Premiere)
 Country: Canada | Genre: Comedy | Creator, Writer & Director: Winnifred Jong | Producer: Trinni Franke | Main Cast: Connie Wang, Ryan Allen, Shelley Thompson

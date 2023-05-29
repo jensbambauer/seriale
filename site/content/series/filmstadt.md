@@ -2,7 +2,7 @@
 title: FILMSTADT - Das Making of (Out of Competition)
 image: /img/series/filmstadt.jpg
 ---
-<iframe width="560" height="315" src="https://youtu.be/_-53K8C2atg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_-53K8C2atg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## FILMSTADT - Das Making of (Out of Competition) 
 Country: Germany | Genre: Dramedy | Creator & Director: Dennis Albrecht | Main Cast: Niklas Osterloh, Stephanie Koetz, Martin Reese, Andreas Gerhard, Sandra Quadflieg, Käthe Lachmann, Janis Zaurins
