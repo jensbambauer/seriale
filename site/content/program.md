@@ -47,7 +47,7 @@ sections:
                       type: panel discussion
                       moderator:
                         - name: Can Taş
-                      panelists:
+                      guest:
                         - name: Magdalena Kaim
                           link: magdalena-kaim
                         - name: Kathrin Göpfert 
@@ -67,7 +67,7 @@ sections:
                       type: panel discussion
                       moderator:
                         - name: Can Taş
-                      panelists:
+                      guest:
                         - name: Elena Halangk 
                           link: elena-halangk
                         - name: Josia Krug
@@ -98,7 +98,7 @@ sections:
                       type: talk
                       host:
                         - name: Daria Solovieva
-                  panelists:
+                  guest:
                     - title: "Screening Block 2 (Open Air)"
                       length: 3
                       datetime: 2021-06-15
@@ -138,7 +138,7 @@ sections:
                       details: "In our first Creators Panel, the series creators of this year’s Official Selection will talk about their works. What inspired them? Which message(s) do they want to send with their series? And what advice would they like to give aspiring creators on their journey into the film industry?"
                       moderator:
                         - name: Dipu Bhattacharya
-                      panelists:
+                      guest:
                         - name: Kyle Leland Cullerton  
                           link: kyle-leland-cullerton 
                         - name: Mel House  
@@ -154,7 +154,7 @@ sections:
                       details: "In this panel we will look at the growing influence of artificial intelligence. How is AI being used in creative media? What are the advantages and disadvantages of using AI for creators? What are the opportunities and challenges? And what exact changes are expected in the creative world due to AI?"
                       moderator:
                         - name: Isabella Pianto
-                      panelists:
+                      guest:
                         - name: Angela Krewani
                           link: angela-krewani 
                         - name: Thomas Krupa 
@@ -164,6 +164,7 @@ sections:
                         - name: Waref Abu Quba 
                           link: waref-abu-quba
                         - name: ChatGPT 
+                          link: chatgpt
                     - title: "Gender Onscreen: The Constructions of Gender and Identity in Digital Series."
                       type: Panel Discussion
                       length: 3
@@ -172,7 +173,7 @@ sections:
                       moderators:
                         - name: Isabella Pianto 
                         - name: Anne Failing
-                      panelists:
+                      guest:
                         - name: Mikel Ayllon 
                           link: mikel-ayllon 
                         - name: Oliver Fahle 
@@ -189,7 +190,7 @@ sections:
                       details: "In our second Creators Panel, the series creators of this year's Official Selection will talk about their projects and the creative process of their work. Where do they get inspiration and what challenges do they face from the basic idea to the realization?"
                       moderator:
                         - name: Mariia Eliseeva 
-                      panelists:
+                      guest:
                         - name: Ludmila Wagnest 
                           link: ludmila-wagnest
                         - name: Mathilde Bourbin 
@@ -203,7 +204,7 @@ sections:
                       details: "Director Thomas Krupa and VR Artist Tobias Biesecke will present and speak about their VR film “Die Wand (360°)”. The possibilities of VR in general and for series will be discussed. Visitors will have the opportunity to watch “Die Wand (360°)” during the Educational."
                       moderator:
                         - name: Isabella Pianto 
-                      panelists:
+                      guest:
                         - name: Thomas Krupa 
                           link: thomas-krupa 
                         - name: Tobias Bieseke 
@@ -324,7 +325,7 @@ sections:
                       time: 11:40 | 11:40am
                       moderator:
                         - name: Alexandra Manlig 
-                      panelists:
+                      guest:
                         - name: Daniel Götz 
                           link: daniel-goetz  
                         - name: Dr. Tina Kaiser 
@@ -347,7 +348,7 @@ sections:
                       details: "Various financing options for web series will be discussed in this panel, which are not necessarily mutually exclusive, but can complement each other in the best way possible. The panel will also explore the options of private investors and co-productions and how they can support both the creative and financial aspects of web series production. The experienced speakers will share their insights in financing web series and provide valuable advice for those seeking funding opportunities."
                       moderator:
                         - name: Rose of Dolls 
-                      panelists:
+                      guest:
                         - name: Kate Madison 
                           link: kate-madison
                         - name: Sofía Szelske 
@@ -364,7 +365,7 @@ sections:
                       details: "The distribution of web series has undergone significant changes in recent years and new distribution platforms and markets have emerged. This panel will discuss the latest developments and opportunities in web series distribution, including the role of streaming platforms, as well as social media channels. The experienced speakers will share their insights in marketing web series and present strategies to reach audiences in new markets, including the specifics of web series and the importance of subtitles. Additionally, the role of the festival circuit in web series distribution will be discussed. This panel provides a great opportunity for web series creators and industry professionals to learn more about the latest trends and challenges in web series distribution and gain valuable insights and advice from experienced experts."
                       moderator:
                         - name: Celina Schmitt 
-                      panelists:
+                      guest:
                         - name: Antoine Disle 
                           link: antoine-disle 
                         - name: Lea von den Steinen 
@@ -536,7 +537,7 @@ sections:
                       length: 3
                       time: 10:00 | 10am
                       details: "During the Writing Residence the participants will work on the development of series projects. The writers will work intensely with theoretical classes and practical exercises, in order to enhance each project. Some of the topics that will be worked on during the 5 days: character construction, dialogues, narrative structure, pitch and project presentation in markets.<br/><br/>Location: City Hall, Berlinerplatz 1, 35392 Giessen"
-                      Workshop by:
+                      speaker:
                         - name: Pedro Levati 
                           link: pedro-levati
                     - title: "Beyond the Shadows - Budget-Friendly Concepts in Film Lighting"
@@ -544,7 +545,7 @@ sections:
                       length: 3
                       time: 10:00 | 10am
                       details: "The workshop focuses on basic techniques for creating a separation between the subject and the background. It covers fundamental lighting philosophy and its application. Overcoming uneven lighting, shadows, and color imbalances is also addressed during the workshop. Hands-on exercises are included to practice creative use of practical lights and natural light.<br/><br/>Location: City Hall, Berlinerplatz 1, 35392 Giessen"
-                      Workshop by:
+                      speaker:
                         - name: Joachim Jung
                           link: joachim-jung
   - partial: text-plain
