@@ -140,31 +140,35 @@ sections:
     headline: our sponsors
     data:
       items:
-        - image: /img/partners/HessenFilm.png
+        - image: /img/partners/HFM_Logo_Red_sRGB.png
           link: "https://www.hessenfilm.de/"
         - image: /img/partners/giessen.png
           link: "https://www.giessen.de"
         - image: /img/partners/Wetzlar.png
         # - image: /img/partners/sparkasse.png
-        - image: /img/partners/sparq-logo@1x.png
-          link: "https://www.sparqfest.live/"
-        - image: /img/partners/wktp.png
-          link: "https://www.whokilledthepig.de/"
-        # - image: /img/partners/mm-eventservice.jpg
+        - image: /img/partners/Seeka_TV.png
+          link: "https://watch.seeka.tv"
         - image: /img/partners/kinocenter.png
+        # - image: /img/partners/mm-eventservice.jpg
+        - image: /img/partners/Logo-STG.png
+          link: "https://stadttheater-giessen.de/"
         - image: /img/partners/dobago.png
           link: "http://www.dobago.de"
         - image: /img/partners/lichtacker.png
+        - image: /img/partners/sparq-logo@1x.png
+          link: "https://www.sparqfest.live/"
         - image: /img/partners/rossi-photography.png
           link: "https://stolenmoments.de"
         - image: /img/partners/Lumatik.png
           link: "https://www.lumatik.media"
+        - image: /img/partners/tag-nacht-media-logo.png
+          link: "https://tagundnachtmedia.de/"
         # - image: /img/partners/heyligenstaedt.png
-        - image: /img/partners/World_Wide_Webserie.png
-          link: "https://www.worldwidewebserie.com"
+        - image: /img/partners/sAWE.png
+          link: "https://www.serieslyawesome.tv/"
         - image: /img/partners/Unsere_Serien.svg
         # - image: /img/partners/elefantenklo_magazin_logo.png
-        - image: /img/partners/wswc2022.jpg
+        - image: /img/partners/wswc-2023.jpg
   - partial: grid
     headline: our partner festivals
     data:
