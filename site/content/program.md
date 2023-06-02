@@ -536,6 +536,9 @@ sections:
                       length: 4
                       time: June 14 - 18 | 10:00 - 15:00 | 10am - 3pm
                       details: "During the Writing Residence the participants will work on the development of series projects. The writers will work intensely with theoretical classes and practical exercises, in order to enhance each project. Some of the topics that will be worked on during the 5 days: character construction, dialogues, narrative structure, pitch and project presentation in markets.<br/><br/>Location: City Hall, Berlinerplatz 1, 35392 Giessen"
+                      external:
+                        - link: https://seriale2.vercel.app/workshop-register
+                          name: register
                       speaker:
                         - name: Pedro Levati 
                           link: pedro-levati
