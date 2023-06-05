@@ -86,7 +86,7 @@ sections:
               - partial: text-plain
                 headline: live music
                 data:
-                  text: "The 9th edition of Seriale starts with live music on the Kirchplatz in Giessen.<br/><br/>Location: Kirchplatz, 35390 Giessen"
+                  text: "The 9th edition of Seriale starts with live music on the Kirchenplatz in Giessen.<br/><br/>Location: Kirchenplatz, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
@@ -98,11 +98,10 @@ sections:
                       type: talk
                       host:
                         - name: Daria Solovieva
-                  panelists:
                     - title: "Screening Block 2 (Open Air)"
                       length: 3
                       datetime: 2021-06-15
-                      details: "Open Air Screening of international series and pilots from the Official Selection 2023.<br/><br/>Location: Kirchplatz, 35390 Giessen"
+                      details: "Open Air Screening of international series and pilots from the Official Selection 2023.<br/><br/>Location: Kirchenplatz, 35390 Giessen"
                       time: 21:30 | 9:30pm
                       type: screening
         - title: 16th june
