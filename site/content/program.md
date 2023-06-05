@@ -84,15 +84,19 @@ sections:
           data:
             sections:
               - partial: text-plain
-                headline: live music
+                headline: Open Air
                 data:
                   text: "The 9th edition of Seriale starts with live music on the Kirchenplatz in Giessen.<br/><br/>Location: Kirchenplatz, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
                   items:
+                    - title: live music
+                      length: 3
+                      datetime: 2023-06-15
+                      time: 7:30pm - 9pm | 19:30 - 21:00
                     - title: Open Air Creators Talk
-                      length: 4
+                      length: 2
                       datetime: 2023-06-15
                       time: 21:00 | 9pm
                       type: talk
