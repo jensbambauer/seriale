@@ -550,6 +550,9 @@ sections:
                       length: 4
                       time: June 18 | 10:00 - 11:30 | 10am - 11:30am
                       details: "The workshop focuses on basic techniques for creating a separation between the subject and the background. It covers fundamental lighting philosophy and its application. Overcoming uneven lighting, shadows, and color imbalances is also addressed during the workshop. Hands-on exercises are included to practice creative use of practical lights and natural light.<br/><br/>Location: City Hall, Berlinerplatz 1, 35392 Giessen"
+                      external:
+                        - link: https://seriale2.vercel.app/workshop-educational-register
+                          name: register
                       speaker:
                         - name: Joachim Jung
                           link: joachim-jung
@@ -558,6 +561,9 @@ sections:
                       length: 4
                       time: Date and location tba
                       details: "During the workshop Sara Mauleón Carbayo will explain how to create video content for Instagram Reel and TikTok to promote own projects. The focus will be on the difference between the two platforms and how to use that knowledge for good Social Media Marketing content. "
+                      external:
+                        - link: https://seriale2.vercel.app/workshop-socialmedia-register
+                          name: register
                       speaker:
                         - name: Sara Mauleón Carbayo
                           link: sara-mauleon-carbayo
