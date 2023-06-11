@@ -57,6 +57,14 @@
         <span class="speaker-no-link">{{.name}}</span>
         {{ end }} {{ end }}
       </div>
+      <div class="program__speaker">
+        <h4>Series</h4>
+        {{ range.series }} {{ if .link }}
+        <a class="button" href="/series/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        {{ else }}
+        <span class="speaker-no-link">{{.name}}</span>
+        {{ end }} {{ end }}
+      </div>
       {{ end }} {{ if .external }}
       <div class="program__speaker">
         {{ range.external }}

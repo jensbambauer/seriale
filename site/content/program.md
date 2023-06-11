@@ -79,6 +79,16 @@ sections:
                       datetime: 2023-06-14
                       time: 21:30 | 9:30pm
                       type: screening
+                      series:
+                        - name: Lotte Haus
+                        - name: Centralstation - Hala Belladonna
+                        - name: As Dead As It Gets
+                        - name: Magnum Opus
+                        - name: The Sunset Special
+                        - name: Emmy & Christin
+                          link: emmy-und-christin
+                        - name: Hotel Sweet Hotel
+                          link: hotel-sweet-hotel
         - title: 15th june
           partial: tab-sections
           data:
@@ -108,6 +118,15 @@ sections:
                       details: "Open Air Screening of international series and pilots from the Official Selection 2023.<br/><br/>Location: Kirchenplatz, 35390 Giessen"
                       time: 21:30 | 9:30pm
                       type: screening
+                      series:
+                        - name: Filmstadt
+                          link: filmstadt
+                        - name: Tokens (Season 2)
+                          link: tokens
+                        - name: Akanuanua
+                          link: akanuanua
+                        - name: Digital Investigations
+                        - name: Lebensraum
         - title: 16th june
           partial: tab-sections
           data:
@@ -254,6 +273,15 @@ sections:
                       datetime: 2023-06-16
                       time: 17:30 | 5:30pm
                       type: screening
+                      series:
+                        - name: All In
+                          link: all-in
+                        - name: Death Phone
+                          link: death-phone
+                        - name: Hammersmith
+                          link: hammersmith
+                        - name: W.
+                          link: w
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD
                           name: get tickets
@@ -262,6 +290,15 @@ sections:
                       datetime: 2023-06-16
                       time: 20:00 | 8:00pm
                       type: screening
+                      series:
+                        - name: Tito Bilbao
+                          link: tito-bilbao
+                        - name: Frapuccino (Season 2)
+                          link: frapuccino
+                        - name: Rhythms of Italy
+                          link: rhythms-of-italy
+                        - name: Black Sunday
+                          link: black-sunday
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD
                           name: get tickets
@@ -270,6 +307,15 @@ sections:
                       datetime: 2023-06-16
                       time: 21:45 | 9:45pm
                       type: screening
+                      series:
+                        - name: Daniel/a
+                          link: daniela
+                        - name: Hot Angry Mom
+                          link: hot-angry-mom
+                        - name: Sisyphus
+                          link: sisyphus
+                        - name: Beyond Fashion
+                          link: beyond-fashion
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD
                           name: get tickets
@@ -411,6 +457,19 @@ sections:
                       datetime: 2023-06-17
                       time: 16:00 | 4pm
                       type: screening
+                      series:
+                        - name: Chateau Laurier (Season 2)
+                          link: chateau-laurier
+                        - name: Recife’s Greatest Love Story
+                          link: recifes-greatest-love-story
+                        - name: Affectionately, Good bye
+                          link: affectionately-good-bye
+                        - name: ANA (I AM)
+                          link: ana-i-am
+                        - name: Forgotten Masters (Season 2)
+                          link: forgotten-masters
+                        - name: The Y Theory (Season 3)
+                          link: the-y-theory
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD
                           name: get tickets
@@ -427,6 +486,17 @@ sections:
                       datetime: 2023-06-17
                       time: 19:30 | 7:30pm
                       type: screening
+                      series:
+                        - name: An Ultradeformer Walk
+                          link: an-ultradeformer-walk
+                        - name: Magdeburg Moritzplatz (Season 2)
+                          link: magdeburg-moritzplatz
+                        - name: Private
+                          link: private
+                        - name: Illuminagents
+                          link: illuminagents
+                        - name: The Universe Conspires. An Essay on Love.
+                          link: the-universe-conspires
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD
                           name: get tickets
@@ -435,6 +505,15 @@ sections:
                       datetime: 2023-06-17
                       time: 21:00 | 9pm
                       type: screening
+                      series:
+                        - name: all the guests have left
+                        - name: Fritz Menzer - A Secret Life
+                          link: fritz-menzer
+                        - name: Mid-to-Late
+                        - name: Witching Hour
+                          link: witching-hour
+                        - name: Victoria
+                          link: victoria
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD
                           name: get tickets
@@ -468,6 +547,18 @@ sections:
                       datetime: 2023-06-18
                       time: 15:00 | 3pm
                       type: screening
+                      series:
+                        - name: Petites Histoires dans la Ville
+                          link: petites-histoires-dans-la-ville
+                        - name: Girl Dad
+                        - name: The Dump (Season 2)
+                          link: the-dump
+                        - name: Daddy Issues
+                          link: daddy-issues
+                        - name: Queen of the Playground
+                          link: queen-of-the-playground
+                        - name: The Photographer
+                          link: the-photographer
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD
                           name: get tickets
@@ -476,6 +567,19 @@ sections:
                       datetime: 2023-06-18
                       time: 16:30 | 4:30pm
                       type: screening
+                      series:
+                        - name: Landing Home
+                          link: lading-home
+                        - name: Detox
+                          link: detox
+                        - name: Kith & Kin
+                          link: kith-and-kin
+                        - name: Hollywood Nazista
+                          link: hollywood-nazista
+                        - name: The Photo of My Life
+                          link: the-photo-of-my-life
+                        - name: Segunda Pele
+                          link: segunda-pele
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD
                           name: get tickets	  
