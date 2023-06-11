@@ -291,6 +291,8 @@ sections:
                       time: 20:00 | 8:00pm
                       type: screening
                       series:
+                        - name: We are all Maca
+                          link: we-are-all-maca
                         - name: Tito Bilbao
                           link: tito-bilbao
                         - name: Frapuccino (Season 2)
