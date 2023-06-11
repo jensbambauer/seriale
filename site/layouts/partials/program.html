@@ -63,7 +63,7 @@
       <div class="program__speaker">
         <h4>series screening</h4>
         {{ range.series }} {{ if .link }}
-        <a class="button" href="/series/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        <a class="button" href="/series/{{.link}}" data-role="overlay-large" data-barba-prevent>{{.name}}</a>
         {{ else }}
         <span class="speaker-no-link">{{.name}}</span>
         {{ end }} {{ end }}
