@@ -141,6 +141,7 @@ sections:
                       details: "In our first Creators Panel, the series creators of this year’s Official Selection will talk about their works. What inspired them? Which message(s) do they want to send with their series? And what advice would they like to give aspiring creators on their journey into the film industry?"
                       moderator:
                         - name: Dipu Bhattacharya
+                          link: dipu-bhattacharya
                       panelists:
                         - name: Kyle Leland Cullerton  
                           link: kyle-leland-cullerton 
@@ -224,6 +225,7 @@ sections:
                       details: "In this panel discussion we talk about the inequality of women* in the film industry. Together with ProQuote Film and international guest, we will ask about the conditions and role models that we can create ourselves to improve the status quo. If you can see it, you can be it!"
                       moderator:
                         - name: Johanna Polley 
+                          link: johanna-polley
                       panelists:
                         - name: Eva Maria Sommersberg
                           link: eva-maria-sommersberg
@@ -350,6 +352,7 @@ sections:
                       details: "Various financing options for web series will be discussed in this panel, which are not necessarily mutually exclusive, but can complement each other in the best way possible. The panel will also explore the options of private investors and co-productions and how they can support both the creative and financial aspects of web series production. The experienced speakers will share their insights in financing web series and provide valuable advice for those seeking funding opportunities."
                       moderator:
                         - name: Rose of Dolls 
+                          link: rose-of-dolls 
                       panelists:
                         - name: Kate Madison 
                           link: kate-madison
