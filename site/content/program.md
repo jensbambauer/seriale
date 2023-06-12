@@ -197,10 +197,14 @@ sections:
                         - name: Isabella Pianto 
                         - name: Anne Failing
                       panelists:
+                        - name: Felix Hasebrink 
+                          link: felix-hasebrink
                         - name: Mikel Ayllon 
-                          link: mikel-ayllon 
-                        - name: Oliver Fahle 
-                          link: oliver-fahle       
+                          link: mikel-ayllon
+                        - name: Ineke Hagedorn 
+                          link: ineke-hagedorn 
+                        - name: Susanne Bauer 
+                          link: susanne-bauer       
                     - title: Break
                       length: 2
                       type: break
@@ -219,7 +223,13 @@ sections:
                         - name: Mathilde Bourbin 
                           link: mathilde-bourbin 
                         - name: Frédéric Zeimet 
-                          link: frederic-zeimet 
+                          link: frederic-zeimet
+                        - name: Lukas Lankisch 
+                          link: lukas-lankisch
+                        - name: Marco Hülser 
+                          link: marco-huelser
+                        - name: Daniel Popat 
+                          link: daniel-popat 
                     - title: "Die Wand (360°) - Film as a sensually perceptible experience"
                       type: Talk 
                       length: 3
@@ -251,7 +261,9 @@ sections:
                         - name: Mathilde Bourbin 
                           link: mathilde-bourbin
                         - name: Rose of Dolls 
-                          link: rose-of-dolls 
+                          link: rose-of-dolls
+                        - name: Ineke Hagedorn 
+                          link: ineke-hagedorn 
                         - name: Young Man Kang 
                           link: young-man-kang
                     - title: "Film & Media MEETUP Live"
@@ -454,6 +466,12 @@ sections:
                 smallmargin: true
                 data:
                   items:
+                    - title: Pitch Contest
+                      length: 2
+                      datetime: 2023-06-17
+                      time: 15:30 | 3pm
+                      type: pitch contest
+                      details: "Brand new concepts for digital series will be presented to the industry at the Pitch Contest."				  
                     - title: Screening Block 6
                       length: 2
                       datetime: 2023-06-17
@@ -668,8 +686,8 @@ sections:
                     - title: "Social Media Marketing"
                       type: workshop
                       length: 4
-                      time: Date and location tba
-                      details: "During the workshop Sara Mauleón Carbayo will explain how to create video content for Instagram Reel and TikTok to promote own projects. The focus will be on the difference between the two platforms and how to use that knowledge for good Social Media Marketing content. "
+                      time: June 17 | 12:00 - 13:30 | 12pm - 1:30pm
+                      details: "During the workshop Sara Mauleón Carbayo will explain how to create video content for Instagram Reel and TikTok to promote own projects. The focus will be on the difference between the two platforms and how to use that knowledge for good Social Media Marketing content.<br/><br/>Location: City Hall, Berliner Platz 1, 35390 Giessen"
                       external:
                         - link: https://seriale2.vercel.app/workshop-socialmedia-register
                           name: register
