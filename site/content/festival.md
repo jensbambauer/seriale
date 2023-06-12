@@ -214,6 +214,7 @@ sections:
           link: "https://www.bnmwebfest.com"
         - image: /img/partners/AWF.jpg
           link: "https://www.apuliawebfest.it"
+        - image: /img/partners/ZukunftInnenstadt-GI_rot.jpg
   - partial: text-plain
     headline: connect with us
     data:

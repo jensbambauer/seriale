@@ -81,9 +81,6 @@ sections:
         - image: /img/partners/sparq-logo@1x.png
           link: "https://www.sparqfest.live/"
         - image: /img/partners/FlixxoBlack.png
-        - image: /img/partners/wktp.png
-          link: "https://www.whokilledthepig.de/"
-        - image: /img/partners/World_Wide_Webserie.png
         - image: /img/partners/un3-logo.png
         - image: /img/partners/lichtacker.png
         - image: /img/partners/dobago.png
