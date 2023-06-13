@@ -50,13 +50,6 @@ sections:
   #   headline: official selection 2021 - pilots
   #   data:
   #     list: pilots
-  - partial: text-and-image
-    headline: Educational
-    data:
-      image: /img/educational.jpg
-      headline: "Conference Program"
-      text: 'The Educational offers lectures and discussions that intend to bring together film and media scholars with creators. How did the web series world develop in the past two decades? Where are we standing now and what is changing? What are the differences in the dramaturgical structure between short and long form series? What are the up-and-coming ideas and formats? And how do we look at short form digital series from a film- and media-theoretical perspective? The Educational is a cooperation with the "Hessen Film & Media Academy", the network of 13 Hessian universities.
-      <img src="/img/partners/hFMA.png" class="partner-logo">'
   # - partial: text-and-image
   #   headline: Screenings
   #   data:
@@ -64,22 +57,29 @@ sections:
   #     reversed: true
   #     headline: "Movie Theater Giessen"
   #     text: "On 4 days and in 8 screenings over 60 digital series and pilot episodes will be screened. We'll start with an open-air screening in Wetzlar with focus on Hessian series, all other 7 screenings will take place in Kinocenter Giessen. Series from 18 countries offer a versatile program. Numerous series creators will be present and give insights into the production of their series."
-  # - partial: teaser-grid
-  #   headline: jury series
-  #   data:
-  #     list: jury-series
-  # - partial: teaser-grid
-  #   headline: jury documentary
-  #   data:
-  #     list: jury-documentary
-  # - partial: teaser-grid
-  #   headline: jury animation
-  #   data:
-  #     list: jury-animation
-  # - partial: teaser-grid
-  #   headline: jury pilots
-  #   data:
-  #     list: jury-pilots
+  - partial: teaser-grid
+    headline: jury series
+    data:
+      list: jury-series
+  - partial: teaser-grid
+    headline: jury documentary
+    data:
+      list: jury-documentary
+  - partial: teaser-grid
+    headline: jury animation
+    data:
+      list: jury-animation
+  - partial: teaser-grid
+    headline: jury pilots
+    data:
+      list: jury-pilots
+  - partial: text-and-image
+    headline: Educational
+    data:
+      image: /img/educational.jpg
+      headline: "Conference Program"
+      text: 'The Educational offers lectures and discussions that intend to bring together film and media scholars with creators. How did the web series world develop in the past two decades? Where are we standing now and what is changing? What are the differences in the dramaturgical structure between short and long form series? What are the up-and-coming ideas and formats? And how do we look at short form digital series from a film- and media-theoretical perspective? The Educational is a cooperation with the "Hessen Film & Media Academy", the network of 13 Hessian universities.
+      <img src="/img/partners/hFMA.png" class="partner-logo">'
   # - partial: text-and-image
   #   headline: die Seriale in the videmic app
   #   data:
