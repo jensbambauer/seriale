@@ -169,6 +169,7 @@ sections:
         - image: /img/partners/Unsere_Serien.svg
         # - image: /img/partners/elefantenklo_magazin_logo.png
         - image: /img/partners/wswc-2023.jpg
+        - image: /img/partners/ZukunftInnenstadt-GI_rot.jpg
   - partial: grid
     headline: our partner festivals
     data:
@@ -214,7 +215,6 @@ sections:
           link: "https://www.bnmwebfest.com"
         - image: /img/partners/AWF.jpg
           link: "https://www.apuliawebfest.it"
-        - image: /img/partners/ZukunftInnenstadt-GI_rot.jpg
   - partial: text-plain
     headline: connect with us
     data:
