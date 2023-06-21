@@ -336,111 +336,111 @@ sections:
   - partial: text
     headline: Partner Festival's Direct Selections
   - partial: text
-      smallmargin: true
-      data:
-        headline: Bilbao Seriesland (with travel and accommodation)
-        paragraphs:
-          - text: "Magdeburg Moritzplatz (Season 2)"
+    smallmargin: true
+    data:
+      headline: Bilbao Seriesland (with travel and accommodation)
+      paragraphs:
+        - text: "Magdeburg Moritzplatz (Season 2)"
   - partial: text
-      smallmargin: true
-      data:
-        headline: Hollywood Series
-        paragraphs:
-          - text: "The Sunset Special"
+    smallmargin: true
+    data:
+      headline: Hollywood Series
+      paragraphs:
+        - text: "The Sunset Special"
   - partial: text
-      smallmargin: true
-      data:
-        headline: Rio Web Fest
-        paragraphs:
-          - text: "Lebensraum"
+    smallmargin: true
+    data:
+      headline: Rio Web Fest
+      paragraphs:
+        - text: "Lebensraum"
   - partial: text
-      smallmargin: true
-      data:
-        headline: NZ Web Fest
-        paragraphs:
-          - text: "As Dead As It Gets"
+    smallmargin: true
+    data:
+      headline: NZ Web Fest
+      paragraphs:
+        - text: "As Dead As It Gets"
   - partial: text
-      smallmargin: true
-      data:
-        headline: Miami Web Fest
-        paragraphs:
-          - text: "Lebensraum"
+    smallmargin: true
+    data:
+      headline: Miami Web Fest
+      paragraphs:
+        - text: "Lebensraum"
   - partial: text
-      smallmargin: true
-      data:
-        headline: Series Jury | Statement Best Series
-        paragraphs:
-          - text: "We had the pleasure of watching all of the wonderful nominations this year, and yet the difficult task of picking just one overall winner. This production took all of the elements we have been awarding here and brought them together into a really well-rounded series. From the original premise to the visual effects that helped bring it all to life, this series kept us all hooked."
+    smallmargin: true
+    data:
+      headline: Series Jury | Statement Best Series
+      paragraphs:
+        - text: "We had the pleasure of watching all of the wonderful nominations this year, and yet the difficult task of picking just one overall winner. This production took all of the elements we have been awarding here and brought them together into a really well-rounded series. From the original premise to the visual effects that helped bring it all to life, this series kept us all hooked."
   - partial: text
-      smallmargin: true
-      data:
-        headline: Pilots Jury | Statement Best Pilot
-        paragraphs:
-          - text: "This series is an original proposal with captivating script that leaves you wanting more. We highlight the technical quality, the use of special effects that enhance the story development, and the performances of its cast. Without a doubt, the whole crew has done a great job."	
+    smallmargin: true
+    data:
+      headline: Pilots Jury | Statement Best Pilot
+      paragraphs:
+        - text: "This series is an original proposal with captivating script that leaves you wanting more. We highlight the technical quality, the use of special effects that enhance the story development, and the performances of its cast. Without a doubt, the whole crew has done a great job."	
   - partial: text
-      smallmargin: true
-      data:
-        headline: Documentary Jury | Statement Best Documentary
-        paragraphs:
-          - text: "A poetic, daring and innovative series mosaic that portraits a vulnerable and intimate bouquet of diverse individuals. It leaves an appetite for human beings and encourages a reflection of the self."
+    smallmargin: true
+    data:
+      headline: Documentary Jury | Statement Best Documentary
+      paragraphs:
+        - text: "A poetic, daring and innovative series mosaic that portraits a vulnerable and intimate bouquet of diverse individuals. It leaves an appetite for human beings and encourages a reflection of the self."
   - partial: text
-      smallmargin: true
-      data:
-        headline: Animation Jury | Statement Best Animation
-        paragraphs:
-          - text: "Tito Bilbao tells the dramatic journey of a washed-up soccer commentator in a charmingly exaggerated way. Soccer is an arena that can be easily overloaded with clichés and lame jokes. But the creators chose for a quirky satire that embraces its flawed characters. Auditive and visual stylistic means are well balanced, as none of them is pushed into the foreground. They all follow the beautiful rhythm of the narrative that doesn't overwhelm the viewer but charmingly takes them by the hand. Thus the focus lies on the overall work of art.But we would like to particularly mention the script that charmed us: very funny writing that - without obsessing on big gag density - draws a surprising plot while staying very close to its cranky characters. Viewing habits are charmingly broken by hints that are not necessarily redeemed, but casually come by - as in real life.An animated series like this is usually a big production that requires many hands that lead to unwanted compromises. But through an admirable reduction of stylistic devices to the core of the narrative, Jonathan and Lucas have succeeded to share a very personal vision with us. Many thanks."
+    smallmargin: true
+    data:
+      headline: Animation Jury | Statement Best Animation
+      paragraphs:
+        - text: "Tito Bilbao tells the dramatic journey of a washed-up soccer commentator in a charmingly exaggerated way. Soccer is an arena that can be easily overloaded with clichés and lame jokes. But the creators chose for a quirky satire that embraces its flawed characters. Auditive and visual stylistic means are well balanced, as none of them is pushed into the foreground. They all follow the beautiful rhythm of the narrative that doesn't overwhelm the viewer but charmingly takes them by the hand. Thus the focus lies on the overall work of art.But we would like to particularly mention the script that charmed us: very funny writing that - without obsessing on big gag density - draws a surprising plot while staying very close to its cranky characters. Viewing habits are charmingly broken by hints that are not necessarily redeemed, but casually come by - as in real life.An animated series like this is usually a big production that requires many hands that lead to unwanted compromises. But through an admirable reduction of stylistic devices to the core of the narrative, Jonathan and Lucas have succeeded to share a very personal vision with us. Many thanks."
   - partial: text
-      smallmargin: true
-      data:
-        headline: Series Jury | Statement Best Directing
-        paragraphs:
-          - text: "Filmmaking is a collaborative art form, but it still requires a strong leader to guide the team to create a believable story. The director creates the tone, decides the vision and shapes the performances to make the audience laugh or cry. We feel this director did just that, creating a production that left us both uncomfortable at times, yet also inspired for change."
+    smallmargin: true
+    data:
+      headline: Series Jury | Statement Best Directing
+      paragraphs:
+        - text: "Filmmaking is a collaborative art form, but it still requires a strong leader to guide the team to create a believable story. The director creates the tone, decides the vision and shapes the performances to make the audience laugh or cry. We feel this director did just that, creating a production that left us both uncomfortable at times, yet also inspired for change."
   - partial: text
-      smallmargin: true
-      data:
-        headline: Series Jury | Statement Best Actress
-        paragraphs:
-          - text: "This year’s die Seriale’s Nominees are absolutely incredible! It’s an honor to be here to announce Best Actress. This actress brought her character to life in such a dynamic way that we couldn’t help but be swept up by the emotions on display through out the series."
+    smallmargin: true
+    data:
+      headline: Series Jury | Statement Best Actress
+      paragraphs:
+        - text: "This year’s die Seriale’s Nominees are absolutely incredible! It’s an honor to be here to announce Best Actress. This actress brought her character to life in such a dynamic way that we couldn’t help but be swept up by the emotions on display through out the series."
   - partial: text
-      smallmargin: true
-      data:
-        headline: Series Jury | Statement Best Actor
-        paragraphs:
-          - text: "The actor in this series is performing well in expressing his character, who is dealing with the dark reality of a new environment. His acting is very believable, realistic and down to earth."
+    smallmargin: true
+    data:
+      headline: Series Jury | Statement Best Actor
+      paragraphs:
+        - text: "The actor in this series is performing well in expressing his character, who is dealing with the dark reality of a new environment. His acting is very believable, realistic and down to earth."
   - partial: text
-      smallmargin: true
-      data:
-        headline: Series Jury | Statement Best Cinematography
-        paragraphs:
-          - text: "For skillfully narrating with light deeply moving images that bring together multiple narratives into one cohesive world."
+    smallmargin: true
+    data:
+      headline: Series Jury | Statement Best Cinematography
+      paragraphs:
+        - text: "For skillfully narrating with light deeply moving images that bring together multiple narratives into one cohesive world."
   - partial: text
-      smallmargin: true
-      data:
-        headline: Series Jury | Statement Best Screenplay
-        paragraphs:
-          - text: "A screenplay is constructed from a series of letters and punctuation, without which bad writing like this would not exist look up and make eye contact with audience... But without good writing, even the best-looking series would fall flat on its face. Despite what Hollywood studios seem to think, writers are an incredibly important part of the filmmaking process. This year’s winning screenplay effectively uses dialogue and at – times absurd situations to tell a story with not just humor but a surprising amount of heart as well."
+    smallmargin: true
+    data:
+      headline: Series Jury | Statement Best Screenplay
+      paragraphs:
+        - text: "A screenplay is constructed from a series of letters and punctuation, without which bad writing like this would not exist look up and make eye contact with audience... But without good writing, even the best-looking series would fall flat on its face. Despite what Hollywood studios seem to think, writers are an incredibly important part of the filmmaking process. This year’s winning screenplay effectively uses dialogue and at – times absurd situations to tell a story with not just humor but a surprising amount of heart as well."
   - partial: text
-      smallmargin: true
-      data:
-        headline: Series Jury | Statement Best Idea
-        paragraphs:
-          - text: "A good ‘idea’ is the sparkle that can grow into a great production! For being original, imaginative and powerful."
+    smallmargin: true
+    data:
+      headline: Series Jury | Statement Best Idea
+      paragraphs:
+        - text: "A good ‘idea’ is the sparkle that can grow into a great production! For being original, imaginative and powerful."
   - partial: text
-      smallmargin: true
-      data:
-        headline: Pitch Contest Jury | "Honorable Mention for Ex Officio! - Nico Drago"
-        paragraphs:
-          - text:
+    smallmargin: true
+    data:
+      headline: Pitch Contest Jury | "Honorable Mention for Ex Officio! - Nico Drago"
+      paragraphs:
+        - text:
   - partial: text
-      smallmargin: true
-      data:
-        headline: Pitch Contest Jury | "Honorable Mention for Müstache - Mathilde Bourbin"
-        paragraphs:
-          - text:
+    smallmargin: true
+    data:
+      headline: Pitch Contest Jury | "Honorable Mention for Müstache - Mathilde Bourbin"
+      paragraphs:
+        - text:
   - partial: text
-      smallmargin: true
-      data:
-        headline: Pilots Jury | Honorable Mention for Mid-to-Late
-        paragraphs:
-          - text: "This series portraits a current story with a masterful performance by its protagonist. Additionally, the cinematography, the soundtrack, and the script development are well executed. That’s why we think this pilot deserves the Honorable Mention."  		  		  	  		  
+    smallmargin: true
+    data:
+      headline: Pilots Jury | Honorable Mention for Mid-to-Late
+      paragraphs:
+        - text: "This series portraits a current story with a masterful performance by its protagonist. Additionally, the cinematography, the soundtrack, and the script development are well executed. That’s why we think this pilot deserves the Honorable Mention."  		  		  	  		  
 ---
