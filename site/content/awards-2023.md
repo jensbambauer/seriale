@@ -4,28 +4,28 @@ sections:
   - partial: text
     headline: Nominees & Winners 2023
   - partial: list-columns
-      smallmargin: true
-      data:
-        items:
-          - headline: best series
-            list:
-              - origin: 
-                title: All In 
-              - origin: 
-                title: Black Sunday 
-              - origin: 
-                title: Death Phone
-                highlight: true 
-              - origin: 
-                title: "Frapuccino (Season 2)" 
-              - origin: 
-                title: Hammersmith 
-              - origin: 
-                title: Hotel Sweet Hotel 
-              - origin:
-                title: Victoria
-              - origin:
-                title: "W. (Chapter II)"
+    smallmargin: true
+    data:
+      items:
+        - headline: best series
+          list:
+            - origin: 
+              title: All In 
+            - origin: 
+              title: Black Sunday 
+            - origin: 
+              title: Death Phone
+              highlight: true 
+            - origin: 
+              title: "Frapuccino (Season 2)" 
+            - origin: 
+              title: Hammersmith 
+            - origin: 
+              title: Hotel Sweet Hotel 
+            - origin:
+              title: Victoria
+            - origin:
+              title: "W. (Chapter II)"
   - partial: list-columns
     smallmargin: true
     data:
