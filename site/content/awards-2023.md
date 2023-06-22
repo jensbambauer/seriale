@@ -26,10 +26,6 @@ sections:
               title: Victoria
             - origin:
               title: "W. (Chapter II)"
-  - partial: list-columns
-    smallmargin: true
-    data:
-      items:
         - headline: best directing
           list:
             - origin: <b>Daniel Popat &</b><b> Marco Hülser</b>
@@ -334,6 +330,24 @@ sections:
               origin:
               highlight: true
   - partial: text
+    smallmargin: true
+    data:
+      headline: Pitch Contest Jury | "Honorable Mention for Ex Officio! - Nico Drago"
+      paragraphs:
+        - text:
+  - partial: text
+    smallmargin: true
+    data:
+      headline: Pitch Contest Jury | "Honorable Mention for Müstache - Mathilde Bourbin"
+      paragraphs:
+        - text:
+  - partial: text
+    smallmargin: true
+    data:
+      headline: Pilots Jury | Honorable Mention for Mid-to-Late
+      paragraphs:
+        - text: "This series portraits a current story with a masterful performance by its protagonist. Additionally, the cinematography, the soundtrack, and the script development are well executed. That’s why we think this pilot deserves the Honorable Mention."  		  		  	  		  
+  - partial: text
     headline: Partner Festival's Direct Selections
   - partial: text
     smallmargin: true
@@ -366,6 +380,7 @@ sections:
       paragraphs:
         - text: "Lebensraum"
   - partial: text
+    headline: Jury Statements
     smallmargin: true
     data:
       headline: Series Jury | Statement Best Series
@@ -425,22 +440,4 @@ sections:
       headline: Series Jury | Statement Best Idea
       paragraphs:
         - text: "A good ‘idea’ is the sparkle that can grow into a great production! For being original, imaginative and powerful."
-  - partial: text
-    smallmargin: true
-    data:
-      headline: Pitch Contest Jury | "Honorable Mention for Ex Officio! - Nico Drago"
-      paragraphs:
-        - text:
-  - partial: text
-    smallmargin: true
-    data:
-      headline: Pitch Contest Jury | "Honorable Mention for Müstache - Mathilde Bourbin"
-      paragraphs:
-        - text:
-  - partial: text
-    smallmargin: true
-    data:
-      headline: Pilots Jury | Honorable Mention for Mid-to-Late
-      paragraphs:
-        - text: "This series portraits a current story with a masterful performance by its protagonist. Additionally, the cinematography, the soundtrack, and the script development are well executed. That’s why we think this pilot deserves the Honorable Mention."  		  		  	  		  
 ---
