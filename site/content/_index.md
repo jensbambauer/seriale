@@ -24,22 +24,22 @@ sections:
         #     overlay: true
         #     text: watch trailer
         #     href: /festival-trailer
-        # - headline: awards 2022
+        - headline: awards 2023
+          button:
+            text: view now
+            href: /awards-2023
+        # - headline: nominations 2023
         #   button:
         #     text: view now
-        #     href: /awards-2022
-        - headline: nominations 2023
-          button:
-            text: view now
-            href: /nominations-2023
-        - headline: official selection 2023
-          button:
-            text: view now
-            href: /official-selection-2023
-        - headline: series/pilots trailers 2023
-          button:
-            text: watch now
-            href: /festival/
+        #     href: /nominations-2023
+        # - headline: official selection 2023
+        #   button:
+        #     text: view now
+        #     href: /official-selection-2023
+        # - headline: series/pilots trailers 2023
+        #   button:
+        #     text: watch now
+        #     href: /festival/
         # - headline: nominees & winners 2021
         #   button:
         #     text: view now
