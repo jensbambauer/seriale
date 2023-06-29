@@ -6,10 +6,10 @@ sections:
     data:
       videosource: /videos/digital-loop.mp4
       slides:
-        # - headline: Series Screening on Demand
-        #   button:
-        #     text: watch now
-        #     href: https://dieseriale.sparqfest.live/
+        - headline: Series Screening on Demand
+          button:
+            text: watch now
+            href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
         # - headline: submissions for die seriale 2023 are open
         #   button:
         #     text: submit series

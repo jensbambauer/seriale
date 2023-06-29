@@ -24,11 +24,11 @@ sections:
         #   button:
         #     text: view now
         #     href: /official-selection-2022
-  # - partial: large-teaser
-  #   data:
-  #     background: /img/be-part-of-it-bg.jpg
-  #     href: https://dieseriale.sparqfest.live/en/index.html
-  #     text: Watch Series
+  - partial: large-teaser
+    data:
+      background: /img/be-part-of-it-bg.jpg
+      href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
+      text: Watch Series
   - partial: thumb-grid
     headline: official selection series 2023
     data:
