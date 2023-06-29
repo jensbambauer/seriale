@@ -26,6 +26,7 @@ sections:
         #     href: /official-selection-2022
   - partial: large-teaser
     data:
+      desc: Watch all series of the Official Selection 2023 on sparqfest. Available from June 29th to July 4th, 2023.
       background: /img/be-part-of-it-bg.jpg
       href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
       text: Watch Series
