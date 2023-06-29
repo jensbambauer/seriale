@@ -7,7 +7,7 @@ sections:
       videosource: /videos/digital-loop.mp4
       slides:
         - headline: Series Screening on Demand
-          subheadline: available from June 29th to July 4th, 2023
+          subheadline: available from June 29th to July 4th
           button:
             text: watch now
             href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
