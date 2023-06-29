@@ -9,6 +9,11 @@
   align-items: center;
   background-size: cover;
   position: relative;
+  flex-direction: column;
+
+  .text {
+    color: white;
+  }
 
   .button {
     align-self: center;
