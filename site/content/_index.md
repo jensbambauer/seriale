@@ -6,15 +6,15 @@ sections:
     data:
       videosource: /videos/digital-loop.mp4
       slides:
-        - headline: Series Screening on Demand
-          subheadline: available from June 29th to July 4th
-          button:
-            text: watch now
-            href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
-        # - headline: submissions for die seriale 2023 are open
+        # - headline: Series Screening on Demand
+        #   subheadline: available from June 29th to July 4th
         #   button:
-        #     text: submit series
-        #     href: https://filmfreeway.com/dieSeriale
+        #     text: watch now
+        #     href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
+        - headline: submissions for die seriale 2024 are open
+          button:
+            text: submit series
+            href: https://filmfreeway.com/dieSeriale
         # - headline: Award Ceremony
         #   button:
         #     overlay: true
@@ -54,117 +54,117 @@ sections:
   #     background: /img/be-part-of-it-bg.jpg
   #     href: https://dieseriale.sparqfest.live/en/index.html
   #     text: Watch Series
-  - partial: time-table
-    headline: schedule 2023
-    data:
-      days:
-        - title: June 14th
-          blocks:
-            - time: 6:30pm - 9:30pm
-              title: HESSEN FOCUS
-              location: Reception & Panel Discussion<br/>Lottehof, Wetzlar<br/>free entry
-              size: 4
-            - time: 9:30pm - 11:30pm
-              title: Open Air Screening
-              location: "Screening Block 1<br/>Lottehof, Wetzlar<br/>free entry"
-              size: 4
-        - title: June 15th
-          blocks:
-            - time: 7:30pm - 9pm
-              title: LIVE MUSIC
-              location: "Open Air Live Music<br/>Kirchenplatz, Giessen"
-              size: 6
-            - time: 9pm - 9:30pm
-              length: 3
-              title: "Open Air Creators Talk"
-              location: Kirchenplatz, Giessen<br/>free entry 
-            - time: 9:30pm - 11:00pm
-              length: 3
-              title: OPEN AIR SCREENING
-              location: Screening Block 2<br/>Kirchenplatz, Giessen<br/>free entry
-              size:
-        - title: June 16th
-          blocks:
-            - time: 10am - 5pm
-              title: EDUCATIONAL
-              location: Conference Program<br/>Stadttheater Giessen<br/>free entry
-              size: 4
-            - time: 5:30pm
-              title: OPENING & PREMIERE
-              location: Screening Block 3<br/>Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 8:00pm
-              title: SCREENING BLOCK 4 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 9:45pm
-              title: SCREENING BLOCK 5 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 11pm - open end
-              title: Networking Night
-              location: Lieblingsmensch
-              size: 4
-  - partial: time-table
-    data:
-      days:
-        - title: June 17th
-          blocks:
-            - time: 10:30am - 5pm
-              location: Conference Program<br/>Stadttheater Giessen<br/> free entry
-              title: SERIALE PRO
-              size: 4
-            - time: 4pm
-              title: Screening Block 6 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 6pm - 7pm
-              title: seriesly TRIVIA QUIZ
-              location: Quiz with serieslyAWESOME<br/>Kinocenter Giessen<br/> free entry
-              size: 3
-            - time: 7:30pm
-              title: SCREENING BLOCK 7 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 9pm
-              title: SCREENING BLOCK 8 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 10:30pm - open end
-              location: "Dachcafé Giessen"
-              size: 3
-        - title: June 18th
-          blocks:
-            - time: 11:30pm
-              title: NETWORKING ON BOARD
-              location: Conference Program<br/>Marineverein Giessen<br/>with registration only
-              size: 4
-            - time: 3pm
-              title: SCREENING BLOCK 9
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 4:30pm
-              title: SCREENING BLOCK 10
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 6pm - 8pm
-              title: RED CARPET
-              location: City Hall | by invitation only
-              size: 3
-            - time: 8pm - 10pm
-              title: AWARD CEREMONY 9TH DIE SERIALE
-              location: City Hall<br/>by invitation only
-              size: 3
-            - time: 10pm - open end
-              title: Aftershow
-              location:
-              size: 3
-        - title: June 19th
-          blocks:
-            - time: 12pm - 8pm
-              title: NETWORKING & LOCATION TOUR
-              location: with registration only
-              size: 5
+  # - partial: time-table
+  #   headline: schedule 2023
+  #   data:
+  #     days:
+  #       - title: June 14th
+  #         blocks:
+  #           - time: 6:30pm - 9:30pm
+  #             title: HESSEN FOCUS
+  #             location: Reception & Panel Discussion<br/>Lottehof, Wetzlar<br/>free entry
+  #             size: 4
+  #           - time: 9:30pm - 11:30pm
+  #             title: Open Air Screening
+  #             location: "Screening Block 1<br/>Lottehof, Wetzlar<br/>free entry"
+  #             size: 4
+  #       - title: June 15th
+  #         blocks:
+  #           - time: 7:30pm - 9pm
+  #             title: LIVE MUSIC
+  #             location: "Open Air Live Music<br/>Kirchenplatz, Giessen"
+  #             size: 6
+  #           - time: 9pm - 9:30pm
+  #             length: 3
+  #             title: "Open Air Creators Talk"
+  #             location: Kirchenplatz, Giessen<br/>free entry 
+  #           - time: 9:30pm - 11:00pm
+  #             length: 3
+  #             title: OPEN AIR SCREENING
+  #             location: Screening Block 2<br/>Kirchenplatz, Giessen<br/>free entry
+  #             size:
+  #       - title: June 16th
+  #         blocks:
+  #           - time: 10am - 5pm
+  #             title: EDUCATIONAL
+  #             location: Conference Program<br/>Stadttheater Giessen<br/>free entry
+  #             size: 4
+  #           - time: 5:30pm
+  #             title: OPENING & PREMIERE
+  #             location: Screening Block 3<br/>Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 8:00pm
+  #             title: SCREENING BLOCK 4 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 9:45pm
+  #             title: SCREENING BLOCK 5 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 11pm - open end
+  #             title: Networking Night
+  #             location: Lieblingsmensch
+  #             size: 4
+  # - partial: time-table
+  #   data:
+  #     days:
+  #       - title: June 17th
+  #         blocks:
+  #           - time: 10:30am - 5pm
+  #             location: Conference Program<br/>Stadttheater Giessen<br/> free entry
+  #             title: SERIALE PRO
+  #             size: 4
+  #           - time: 4pm
+  #             title: Screening Block 6 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 6pm - 7pm
+  #             title: seriesly TRIVIA QUIZ
+  #             location: Quiz with serieslyAWESOME<br/>Kinocenter Giessen<br/> free entry
+  #             size: 3
+  #           - time: 7:30pm
+  #             title: SCREENING BLOCK 7 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 9pm
+  #             title: SCREENING BLOCK 8 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 10:30pm - open end
+  #             location: "Dachcafé Giessen"
+  #             size: 3
+  #       - title: June 18th
+  #         blocks:
+  #           - time: 11:30pm
+  #             title: NETWORKING ON BOARD
+  #             location: Conference Program<br/>Marineverein Giessen<br/>with registration only
+  #             size: 4
+  #           - time: 3pm
+  #             title: SCREENING BLOCK 9
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 4:30pm
+  #             title: SCREENING BLOCK 10
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 6pm - 8pm
+  #             title: RED CARPET
+  #             location: City Hall | by invitation only
+  #             size: 3
+  #           - time: 8pm - 10pm
+  #             title: AWARD CEREMONY 9TH DIE SERIALE
+  #             location: City Hall<br/>by invitation only
+  #             size: 3
+  #           - time: 10pm - open end
+  #             title: Aftershow
+  #             location:
+  #             size: 3
+  #       - title: June 19th
+  #         blocks:
+  #           - time: 12pm - 8pm
+  #             title: NETWORKING & LOCATION TOUR
+  #             location: with registration only
+  #             size: 5
   # - partial: time-table
   #   headline: streaming schedule 2021
   #   data:
@@ -419,17 +419,16 @@ sections:
       headline: be part of it
       intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
       tabs:
-        - title: get tickets
-          partial: tab-text
-          data:
-            headline: get your tickets
-            text: '<a class="button" href="https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD">buy tickets</a>'
+        # - title: get tickets
+        #   partial: tab-text
+        #   data:
+        #     headline: get your tickets
+        #     text: '<a class="button" href="https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD">buy tickets</a>'
         - title: submit series
           partial: tab-text
           data:
-            headline: Submissions for 2023 are closed
-            text: ""
-            # text: '<p>Submissions for Series & Pilots are open until January 31, 2023</p><a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
+            headline: Submissions for 2024 are open
+            text: '<a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
         # - title: in person & digital event
         #   partial: tab-text
         #   data:
