@@ -1,5 +1,5 @@
 ---
-title: 9th Digital Series Festival Giessen
+title: 10th International Series Festival Giessen
 sections:
   - partial: teaser-grid
     headline: speaker
