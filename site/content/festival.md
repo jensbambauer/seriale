@@ -24,20 +24,20 @@ sections:
         #   button:
         #     text: view now
         #     href: /official-selection-2022
-  - partial: large-teaser
-    data:
-      desc: Watch all series of the Official Selection 2023 on sparqfest. Available from June 29th to July 4th, 2023.
-      background: /img/be-part-of-it-bg.jpg
-      href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
-      text: Watch Series
-  - partial: thumb-grid
-    headline: official selection series 2023
-    data:
-      list: series
-  - partial: thumb-grid
-    headline: official selection pilots 2023
-    data:
-      list: pilots
+  # - partial: large-teaser
+  #   data:
+  #     desc: Watch all series of the Official Selection 2023 on sparqfest. Available from June 29th to July 4th, 2023.
+  #     background: /img/be-part-of-it-bg.jpg
+  #     href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
+  #     text: Watch Series
+  # - partial: thumb-grid
+  #   headline: official selection series 2023
+  #   data:
+  #     list: series
+  # - partial: thumb-grid
+  #   headline: official selection pilots 2023
+  #   data:
+  #     list: pilots
   - partial: text
     data:
       headline: About
@@ -58,22 +58,22 @@ sections:
   #     reversed: true
   #     headline: "Movie Theater Giessen"
   #     text: "On 4 days and in 8 screenings over 60 digital series and pilot episodes will be screened. We'll start with an open-air screening in Wetzlar with focus on Hessian series, all other 7 screenings will take place in Kinocenter Giessen. Series from 18 countries offer a versatile program. Numerous series creators will be present and give insights into the production of their series."
-  - partial: teaser-grid
-    headline: jury series
-    data:
-      list: jury-series
-  - partial: teaser-grid
-    headline: jury documentary
-    data:
-      list: jury-documentary
-  - partial: teaser-grid
-    headline: jury animation
-    data:
-      list: jury-animation
-  - partial: teaser-grid
-    headline: jury pilots
-    data:
-      list: jury-pilots
+  # - partial: teaser-grid
+  #   headline: jury series
+  #   data:
+  #     list: jury-series
+  # - partial: teaser-grid
+  #   headline: jury documentary
+  #   data:
+  #     list: jury-documentary
+  # - partial: teaser-grid
+  #   headline: jury animation
+  #   data:
+  #     list: jury-animation
+  # - partial: teaser-grid
+  #   headline: jury pilots
+  #   data:
+  #     list: jury-pilots
   - partial: text-and-image
     headline: Educational
     data:
