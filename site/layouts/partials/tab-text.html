@@ -1,4 +1,6 @@
 <h4>{{ .headline }}</h4>
-<div class="tabs__text-container">
-  {{ .text | safeHTML }}
-</div>
+{{ if .text }}
+  <div class="tabs__text-container">
+    {{ .text | safeHTML }}
+  </div>
+{{ end}}
