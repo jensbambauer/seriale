@@ -9,28 +9,10 @@ languageCode = "en-us"
     weight     = 1
 
     [[menu.main]]
-    identifier = "festival"
-    name       = "Festival"
-    url        = "/festival/"
-    weight     = 2
-
-    [[menu.main]]
     identifier = "seriale-pro"
     name       = "Seriale Pro"
     url        = "/seriale-pro/"
     weight     = 3
-
-    [[menu.main]]
-    identifier = "program"
-    name       = "Program"
-    url        = "/program/"
-    weight     = 4
-
-    [[menu.main]]
-    identifier = "speaker"
-    name       = "Speaker"
-    url        = "/speaker/"
-    weight     = 5
     
     [[menu.main]]
     identifier = "blog"

@@ -6,15 +6,16 @@ sections:
     data:
       videosource: /videos/digital-loop.mp4
       slides:
+        - headline: "save the date: 29th - june 3rd 2024"
         # - headline: Series Screening on Demand
         #   subheadline: available from June 29th to July 4th
         #   button:
         #     text: watch now
         #     href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
-        - headline: submissions for die seriale 2024 are open
-          button:
-            text: submit series
-            href: https://filmfreeway.com/dieSeriale
+        # - headline: submissions for die seriale 2024 are open
+        #   button:
+        #     text: submit series
+        #     href: https://filmfreeway.com/dieSeriale
         # - headline: Award Ceremony
         #   button:
         #     overlay: true
@@ -25,10 +26,10 @@ sections:
         #     overlay: true
         #     text: watch trailer
         #     href: /festival-trailer
-        - headline: awards 2023
-          button:
-            text: view now
-            href: /awards-2023
+        # - headline: awards 2023
+        #   button:
+        #     text: view now
+        #     href: /awards-2023
         # - headline: nominations 2023
         #   button:
         #     text: view now
@@ -427,8 +428,12 @@ sections:
         - title: submit series
           partial: tab-text
           data:
-            headline: Submissions for 2024 are open
-            text: '<a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
+            headline: Submissions for 2024 are closed
+        # - title: submit series
+        #   partial: tab-text
+        #   data:
+        #     headline: Submissions for 2024 are open
+        #     text: '<a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
         # - title: in person & digital event
         #   partial: tab-text
         #   data:
