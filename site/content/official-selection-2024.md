@@ -98,7 +98,7 @@ sections:
           origin: Canada
         - title: Earthlings
           origin: Germany
-        - title: "El ùltimo mono" 
+        - title: "The Last Monkey" 
           origin: Spain
         - title: For Years to Come
           origin: United States

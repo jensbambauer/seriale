@@ -57,11 +57,16 @@
     position: absolute;
     right: 0;
     top: 0;
-    background: var(--mainColor);
+    /* background: var(--mainColor); */
+    background-color: rgba(227,204,99,1);
+    background-image: linear-gradient(195deg, rgba(227,204,99,1) 0%, rgba(227,204,99,1) 36%, rgba(242,233,191,0.5) 50%, rgba(227,204,99,1) 65%, rgba(227,204,99,1) 100%);
+    background-size: 400% 400%;
+    animation: gradient 5s ease infinite normal;
     font-family: "Roboto";
     font-weight: 700;
     font-size: 18px;
     padding: 10px 30px;
+    box-shadow: #cfc09f 0 0 30px;
   }
 
   .container__content {

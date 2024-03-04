@@ -6,7 +6,7 @@ sections:
     data:
       videosource: /videos/digital-loop.mp4
       slides:
-        - headline: "save the date: 29th - june 3rd 2024"
+        # - headline: "save the date: 29th - june 3rd 2024"
         # - headline: Series Screening on Demand
         #   subheadline: available from June 29th to July 4th
         #   button:
@@ -34,10 +34,10 @@ sections:
         #   button:
         #     text: view now
         #     href: /nominations-2023
-        # - headline: official selection 2023
-        #   button:
-        #     text: view now
-        #     href: /official-selection-2023
+        - headline: official selection 2024
+          button:
+            text: view now
+            href: /official-selection-2024
         # - headline: series/pilots trailers 2023
         #   button:
         #     text: watch now
