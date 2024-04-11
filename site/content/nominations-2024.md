@@ -14,17 +14,17 @@ sections:
         - headline: best directing
           list:
             - title: "2 Minutes - 24/7"
-			  origin: "Lisa Miller, Leonie Krippendorff"
-            - title: Becoming Charlie 
-			  origin: Kerstin Polte, Greta Benkelmann
+              origin: "Lisa Miller, Leonie Krippendorff"
+            - title: Becoming Charlie
+              origin: Kerstin Polte, Greta Benkelmann
             - title: Hell
-			  origin: "Santiago Mouriño, Pablo Balmaceda"
+              origin: "Santiago Mouriño, Pablo Balmaceda"
             - title: Protected Space
-			  origin: Eyal Dickman
+              origin: Eyal Dickman
             - title: "Sasha Counters!"
-			  origin: Anna Zaytseva
+              origin: Anna Zaytseva
             - title: "The Care-Breakers"
-			  origin: "Zoé Tremblay-Bianco"
+              origin: "Zoé Tremblay-Bianco"
         - headline: best screenplay
           list:
             - title: all the guests have left
@@ -100,28 +100,28 @@ sections:
             - title: Haus Kummerveldt
               origin:
             - title: MusicStories
-              origin: 
-            - title: "Roommate Quest!" 
-              origin: 
+              origin:
+            - title: "Roommate Quest!"
+              origin:
             - title: Sasha Counters!
               origin:
-            - title: The Gliwensbourg Chronicles 
-              origin: 
+            - title: The Gliwensbourg Chronicles
+              origin:
             - title: "The Method. Foundation of Identity"
-              origin: 
+              origin:
         - headline: best costume design
           list:
             - title: "2 Minutes - 24/7"
-              origin: 
+              origin:
             - title: Becoming Charlie
-              origin: 
+              origin:
             - title: Haus Kummerveldt
-              origin: 
+              origin:
             - title: MusicStories
-              origin: 
+              origin:
             - title: The Drop
-              origin: 
-            - title: The Gliwensbourg Chronicles 
+              origin:
+            - title: The Gliwensbourg Chronicles
               origin:
         - headline: best idea
           list:
@@ -194,7 +194,7 @@ sections:
         - headline: best long form series
           list:
             - title: AS WE ARE
-              origin: 
+              origin:
             - title: Family Therapy
               origin:
             - title: "Füxe"
