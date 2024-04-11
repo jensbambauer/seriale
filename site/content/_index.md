@@ -30,10 +30,10 @@ sections:
         #   button:
         #     text: view now
         #     href: /awards-2023
-        # - headline: nominations 2023
-        #   button:
-        #     text: view now
-        #     href: /nominations-2023
+        - headline: nominations 2024
+          button:
+            text: view now
+            href: /nominations-2024
         - headline: official selection 2024
           button:
             text: view now
