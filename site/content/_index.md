@@ -55,6 +55,194 @@ sections:
   #     background: /img/be-part-of-it-bg.jpg
   #     href: https://dieseriale.sparqfest.live/en/index.html
   #     text: Watch Series
+  - partial: time-table
+    headline: schedule 2024
+    data:
+      days:
+        - title: May 29th
+          blocks:
+            - time: 5:00pm
+              title: SCREENING BLOCK 1
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 4
+        - title: May 30th
+          blocks:
+            - time: 7:00pm - 9:30pm
+              title: HESSEN FOCUS
+              location: Reception & Panel Discussion<br/>Lottehof, Wetzlar<br/>free entry
+              size: 4
+            - time: 9:30pm
+              title: Open Air Screening
+              location: "Screening Block 1<br/>Lottehof, Wetzlar<br/>free entry"
+              size: 4
+        - title: May 31th
+          blocks:
+            - time: 9:30am - 3:30pm
+              title: EDUCATIONAL
+              location: Conference Program<br/>Stadttheater Giessen<br/>free entry
+              size: 4
+            - time: 3:30pm - 5:30pm
+              title: Film & Media MeetUp Live!
+              location: Stadttheater Giessen (Kleines Haus)<br/>free entry
+			  Signup for Speedmeetings: https://www.eventbrite.de/e/film-media-meetup-live-seriale-educational-2024-tickets-887548139377
+			  Signup without Speedmitings: https://www.eventbrite.de/e/film-media-meetup-live-seriale-educational-2024-tickets-887548139377
+              size: 4
+            - time: 6:00pm
+              title: OPENING & PREMIERE | with Q&A
+              location: Screening Block 3<br/>Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 8:30pm
+              title: SCREENING BLOCK 4 | with Q&A
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 9:45pm
+              title: SCREENING BLOCK 5 | with Q&A
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 11pm - open end
+              title: Networking Night
+              location: tba
+              size: 4
+  - partial: time-table
+    data:
+      days:
+        - title: June 1st
+          blocks:
+            - time: 10:00am - 3:00pm
+              location: Conference Program<br/>Stadttheater Giessen (Kleines Haus)<br/> free entry
+              title: SERIALE PRO
+              size: 4
+            - time: 3:30pm - 6:00pm
+              title: Pitch Contest
+              location: Stadttheater Giessen (Kleines Haus)<br/> free entry, with registration
+              size: 3
+            - time: 4:30pm
+              title: Screening Block 6 | with Q&A
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 7pm
+              title: Screening Block 7 | with Q&A
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 9:00pm
+              title: SCREENING BLOCK 8 | with Q&A
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 10:30pm - open end
+              title: Networking Night
+              size: 3
+        - title: June 2nd
+          blocks:
+            - time: 11:00pm
+              title: SERIALE PRO: BUSINESS MEETINGS & DIGITAL MARKET
+              location: Conference Program<br/>Kongresshalle Giessen<br/>with registration only
+              size: 4
+            - time: 3pm
+              title: SCREENING BLOCK 9
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 4:30pm
+              title: SCREENING BLOCK 10
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 6pm - 8pm
+              title: RED CARPET
+              location: City Hall | by invitation only
+              size: 3
+            - time: 8pm - 10pm
+              title: AWARD CEREMONY 10TH DIE SERIALE
+              location: City Hall<br/>by invitation only
+              size: 3
+            - time: 10pm - open end
+              title: Aftershow
+              location: by invitation only
+              size: 3
+        - title: June 3rd
+          blocks:
+            - time: 12pm - 6pm
+              title: NETWORKING & LOCATION TOUR
+              location: with registration only
+              size: 5
+  - partial: time-table
+    headline: streaming schedule 2024
+    data:
+      full:
+        time: June 5th - 10th
+        title: Screenings
+        location: Watch series & pilots on demand.
+        # logo:
+        # button:
+        #   text:
+        #   href:
+        # size: 4
+      days:
+        - title: June 2nd
+          blocks:
+            - time: 4pm - 5pm CEST
+              title: Opening Ceremony
+              location: live stream on die-seriale.de
+              size: 3
+            - time: 5pm - 6pm CEST
+              title: Hessen Focus
+              location: live stream on die-seriale.de
+              size: 3
+        - title: June 4th
+          blocks:
+            - time: 10.30am - 6pm CEST
+              title: Educational
+              location: live stream on die-seriale.de
+              size: 6
+        - title: June 5th
+          blocks:
+            - time: 10am - 12pm CEST
+              title: Conference Program
+              location: live stream on die-seriale.de
+              pro: true
+              size: 2
+            - time: 12pm - 1pm CEST
+              title: Networking
+              location: online
+              pro: true
+              size: 2
+            - time: 1pm - 4pm CEST
+              title: Conference Program
+              location: live stream on die-seriale.de
+              pro: true
+              size: 2
+            - time: 4pm - 8pm CEST
+              title: Pitch Contest
+              location: exclusive live stream for industry
+              pro: true
+              size: 2
+            - time: 8pm - 10pm CEST
+              title: Networking
+              location: online
+              pro: true
+              size: 2
+        - title: June 6th
+          blocks:
+            - time: 10am - 3pm CEST
+              title: Conference Program
+              location: live stream on die-seriale.de
+              pro: true
+              size: 6
+            - time: 3pm - 4.30pm CEST
+              title: DIMA Digital Market
+              location: live stream on die-seriale.de
+              pro: true
+              size: 2
+            - time: 6pm - 8pm CEST
+              title: Red Carpet
+              location: live stream on die-seriale.de
+              size: 3
+            - time: 8pm - 10pm CEST
+              title: Award Ceremony
+              location: live stream on die-seriale.de
+              size: 3
+            - time: 10pm - 12am CEST
+              title: After Show Networking
+              location: online
+              size: 3
   # - partial: time-table
   #   headline: schedule 2023
   #   data:
