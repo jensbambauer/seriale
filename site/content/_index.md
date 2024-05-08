@@ -83,7 +83,7 @@ sections:
               size: 4
             - time: 3:30pm - 5:30pm
               title: Film & Media MeetUp Live!
-              location: "Stadttheater Giessen (Kleines Haus)<br/>free entry<br/>Signup for Speedmeetings: https://www.eventbrite.de/e/film-media-meetup-live-seriale-educational-2024-tickets-887548139377<br/> Signup without Speedmitings: https://www.eventbrite.de/e/film-media-meetup-live-seriale-educational-2024-tickets-887548139377"
+              location: "Stadttheater Giessen (Kleines Haus)<br/>free entry<br/><a href='https://www.eventbrite.de/e/film-media-meetup-live-seriale-educational-2024-tickets-887548139377'>Signup for Speedmeetings</a>"
               size: 4
             - time: 6:00pm
               title: OPENING & PREMIERE | with Q&A
