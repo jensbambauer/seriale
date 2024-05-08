@@ -88,7 +88,7 @@ sections:
             - time: 6:00pm
               title: OPENING & PREMIERE | with Q&A
               location: Screening Block 3<br/>Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
+              size: 4
             - time: 8:30pm
               title: SCREENING BLOCK 4 | with Q&A
               location: Kinocenter Giessen<br/>buy tickets on site & online
@@ -100,7 +100,7 @@ sections:
             - time: 11pm - open end
               title: Networking Night
               location: tba
-              size: 4
+              size: 2
   - partial: time-table
     data:
       days:
