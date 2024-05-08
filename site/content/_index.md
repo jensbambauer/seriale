@@ -132,7 +132,7 @@ sections:
         - title: June 2nd
           blocks:
             - time: 11:00pm
-              title: SERIALE PRO: BUSINESS MEETINGS & DIGITAL MARKET
+              title: "SERIALE PRO: BUSINESS MEETINGS & DIGITAL MARKET"
               location: Conference Program<br/>Kongresshalle Giessen<br/>with registration only
               size: 4
             - time: 3pm
