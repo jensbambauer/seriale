@@ -384,7 +384,7 @@ sections:
                 smallmargin: true
                 data:
                   items:
-                    - title: Seriale Pro: Business Meetings & Digital Market
+                    - title: "Seriale Pro: Business Meetings & Digital Market"
                       length: 2
                       datetime: 2024-06-02
                       time: 11:00 | 11am
