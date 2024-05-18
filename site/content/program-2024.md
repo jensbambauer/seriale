@@ -174,7 +174,7 @@ sections:
                       type: Networking & Speed Meetings
                       length: 3
                       time: 15:30 | 3:30pm
-                      details: "The Film & Media Meetup is coming to Giessen and will take place as part of the Educational at Kleines Haus Stadttheater Giessen. Creators from Hesse and all over the world have the opportunity to discuss projects, make contacts or simply find out about current developments in a relaxed atmosphere over a drink. The Meetup offers everything you need to get started in the film and media industry or for your upcoming projects. There is also the opportunity to take part in a speed meeting. <br/>The Film & Media Meetup takes place regularly. It is a cooperation project of Filmhaus Frankfurt, Film- und Kinobüro Hessen, Hessen Film & Medien, the Hessen Film and Media Academy (hFMA) and Junge Generation Hessischer Film.<br/> Admission is free. Registration at: Eventbrite - Film & Media Meetup LIVE - Seriale Educational 2024.<br/><br/>Location: Kleines Haus Stadttheater Giessen, Ostanlage 43, 35390 Giessen"
+                      details: 'The Film & Media Meetup is coming to Giessen and will take place as part of the Educational at Kleines Haus Stadttheater Giessen. Creators from Hesse and all over the world have the opportunity to discuss projects, make contacts or simply find out about current developments in a relaxed atmosphere over a drink. The Meetup offers everything you need to get started in the film and media industry or for your upcoming projects. There is also the opportunity to take part in a speed meeting. <br/>The Film & Media Meetup takes place regularly. It is a cooperation project of Filmhaus Frankfurt, Film- und Kinobüro Hessen, Hessen Film & Medien, the Hessen Film and Media Academy (hFMA) and Junge Generation Hessischer Film.<br/> Admission is free. Registration at:<a href="https://www.eventbrite.de/e/film-media-meetup-live-seriale-educational-2024-tickets-887548139377" target="_blank">Eventbrite - Film & Media Meetup LIVE - Seriale Educational 2024.</a><br/><br/>Location: Kleines Haus Stadttheater Giessen, Ostanlage 43, 35390 Giessen'
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
@@ -232,18 +232,28 @@ sections:
                 smallmargin: true
                 data:
                   items:
-                    - title: Welcome to Seriale Pro
+                    - title: Entry & Festival Pass Pick Up
                       time: 9:30 | 9:30am
+                      type: Entry
+                      length: 2
+                      datetime: 2024-06-01
+                      details:
+              - partial: program
+                smallmargin: true
+                data:
+                  items:
+                    - title: Welcome to Seriale Pro
+                      time: 10:00 | 10:00am
                       type: Opening
                       length: 2
                       datetime: 2024-06-01
                       details: "Official Welcome by festival director Csongor Dobrotka, and the Seriale Pro hosts Celina Schmitt and Oihane Aramendia."
                       hosts:
-                        - name: Csongor Dobrotka 
-                        - name: Celina Schmitt 
-                        - name: Oihane Aramendia 
-                    - title: "Behind the scenes: AI's Influence on Media Industry" 
-                      type: Panel Discussion 
+                        - name: Csongor Dobrotka
+                        - name: Celina Schmitt
+                        - name: Oihane Aramendia
+                    - title: "Behind the scenes: AI's Influence on Media Industry"
+                      type: Panel Discussion
                       length: 2
                       time: 10:15 | 10:15am
                       moderator:
@@ -257,7 +267,7 @@ sections:
                       type: Keynote 
                       length: 2
                       time: 11:00 | 11:00am
-                      speakers:
+                      speaker:
                         - name: Sara Mauleón Carbayo
                         - name: Anne Schokominza Michel 
                       details: "Social media is becoming more and more essential to promote new projects. Last year Sara Mauleón and Anne Michel told us about the different platforms we can use and how to carry out a content plan to market a web series. This time, they will focus on cross media work, in which we will see how we can spread our message and adapt it to different contexts. They will show us how to reach different user profiles through different channels and always maintain strategic coherence."
@@ -316,7 +326,7 @@ sections:
                     - title: Pitch Contest
                       length: 2
                       datetime: 2024-06-01
-                      time: 15:30 | 3pm
+                      time: 15:30 | 3:30pm
                       type: pitch contest
                       details: "Brand new concepts for digital series will be presented to the industry at the Pitch Contest."	
               - partial: text-plain
@@ -367,14 +377,14 @@ sections:
           data:
             sections:
               - partial: text-plain
-                headline: "Business Meetings & Digital Market"
+                headline: "Seriale Pro: Business Meetings & Digital Market"
                 data:
                   text: "Location: Kongresshalle Giessen, Südanlage 3, 35390 Giessen"
               - partial: program
                 smallmargin: true
                 data:
                   items:
-                    - title: Business Meetings & Digital Market
+                    - title: Seriale Pro: Business Meetings & Digital Market
                       length: 2
                       datetime: 2024-06-02
                       time: 11:00 | 11am
@@ -420,7 +430,7 @@ sections:
                       datetime: 2024-06-02
                       time: 18:00 | 6pm
                       type: red carpet
-                      host:
+                      moderator:
                         - name: Daria Solovieva
                       details: "The Red Carpet is the preparation for the 10th Seriale Award Ceremony. Besides wine reception and photo sessions, Daria Solovieva welcomes the series creators on the Red Carpet with numerous interviews."
                     - title: 10th Award Ceremony of die Seriale
@@ -461,12 +471,8 @@ sections:
                       length: 4
                       time: June 1st | 10:30 - 12:00 | 10:30am - 12:00pm
                       details: "The objective of this workshop is to understand the main characteristics of a professional development process for a series or feature film. The roles, instances, and production parameters.<br/><br/> <strong>Topics</strong> <ul> <li>Tips for initial brainstorming</li> <li>Roles within the writing room and the production company</li> <li>Delivery instances</li> <li>How to create a schedule according to my team</li> <li>Production parameters to take into account to make a series or feature film feasible</li></ul><br/><br/>Location: City Hall, Berliner Platz 1, 35390 Giessen"
-                      external:
-                        - link: 
-                          name: register
                       speaker:
                         - name: Ariana Saiegh
-                          link: 
                     - title: "The Art & Science of Data"
                       type: workshop
                       length: 4

@@ -21,11 +21,11 @@ sections:
         #     overlay: true
         #     text: watch
         #     href: /award-ceremony
-        # - headline: The festival
-        #   button:
-        #     overlay: true
-        #     text: watch trailer
-        #     href: /festival-trailer
+        - headline: The festival
+          button:
+            overlay: true
+            text: watch trailer
+            href: /festival-trailer
         # - headline: awards 2023
         #   button:
         #     text: view now
