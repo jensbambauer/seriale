@@ -5,7 +5,7 @@ sections:
     headline: About
     data:
       paragraphs:
-        - text: "die Seriale - DigitalSeriesFestival Giessen is the oldest festival in Germany dedicated to present and celebrate digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work. On six festival days lectures, workshops and panel discussions will be held. All selected series will be screened in the cinema, open air and after the festival days at die Seriale SparqFest website for one week. The most outstanding series will be awarded by an expert jury. With the Seriale Pro we present a platform for the international digital series industry."
+        - text: "die Seriale - International Series Festival Giessen is the oldest festival in Germany dedicated to present and celebrate independet and digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work. On six festival days lectures, workshops and panel discussions will be held. All selected series will be screened in the cinema, open air and after the festival days at die Seriale SparqFest website for one week. The most outstanding series will be awarded by an expert jury. With the Seriale Pro we present a platform for the international digital series industry."
         - text: "die Seriale was launched by the two film makers, Csongor Dobrotka (Number of Silence) and Dennis Albrecht (Filmstadt), on June 12th, 2015 in order to offer German-speaking independent series a platform beyond the internet, as well; to highlight their innovative nature and their extraordinary quality and to connect the series creators among each other. The exchange between the filmmakers was supposed to enhance the quality of the format and to establish new perspectives in producing and publication."
   # - partial: teaser-grid
   #   headline: Team
@@ -16,189 +16,96 @@ sections:
     data:
       col4: true
       teasers:
-        - image: /img/team/Csongor-Dobrotka.jpg
+        - image: /img/team/csongor-dobrotka.jpg
           title: Csongor Dobrotka
           shortdescription: Founder & Festival Director
-        - image: /img/team/Beate-Bambauer.jpg
+        - image: /img/team/beate-bambauer.jpg
           title: Beate Bambauer
           shortdescription: Program Director
-        - image: /img/team/Ralf-Hofacker.jpg
+        - image: /img/team/ralf-hofacker.jpg
           title: Ralf Hofacker
-          shortdescription: Festival Manager & Media Design
-        - image: /img/team/Sandra-Wages-2.jpg
-          title: Sandra Wages
-          shortdescription: Event Manager
-        - image: /img/team/anne-failing-2.jpg
-          title: Anne Failing
-          shortdescription: Festival Organization, Office & Host
-        - image: /img/team/daria-solovieva-2.jpg
-          title: Daria Solovieva
-          shortdescription: Festival Organization, Office & Host
-        - image: /img/team/Jens-Bambauer.jpg
+          shortdescription: Festival Coordination & Media Design
+        - image: /img/team/lisa-heimbach.jpg
+          title: Lisa Heimbach
+          shortdescription: Festival Orginization & Office
+        - image: /img/team/celina-schmitt.jpg
+          title: Celina Schmitt
+          shortdescription: Conference Program Manager
+        - image: /img/team/ilona-kechter.jpg
+          title: Ilona Kechter
+          shortdescription: Award Ceremony & Red Carpet Organization
+        - image: /img/team/jens-bambauer.jpg
           title: Jens Bambauer
-          shortdescription: Website & Streaming
-        - image: /img/team/Birgit-Schweitzer.jpg
+          shortdescription: Website & Live Stream
+        - image: /img/team/birgit-schweitzer.jpg
           title: Birgit Schweitzer
           shortdescription: Public Relations & Blog Editor
-        - image: /img/team/isabella-pianto-2.jpg
+        - image: /img/team/isabella-pianto.jpg
           title: Isabella Pianto
-          shortdescription: Educational Manager
-        - image: /img/team/celina-schmitt-2.jpg
-          title: Celina Schmitt
-          shortdescription: Seriale Pro Manager & Festival Organization
+          shortdescription: Educational Organization & Host
+        - image: /img/team/anne-schokominza-michel.jpg
+          title: Anne Schokominza Michel
+          shortdescription: Head of Social Media Team
+        - image: /img/team/irina-shestopalova.jpg
+          title: Irina Shestopalova
+          shortdescription: Social Media Manager & Host
+        - image: /img/team/cara-lynn-ohly.jpg
+          title: Cara Lynn Ohly
+          shortdescription: Organization & Communication
+        - image: /img/team/karolina-filatova.jpg
+          title: Karolina Filatova
+          shortdescription: Pitch Contest & Educational Organization
+        - image: /img/team/nike-weiss.jpg
+          title: Nike Weiß
+          shortdescription: Pitch Contest & Educational Organization
+        - image: /img/team/oihane-aramendia.jpg
+          title: Oihane Aramendia
+          shortdescription: Seriale Pro Organization
+        - image: /img/team/antoine-disle.jpg
+          title: Antoine Disle
+          shortdescription: Seriale Pro Advisor
         - image: /img/team/elke-baumann.jpg
           title: Elke Baumann
-          shortdescription: Pitch Contest Manager
-        - image: /img/team/Martin-Otto.jpg
+          shortdescription: Pitch Contest Advisor
+        - image: /img/team/hannah-buscher.jpg
+          title: Hannah Buscher
+          shortdescription: Award Ceremony Host
+        - image: /img/team/robert-schaefer.jpg
+          title: Robert Schäfer
+          shortdescription: Award Ceremony Host
+        - image: /img/team/daria-solovieva.jpg
+          title: Daria Solovieva
+          shortdescription: Red Carpet Interviews & Host
+        - image: /img/team/mariia-eliseeva.jpg
+          title: Mariia Eliseeva
+          shortdescription: Host & Interviews
+        - image: /img/team/jan-krankl.jpg
+          title: Jan Krankl
+          shortdescription: Screenings Management
+        - image: /img/team/martin-otto.jpg
           title: Martin Otto
           shortdescription: Screening Organization
-        - image: /img/team/alexandra-manlig-2.jpg
-          title: Alexandra Manlig
-          shortdescription: Seriale Pro Organization & Communication
-        - image: /img/team/Dorian-Lummel-2.jpg
-          title: Dorian Lummel
-          shortdescription: Seriale Pro Organization & Communication
-        - image: /img/team/Kaira-Masuhr.jpg
-          title: Kaira Masuhr
-          shortdescription: Host
-        - image: /img/team/can-tas-2.jpg
-          title: Can Tas
-          shortdescription: Videographer & Host
-        - image: /img/team/Lisa-Heimbach-2.jpg
-          title: Lisa Heimbach
-          shortdescription: Interviews & Festival Trailer
-        - image: /img/team/chris-mathews-2.jpg
-          title: Chris Tom Mathews
-          shortdescription: Interviews & Festival Trailer
-        - image: /img/team/Ronald-Wages-2.jpg
-          title: Ronald Wages
-          shortdescription: Screening Coordination
-        - image: /img/team/Christoforos-Mechanezidis.jpg
+        - image: /img/team/christoforos-mechanezidis.jpg
           title: Christoforos Mechanezidis
           shortdescription: Photography
-        - image: /img/team/Axel-Ricke.jpg
-          title: Axel Ricke
-          shortdescription: Motion Graphics & Host
-        - image: /img/team/Henning-Ricke.jpg
-          title: Henning Ricke
-          shortdescription: Motion Graphics
-        - image: /img/team/anna-sommer.jpg
-          title: Anna Sommer
-          shortdescription: Pitch Contest Organization
-        - image: /img/team/Robert-Achtel.jpg
-          title: Robert G. Achtel
-          shortdescription: Web Design
-        - image: /img/team/Xenia-Rempel.jpg
-          title: Xenia Rempel
-          shortdescription: Jury Communication & Graphic Design Team
-        - image: /img/team/Valeria-Mykhtaryants.jpg
-          title: Valeria Mykhtaryants
-          shortdescription: Jury Communication
-        - image: /img/team/mads-vincent-beck.jpg
-          title: Vincent Beck
-          shortdescription: Streaming
-        - image: /img/team/robin-serwe.jpg
-          title: Robin Marco Cid Serwe
-          shortdescription: Streaming
-        - image: /img/team/jakob-bauer.jpg
-          title: Jakob Bauer
-          shortdescription: Streaming
-        - image: /img/team/jonas-engel.jpg
-          title: Jonas Engel
-          shortdescription: Streaming
-        - image: /img/team/mika-roemer.jpg
-          title: Mika Römer
-          shortdescription: Streaming
-        - image: /img/team/robin-zehm.jpg
-          title: Robin Zehm
-          shortdescription: Streaming
-        - image: /img/team/frederike-schrader.jpg
-          title: Frederike Schrader
-          shortdescription: Grafic Design, Hessen Focus & Streaming Team
-        - image: /img/team/princess-amarachi-anyasodor.jpg
-          title: Princess Amarachi Anyasodor
-          shortdescription: Blog, Social Media & Website Team
-        - image: /img/team/alexa-albert.jpg
-          title: Alexa Albert
-          shortdescription: Social Media, Website & Streaming Team
-        - image: /img/team/anna-villwock.jpg
-          title: Anna Villwock
-          shortdescription: Award Ceremony & Red Carpet Team
-        - image: /img/team/antonia-goltermann.jpg
-          title: Antonia Goltermann
-          shortdescription: Social Media & Editorial Team
-        - image: /img/team/benjamin-jochum.jpg
-          title: Benjamin Jochum
-          shortdescription: Grafic Design & Pitch Contest Team
-        - image: /img/team/carla-lilischkis.jpg
-          title: Carla Lilischkis
-          shortdescription: Social Media & Award Ceremony Team
-        - image: /img/team/christopher-buller.jpg
-          title: Christopher Buller
-          shortdescription: Grafic Design & Communication Team
-        - image: /img/team/faika-amanda-putri.jpg
-          title: Faika Amanda Putri
-          shortdescription: Grafic Design & Website Team
-        - image: /img/team/felicia-neitzel.jpg
-          title: Felicia Neitzel
-          shortdescription: Social Media & Red Carpet Team
-        - image: /img/team/franziska-jung.jpg
-          title: Franziska Jung
-          shortdescription: Red Carpet & Communication Team
-        - image: /img/team/johanna-jusek.jpg
-          title: Johanna Jusek
-          shortdescription: Social Media & Award Ceremony Team
-        - image: /img/team/larissa-danielle-kormann.jpg
-          title: Larissa Danielle Kormann
-          shortdescription: Award Ceremony Team
-        - image: /img/team/lars-hadeler.jpg
-          title: Lars Hadeler
-          shortdescription: Educational & Editorial Team
-        - image: /img/team/laura_zinganell.jpg
-          title: Laura Zinganell
-          shortdescription: Pitch Contest & Award Ceremony Team
-        - image: /img/team/leah-grote.jpg
-          title: Leah Grote
-          shortdescription: Editorial & Social Media Team
-        - image: /img/team/leonie-becker.jpg
-          title: Leonie Becker
-          shortdescription: Seriale Pro & Pitch Contest Team
-        - image: /img/team/lucas-loeb.jpg
-          title: Lucas Löb
-          shortdescription: Website & Interview Team
-        - image: /img/team/maike-selting.jpg
-          title: Maike Selting
-          shortdescription: Social Media & Editorial Team
-        - image: /img/team/marie-hoffstadt.jpg
-          title: Marie Hoffstadt
-          shortdescription: Red Carpet Team
-        - image: /img/team/marlene-quander.jpg
-          title: Marlene Quander
-          shortdescription: Social Media & Red Carpet Team
-        - image: /img/team/samrawit-kuflom.jpg
-          title: Samrawit Kuflom Tewolde
-          shortdescription: Grafic Design & Website Team
-        - image: /img/team/suzanne-zell.jpg
-          title: Suzanne Zell
-          shortdescription: Social Media & Award Ceremony Team
-        - image: /img/team/tim-nienhaus.jpg
-          title: Tim Nienhaus
-          shortdescription: Social Media & Grafic Design Team
-        - image: /img/team/Sarah-Belen-Luibrand.jpg
-          title: Sarah Belen Luibrand
-          shortdescription: Late Night Talks
-        - image: /img/team/Robert-Wolff.jpg
-          title: Robert Wolff
-          shortdescription: Blog
-        - image: /img/team/Enrico-Schierer.jpg
-          title: Enrico Schierer
-          shortdescription: Blog
-        - image: /img/team/Astrid-Matron.jpg
-          title: Dr. Astrid Matron
-          shortdescription: Educational Advisor
-        - image: /img/team/Jan-Krankl.jpg
-          title: Jan Krankl
-          shortdescription: Festival Team
+        - image: /img/team/melinda-kechter.jpg
+          title: Melinda Kechter
+          shortdescription: Photography
+        - image: /img/team/cora-tuma.jpg
+          title: Cora Tuma
+          shortdescription: Film Team
+        - image: /img/team/annika-schwiderski.jpg
+          title: Annika Schwiderski
+          shortdescription: Film Team
+        - image: /img/team/paula-buerger.jpg
+          title: Paula Bürger
+          shortdescription: Film Team
+        - image: /img/team/chris-tom-mathews.jpg
+          title: Chris Tom Mathews
+          shortdescription: Film Team
+        - image: /img/team/alexandra-manlig.jpg
+          title: Alexandra Manlig
+          shortdescription: Host
   - partial: text-plain
     headline: connect with us
     data:

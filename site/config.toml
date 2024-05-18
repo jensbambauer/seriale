@@ -20,6 +20,11 @@ languageCode = "en-us"
     url        = "/seriale-pro/"
     weight     = 3
 
+    [[menu.main]]
+    identifier = "program"
+    name       = "Program"
+    url        = "/program/"
+    weight     = 4
     
     [[menu.main]]
     identifier = "blog"

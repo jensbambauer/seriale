@@ -73,7 +73,7 @@ sections:
               size: 4
             - time: 9:30pm
               title: Open Air Screening
-              location: "Screening Block 1<br/>Lottehof, Wetzlar<br/>free entry"
+              location: "Screening Block 2<br/>Lottehof, Wetzlar<br/>free entry"
               size: 4
         - title: May 31th
           blocks:
