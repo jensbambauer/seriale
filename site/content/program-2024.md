@@ -460,7 +460,7 @@ sections:
                       type: workshop
                       length: 4
                       time: June 1st | 10:30 - 12:00 | 10:30am - 12:00pm
-                      details: "The objective of this workshop is to understand the main characteristics of a professional development process for a series or feature film. The roles, instances, and production parameters.<br/> <strong>Topics</strong> <ul> <li>Tips for initial brainstorming</li> <li>Roles within the writing room and the production company</li> <li>Delivery instances</li> <li>How to create a schedule according to my team</li> <li>Production parameters to take into account to make a series or feature film feasible</li></ul><br/><br/>Location: City Hall, Berliner Platz 1, 35390 Giessen"
+                      details: "The objective of this workshop is to understand the main characteristics of a professional development process for a series or feature film. The roles, instances, and production parameters.<br/><br/> <strong>Topics</strong> <ul> <li>Tips for initial brainstorming</li> <li>Roles within the writing room and the production company</li> <li>Delivery instances</li> <li>How to create a schedule according to my team</li> <li>Production parameters to take into account to make a series or feature film feasible</li></ul><br/><br/>Location: City Hall, Berliner Platz 1, 35390 Giessen"
                       external:
                         - link: 
                           name: register
