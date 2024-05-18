@@ -323,6 +323,10 @@ sections:
                 headline: Kinocenter Giessen
                 data:
                   text: "Location: Kinocenter Giessen, Bahnhofstrasse 34, 35390 Giessen"			  
+              - partial: program
+                smallmargin: true
+                data:
+                  items:
                     - title: Screening Block 6
                       length: 2
                       datetime: 2024-06-01
