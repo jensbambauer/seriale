@@ -9,6 +9,9 @@ sections:
       headline: program
       tabs:
         - title: 29th may
+          partial: tab-sections
+          data:
+            sections:
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
