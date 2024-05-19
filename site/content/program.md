@@ -469,6 +469,9 @@ sections:
                       A first part in which we think about what we want to talk about, and a second part that is about what texts I need to write to present a project: Logline, format, genre, themes, structure, synopsis, characters, overall concept. Practice: Make a pitch deck working with a short series.<br/><br/>Location: Reichskammergerichtsmuseum, Hofstatt 19, 35578 Wetzlar"
                       speaker:
                         - name: Ariana Saiegh
+                      external:
+                        - link: https://seriale2.vercel.app/workshop-register
+                          name: register	  
                     - title: "Steps and Roles in a Professional Process of Development"
                       type: workshop
                       length: 4
@@ -476,6 +479,9 @@ sections:
                       details: "The objective of this workshop is to understand the main characteristics of a professional development process for a series or feature film. The roles, instances, and production parameters.<br/><br/> <strong>Topics</strong> <ul> <li>Tips for initial brainstorming</li> <li>Roles within the writing room and the production company</li> <li>Delivery instances</li> <li>How to create a schedule according to my team</li> <li>Production parameters to take into account to make a series or feature film feasible</li></ul><br/><br/>Location: City Hall, Berliner Platz 1, 35390 Giessen"
                       speaker:
                         - name: Ariana Saiegh
+                      external:
+                        - link: https://seriale2.vercel.app/workshop-register-2
+                          name: register	  
                     - title: "The Art & Science of Data"
                       type: workshop
                       length: 4
@@ -483,6 +489,9 @@ sections:
                       details: "How Producers, Writers and Actors can benefit from understanding the numbers.</br> The aim of this workshop is to equip writers, actors, producers, and distributors with the  tools available in the market, enabling them to negotiate effectively with online content platforms. Understanding the key metrics that matter for streamers, the content evaluation  process that takes place and how it evolved from linear television is key in improving the position of creatives and reclaiming their power.<br/><br/>Location: City Hall, Berliner Platz 1, 35390 Giessen"
                       speaker:
                         - name: Pola Hempowicz 
+                      external:
+                        - link: https://seriale2.vercel.app/workshop-register-3
+                          name: register	  
   - partial: text-plain
     headline: connect with us
     data:
