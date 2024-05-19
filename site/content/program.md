@@ -62,6 +62,21 @@ sections:
                       type: panel discussion
                       moderator:
                         - name: Hannah Buscher, Daria Solovieva
+                      panelists:
+                        - name: Nico Drago
+                          link: nico-drago
+                        - name: Lars Smekal
+                          link: lars-smekal
+                        - name: Oliver Arnold
+                          link: oliver-arnold
+                        - name: Katrin Haase
+                          link: katrin-haase
+                        - name: Paula Berger
+                          link: paula-berger
+                        - name: Emrah Erdogru
+                          link: emrah-erdogru
+                        - name: Ismail Erdogru
+                          link: ismail-erdogru 
                     - title: "Screening Block 2 (Open Air)"
                       length: 3
                       datetime: 2024-05-30
