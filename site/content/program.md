@@ -371,9 +371,9 @@ sections:
                       time: 15:30 | 3:30pm
                       type: pitch contest
                       details: "Brand new concepts for digital series will be presented to the industry at the Pitch Contest."
-					  moderator:
-					    - name: Niklas Bauer
-                link: niklas-bauer	
+                      moderator:
+                        - name: Niklas Bauer
+                          link: niklas-bauer	
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
