@@ -101,12 +101,18 @@ sections:
                       details: "The creators behind this year's Official Selection series provide insights into their work. They will discuss their sources of inspiration and the messages behind their series. Additionally, they aim to offer valuable advice to aspiring and emerging series creators. From the art of storytelling to navigating industry challenges – these experts provide a behind-the-scenes look."
                       moderator:
                         - name: Dipu Bhattacharya
+						  link: dipu-bhattacharya
                       panelists:
                         - name: Anna Fatahov
+						  link: anna-fatahov
                         - name: Nitzan Rotschild
+						  link: nitzan-rotschild
                         - name: Danny Herteanu
+						  link: danny-herteanu
                         - name: Lars Smekal
+						  link: lars-smekal
                         - name: Dion Schumann
+						  link: dion-schumann
                     - title: "Sustainable Storytelling: Repurposing Assets in Series and Theater for a Greener Future"
                       type: Panel Discussion
                       length: 3
@@ -117,8 +123,11 @@ sections:
                         - name: Alexandra Manlig
                       panelists:
                         - name: Tina Kaiser
-                        - name: Tim Kahn 
+						  link: tina-kaiser
+                        - name: Tim Kahn
+						  link: tim-kahn
                         - name: Patrick Schimanski
+						  link: patrick-schimanski
                     - title: "Virtual Production"
                       type: Keynote
                       length: 3
@@ -126,6 +135,7 @@ sections:
                       time: 12:00 | 12:00pm
                       speaker:
                         - name: Martin Streit
+						  link: martin-streit
                       details: "This Keynote will focus on the interface between technology and storytelling in the digital age. Is Virtual Production the future of filmmaking? After a brief introduction to the topic of tools and techniques, we will discuss what it means to use them for series productions. The potential of Virtual Production in script development and creative possibilities will also be discussed."   
                     - title: "Bringing a Vision to Life: Behind the Scenes of Series Creation"
                       type: Panel Discussion
@@ -135,12 +145,20 @@ sections:
                       details: "This Panel explores the creative minds behind several series of this year’s Official Selection. From vision to the finished series they will provide insights into the creative process, and the challenges along the way of bringing the story idea to the screen."
                       moderator:
                         - name: Dipu Bhattacharya
+						  link: dipu-bhattacharya
                       panelists:
                         - name: Florian Friedrich
+						  link: florian-friedrich
                         - name: Laura Götz
+						  link: laura-goetz
                         - name: Vincent Lang
+						  link: vincent-lang
                         - name: Agustin Sullivan
+						  link: agustin-sullivan
+						- name: Natalia Bornay
+						  link: natalia-bornay
                         - name: Joaquín Bravo
+						  link: joaquin-bravo
                     - title: Break
                       length: 2
                       type: break
@@ -155,12 +173,12 @@ sections:
                       moderator:
                         - name: Isabella Pianto 
                       panelists:
-                        - name: Prof. Dr. Oliver Fahle  
-                          link:  
+                        - name: Prof. Dr. Oliver Fahle 
+                          link: oliver-fahle
                         - name: Prof. Dr. Greta Olson
-                          link: 
+                          link: greta-olson
                         - name: Lion H. Lau 
-                          link:  
+                          link: lion-lau
                     - title: "AI and the Future of Filmmaking: Opportunities, Risks, and Ethical Considerations"
                       type: Keynote
                       length: 3
@@ -168,7 +186,7 @@ sections:
                       time: 15:00 | 3:00pm
                       speaker:
                         - name: Serge Goriely
-                          link: 
+                          link: serge-goriely
                       details: "This keynote explores AI's growing role in content creation and storytelling in film and TV. While it offers possibilities to enhance efficiency and innovation, it also sparks debates on whether AI-generated content is art and raises concerns like job displacement and ethical issues. Addressing both benefits and ethical dilemmas, the presentation navigates the complex integration of AI in creative processes."
                     - title: "Film & Media Meetup LIVE"
                       type: Networking & Speed Meetings
@@ -261,18 +279,26 @@ sections:
                       time: 10:15 | 10:15am
                       moderator:
                         - name: Rose of Dolls
+						  link: rose-of-dolls
                       panelists:
-                        - name: Angela Krewani  
-                        - name: Serge Goriely  
+                        - name: Angela Krewani
+						  link: angela-krewani
+                        - name: Serge Goriely
+						  link: serge-goriely  
                         - name: Pierre Dewitte
+						  link: pierre-dewitte
+						- Patrick Schimanski
+						  link: patrick-schimanski
                       details: "In this panel, the evolving role of artificial intelligence within the series industry will be discussed. Topics such as efficiency enhancement, anticipated job displacement, algorithmic biases, and copyright risks will be explored to understand the new challenges and opportunities of AI for the industry."
                     - title: "Social Media & Cross Media: Spread the word!"
                       type: Keynote 
                       length: 2
                       time: 11:00 | 11:00am
                       speaker:
-                        - name: Sara Mauleón Carbayo
-                        - name: Anne Schokominza Michel 
+                        - name: Sara Mauleón
+						  link: sara-mauleon
+                        - name: Anne Schokominza Michel
+						  link: anne-schokominza-michel
                       details: "Social media is becoming more and more essential to promote new projects. Last year Sara Mauleón and Anne Michel told us about the different platforms we can use and how to carry out a content plan to market a web series. This time, they will focus on cross media work, in which we will see how we can spread our message and adapt it to different contexts. They will show us how to reach different user profiles through different channels and always maintain strategic coherence."
                     - title: "Financing & Analytics: Traditional and new ways"
                       type: Panel Discussion 
@@ -283,9 +309,13 @@ sections:
                         - name: Oihane Aramendia
                       panelists:
                         - name: Pola Hempowicz
+						  link: pola-hempowicz
                         - name: Marion Wagner
-                        - name: Sao-Wen Cheng 
-                        - name: Sergio Sosa  
+						  link: marion-wagner
+                        - name: Sao-Wen Cheng
+						  link: sao-wen-cheng
+                        - name: Sergio Sosa
+						  link: sergio-sosa
                       details: "The panel delves into the complex and intertwined realms of financing and data analysis for series production. Looking towards the future, changes will be discussed and traditional methods of financing and data processing will be contrasted with new approaches. Will it soon be necessary to incorporate AI-supported audience prediction into the applications for funding? What opportunities and challenges arise from new data collection methods, and how are funding institutions responding to these changes?"
                     - title: Break
                       length: 2
@@ -301,10 +331,16 @@ sections:
                       moderator:
                         - name: Mariia Eliseeva
                       panelists:
-                        - name: Antoine Disle  
+                        - name: Antoine Disle
+						  link: antoine-disle 
                         - name: Lotte Ruf
-                        - name: Alberto Ruano 
-                        - name: Ariana Saiegh 
+						  link: lotte-ruf
+                        - name: Alberto Ruano
+						  link: alberto-ruano
+                        - name: Ariana Saiegh
+						  link: ariana-saiegh
+						- name: Marco Eisenbarth
+						  link: marco-eisenbarth
                     - title: "Canada Focus: Digital Series Market Canada"
                       length: 3
                       type: Panel Discussion
@@ -315,9 +351,12 @@ sections:
                         - name: Celina Schmitt 
                         - name: Oihane Aramendia 
                       panelists:
-                        - name: Leah Rifkin 
-                        - name: Henry Gagnon 
+                        - name: Leah Rifkin
+						  link: leah-rifkin 
+                        - name: Henry Gagnon
+						  link: henry-gagnon 
                         - name: Suzette Laqua
+						  link: suzette-laqua
               - partial: text-plain
                 headline: Pitch Contest
                 data:
@@ -331,7 +370,10 @@ sections:
                       datetime: 2024-06-01
                       time: 15:30 | 3:30pm
                       type: pitch contest
-                      details: "Brand new concepts for digital series will be presented to the industry at the Pitch Contest."	
+                      details: "Brand new concepts for digital series will be presented to the industry at the Pitch Contest."
+					  moderator:
+					    - name: Niklas Bauer
+						  link: niklas-bauer	
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
@@ -465,33 +507,35 @@ sections:
                       type: workshop
                       length: 4
                       time: May 30 | 11:00 - 17:00 | 11am - 5:00pm
-                      details: "The objective of this workshop is to work on the initial process of an audiovisual development, from your own idea to a pitch deck.
-                      A first part in which we think about what we want to talk about, and a second part that is about what texts I need to write to present a project: Logline, format, genre, themes, structure, synopsis, characters, overall concept. Practice: Make a pitch deck working with a short series.<br/><br/>Location: Reichskammergerichtsmuseum, Hofstatt 19, 35578 Wetzlar"
+                      details: "The objective of this workshop is to work on the initial process of audiovisual development, from your own idea to a pitch deck. The workshop is divided into two parts. The first part will be dedicated to the idea development process. The second part will focus on writing texts for presenting your projects: logline, format, genre, themes, structure, synopsis, characters, high concept. Between these parts there will be a practice exercise, in which you’ll make your own pitch deck for a short series.<br/><br/>Location: Reichskammergerichtsmuseum, Hofstatt 19, 35578 Wetzlar"
+					  external:
+					    - link: https://seriale2.vercel.app/workshop-register
+						  name: register
                       speaker:
                         - name: Ariana Saiegh
-                      external:
-                        - link: https://seriale2.vercel.app/workshop-register
-                          name: register	  
-                    - title: "Steps and Roles in a Professional Process of Development"
+						  link: ariana-saiegh
+                    - title: "Steps and Roles in the Professional Process of Development"
                       type: workshop
                       length: 4
                       time: June 1st | 10:30 - 12:00 | 10:30am - 12:00pm
-                      details: "The objective of this workshop is to understand the main characteristics of a professional development process for a series or feature film. The roles, instances, and production parameters.<br/><br/> <strong>Topics</strong> <ul> <li>Tips for initial brainstorming</li> <li>Roles within the writing room and the production company</li> <li>Delivery instances</li> <li>How to create a schedule according to my team</li> <li>Production parameters to take into account to make a series or feature film feasible</li></ul><br/><br/>Location: City Hall, Berliner Platz 1, 35390 Giessen"
+                      details: "The objective of this workshop is to understand the main characteristics of a professional development process for a series or feature film: roles, instances, and production parameters.<br/><br/> <strong>Topics</strong> <ul> <li>Tips for initial brainstorming.</li> <li>Roles within the writing room and the production company.</li> <li>Delivery instances.</li> <li>How to create a schedule according to your team.</li> <li>Production parameters to take into account to make a series or feature film feasible.</li></ul><br/><br/>Location: City Hall, Berliner Platz 1, 35390 Giessen"
+					  external:
+					    - link: https://seriale2.vercel.app/workshop-register-2
+						  name: register
                       speaker:
                         - name: Ariana Saiegh
-                      external:
-                        - link: https://seriale2.vercel.app/workshop-register-2
-                          name: register	  
+						  link: ariana-saiegh
                     - title: "The Art & Science of Data"
                       type: workshop
                       length: 4
                       time: June 2nd | 11:00 - 12:30 | 11am - 12:30pm
-                      details: "How Producers, Writers and Actors can benefit from understanding the numbers.</br> The aim of this workshop is to equip writers, actors, producers, and distributors with the  tools available in the market, enabling them to negotiate effectively with online content platforms. Understanding the key metrics that matter for streamers, the content evaluation  process that takes place and how it evolved from linear television is key in improving the position of creatives and reclaiming their power.<br/><br/>Location: City Hall, Berliner Platz 1, 35390 Giessen"
+                      details: "How Producers, Writers and Actors can benefit from understanding the numbers?</br> The aim of this workshop is to equip writers, actors, producers, and distributors with the tools available in the market, enabling them to negotiate effectively with online content platforms. Understanding the key metrics that matter for streamers, the content evaluation  process that takes place and how it evolved from linear television is key in improving the position of creatives and reclaiming their power.<br/><br/>Location: City Hall, Berliner Platz 1, 35390 Giessen"
+					  external:
+					    - link: https://seriale2.vercel.app/workshop-register-3
+						  name: register
                       speaker:
-                        - name: Pola Hempowicz 
-                      external:
-                        - link: https://seriale2.vercel.app/workshop-register-3
-                          name: register	  
+                        - name: Pola Hempowicz
+						  link: pola-hempowicz
   - partial: text-plain
     headline: connect with us
     data:

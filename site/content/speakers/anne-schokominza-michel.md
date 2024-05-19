@@ -1,13 +1,13 @@
 ---
 title: Anne Schokominza Michel 
 image: /img/speaker/anne-schokominza-michel.jpg
-shortdescription: Social Media Managerin | Germany 
+shortdescription: Social Media/Online Marketing Manager | Germany 
 ---
 <img src="/img/speaker/anne-schokominza-michel.jpg">
 ## Anne Schokominza Michel
 
-Social Media Managerin | Germany 
+Social Media/Online Marketing Manager | Germany 
 
-Anne is 31, lives in Giessen and works as a self-employed Social Media Manager since 2014, with focus on the music industries, e-learning and equestrian sports. She has worked with many different companies. She is currently writing her bachelor's thesis in the Social Media Systems course of study with a focus on media at the Technische Hochschule Mittelhessen (THM) in Giessen.
+Anne is 32 and from Giessen. Since 2014 she has been a self-employed social media/online marketing manager, with focus on the creative industries, e-learning and equestrian sports. Therefore, she has worked with many different companies and currently works, among other things, as Head of Social Media at die Seriale.
 
 

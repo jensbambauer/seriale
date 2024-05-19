@@ -1,14 +1,14 @@
 ---
 title: Suzette Laqua
 image: /img/speaker/suzette-laqua.jpg
-shortdescription: Executive Director, Speaker | Canada
+shortdescription: Executive Producer | Canada
 ---
 <img src="/img/speaker/suzette-laqua.jpg">
 ## Suzette Laqua
 
-Executive Director, Speaker, Writer, Executive Producer | Canada
+Executive Producer, Speaker, Writer, Entrepreneur | Canada
 
-Executive director, speaker, writer and executive producer in the TV and Film industry. Suzette is Canadian who loves traveling and has lived in other countries including Holland, Australia and the USA. She truly feels these experiences have been invaluable in developing appreciation and understanding of the Global Village. Suzette is currently working on digital series, television and movie projects and continues to be a key speaker and panelist at various events local and international.
+Suzette is an Executive Producer, Executive Director, Writer, Speaker and Entrepreneur in the TV and film industry. With expertise and a proven track record of success, she brings unique insight and innovation to every project she undertakes. Suzette was the Founder and Executive Director of Vancouver Web Fest, recognized as Canada’s Premier International Web Fest & Conference. She continues to be fully committed to shaping the global landscape of digital storytelling as a Board Member of WebSeries Canada. Suzette continues with her ongoing efforts as an active participant developing and facilitating projects within the entertainment industry. As well as engaging with working professionals at every level of the film business, she remains focused in her commitment to excellence, innovation, and the pursuit of her passions.
 
 
 
