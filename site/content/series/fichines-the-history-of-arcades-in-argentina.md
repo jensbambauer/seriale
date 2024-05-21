@@ -1,5 +1,5 @@
 ---
-title: Fichines: The History of Arcades in Argentina (European Premiere) 
+title: "Fichines: The History of Arcades in Argentina (European Premiere)"
 image: /img/series/fichines-the-history-of-arcades-in-argentina.jpg
 ---
 <iframe width="560" height="315" src="https://vimeo.com/877638006?share=copy" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
