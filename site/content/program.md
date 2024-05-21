@@ -25,6 +25,25 @@ sections:
                       datetime: 2024-05-29
                       time: 17:00 | 5pm
                       type: screening
+                      series:
+                        - name: Beyond Fashion (Season 2)
+                          link: beyond-fashion
+                        - name: Super Fails
+                          link: super-fails
+                        - name: K' Road Chronicles (Season 3)
+                          link: k-road-chronicles
+                        - name: AD Maiora (Season 3)
+                          link: ad-maiora
+                        - name: Finest Cuts
+                          link: finest-cuts
+                        - name: The Last Monkey
+                          link: the-last-monkey
+                        - name: With Grace (Season 3)
+                          link: with-grace
+                        - name: The Real Land of Opportunity
+                          link: the-real-land-of-opportunity
+                        - name: Pulp Air
+                          link: pulp-air
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets	  
@@ -82,6 +101,23 @@ sections:
                       datetime: 2024-05-30
                       time: 21:30 | 9:30pm
                       type: screening
+                      series:
+                        - name: Füxe
+                          link: fuexe
+                        - name: Earthlings
+                          link: earthlings
+                        - name: Secürity
+                          link: secuerity
+                        - name: Gelbe Karten & Lila Latzhosen - Fundstücke der Borkener Frauenbewegung
+                          link: gelbe-karten-und-lila-latzhosen
+                        - name: Memories of a forgotten Childhood
+                          link: memories-of-a-forgotten-childhood
+                        - name: AS WE ARE
+                          link: as-we-are
+                        - name: The MUTE Series
+                          link: the-mute-series
+                        - name: The Method. Foundation of Identity
+                          link: the-method-foundation-of-identity
         - title: 31st may
           partial: tab-sections
           data:
@@ -225,6 +261,15 @@ sections:
                       datetime: 2024-05-31
                       time: 18:00 | 6:00pm
                       type: screening
+                      series:
+                        - name: Becoming Charlie 
+                          link: becoming-charlie
+                        - name: Hell
+                          link: hell
+                        - name: Roommate Quest!
+                          link: roommate-quest
+                        - name: 2 Aliens
+                          link: 2-aliens
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets
@@ -233,6 +278,13 @@ sections:
                       datetime: 2024-05-31
                       time: 20:30 | 8:30pm
                       type: screening
+                      series:      
+                        - name: No One Around
+                          link: no-one-around
+                        - name: Protected Space
+                          link: protected-space
+                        - name: Family Therapy
+                          link: family-therapy
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets
@@ -241,6 +293,15 @@ sections:
                       datetime: 2024-05-31
                       time: 21:45 | 9:45pm
                       type: screening
+                      series:                      
+                        - name: THE TASTE OF SILENCE
+                          link: the-taste-of-silence
+                        - name: The Kirlian Frequency (Season 2)
+                          link: the-kirlian-frequency
+                        - name: The Best Option
+                          link: the-best-option
+                        - name: all the guests have left
+                          link: all-the-guests-have-left
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets
@@ -402,6 +463,19 @@ sections:
                       datetime: 2024-06-01
                       time: 16:30 | 4:30pm
                       type: screening
+                      series:                      
+                        - name: Kick it like a girl
+                          link: kick-it-like-a-girl
+                        - name: Missing
+                          link: missing
+                        - name: Buschka discovers Germany - Show me Democracy!
+                          link: buschka-discovers-germany
+                        - name: Stadt des Friedens
+                          link: stadt-des-friedens
+                        - name: My Exes' Zodiac Signs
+                          link: my-exes-zodiac-signs
+                        - name: Strauss in the head
+                          link: strauss-in-the-head
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets
@@ -410,6 +484,15 @@ sections:
                       datetime: 2024-06-01
                       time: 19:00 | 7:00pm
                       type: screening
+                      series:                      
+                        - name: Haus Kummerveldt
+                          link: haus-kummerveldt
+                        - name: Lady Priest
+                          link: lady-priest
+                        - name: The Gliwensbourg Chronicles
+                          link: the-gliwensbourg-chronicles
+                        - name: The Folks
+                          link: the-folks
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets
@@ -418,6 +501,19 @@ sections:
                       datetime: 2024-06-01
                       time: 21:00 | 9pm
                       type: screening
+                      series:
+                        - name: Tricks and Recipes
+                          link: tricks-and-recipes
+                        - name: 2 Minutes - 24/7
+                          link: 2-minutes-247
+                        - name: MusicStories
+                          link: music-stories
+                        - name: "Fichines: The History of Arcades in Argentina"
+                          link: fichines-the-history-of-arcades-in-argentina
+                        - name: For Years to Come
+                          link: for-years-to-come
+                        - name: Eva. Connected Through Time
+                          link: eva-connected-through-time
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets
@@ -466,6 +562,13 @@ sections:
                       datetime: 2024-06-02
                       time: 15:00 | 3pm
                       type: screening
+                      series:
+                        - name: Swiss Secrets
+                          link: swiss-secrets
+                        - name: Sasha Counters!
+                          link: sasha-counters
+                        - name: Lily's turn
+                          link: lilys-turn
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets
@@ -474,6 +577,23 @@ sections:
                       datetime: 2024-06-02
                       time: 16:30 | 4:30pm
                       type: screening
+                      series:
+                        - name: The Care-Breakers
+                          link: the-care-breakers
+                        - name: Wipe me away (Season 2)
+                          link: wipe-me-away
+                        - name: Content Farm
+                          link: content-farm
+                        - name: Hogtown (Season 2)
+                          link: hogtown
+                        - name: I WILL BURY YOU (Season 2)
+                          link: i-will-bury-you
+                        - name: Drag Heals (Season 4)
+                          link: drag-heals
+                        - name: The Drop
+                          link: the-drop
+                        - name: CCF's Solstice Stories
+                          link: ccfs-solstice-stories
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets	  
