@@ -2,7 +2,7 @@
 title: Stadt des Friedens (Out of Competition) (World Premiere)
 image: /img/series/stadt-des-friedens.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IWTI9fOM6UM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IWTI9fOM6UM?si=3wPoekgyNIdXyF7B" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Stadt des Friedens (Out of Competition) (World Premiere)
 Country: Germany | Genre: Documentary | Creator, Director & Producer: Dennis Albrecht | Writers: Dennis Albrecht and the Kids | Main Cast: Sophie, Adrian, Lennart, Hannah, Fabienne, Niklas, Matilda, Laura, Ole, Livia

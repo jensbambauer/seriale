@@ -2,7 +2,7 @@
 title: The Gliwensbourg Chronicles (World Premiere)
 image: /img/series/the-gliwensbourg-chronicles.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=huPPAW1hHS0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/huPPAW1hHS0?si=QWDXkBC_8cBIHPWL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Gliwensbourg Chronicles (World Premiere)
 Country: France | Genre: Dramedy, Western | Creator: Emilie Tommasi | Writer & Director: Emilie Tommasi | Producer: Association ACTIO | Main Cast: Arnaud Thery, Romain Pirosa, Adil Jbilou, Laurent Brebion, Jean-Philippe De Oliveira, Mattieu Bernhard, Nathalie Normand, Myriam Caucheteux, Lahcen Ait Ouali, Jonathan Taverne, Sylvain Csernak, Michel Hettmann, Frédéric Narguet

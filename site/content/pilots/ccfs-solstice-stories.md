@@ -2,7 +2,6 @@
 title: CCF's Solstice Stories 
 image: /img/series/ccfs-solstice-stories.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## CCF's Solstice Stories
 Country: Canada  | Genre: Supernatural, Mystery, Tween, Teen  | Writer & Producer: Kai Damali Little-White | Directors: Kai Damali Little-White, Marel Alemany| Main Cast: Simone Miller, Millie Davis

@@ -2,7 +2,7 @@
 title: The MUTE Series (World Premiere)
 image: /img/series/the-mute-series.jpg
 ---
-<iframe width="560" height="315" src="https://vimeo.com/393643710" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/393643710?h=14580024b3&color=ffffff&title=0&byline=0&portrait=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The MUTE Series (World Premiere)
 Country: United Kingdom | Genre: Comedy | Creator: Andy Lambert | Writer & Director: Andy Lambert | Producers: Karen Martinez, Andy Lambert | Main Cast: Kevin Millington, Stewart Alexander, Sinead MacInnes, Bobby Dosanjh, Akie Kotabe, Peter Lofsgard, Clemente Lohr

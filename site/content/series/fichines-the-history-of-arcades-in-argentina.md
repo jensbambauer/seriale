@@ -2,7 +2,7 @@
 title: "Fichines: The History of Arcades in Argentina (European Premiere)"
 image: /img/series/fichines-the-history-of-arcades-in-argentina.jpg
 ---
-<iframe width="560" height="315" src="https://vimeo.com/877638006?share=copy" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/877638006?h=47533a3285" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Fichines: The History of Arcades in Argentina (European Premiere)
 Country: Argentina | Genre: Documentary | Creators, Writers & Directors: Sebastian Culp, Tomás Portias | Producers: Sergio Sosa, Antonella del Mestre | Host: Alejandro Roig (AKA Burger Kid)

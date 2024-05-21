@@ -2,7 +2,6 @@
 title: Super Fails
 image: /img/series/super-fails.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Super Fails
 Country: Germany | Genre: Animation, Political Satire | Creator, Writer: Robert Jahn | Creative Directors: Deveroe, Robert Jahn | Producer: Bastian Asdonk | Voice: Markus Haase

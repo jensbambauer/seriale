@@ -2,7 +2,6 @@
 title: With Grace (Season 3) (German Premiere)
 image: /img/series/with-grace.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## With Grace (Season 3) (German Premiere)
 Country: Australia | Genre: Drama | Creators: Julie Money, Grace Truman | Writers: Grace Truman, Julie Money | Director: Julie Money | Producers: Julie Money, Georgina Connell, Grace Truman | Main Cast: Grace Truman, Ben Wood, Justine Clarke

@@ -2,7 +2,6 @@
 title: Eva. Connected Through Time (German Premiere) 
 image: /img/series/eva-connected-through-time.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Eva. Connected Through Time (German Premiere) 
 Country: Russian Federation | Genre: Animation, Fantasy | Creators, Writers & Directors: Anton Outkine, Nata Pokrovskaya | Producers: Anna Mitafidi, Alexandra Potapova, Vadim Belov, Aleksandra Shakhmatova | Main Cast: Evgeny Markov, Elena Khodunova

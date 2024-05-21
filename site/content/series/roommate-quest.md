@@ -2,7 +2,6 @@
 title: Roommate Quest! (World Premiere)
 image: /img/series/roommate-quest.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Roommate Quest! (World Premiere)
 Country: Germany | Genre: Comedy | Creator, Director: Florian W. Friedrich | Writer: Julia Römpp | Producers: Tobias Sybel, Marlene Zeitler, Uğur Kurkut (Post Production Coordinator) | Main Cast: Laura Götz, Vincent Lang, Nils Brunkhorst, Matthias Gärtner, Maximilian Held, Eugen Pirvu, Lisa Stiegler, Nadja Zwanziger

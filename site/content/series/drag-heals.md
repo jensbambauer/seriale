@@ -2,7 +2,6 @@
 title: Drag Heals (Season 4) 
 image: /img/series/drag-heals.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Drag Heals (Season 4) 
 Country: Canada | Genre: Documentary, Drag | Creators: Tracey Erin Smith | Director, Writer & Producer: Charlie David | Host: Tracey Erin Smith

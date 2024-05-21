@@ -2,7 +2,7 @@
 title: Füxe 
 image: /img/series/fuexe.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=B3q71xiGgwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B3q71xiGgwI?si=NTe3kdNWPYWzS5rm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Füxe
 Country: Germany | Genre: Drama | Creator: Joe Hofer | Writers: Joe Hofer, David Clay Diaz | Directors: David Clay Diaz, Susan Gordanshekan | Producers: Katrin Haase, Oliver Arnold | Main Cast: Valon Krasniqi, Roxana Samadi, Vito Sack, Ferdinand Lehmann, Richard van Weyden
