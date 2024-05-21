@@ -484,7 +484,6 @@ sections:
                         - name: The Gliwensbourg Chronicles
                           link: the-gliwensbourg-chronicles
                         - name: The Folks
-                          link: the-folks
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets
@@ -495,7 +494,6 @@ sections:
                       type: screening
                       series:
                         - name: Tricks and Recipes
-                          link: tricks-and-recipes
                         - name: 2 Minutes - 24/7
                           link: 2-minutes-247
                         - name: MusicStories
@@ -584,7 +582,6 @@ sections:
                         - name: The Drop
                           link: the-drop
                         - name: CCF's Solstice Stories
-                          link: ccfs-solstice-stories
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets	  
