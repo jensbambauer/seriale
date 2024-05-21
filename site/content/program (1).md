@@ -508,7 +508,7 @@ sections:
                           link: 2-minutes-247
                         - name: MusicStories
                           link: music-stories
-                        - name: Fichines: The History of Arcades in Argentina
+                        - name: "Fichines: The History of Arcades in Argentina"
                           link: fichines-the-history-of-arcades-in-argentina
                         - name: For Years to Come
                           link: for-years-to-come
