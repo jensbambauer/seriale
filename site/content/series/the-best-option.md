@@ -2,7 +2,7 @@
 title: The Best Option (Out of Competition) (World Premiere)
 image: /img/series/the-best-option.jpg
 ---
-<iframe width="560" height="315" src="https://youtu.be/RXAUI5lKMOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RXAUI5lKMOs?si=uy251XXGdPxGNNlr" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Best Option (Out of Competition) (World Premiere)
 Country: Belgium | Genre: Science Fiction | Creator, Writer & Director: Serge Goriely | Producer: Arkadinia | Main Cast: Florence Noirhomme, Romain Mathelart, Takis Chrysanthopoulos 

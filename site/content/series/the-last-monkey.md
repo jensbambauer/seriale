@@ -2,7 +2,6 @@
 title: The Last Monkey 
 image: /img/series/the-last-monkey.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Last Monkey (International Premiere)
 Country: Spain | Genre: Comedy | Creators, Writers & Directors: Lander Múgica, Unai Madariaga | Producers: Lander Múgica, Unai Madariaga, Epic Films (Production company) | Main Cast: Mikel Ibarguren, Andrea Núñez Herrador, Kepa Garcia Icedo, Zorion Egileor, Leire Ormazabal, Itziar Aizpuru, Gaston Haag 
