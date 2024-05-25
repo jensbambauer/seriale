@@ -37,6 +37,7 @@ sections:
                         - name: Finest Cuts
                           link: finest-cuts
                         - name: The Last Monkey
+                          link: the-last-monkey
                         - name: With Grace (Season 3)
                           link: with-grace
                         - name: The Real Land of Opportunity
@@ -474,6 +475,7 @@ sections:
                         - name: My Exes' Zodiac Signs
                           link: my-exes-zodiac-signs
                         - name: Strauss in the head
+                          link: strauss-in-the-head
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets
@@ -490,6 +492,7 @@ sections:
                         - name: The Gliwensbourg Chronicles
                           link: the-gliwensbourg-chronicles
                         - name: The Folks
+                          link: the-folks
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets
