@@ -178,7 +178,7 @@ sections:
         # - image: /img/partners/sAWE.png
         # - image: /img/partners/Unsere_Serien.svg
         # - image: /img/partners/elefantenklo_magazin_logo.png
-        - image: /img/partners/wswc-2024.jpg
+        - image: /img/partners/wswc-2024.png
           link: "https://wswc.info/"
         # - image: /img/partners/ZukunftInnenstadt-GI_rot.jpg
   - partial: grid
@@ -215,7 +215,7 @@ sections:
           link: "https://www.seoulwebfest.com"
         - image: /img/partners/sicilly.png
           link: "http://sicilywebfest.com/index.html"
-        - image: /img/partners/british-web-awards-logo.jpg
+        - image: /img/partners/british-web-awards-logo.png
           link: "https://www.britishwebawards.com/"
         - image: /img/partners/stareable_logo.png
           link: "https://stareable.com"
