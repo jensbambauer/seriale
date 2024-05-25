@@ -526,11 +526,11 @@ sections:
       headline: be part of it
       intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
       tabs:
-        # - title: get tickets
-        #   partial: tab-text
-        #   data:
-        #     headline: get your tickets
-        #     text: '<a class="button" href="https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD">buy tickets</a>'
+        - title: get tickets
+          partial: tab-text
+          data:
+            headline: get your tickets
+            text: ' <p> Festival Pass: 60,- €<br/><br/> The Festival Pass includes tickets to all movie theater screenings at Kinocenter Giessen and is available at all Festival locations. </p> <p> Single tickets are only available at Kinocenter Giessen or online:<br/><br/> <a class="button" href="https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996">buy tickets</a> </p> '
         - title: submit series
           partial: tab-text
           data:
