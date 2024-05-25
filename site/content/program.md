@@ -42,6 +42,7 @@ sections:
                         - name: The Real Land of Opportunity
                           link: the-real-land-of-opportunity
                         - name: Pulp Air
+                          link: pulp-air 
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets	  
@@ -103,6 +104,7 @@ sections:
                         - name: Füxe
                           link: fuexe
                         - name: Earthlings
+                          link: earthlings
                         - name: Secürity
                           link: secuerity
                         - name: Gelbe Karten & Lila Latzhosen - Fundstücke der Borkener Frauenbewegung
@@ -292,9 +294,11 @@ sections:
                       type: screening
                       series:                      
                         - name: THE TASTE OF SILENCE
+                          link: the-taste-of-silence
                         - name: The Kirlian Frequency (Season 2)
                           link: the-kirlian-frequency
                         - name: The Best Option
+                          link: the-best-option
                         - name: all the guests have left
                           link: all-the-guests-have-left
                       external:
@@ -466,6 +470,7 @@ sections:
                         - name: Buschka discovers Germany - Show me Democracy!
                           link: buschka-discovers-germany
                         - name: Stadt des Friedens
+                          link: stadt-des-friedens
                         - name: My Exes' Zodiac Signs
                           link: my-exes-zodiac-signs
                         - name: Strauss in the head
@@ -481,6 +486,7 @@ sections:
                         - name: Haus Kummerveldt
                           link: haus-kummerveldt
                         - name: Lady Priest
+                          link: lady-priest
                         - name: The Gliwensbourg Chronicles
                           link: the-gliwensbourg-chronicles
                         - name: The Folks
@@ -494,6 +500,7 @@ sections:
                       type: screening
                       series:
                         - name: Tricks and Recipes
+                          link: tricks-and-recipes
                         - name: 2 Minutes - 24/7
                           link: 2-minutes-247
                         - name: MusicStories
@@ -501,6 +508,7 @@ sections:
                         - name: "Fichines: The History of Arcades in Argentina"
                           link: fichines-the-history-of-arcades-in-argentina
                         - name: For Years to Come
+                          link: for-years-to-come
                         - name: Eva. Connected Through Time
                           link: eva-connected-through-time
                       external:
@@ -585,6 +593,7 @@ sections:
                         - name: The Drop
                           link: the-drop
                         - name: CCF's Solstice Stories
+                          link: ccfs-solstice-stories
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets	  
