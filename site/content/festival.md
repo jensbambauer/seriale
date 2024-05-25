@@ -92,7 +92,8 @@ sections:
     data:
       image: /img/networking-fmml.jpg
       headline: "Speed Meetings"
-      text: 'The Film & Media Meetup is coming to Giessen. Creators from Hesse and all over the world have the opportunity to discuss projects, make contacts or simply find out about current developments in a relaxed atmosphere over a drink. The Meetup offers everything you need to get started in the film and media industry or for your upcoming projects. There is also the opportunity to take part in a speed meeting.<br/><br/>The Film & Media Meetup takes place regularly. It is a cooperation project of Filmhaus Frankfurt, Film- und Kinobüro Hessen, Hessen Film & Medien, the Hessen Film and Media Academy (hFMA) and Junge Generation Hessischer Film. <img src="/img/partners/film-und-media-meetup.png" class="partner-logo"><img src="/img/partners/hessisches-ministerium.png" class="partner-logo">'
+      text: 'The Film & Media Meetup is coming to Giessen. Creators from Hesse and all over the world have the opportunity to discuss projects, make contacts or simply find out about current developments in a relaxed atmosphere over a drink. The Meetup offers everything you need to get started in the film and media industry or for your upcoming projects. There is also the opportunity to take part in a speed meeting.<br/><br/>The Film & Media Meetup takes place regularly. It is a cooperation project of Filmhaus Frankfurt, Film- und Kinobüro Hessen, Hessen Film & Medien, the Hessen Film and Media Academy (hFMA) and Junge Generation Hessischer Film. <div style="margin-top: 10px; display: flex; gap: 20px"><img src="/img/partners/film-und-media-meetup.png" style="width: 147px"><img src="/img/partners/hessisches-ministerium.png" style="width: 147px"></div>'
+
   # - partial: text-and-image
   #   headline: die Seriale in the videmic app
   #   data:
