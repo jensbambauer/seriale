@@ -42,13 +42,13 @@ sections:
     data:
       headline: About
       paragraphs:
-        - text: "&quot;die Seriale&quot; is the oldest festival in Germany for digital series. The festival is dedicated to audience, creators, students and all series fans. The Official Selection with over 50 series and pilots from 18 countries is presented in the movie theatre, open air and on demand. The supporting program offers a conference with lectures and panel discussions."
+        - text: "&quot;die Seriale&quot; is the oldest festival in Germany for independent and digital series. The festival is dedicated to audience, creators, students and all series fans. The Official Selection with over 50 series and pilots from 16 countries is presented in the movie theatre, open air and on demand. The supporting program offers a conference with lectures and panel discussions."
   # - partial: thumb-grid
-  #   headline: official selection 2021 - series
+  #   headline: official selection 2024 - series
   #   data:
   #     list: series
   # - partial: thumb-grid
-  #   headline: official selection 2021 - pilots
+  #   headline: official selection 2024 - pilots
   #   data:
   #     list: pilots
   # - partial: text-and-image
@@ -75,12 +75,24 @@ sections:
   #   data:
   #     list: jury-pilots
   - partial: text-and-image
-    headline: Educational
+    headline: award ceremony
+    data:
+      image: /img/new-awards.jpg
+      headline: "New Designed Awards for our 10th Anniversary Edition"
+      text: "For our 10th anniversary edition, we have designed new glamorous awards. At this year's Award Ceremony the most outstanding series and pilots will be honored. A total of 17 winners, selected by an international jury of experts, will take home our newly designed award. The evening will be hosted by Hannah Buscher and Robert Schäfer. This year's Award Ceremony will once again be accentuated with music by the pianist Lada Nevmyatullina."
+  - partial: text-and-image
+    headline: educational
     data:
       image: /img/educational.jpg
       headline: "Conference Program"
-      text: 'The Educational offers lectures and discussions that intend to bring together film and media scholars with creators. How did the web series world develop in the past two decades? Where are we standing now and what is changing? What are the differences in the dramaturgical structure between short and long form series? What are the up-and-coming ideas and formats? And how do we look at short form digital series from a film- and media-theoretical perspective? The Educational is a cooperation with the "Hessen Film & Media Academy", the network of 13 Hessian universities.
+      text: "The Educational offers lectures and discussions that intend to bring together film and media scholars with creators. How did the web series world develop in the past two decades? Where are we standing now and what is changing? What are the differences in the dramaturgical structure between short and long form series? What are the up-and-coming ideas and formats? And how do we look at short form digital series from a film- and media-theoretical perspective? The Educational is a cooperation with the "Hessen Film & Media Academy", the network of 13 Hessian universities.
       <img src="/img/partners/hFMA.png" class="partner-logo">'
+  - partial: text-and-image
+    headline: Film & Media Meetup LIVE
+    data:
+      image: /img/networking-fmml.jpg
+      headline: "Speed Meetings"
+      text: "The Film & Media Meetup is coming to Giessen. Creators from Hesse and all over the world have the opportunity to discuss projects, make contacts or simply find out about current developments in a relaxed atmosphere over a drink. The Meetup offers everything you need to get started in the film and media industry or for your upcoming projects. There is also the opportunity to take part in a speed meeting.<br/><br/>The Film & Media Meetup takes place regularly. It is a cooperation project of Filmhaus Frankfurt, Film- und Kinobüro Hessen, Hessen Film & Medien, the Hessen Film and Media Academy (hFMA) and Junge Generation Hessischer Film."
   # - partial: text-and-image
   #   headline: die Seriale in the videmic app
   #   data:
@@ -160,62 +172,63 @@ sections:
           link: "https://www.sparqfest.live/"
         - image: /img/partners/rossi-photography.png
           link: "https://stolenmoments.de"
-        - image: /img/partners/Lumatik.png
-          link: "https://www.lumatik.media"
+        # - image: /img/partners/Lumatik.png
         - image: /img/partners/tag-nacht-media-logo.png
           link: "https://tagundnachtmedia.de/"
         # - image: /img/partners/heyligenstaedt.png
-        - image: /img/partners/sAWE.png
-          link: "https://www.serieslyawesome.tv/"
-        - image: /img/partners/Unsere_Serien.svg
+        # - image: /img/partners/sAWE.png
+        # - image: /img/partners/Unsere_Serien.svg
         # - image: /img/partners/elefantenklo_magazin_logo.png
-        - image: /img/partners/wswc-2023.jpg
-        - image: /img/partners/ZukunftInnenstadt-GI_rot.jpg
+        - image: /img/partners/wswc-2024.jpg
+          link: "https://wswc.info/"
+        # - image: /img/partners/ZukunftInnenstadt-GI_rot.jpg
   - partial: grid
     headline: our partner festivals
     data:
       items:
         - image: /img/partners/Seriesland.png
           link: "https://www.seriesland.eus"
-        - image: /img/partners/Buenos-Aires-Series.png
-          link: "https://www.buenosaireseries.com"
-        - image: /img/partners/Seoul_Webfest.png
-          link: "https://www.seoulwebfest.com"
-        - image: /img/partners/dc-webfest.png
-          link: "https://dcwebfest.org"
-        - image: /img/partners/sicilly.png
-          link: "http://sicilywebfest.com/index.html"
-        - image: /img/partners/mn-webfest.png
-          link: "minnesota web fest"
-        - image: /img/partners/Miami_Web_Fest.svg
-          link: "https://miamiwebfest.com"
-        - image: /img/partners/vancouver.png
-          link: "https://www.vancouverwebfest.com"
         - image: /img/partners/DMF.png
           link: "https://www.digitalmediafest.it/en/"
-        - image: /img/partners/Realist-Webfest.jpg
-          link: "https://webfestival.ru/?lang=en"
+        - image: /img/partners/to-webfest.png
+          link: "https://towebfest.ca/"
+        - image: /img/partners/mn-webfest.png
+          link: "https://www.mnwebfest.org/de/index.html"
         - image: /img/partners/New-Zealand-Webfest.png
           link: "http://www.nzwebfest.co.nz"
+        - image: /img/partners/hollywood-series.png
+          link: "https://www.asiawebawards.com"
+        - image: /img/partners/Miami_Web_Fest.svg
+          link: "https://miamiwebfest.com"
         - image: /img/partners/Riowebfest.aktuell.png
           link: "https://www.riowebfest.net"
-        - image: /img/partners/webfest-berlin.png
-          link: "https://www.seriesland.eus"
-        - image: /img/partners/Asia-Web-Awards.png
-          link: "https://www.asiawebawards.com"
-        - image: /img/partners/bogota_webfest.jpg
-          link: "https://bogotawebfest.com"
+        - image: /img/partners/lawebfest.png
+          link: "https://www.lawebfest.net/"
         - image: /img/partners/nj-web.jpg
           link: "https://www.newjerseywebfest.com"
-        - image: /img/partners/montreal-web-fest-logo.png
-        - image: /img/partners/stareable_logo.png
-          link: "https://stareable.com"
-        - image: /img/partners/seriencamp.png
-          link: "https://seriencamp.tv/festival/"
         - image: /img/partners/baltimore.png
           link: "https://www.bnmwebfest.com"
         - image: /img/partners/AWF.jpg
           link: "https://www.apuliawebfest.it"
+        - image: /img/partners/dc-webfest.png
+          link: "https://dcwebfest.org"
+        - image: /img/partners/Seoul_Webfest.png
+          link: "https://www.seoulwebfest.com"
+        - image: /img/partners/sicilly.png
+          link: "http://sicilywebfest.com/index.html"
+        - image: /img/partners/british-web-awards-logo.jpg
+          link: "https://www.britishwebawards.com/"
+        - image: /img/partners/stareable_logo.png
+          link: "https://stareable.com"
+        - image: /img/partners/Realist-Webfest.jpg
+          link: "https://webfestival.ru/?lang=en"
+        - image: /img/partners/cusco-webfest.png
+          link: "https://cuscowebfest.net/"
+        - image: /img/partners/Buenos-Aires-Series.png
+          link: "https://www.buenosaireseries.com"
+        - image: /img/partners/vancouver.png
+          link: "https://www.vancouverwebfest.com"
+        - image: /img/partners/montreal-web-fest-logo.png
   - partial: text-plain
     headline: connect with us
     data:

@@ -2,7 +2,7 @@
 title: Kick it like a girl
 image: /img/series/kick-it-like-a-girl.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0YHiB0G5yCY?si=cCWpta8ZBa2MSmfg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/949168448?h=b7b6ceec8e" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Kick it like a girl
 Country: Germany | Genre: Documentary | Creator, Writer, Director & Producer: Karin de Miguel Wessendorf | Main Cast: Chayenne, Eriona, Pauline, Liv

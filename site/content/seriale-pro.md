@@ -11,18 +11,14 @@ sections:
     data:
       headline: About
       paragraphs:
-        - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities, “DIMA Digital Market”, the “Pitch Contest” and a Conference Program."
-
-        - text: "The Seriale Pro is a huge conference and networking event, it will be held for the 7th time as part of “die Seriale”."
-        - text: "The “DIMA Digital Market” is Germany’s very first physical market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland” and “Minnesota Web Fest."
-        - text: "Finally about 12 brand new concepts for digitals series will be presented to the industry during a pitch competition."
-  # - partial: text-and-image
-  #   headline: DIGITAL SERIES PITCH CONTEST
-  #   data:
-  #     embed: '<iframe src="https://player.vimeo.com/video/716729217" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>'
-  #     # image: /img/pitch-contest.jpg
-  #     headline: "Pitch Your Project"
-  #     text: "More than 20 international creators, get the chance to present their series project in a 3 minute long pitch. Among them, some creators will pitch their project for the first time. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 12. The pitch contest takes place on Saturday, June 11, from of 4pm to 8pm at Giessen Town Hall."
+        - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities, “Business Meetings & Digital Market”, the “Pitch Contest” and a Conference Program.<br><br>The Seriale Pro is a huge conference and networking event, it will be held for the 8th time as part of “die Seriale”<br><br>The “DIMA Digital Market” is Germany’s very first market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland” and “Minnesota Web Fest".<br><br>Finally about 13 brand new concepts for digitals series will be presented to the industry during the Pitch Contest."
+   - partial: text-and-image
+     headline: pitch contest
+     data:
+  #     embed: '<iframe src="https://player.vimeo.com/video/716729217" width="640" height="360" #frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>'
+       # image: /img/pitch-contest-2023.jpg
+       headline: "Pitch Your Project"
+       text: "13 international creators get the chance to present their series project in a 3 minute long pitch. Among them, some creators will pitch their project for the first time. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 2. The pitch contest takes place on Saturday, June 1, from 3:30pm to 6pm at Kleines Haus Stadttheater Giessen."
   # - partial: teaser-grid
   #   headline: jury pitch contest
   #   data:
@@ -32,18 +28,18 @@ sections:
   #   data:
   #     list: pitch-contest-moderators
   - partial: text-and-image
-    headline: Conference Program
+    headline: conference program
     data:
       reversed: true
       image: /img/business-days.jpg
       headline: "Conference & Networking"
       text: "The Conference days offers a large conference and networking program for the creative industry. Established international experts will present exclusive insights on the mechanisms of the global digital series market and talk about the latest developments and trends. Various possibilities for distribution, co-production and branded content will be presented and discussed in panels. Brand new project ideas will be presented and above all, this event invites to network and make new connections."
-  # - partial: text-and-image
-  #   headline: DIMA Digital Market
-  #   data:
-  #     image: /img/dima.jpg
-  #     headline: "Germany's first Market for Digital Series"
-  #     text: "The DIMA Digital Market Giessen (“DIMA Giessen”) combines a physical market especially for short form digital series and a networking platform for international producers, distributors, sales agents, broadcasters and funding representatives. DIMA is a cooperation with “Bilbao Seriesland” & “Minnesota Web Fest”."
+  - partial: text-and-image
+     headline: Business Meetings & Digital Market
+     data:
+       image: /img/market.jpg
+       headline: "Germany's Market for Digital Series"
+       text: "The Business Meetings & Digital Market offer individual filmmakers, various companies, and institutions from the media industry the opportunity to meet potential business partners and expand their network in a one-on-one meeting format. This festival event brings together a variety of international, regional, and nationwide players from different sectors of the industry."
   # - partial: text-and-image
   #   headline: die Seriale in the videmic app
   #   data:
@@ -65,23 +61,27 @@ sections:
     headline: our sponsors
     data:
       items:
-        - image: /img/partners/Hessisches-Ministerium-fuer-Wirtschaft-Energie-Verkehr-und-Wohnen.png
+        - image: /img/partners/HFM_Logo_Red_sRGB.png
+          link: "https://www.hessenfilm.de/"
+        # - image: /img/partners/Hessisches-Ministerium-fuer-Wirtschaft-Energie-Verkehr-und-Wohnen.png
           link: "https://wirtschaft.hessen.de"
-        - image: /img/partners/Kultur_und_Kreativwirtschaft_Hessen.svg
+        # - image: /img/partners/Kultur_und_Kreativwirtschaft_Hessen.svg
         - image: /img/partners/Giessen-WF.png
           link: "https://www.giessen.de/Wirtschaft/index.php?object=tx,2874.1&ModID=9&FID=684.7.1&NavID=1894.12&La=1"
         - image: /img/partners/Kreativ-sphaeren.jpg
         - image: /img/partners/Seeka_TV.png
           link: "https://watch.seeka.tv"
+        - image: /img/partners/Logo-STG.png
+          link: "https://stadttheater-giessen.de/"
         - image: /img/partners/Bilbao-Seriesland1.png
           link: "https://www.seriesland.eus"
         # - image: /img/partners/mm-eventservice.jpg
         - image: /img/partners/DIMA.png
           link: "http://dima-market.com"
-        - image: /img/partners/sparq-logo@1x.png
+        # - image: /img/partners/sparq-logo@1x.png
           link: "https://www.sparqfest.live/"
         - image: /img/partners/FlixxoBlack.png
-        - image: /img/partners/un3-logo.png
+        # - image: /img/partners/un3-logo.png
         - image: /img/partners/lichtacker.png
         - image: /img/partners/dobago.png
   - partial: text-plain

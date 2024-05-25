@@ -37,13 +37,11 @@ sections:
                         - name: Finest Cuts
                           link: finest-cuts
                         - name: The Last Monkey
-                          link: the-last-monkey
                         - name: With Grace (Season 3)
                           link: with-grace
                         - name: The Real Land of Opportunity
                           link: the-real-land-of-opportunity
                         - name: Pulp Air
-                          link: pulp-air
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets	  
@@ -95,7 +93,7 @@ sections:
                         - name: Emrah Erdogru
                           link: emrah-erdogru
                         - name: Ismail Erdogru
-                          link: ismail-erdogru 
+                          link: ismail-erdogru
                     - title: "Screening Block 2 (Open Air)"
                       length: 3
                       datetime: 2024-05-30
@@ -105,7 +103,6 @@ sections:
                         - name: Füxe
                           link: fuexe
                         - name: Earthlings
-                          link: earthlings
                         - name: Secürity
                           link: secuerity
                         - name: Gelbe Karten & Lila Latzhosen - Fundstücke der Borkener Frauenbewegung
@@ -220,7 +217,7 @@ sections:
                       length: 3
                       datetime: 2024-05-31
                       time: 14:15 | 2:15pm
-                      details: "Still perceived as the norm in society as a whole, men and masculinity are often only mentioned in passing when analyzing gender images in the media. Using examples from this year's selection, the panel reflects on the portrayal of masculinity and male behavioral norms and thus the construction of gender identities."
+                      details: "We ask about how gender is constructed on screen and what we can therefore learn about societal shifts through audiovisual media in this panel. We talk about the cinematic construction of different gender identities in “Becoming Charlie” from this year's selection and place the series in contemporary debates."
                       moderator:
                         - name: Isabella Pianto 
                       panelists:
@@ -295,11 +292,9 @@ sections:
                       type: screening
                       series:                      
                         - name: THE TASTE OF SILENCE
-                          link: the-taste-of-silence
                         - name: The Kirlian Frequency (Season 2)
                           link: the-kirlian-frequency
                         - name: The Best Option
-                          link: the-best-option
                         - name: all the guests have left
                           link: all-the-guests-have-left
                       external:
@@ -375,7 +370,7 @@ sections:
                           link: sara-mauleon
                         - name: Anne Schokominza Michel
                           link: anne-schokominza-michel
-                      details: "Social media is becoming more and more essential to promote new projects. Last year Sara Mauleón and Anne Michel told us about the different platforms we can use and how to carry out a content plan to market a web series. This time, they will focus on cross media work, in which we will see how we can spread our message and adapt it to different contexts. They will show us how to reach different user profiles through different channels and always maintain strategic coherence."
+                      details: "Social media is becoming more and more essential to promote new projects. Last year Sara Mauleón and Schokominza Michel told us about the different platforms we can use and how to carry out a content plan to market a web series. This time, they will focus on cross media work, in which we will see how we can spread our message and adapt it to different contexts. They will show us how to reach different user profiles through different channels and always maintain strategic coherence."
                     - title: "Financing & Analytics: Traditional and new ways"
                       type: Panel Discussion 
                       length: 2
@@ -471,11 +466,9 @@ sections:
                         - name: Buschka discovers Germany - Show me Democracy!
                           link: buschka-discovers-germany
                         - name: Stadt des Friedens
-                          link: stadt-des-friedens
                         - name: My Exes' Zodiac Signs
                           link: my-exes-zodiac-signs
                         - name: Strauss in the head
-                          link: strauss-in-the-head
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets
@@ -488,11 +481,9 @@ sections:
                         - name: Haus Kummerveldt
                           link: haus-kummerveldt
                         - name: Lady Priest
-                          link: lady-priest
                         - name: The Gliwensbourg Chronicles
                           link: the-gliwensbourg-chronicles
                         - name: The Folks
-                          link: the-folks
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets
@@ -503,7 +494,6 @@ sections:
                       type: screening
                       series:
                         - name: Tricks and Recipes
-                          link: tricks-and-recipes
                         - name: 2 Minutes - 24/7
                           link: 2-minutes-247
                         - name: MusicStories
@@ -511,7 +501,6 @@ sections:
                         - name: "Fichines: The History of Arcades in Argentina"
                           link: fichines-the-history-of-arcades-in-argentina
                         - name: For Years to Come
-                          link: for-years-to-come
                         - name: Eva. Connected Through Time
                           link: eva-connected-through-time
                       external:
@@ -549,6 +538,9 @@ sections:
                         - name: Celina Schmitt
                         - name: Oihane Aramendia
                       details: "The Business Meetings offer individual filmmakers, various companies, and institutions from the media industry the opportunity to meet potential business partners and expand their network in a one-on-one meeting format. Each participating company and institution receives a personal QR code for scheduling appointments, which can be booked either through our website or during the framework program events. This festival event brings together a variety of international, regional, and nationwide players from different sectors of the industry.<br/>  Participating companies and institutions may bring roll-ups, posters, and flyers to present themselves in the best possible way. These materials can be brought on June 1st between 5-6pm after registration by e-mail to pro@die-seriale.de."
+                      external:
+                        - link: https://seriale2.vercel.app/business-meeting-register
+                          name: register
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
@@ -593,7 +585,6 @@ sections:
                         - name: The Drop
                           link: the-drop
                         - name: CCF's Solstice Stories
-                          link: ccfs-solstice-stories
                       external:
                         - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
                           name: get tickets	  
@@ -660,11 +651,11 @@ sections:
                       speaker:
                         - name: Ariana Saiegh
                           link: ariana-saiegh
-                    - title: "The Art & Science of Data"
+                    - title: "The Art & Science of Data. How Producers, Writers and Actors can benefit from understanding the Numbers."
                       type: workshop
                       length: 4
                       time: June 2nd | 11:00 - 12:30 | 11am - 12:30pm
-                      details: "How Producers, Writers and Actors can benefit from understanding the numbers?</br> The aim of this workshop is to equip writers, actors, producers, and distributors with the tools available in the market, enabling them to negotiate effectively with online content platforms. Understanding the key metrics that matter for streamers, the content evaluation  process that takes place and how it evolved from linear television is key in improving the position of creatives and reclaiming their power.<br/><br/>Location: City Hall, Berliner Platz 1, 35390 Giessen"
+                      details: "The aim of this workshop is to equip writers, actors, producers, and distributors with the tools available in the market, enabling them to negotiate effectively with online content platforms. Understanding the key metrics that matter for streamers, the content evaluation  process that takes place and how it evolved from linear television is key in improving the position of creatives and reclaiming their power.<br/><br/>Location: City Hall, Berliner Platz 1, 35390 Giessen"
                       external:
                         - link: https://seriale2.vercel.app/workshop-register-3
                           name: register
