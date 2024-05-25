@@ -7,11 +7,11 @@ sections:
       videosource: /videos/seriale-pro-loop.mp4
       slides:
         - headline: seriale pro
-  - partial: text
-    data:
-      headline: About
-      paragraphs:
-        - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities, “Business Meetings & Digital Market”, the “Pitch Contest” and a Conference Program.<br><br>The Seriale Pro is a huge conference and networking event, it will be held for the 8th time as part of “die Seriale”<br><br>The “DIMA Digital Market” is Germany’s very first market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland” and “Minnesota Web Fest".<br><br>Finally about 13 brand new concepts for digitals series will be presented to the industry during the Pitch Contest."
+  # - partial: text
+  #  data:
+  #    headline: About
+  #    paragraphs:
+  #      - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities, “Business Meetings & Digital Market”, the “Pitch Contest” and a Conference Program.<br><br>The Seriale Pro is a huge conference and networking event, it will be held for the 8th time as part of “die Seriale”<br><br>The “DIMA Digital Market” is Germany’s very first market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland” and “Minnesota Web Fest".<br><br>Finally about 13 brand new concepts for digitals series will be presented to the industry during the Pitch Contest."
   - partial: text-and-image
     headline: pitch contest
     data:
