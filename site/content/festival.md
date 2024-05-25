@@ -85,8 +85,7 @@ sections:
     data:
       image: /img/educational.jpg
       headline: "Conference Program"
-      text: "The Educational offers lectures and discussions that intend to bring together film and media scholars with creators. How did the web series world develop in the past two decades? Where are we standing now and what is changing? What are the differences in the dramaturgical structure between short and long form series? What are the up-and-coming ideas and formats? And how do we look at short form digital series from a film- and media-theoretical perspective? The Educational is a cooperation with the "Hessen Film & Media Academy", the network of 13 Hessian universities.
-      <img src="/img/partners/hFMA.png" class="partner-logo">'
+      text: 'The Educational offers lectures and discussions that intend to bring together film and media scholars with creators. How did the web series world develop in the past two decades? Where are we standing now and what is changing? What are the differences in the dramaturgical structure between short and long form series? What are the up-and-coming ideas and formats? And how do we look at short form digital series from a film- and media-theoretical perspective? The Educational is a cooperation with the "Hessen Film & Media Academy", the network of 13 Hessian universities. <img src="/img/partners/hFMA.png" class="partner-logo">'
   - partial: text-and-image
     headline: Film & Media Meetup LIVE
     data:

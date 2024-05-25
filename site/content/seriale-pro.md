@@ -12,13 +12,12 @@ sections:
       headline: About
       paragraphs:
         - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities, “Business Meetings & Digital Market”, the “Pitch Contest” and a Conference Program.<br><br>The Seriale Pro is a huge conference and networking event, it will be held for the 8th time as part of “die Seriale”<br><br>The “DIMA Digital Market” is Germany’s very first market with focus on short form digital series. This is in cooperation with “Bilbao Seriesland” and “Minnesota Web Fest".<br><br>Finally about 13 brand new concepts for digitals series will be presented to the industry during the Pitch Contest."
-   - partial: text-and-image
-     headline: pitch contest
-     data:
-  #     embed: '<iframe src="https://player.vimeo.com/video/716729217" width="640" height="360" #frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>'
-       # image: /img/pitch-contest-2023.jpg
-       headline: "Pitch Your Project"
-       text: "13 international creators get the chance to present their series project in a 3 minute long pitch. Among them, some creators will pitch their project for the first time. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 2. The pitch contest takes place on Saturday, June 1, from 3:30pm to 6pm at Kleines Haus Stadttheater Giessen."
+  - partial: text-and-image
+    headline: pitch contest
+    data:
+      image: /img/pitch-contest-2023.jpg
+      headline: "Pitch Your Project"
+      text: "13 international creators get the chance to present their series project in a 3 minute long pitch. Among them, some creators will pitch their project for the first time. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 2. The pitch contest takes place on Saturday, June 1, from 3:30pm to 6pm at Kleines Haus Stadttheater Giessen."
   # - partial: teaser-grid
   #   headline: jury pitch contest
   #   data:
@@ -35,11 +34,11 @@ sections:
       headline: "Conference & Networking"
       text: "The Conference days offers a large conference and networking program for the creative industry. Established international experts will present exclusive insights on the mechanisms of the global digital series market and talk about the latest developments and trends. Various possibilities for distribution, co-production and branded content will be presented and discussed in panels. Brand new project ideas will be presented and above all, this event invites to network and make new connections."
   - partial: text-and-image
-     headline: Business Meetings & Digital Market
-     data:
-       image: /img/market.jpg
-       headline: "Germany's Market for Digital Series"
-       text: "The Business Meetings & Digital Market offer individual filmmakers, various companies, and institutions from the media industry the opportunity to meet potential business partners and expand their network in a one-on-one meeting format. This festival event brings together a variety of international, regional, and nationwide players from different sectors of the industry."
+    headline: Business Meetings & Digital Market
+    data:
+      image: /img/market.jpg
+      headline: "Germany's Market for Digital Series"
+      text: "The Business Meetings & Digital Market offer individual filmmakers, various companies, and institutions from the media industry the opportunity to meet potential business partners and expand their network in a one-on-one meeting format. This festival event brings together a variety of international, regional, and nationwide players from different sectors of the industry."
   # - partial: text-and-image
   #   headline: die Seriale in the videmic app
   #   data:
