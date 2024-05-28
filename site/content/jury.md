@@ -17,6 +17,10 @@ sections:
     headline: jury pilots
     data:
       list: jury-pilots
+  - partial: teaser-grid
+    headline: jury long form series
+    data:
+      list: jury-long-form-series
   - partial: text-plain
     headline: connect with us
     data:
