@@ -26,6 +26,7 @@ if (window.netlifyIdentity) {
 }
 
 const scrollbar = Scrollbar.init(document.querySelector("[data-scrollbar]"));
+scrollbar.limit.x = 0
 
 function init(container = document) {
   const swiper = new Swiper(".swiper-container", {
