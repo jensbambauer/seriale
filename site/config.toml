@@ -31,6 +31,12 @@ languageCode = "en-us"
     name       = "Speaker"
     url        = "/speaker/"
     weight     = 5
+
+    [[menu.main]]
+    identifier = "jury"
+    name       = "Jury"
+    url        = "/jury/"
+    weight     = 6
     
     [[menu.main]]
     identifier = "blog"
