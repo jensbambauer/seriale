@@ -26,11 +26,6 @@ if (window.netlifyIdentity) {
 }
 
 const scrollbar = Scrollbar.init(document.querySelector("[data-scrollbar]"));
-const setMomentum = Scrollbar.prototype.setMomentum;
-
-Scrollbar.prototype.setMomentum = function(x, y) {
-    setMomentum.call(this, 0, y);
-}
 
 function init(container = document) {
   const swiper = new Swiper(".swiper-container", {
