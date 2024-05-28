@@ -88,8 +88,6 @@ sections:
                           link: lars-smekal
                         - name: Oliver Arnold
                           link: oliver-arnold
-                        - name: Katrin Haase
-                          link: katrin-haase
                         - name: Paula Berger
                           link: paula-berger
                         - name: Emrah Erdogru
@@ -271,7 +269,7 @@ sections:
                         - name: 2 Aliens
                           link: 2-aliens
                       external:
-                        - link: https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996
+                        - link: https://www.kinopolis.de/gi/filmdetail/opening-ceremony-10th-die-seriale/54E64000012PLXMQDD
                           name: get tickets
                     - title: Screening Block 4
                       length: 2
@@ -548,7 +546,7 @@ sections:
                       hosts:
                         - name: Celina Schmitt
                         - name: Oihane Aramendia
-                      details: "The Business Meetings offer individual filmmakers, various companies, and institutions from the media industry the opportunity to meet potential business partners and expand their network in a one-on-one meeting format. Each participating company and institution receives a personal QR code for scheduling appointments, which can be booked either through our website or during the framework program events. This festival event brings together a variety of international, regional, and nationwide players from different sectors of the industry.<br/>  Participating companies and institutions may bring roll-ups, posters, and flyers to present themselves in the best possible way. These materials can be brought on June 1st between 5-6pm after registration by e-mail to pro@die-seriale.de."
+                      details: "The Business Meetings offer individual filmmakers, various companies, and institutions from the media industry the opportunity to meet potential business partners and expand their network in a one-on-one meeting format.<br/>The registration is exclusively intended for exhibitors who wish to have a booth at our event. Visitors are exempt from registration and do not need to sign up in advance to attend the event. Attendance is free of charge and spontaneous meetings might be possible on demand, but we recommend booking timeslots beforehand. During the festival, visitors have the opportunity to sign up for conversation-timeslots with exhibitors on lists provided and laid out through the whole framework program of the festival.<br/>Participating companies and institutions may bring roll-ups, posters, and flyers to present themselves in the best possible way. These materials can be brought on June 1st between 5-6pm after registration by e-mail to pro@die-seriale.de"
                       external:
                         - link: https://seriale2.vercel.app/business-meeting-register
                           name: register
