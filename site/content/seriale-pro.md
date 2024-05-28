@@ -18,10 +18,10 @@ sections:
       image: /img/pitch-contest-2023.jpg
       headline: "Pitch Your Project"
       text: "13 international creators get the chance to present their series project in a 3 minute long pitch. Among them, some creators will pitch their project for the first time. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 2. The pitch contest takes place on Saturday, June 1, from 3:30pm to 6pm at Kleines Haus Stadttheater Giessen."
-  # - partial: teaser-grid
-  #   headline: jury pitch contest
-  #   data:
-  #     list: jury-pitch-contest
+  - partial: teaser-grid
+    headline: jury pitch contest
+    data:
+      list: jury-pitch-contest
   # - partial: teaser-grid
   #   headline: moderators pitch contest
   #   data:
