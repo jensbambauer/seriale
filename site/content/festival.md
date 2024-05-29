@@ -30,14 +30,10 @@ sections:
   #     background: /img/be-part-of-it-bg.jpg
   #     href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
   #     text: Watch Series
-  # - partial: thumb-grid
-  #   headline: official selection series 2023
-  #   data:
-  #     list: series
-  # - partial: thumb-grid
-  #   headline: official selection pilots 2023
-  #   data:
-  #     list: pilots
+  - partial: thumb-grid
+    headline: official selection series 2024
+    data:
+      list: series
   - partial: text
     data:
       headline: About
