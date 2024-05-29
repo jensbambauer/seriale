@@ -1,6 +1,6 @@
 ---
 title: Gelbe Karten & Lila Latzhosen
-image: /img/series/gelbbe-karten-und-lila-latzhosen.jpg
+image: /img/series/gelbe-karten-und-lila-latzhosen.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FRyJQXDV4z0?si=JEG_BbLegycrdQTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
