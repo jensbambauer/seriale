@@ -1,15 +1,11 @@
 ---
 title: 10th International Series Festival Giessen
 sections:
-  - partial: twitch
+  - partial: stage
     widesection: true
     data:
-      channel: dieSeriale
-  #- partial: stage
-   # widesection: true
-    #data:
-     # videosource: /videos/digital-loop.mp4
-      #slides:
+      videosource: /videos/digital-loop.mp4
+      slides:
         # - headline: "save the date: 29th - june 3rd 2024"
         # - headline: Series Screening on Demand
         #   subheadline: available from June 29th to July 4th
@@ -25,23 +21,23 @@ sections:
         #     overlay: true
         #     text: watch
         #     href: /award-ceremony
-       # - headline: The festival
-        #  button:
-         #   overlay: true
-          #  text: watch trailer
-           # href: /festival-trailer
+        - headline: The festival
+          button:
+            overlay: true
+            text: watch trailer
+            href: /festival-trailer
         # - headline: awards 2023
         #   button:
         #     text: view now
         #     href: /awards-2023
-     #   - headline: nominations 2024
-      #    button:
-       #     text: view now
-        #    href: /nominations-2024
-    #    - headline: official selection 2024
-     #     button:
-      #      text: view now
-       #     href: /official-selection-2024
+        - headline: nominations 2024
+          button:
+            text: view now
+            href: /nominations-2024
+        - headline: official selection 2024
+          button:
+            text: view now
+            href: /official-selection-2024
         # - headline: series/pilots trailers 2023
         #   button:
         #     text: watch now
