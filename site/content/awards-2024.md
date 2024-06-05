@@ -265,33 +265,33 @@ sections:
       headline: "T.O. Webfest (Canada): Memories of a forgotten Childhood"
   - partial: text
     data:
-      headline: Series Jury | Honorable Mention for Costume Design: “Haus Kummerveldt“
+      headline: "Series Jury | Honorable Mention for Costume Design: “Haus Kummerveldt“"
       paragraphs:
         - text:
   - partial: text
     smallmargin: true
     data:
-      headline: Documentary Jury | Honorable Mention for “Kick it like a girl“
+      headline: "Documentary Jury | Honorable Mention for “Kick it like a girl“"
       paragraphs:
         - text: "Before we announce the winner of this year‘s Best Documentary award we would like to give an honorable mention to a series that impressed us due to its fine craftsmanship and emotional as well as witty storytelling. The honorable mention in the category Documentary goes to: Kick it like a Girl! Documentary filmmaking is an outstanding tool to provide a stage for topics such as diversity, gender identity and many other sociocultural aspects. We applaud the courage of both - filmmakers and protagonists to tell these stories."
   - partial: text
     data:
-      headline: Long Form Series Jury | Honorable Mention for “Lily's turn“
+      headline: "Long Form Series Jury | Honorable Mention for “Lily's turn“"
       paragraphs:
         - text:
   - partial: text
     data:
-      headline: Pilots Jury | Honorable Mention for “Lady Priest“
+      headline: "Pilots Jury | Honorable Mention for “Lady Priest“"
       paragraphs:
         - text: "The power of series is to give us a look of realities that maybe we don't know well. That's the magic of storytelling. This pilot episode does it by mixing a dose of humor with drama, with good interpretations of the characters. So, congratulations to LADY PRIEST. As they say in the series, “the grandmothers who were born before their time“ and wanted to finish their studies and become prime minister, they will be proud of this."
   - partial: text
     data:
-      headline: Pitch Contest Jury | Honorable Mention for “TMA & ASSMAN“
+      headline: "Pitch Contest Jury | Honorable Mention for “TMA & ASSMAN“"
       paragraphs:
         - text:
   - partial: text
     data:
-      headline: Pitch Contest Jury | Honorable Mention for “Knetball“
+      headline: "Pitch Contest Jury | Honorable Mention for “Knetball“"
       paragraphs:
         - text:
   - partial: text
