@@ -269,6 +269,7 @@ sections:
     data:
       headline: "T.O. Webfest (Canada): Memories of a forgotten Childhood"
   - partial: text
+    headline: Jury - Honorable Mentions
     data:
       headline: "Series Jury | Honorable Mention for Costume Design: “Haus Kummerveldt“"
       paragraphs:
@@ -300,6 +301,7 @@ sections:
       paragraphs:
         - text:
   - partial: text
+    headline: Jury - Statements
     data:
       headline: Series Jury | Statement for Best Series
       paragraphs:
