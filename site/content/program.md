@@ -200,8 +200,8 @@ sections:
                           link: florian-friedrich
                         - name: Laura Götz
                           link: laura-goetz
-                        - name: Vincent Lang
-                          link: vincent-lang
+                        - name: Uğur Kurkut
+                          link: ugur-kurkut
                         - name: Agustin Sullivan
                           link: agustin-sullivan
                         - name: Natalia Bornay
