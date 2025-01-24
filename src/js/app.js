@@ -67,5 +67,5 @@ if (location.href.indexOf("seriale-pro") > -1) {
 }
 
 stickyHeader(scrollbar);
-pageTransition(init, scrollbar);
+// pageTransition(init, scrollbar);
 
