@@ -66,6 +66,9 @@ if (location.href.indexOf("seriale-pro") > -1) {
   $(".nav").addClass("seriale-pro");
 }
 
+$(".nav__items a.active").removeClass("active");
+$(`.nav__items a[href="${location.pathname}"]`).addClass("active");
+
 stickyHeader(scrollbar);
 // pageTransition(init, scrollbar);
 
