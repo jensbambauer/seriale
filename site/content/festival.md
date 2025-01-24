@@ -35,10 +35,10 @@ sections:
       headline: About
       paragraphs:
         - text: "&quot;die Seriale&quot; is the oldest festival in Germany for independent and digital series. The festival is dedicated to audience, creators, students and all series fans. The Official Selection with over 50 series and pilots from 16 countries is presented in the movie theatre, open air and on demand. The supporting program offers a conference with lectures and panel discussions."
-  - partial: thumb-grid
-    headline: official selection 2024
-    data:
-      list: series
+  # - partial: thumb-grid
+  #   headline: official selection 2024
+  #   data:
+  #     list: series
   # - partial: thumb-grid
   #   headline: official selection 2024 - series
   #   data:

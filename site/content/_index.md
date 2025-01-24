@@ -1,5 +1,5 @@
 ---
-title: 10th International Series Festival Giessen
+title: 11th International Series Festival Giessen
 sections:
   - partial: stage
     widesection: true
@@ -12,10 +12,10 @@ sections:
         #   button:
         #     text: watch now
         #     href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
-        # - headline: submissions for die seriale 2024 are open
-        #   button:
-        #     text: submit series
-        #     href: https://filmfreeway.com/dieSeriale
+        - headline: submissions for die seriale 2025 are open
+          button:
+            text: submit series
+            href: https://filmfreeway.com/dieSeriale
         # - headline: Award Ceremony
         #   button:
         #     overlay: true
@@ -47,112 +47,112 @@ sections:
   #     background: /img/be-part-of-it-bg.jpg
   #     href: https://dieseriale.sparqfest.live/en/index.html
   #     text: Watch Series
-  - partial: time-table
-    headline: schedule 2024
-    data:
-      days:
-        - title: May 29th
-          blocks:
-            - time: 5:00pm
-              title: SCREENING BLOCK 1
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 4
-        - title: May 30th
-          blocks:
-            - time: 7:00pm - 9:30pm
-              title: HESSEN FOCUS
-              location: Reception & Panel Discussion<br/>Lottehof, Wetzlar<br/>free entry
-              size: 4
-            - time: 9:30pm
-              title: Open Air Screening
-              location: "Screening Block 2<br/>Lottehof, Wetzlar<br/>free entry"
-              size: 4
-        - title: May 31th
-          blocks:
-            - time: 9:30am - 3:30pm
-              title: EDUCATIONAL
-              location: Conference Program<br/>Stadttheater Giessen<br/>free entry
-              size: 4
-            - time: 3:30pm - 5:30pm
-              title: Film & Media MeetUp Live!
-              location: "Stadttheater Giessen (Kleines Haus)<br/>free entry<br/><a href='https://www.eventbrite.de/e/film-media-meetup-live-seriale-educational-2024-tickets-887548139377'>Signup for Speedmeetings</a>"
-              size: 4
-            - time: 6:00pm
-              title: OPENING & PREMIERE | with Q&A
-              location: Screening Block 3<br/>Kinocenter Giessen<br/>buy tickets on site & online
-              size: 4
-            - time: 8:30pm
-              title: SCREENING BLOCK 4 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 9:45pm
-              title: SCREENING BLOCK 5 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 11pm - open end
-              title: Networking Night
-              location: tba
-              size: 2
-  - partial: time-table
-    data:
-      days:
-        - title: June 1st
-          blocks:
-            - time: 10:00am - 3:00pm
-              location: Conference Program<br/>Stadttheater Giessen (Kleines Haus)<br/> free entry
-              title: SERIALE PRO
-              size: 4
-            - time: 3:30pm - 6:00pm
-              title: Pitch Contest
-              location: Stadttheater Giessen (Kleines Haus)<br/> free entry, with registration
-              size: 3
-            - time: 4:30pm
-              title: Screening Block 6 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 7pm
-              title: Screening Block 7 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 9:00pm
-              title: SCREENING BLOCK 8 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 10:30pm - open end
-              title: Networking Night
-              size: 3
-        - title: June 2nd
-          blocks:
-            - time: 11:00pm
-              title: "SERIALE PRO: BUSINESS MEETINGS & DIGITAL MARKET"
-              location: Conference Program<br/>Kongresshalle Giessen<br/>with registration only
-              size: 4
-            - time: 3pm
-              title: SCREENING BLOCK 9
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 4:30pm
-              title: SCREENING BLOCK 10
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 6pm - 8pm
-              title: RED CARPET
-              location: City Hall | by invitation only
-              size: 3
-            - time: 8pm - 10pm
-              title: AWARD CEREMONY 10TH DIE SERIALE
-              location: City Hall<br/>by invitation only
-              size: 3
-            - time: 10pm - open end
-              title: Aftershow
-              location: by invitation only
-              size: 3
-        - title: June 3rd
-          blocks:
-            - time: 12pm - 6pm
-              title: NETWORKING & LOCATION TOUR
-              location: with registration only
-              size: 5
+  # - partial: time-table
+  #   headline: schedule 2024
+  #   data:
+  #     days:
+  #       - title: May 29th
+  #         blocks:
+  #           - time: 5:00pm
+  #             title: SCREENING BLOCK 1
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 4
+  #       - title: May 30th
+  #         blocks:
+  #           - time: 7:00pm - 9:30pm
+  #             title: HESSEN FOCUS
+  #             location: Reception & Panel Discussion<br/>Lottehof, Wetzlar<br/>free entry
+  #             size: 4
+  #           - time: 9:30pm
+  #             title: Open Air Screening
+  #             location: "Screening Block 2<br/>Lottehof, Wetzlar<br/>free entry"
+  #             size: 4
+  #       - title: May 31th
+  #         blocks:
+  #           - time: 9:30am - 3:30pm
+  #             title: EDUCATIONAL
+  #             location: Conference Program<br/>Stadttheater Giessen<br/>free entry
+  #             size: 4
+  #           - time: 3:30pm - 5:30pm
+  #             title: Film & Media MeetUp Live!
+  #             location: "Stadttheater Giessen (Kleines Haus)<br/>free entry<br/><a href='https://www.eventbrite.de/e/film-media-meetup-live-seriale-educational-2024-tickets-887548139377'>Signup for Speedmeetings</a>"
+  #             size: 4
+  #           - time: 6:00pm
+  #             title: OPENING & PREMIERE | with Q&A
+  #             location: Screening Block 3<br/>Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 4
+  #           - time: 8:30pm
+  #             title: SCREENING BLOCK 4 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 9:45pm
+  #             title: SCREENING BLOCK 5 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 11pm - open end
+  #             title: Networking Night
+  #             location: tba
+  #             size: 2
+  # - partial: time-table
+  #   data:
+  #     days:
+  #       - title: June 1st
+  #         blocks:
+  #           - time: 10:00am - 3:00pm
+  #             location: Conference Program<br/>Stadttheater Giessen (Kleines Haus)<br/> free entry
+  #             title: SERIALE PRO
+  #             size: 4
+  #           - time: 3:30pm - 6:00pm
+  #             title: Pitch Contest
+  #             location: Stadttheater Giessen (Kleines Haus)<br/> free entry, with registration
+  #             size: 3
+  #           - time: 4:30pm
+  #             title: Screening Block 6 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 7pm
+  #             title: Screening Block 7 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 9:00pm
+  #             title: SCREENING BLOCK 8 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 10:30pm - open end
+  #             title: Networking Night
+  #             size: 3
+  #       - title: June 2nd
+  #         blocks:
+  #           - time: 11:00pm
+  #             title: "SERIALE PRO: BUSINESS MEETINGS & DIGITAL MARKET"
+  #             location: Conference Program<br/>Kongresshalle Giessen<br/>with registration only
+  #             size: 4
+  #           - time: 3pm
+  #             title: SCREENING BLOCK 9
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 4:30pm
+  #             title: SCREENING BLOCK 10
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 6pm - 8pm
+  #             title: RED CARPET
+  #             location: City Hall | by invitation only
+  #             size: 3
+  #           - time: 8pm - 10pm
+  #             title: AWARD CEREMONY 10TH DIE SERIALE
+  #             location: City Hall<br/>by invitation only
+  #             size: 3
+  #           - time: 10pm - open end
+  #             title: Aftershow
+  #             location: by invitation only
+  #             size: 3
+  #       - title: June 3rd
+  #         blocks:
+  #           - time: 12pm - 6pm
+  #             title: NETWORKING & LOCATION TOUR
+  #             location: with registration only
+  #             size: 5
   # - partial: time-table
   #   headline: schedule 2023
   #   data:
@@ -518,20 +518,20 @@ sections:
       headline: be part of it
       intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
       tabs:
-        - title: get tickets
-          partial: tab-text
-          data:
-            headline: get your tickets
-            text: ' <p> Festival Pass: 60,- €<br/><br/> The Festival Pass includes tickets to all movie theater screenings at Kinocenter Giessen and is available at all Festival locations. </p> <p> Single tickets are only available at Kinocenter Giessen or online:<br/><br/> <a class="button" href="https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996">buy tickets</a> </p> '
-        - title: submit series
-          partial: tab-text
-          data:
-            headline: Submissions for 2024 are closed
+        # - title: get tickets
+        #   partial: tab-text
+        #   data:
+        #     headline: get your tickets
+        #     text: ' <p> Festival Pass: 60,- €<br/><br/> The Festival Pass includes tickets to all movie theater screenings at Kinocenter Giessen and is available at all Festival locations. </p> <p> Single tickets are only available at Kinocenter Giessen or online:<br/><br/> <a class="button" href="https://www.kinopolis.de/gi/events/detail/die-seriale-2024/4996">buy tickets</a> </p> '
         # - title: submit series
         #   partial: tab-text
         #   data:
-        #     headline: Submissions for 2024 are open
-        #     text: '<a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
+        #     headline: Submissions for 2025 are open
+        - title: submit series
+          partial: tab-text
+          data:
+            headline: Submissions for 2025 are open
+            text: '<a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
         # - title: in person & digital event
         #   partial: tab-text
         #   data:
