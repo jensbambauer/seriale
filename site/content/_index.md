@@ -12,10 +12,10 @@ sections:
         #   button:
         #     text: watch now
         #     href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
-        - headline: submissions for die seriale 2025 are open
-          button:
-            text: submit series
-            href: https://filmfreeway.com/dieSeriale
+        # - headline: submissions for die seriale 2025 are open
+        #   button:
+        #     text: submit series
+        #     href: https://filmfreeway.com/dieSeriale
         # - headline: Award Ceremony
         #   button:
         #     overlay: true
@@ -530,8 +530,9 @@ sections:
         - title: submit series
           partial: tab-text
           data:
-            headline: Submissions for 2025 are open
-            text: '<a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
+            headline: Submissions for 2025 are closed
+            text: ''
+            # text: '<a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
         # - title: in person & digital event
         #   partial: tab-text
         #   data:
