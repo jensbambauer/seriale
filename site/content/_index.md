@@ -26,10 +26,10 @@ sections:
         #     overlay: true
         #     text: watch trailer
         #     href: /festival-trailer
-        - headline: awards 2024
+        - headline: official selection 2025
           button:
             text: view now
-            href: /awards-2024
+            href: /official-selection-2025
         # - headline: series/pilots trailers 2023
         #   button:
         #     text: watch now
