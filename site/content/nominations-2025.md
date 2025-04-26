@@ -147,7 +147,7 @@ sections:
               origin:
             - title: Power Up
               origin:
-            - title: Ren: The Girl with the Mark (Season 2)
+            - title: "Ren: The Girl with the Mark (Season 2)"
               origin:
             - title: STRYX
               origin:
