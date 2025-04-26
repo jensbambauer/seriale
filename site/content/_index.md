@@ -26,6 +26,10 @@ sections:
         #     overlay: true
         #     text: watch trailer
         #     href: /festival-trailer
+        - headline: nominees 2025
+          button:
+            text: view now
+            href: /nominations-2025
         - headline: official selection 2025
           button:
             text: view now
