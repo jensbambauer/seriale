@@ -81,7 +81,7 @@ sections:
               title: Film & Media MeetUp Live!
               location: "Stadttheater Giessen, Kleines Haus<br/>free entry<br/><a href='https://www.eventbrite.com/e/film-media-meetup-die-seriale-educational-2025-tickets-1356254757489'>Signup for Speedmeetings</a>"
               size: 4
-            - time: 6:30pm
+            - time: 6pm
               title: OPENING & PREMIERES | with Q&A
               location: Screening Block 3<br/>Kinocenter Giessen<br/>buy tickets on site & online
               size: 4
