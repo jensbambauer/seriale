@@ -149,117 +149,117 @@ sections:
               location: Stadtcafe
               location: by invitation only
               size: 3
-  - partial: time-table
-    headline: schedule 2023
-    data:
-      days:
-        - title: June 14th
-          blocks:
-            - time: 6:30pm - 9:30pm
-              title: HESSEN FOCUS
-              location: Reception & Panel Discussion<br/>Lottehof, Wetzlar<br/>free entry
-              size: 4
-            - time: 9:30pm - 11:30pm
-              title: Open Air Screening
-              location: "Screening Block 1<br/>Lottehof, Wetzlar<br/>free entry"
-              size: 4
-        - title: June 15th
-          blocks:
-            - time: 7:30pm - 9pm
-              title: LIVE MUSIC
-              location: "Open Air Live Music<br/>Kirchenplatz, Giessen"
-              size: 6
-            - time: 9pm - 9:30pm
-              length: 3
-              title: "Open Air Creators Talk"
-              location: Kirchenplatz, Giessen<br/>free entry 
-            - time: 9:30pm - 11:00pm
-              length: 3
-              title: OPEN AIR SCREENING
-              location: Screening Block 2<br/>Kirchenplatz, Giessen<br/>free entry
-              size:
-        - title: June 16th
-          blocks:
-            - time: 10am - 5pm
-              title: EDUCATIONAL
-              location: Conference Program<br/>Stadttheater Giessen<br/>free entry
-              size: 4
-            - time: 5:30pm
-              title: OPENING & PREMIERE
-              location: Screening Block 3<br/>Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 8:00pm
-              title: SCREENING BLOCK 4 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 9:45pm
-              title: SCREENING BLOCK 5 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 11pm - open end
-              title: Networking Night
-              location: Lieblingsmensch
-              size: 4
-  - partial: time-table
-    data:
-      days:
-        - title: June 17th
-          blocks:
-            - time: 10:30am - 5pm
-              location: Conference Program<br/>Stadttheater Giessen<br/> free entry
-              title: SERIALE PRO
-              size: 4
-            - time: 4pm
-              title: Screening Block 6 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 6pm - 7pm
-              title: seriesly TRIVIA QUIZ
-              location: Quiz with serieslyAWESOME<br/>Kinocenter Giessen<br/> free entry
-              size: 3
-            - time: 7:30pm
-              title: SCREENING BLOCK 7 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 9pm
-              title: SCREENING BLOCK 8 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 10:30pm - open end
-              location: "Dachcafé Giessen"
-              size: 3
-        - title: June 18th
-          blocks:
-            - time: 11:30pm
-              title: NETWORKING ON BOARD
-              location: Conference Program<br/>Marineverein Giessen<br/>with registration only
-              size: 4
-            - time: 3pm
-              title: SCREENING BLOCK 9
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 4:30pm
-              title: SCREENING BLOCK 10
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 6pm - 8pm
-              title: RED CARPET
-              location: City Hall | by invitation only
-              size: 3
-            - time: 8pm - 10pm
-              title: AWARD CEREMONY 9TH DIE SERIALE
-              location: City Hall<br/>by invitation only
-              size: 3
-            - time: 10pm - open end
-              title: Aftershow
-              location:
-              size: 3
-        - title: June 19th
-          blocks:
-            - time: 12pm - 8pm
-              title: NETWORKING & LOCATION TOUR
-              location: with registration only
-              size: 5
+  # - partial: time-table
+  #   headline: schedule 2023
+  #   data:
+  #     days:
+  #       - title: June 14th
+  #         blocks:
+  #           - time: 6:30pm - 9:30pm
+  #             title: HESSEN FOCUS
+  #             location: Reception & Panel Discussion<br/>Lottehof, Wetzlar<br/>free entry
+  #             size: 4
+  #           - time: 9:30pm - 11:30pm
+  #             title: Open Air Screening
+  #             location: "Screening Block 1<br/>Lottehof, Wetzlar<br/>free entry"
+  #             size: 4
+  #       - title: June 15th
+  #         blocks:
+  #           - time: 7:30pm - 9pm
+  #             title: LIVE MUSIC
+  #             location: "Open Air Live Music<br/>Kirchenplatz, Giessen"
+  #             size: 6
+  #           - time: 9pm - 9:30pm
+  #             length: 3
+  #             title: "Open Air Creators Talk"
+  #             location: Kirchenplatz, Giessen<br/>free entry 
+  #           - time: 9:30pm - 11:00pm
+  #             length: 3
+  #             title: OPEN AIR SCREENING
+  #             location: Screening Block 2<br/>Kirchenplatz, Giessen<br/>free entry
+  #             size:
+  #       - title: June 16th
+  #         blocks:
+  #           - time: 10am - 5pm
+  #             title: EDUCATIONAL
+  #             location: Conference Program<br/>Stadttheater Giessen<br/>free entry
+  #             size: 4
+  #           - time: 5:30pm
+  #             title: OPENING & PREMIERE
+  #             location: Screening Block 3<br/>Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 8:00pm
+  #             title: SCREENING BLOCK 4 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 9:45pm
+  #             title: SCREENING BLOCK 5 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 11pm - open end
+  #             title: Networking Night
+  #             location: Lieblingsmensch
+  #             size: 4
+  # - partial: time-table
+  #   data:
+  #     days:
+  #       - title: June 17th
+  #         blocks:
+  #           - time: 10:30am - 5pm
+  #             location: Conference Program<br/>Stadttheater Giessen<br/> free entry
+  #             title: SERIALE PRO
+  #             size: 4
+  #           - time: 4pm
+  #             title: Screening Block 6 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 6pm - 7pm
+  #             title: seriesly TRIVIA QUIZ
+  #             location: Quiz with serieslyAWESOME<br/>Kinocenter Giessen<br/> free entry
+  #             size: 3
+  #           - time: 7:30pm
+  #             title: SCREENING BLOCK 7 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 9pm
+  #             title: SCREENING BLOCK 8 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 10:30pm - open end
+  #             location: "Dachcafé Giessen"
+  #             size: 3
+  #       - title: June 18th
+  #         blocks:
+  #           - time: 11:30pm
+  #             title: NETWORKING ON BOARD
+  #             location: Conference Program<br/>Marineverein Giessen<br/>with registration only
+  #             size: 4
+  #           - time: 3pm
+  #             title: SCREENING BLOCK 9
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 4:30pm
+  #             title: SCREENING BLOCK 10
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 6pm - 8pm
+  #             title: RED CARPET
+  #             location: City Hall | by invitation only
+  #             size: 3
+  #           - time: 8pm - 10pm
+  #             title: AWARD CEREMONY 9TH DIE SERIALE
+  #             location: City Hall<br/>by invitation only
+  #             size: 3
+  #           - time: 10pm - open end
+  #             title: Aftershow
+  #             location:
+  #             size: 3
+  #       - title: June 19th
+  #         blocks:
+  #           - time: 12pm - 8pm
+  #             title: NETWORKING & LOCATION TOUR
+  #             location: with registration only
+  #             size: 5
   # - partial: time-table
   #   headline: streaming schedule 2021
   #   data:
