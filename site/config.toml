@@ -19,6 +19,12 @@ languageCode = "en-us"
     name       = "Seriale Pro"
     url        = "/seriale-pro/"
     weight     = 3
+
+    [[menu.main]]
+    identifier = "jury"
+    name       = "Jury"
+    url        = "/jury/"
+    weight     = 4
     
     [[menu.main]]
     identifier = "blog"
