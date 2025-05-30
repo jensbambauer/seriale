@@ -3,7 +3,7 @@ title: Timo Landsiedel
 image: /img/jury/timo-landsiedel.jpg
 shortdescription: Journalist & Podcaster | Germany
 ---
-<img src="/img/timo-landsiedel.jpg">
+<img src="/img/jury/timo-landsiedel.jpg">
 ## Timo Landsiedel 
 
 Journalist & Podcaster | Germany

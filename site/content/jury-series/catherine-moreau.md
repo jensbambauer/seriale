@@ -3,7 +3,7 @@ title: Catherine Moreau
 image: /img/jury/catherine-moreau.jpg
 shortdescription: Deputy Director | Independent Production Fund | Canada
 ---
-<img src="/img/catherine-moreau.jpg">
+<img src="/img/jury/catherine-moreau.jpg">
 ## Catherine Moreau 
 
 Deputy Director | Independent Production Fund | Canada

@@ -3,7 +3,7 @@ title: Dipu Bhattacharya
 image: /img/jury/dipu-bhattacharya.jpg
 shortdescription: Writer, Director, Producer | Mulia Pictures | United States
 ---
-<img src="/img/dipu-bhattacharya.jpg">
+<img src="/img/jury/dipu-bhattacharya.jpg">
 ## Dipu Bhattacharya 
 
 Creator, Writer, Director, Producer, Editor | Mulia Pictures | United States

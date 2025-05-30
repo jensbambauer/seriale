@@ -3,7 +3,7 @@ title: Leandro Silva
 image: /img/jury/leandro-silva.jpg
 shortdescription: Founder, CEO | Rio WebFest, Charlotte Produções | Brazil
 ---
-<img src="/img/leandro-silva.jpg">
+<img src="/img/jury/leandro-silva.jpg">
 ## Leandro Silva 
 
 Founder, CEO | Rio WebFest, Charlotte Produções | Brazil

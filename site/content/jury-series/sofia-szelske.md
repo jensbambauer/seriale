@@ -3,7 +3,7 @@ title: Sofía Szelske
 image: /img/jury/sofia-szelske.jpg
 shortdescription: Creator, Screenwriter, Director | Argentina
 ---
-<img src="/img/sofia-szelske.jpg">
+<img src="/img/jury/sofia-szelske.jpg">
 ## Sofía Szelske 
 
 Creator, Screenwriter, Director | Argentina
