@@ -2,7 +2,7 @@
 title: For the Drama
 image: /img/series/for-the-drama.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## For the Drama  
 Country: Germany | Genre: Drama | Creators & Writers: David L. Brenner, Kristian Wolff | Director: IJ.Biermann | Producers: David L. Brenner, Norbert Mai | Main Cast: Marie Nasemann, Eidin Jalali, Wilson Gonzalez Ochsenknecht, Vivien König

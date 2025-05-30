@@ -2,7 +2,7 @@
 title: Tender and Loud
 image: /img/series/tender-and-loud.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Tender and Loud  
 Country: Russia | Genre: Documentary, Music | Creator, Writer & Director: Kirill Alekhin | Producers: Kirill Alekhin, Pavel Roytberg | Main Cast: Vika Trunova

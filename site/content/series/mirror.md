@@ -2,7 +2,6 @@
 title: MIRROR (International Festival Premiere) 
 image: /img/series/mirror.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/1sWPIPDHzyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## MIRROR (International Festival Premiere)  
 Country: Poland | Genre: Drama | Creator, Director & Producer: Ula Zawadzka | Writers: Krzysztof Szot, Ula Zawadzka | Main Cast: Ula Zawadzka

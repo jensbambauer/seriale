@@ -2,7 +2,7 @@
 title: "The Blocker - Dream Job: Film Industry"
 image: /img/pilots/the-blocker-dream-job-film-industry.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## The Blocker - Dream Job: Film Industry
 Country: Germany | Genre: Comedy | Writers: Marius Beck, Paul Baumann | Director: Paul Baumann | Producers: Paul Beck, Max Waldmann, Jakob Wahl | Main Cast: Bärbel Schwarz, Ferdinand Dörfler, Rebekka Reinholz, Max Rothbart, Cheyenne Pahde

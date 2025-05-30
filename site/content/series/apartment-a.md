@@ -2,7 +2,7 @@
 title: Apartment A (World Premiere)
 image: /img/series/apartment-a.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Apartment A (World Premiere)  
 Country: Argentina | Genre: Comedy | Creator: Florencia Sokol | Writers: Florencia Sokol & Daniela Saavedra | Director: Julen Giménez | Producer: Cocó Álvarez | Main Cast: Florencia Sokol & Lucía Ivanissevich Machado

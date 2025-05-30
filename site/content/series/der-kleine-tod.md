@@ -2,7 +2,7 @@
 title: Der kleine Tod
 image: /img/series/der-kleine-tod.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Der kleine Tod  
 Country: Austria | Genre: Dramedy | Creators: Emily Schmeller, Katja Reichör, Tanja Ploner | Writer: Emily Schmeller | Director: Jennifer Gartler | Producer: Katja Reichör | Main Cast: Emily Schmeller, Gloria Valentina Steixner, Michaela Kis, Patrick Strasser, Isabel Meili

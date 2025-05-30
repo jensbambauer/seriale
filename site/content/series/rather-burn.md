@@ -2,7 +2,7 @@
 title: Rather Burn (German Premiere)
 image: /img/series/rather-burn.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wyE1VifkGVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wyE1VifkGVc?si=np8ljIgYTkSILDwZ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Rather Burn (German Premiere)  
 Country: Argentina | Genre: Dramedy | Creators: Sebastián Tornamira & Laura Grandinetti | Writer: Sebastián Tornamira | Director: Laura Grandinetti | Producers: UN3, Grua, Ley Primera, Bucarest Argentina | Main Cast: Dana Crosa, Donna Tefa, Sebastián Tornamira, Julieta Zapiola

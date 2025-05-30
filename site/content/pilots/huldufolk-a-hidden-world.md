@@ -2,7 +2,7 @@
 title: Huldufólk - A hidden world
 image: /img/pilots/huldufolk-a-hidden-world.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uiSku8gyWLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uiSku8gyWLs?si=vCHokWLJgrF9noIa" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Huldufólk - A hidden world
 Country: Germany | Genre: Fantasy, Adventure, Family Entertainment | Creators: Britt Abrecht, Diane Schüssele, Manu Ziegler, Norwén Bodner | Writers: Diane Schüssele & Manu Ziegler | Directors: Andri Freyr Gilbertsson & Aron Pétur Ólafsson | Producers: Britt Abrecht & Norwén Bodner | Main Cast: Isabel Marina Grimm, Sky Kammerer, Sunna Kjartansdóttir, Pétur Steinn Atlasson, Ágúst Wigum, Emily Schmeller, Jónmundur Grétarsson, Hannes Óli Ágústsson

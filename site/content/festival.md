@@ -39,14 +39,14 @@ sections:
   #   headline: official selection 2024
   #   data:
   #     list: series
-  # - partial: thumb-grid
-  #   headline: official selection 2024 - series
-  #   data:
-  #     list: series
-  # - partial: thumb-grid
-  #   headline: official selection 2024 - pilots
-  #   data:
-  #     list: pilots
+  - partial: thumb-grid
+    headline: official selection 2025 - series
+    data:
+      list: series
+  - partial: thumb-grid
+    headline: official selection 2025 - pilots
+    data:
+      list: pilots
   # - partial: text-and-image
   #   headline: Screenings
   #   data:

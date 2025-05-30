@@ -2,7 +2,7 @@
 title: Illuminagents (Season 2) (European Premiere)
 image: /img/series/illuminagents.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3fysg-QArNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3fysg-QArNY?si=UfGkq00-4OeVH3cI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Illuminagents (Season 2) (European Premiere)  
 Country: Canada | Genre: Science Fiction, Comedy | Creator, Writer, Director & Producer: Herman Wang | Main Cast: Christina Leonard, Daryl Marks

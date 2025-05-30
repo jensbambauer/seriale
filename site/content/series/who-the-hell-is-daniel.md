@@ -2,7 +2,7 @@
 title: Who the hell is Daniel?
 image: /img/series/who-the-hell-is-daniel.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Who the hell is Daniel?  
 Country: Mexico | Genre: Drama, Suspense | Writer, Director & Producer: Oscar Davis | Main Cast: Ivan Gutierrez, Toto Cortes, Sandra Nunez, Oscar Davis

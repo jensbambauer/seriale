@@ -2,7 +2,7 @@
 title: The Geese Palace (Season 2) (World Premiere)
 image: /img/series/the-geese-palace.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## The Geese Palace (Season 2) (World Premiere)  
 Country: Argentina | Genre: Comedy | Creators & Main Cast: Silvina Ganger & Lucila Brea | Directors & Producers: Lucila Brea & Silvina Ganger | Writer: Silvina Ganger

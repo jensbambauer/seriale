@@ -2,7 +2,7 @@
 title: SPESSART TALES (World Premiere)
 image: /img/series/spessart-tales.jpg
 ---
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## SPESSART TALES (World Premiere)  
 Country: Germany | Genre: Fantasy, Mystery | Creators & Producers: Matthias Noe, Dominik Lando | Writer & Director: Matthias Noe | Main Cast: Benjamin Hübner, Franziska Herrmann, Tino Leo, Katharina Hintzen, Saskia Simunek
