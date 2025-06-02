@@ -1,15 +1,11 @@
 ---
-title: Rose of Dolls
+title: Rose of Dolls 
 image: /img/speaker/rose-of-dolls.jpg
-shortdescription: Director, Producer, Writer | A FILM TO KILL FOR | Spain
+shortdescription: Festival Director | SERIESLAND | Spain
 ---
 <img src="/img/speaker/rose-of-dolls.jpg">
-## Rose of Dolls
+## Rose of Dolls  
 
-Director, Producer, Writer, Lecturer | A FILM TO KILL FOR | Spain
+Festival Director, Producer, DP | SERIESLAND, A Film To Kill For | Spain
 
-Pioneer & creative producer, director, actress, writer and lecturer, Rose is Suma Cum Laude Phd. in Social Communication with a Thesis “Webseries, the audiovisual revolution”. She is the director of the festival “Bilbao Seriesland”. She is a researcher, teacher and active in film production, always struggling to help new generations of filmmakers and promote women in film. At “A FILM TO KILL FOR”, she has produced 15 digital series with over 50 awards, including awards for her directing, writing, costume design and acting with series like “Gifted Corporation”, “Otsoen Lurraldean”, “It’s your turn” and “A Complete Time Travel Guide”.
-
-
-
-
+Rose of Dolls is a director, screenwriter, and producer with extensive experience in innovative formats, particularly for young audiences. She holds a Ph.D. Cum Laude in Audiovisual Communication and Advertising, with her thesis Webseries: The (R)evolution of Audiovisual Media establishing her as an expert in digital storytelling and short-form content. She has worked on projects for EITB, Bainet, Mediapro, and international companies such as Imaginary Films and Dobago Films. She is also the director of Bilbao Seriesland, an international digital series festival with a decade of experience. Through her production company, A Film To Kill For she has developed projects supported by EITB, the Basque Government, the Bizkaia Provincial Council, and the Spanish Ministry of Culture. Her expertise in digital narratives and new audiences makes her a key player in the evolution of audiovisual content for television and streaming platforms.  
