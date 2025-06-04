@@ -305,7 +305,7 @@ sections:
                       time: 21:45 | 9:45pm
                       type: screening
                       series:                      
-                        - name: Ren: The Girl with the Mark (Season 2)
+                        - name: "Ren: The Girl with the Mark (Season 2)"
                           link: ren-the-girl-with-the-mark
                         - name: Prayer International Series
                           link: prayer-international-series
