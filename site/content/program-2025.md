@@ -544,7 +544,7 @@ sections:
                           link: abracadavers
                         - name: ALWAYS
                           link: always
-                      series:
+                      pilots:
                         - name: Huldufólk - A hidden world
                           link: huldufolk-a-hidden-world
 
