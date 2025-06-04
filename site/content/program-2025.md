@@ -482,8 +482,6 @@ sections:
                       series:                      
                         - name: Der kleine Tod
                           link: der-kleine-tod
-                        - name: SALT CURED LIFE
-                          link: salt-cured-life
                         - name: The Primeval Father
                           link: the-primeval-father
                         - name: STRYX
@@ -493,6 +491,8 @@ sections:
                       pilots:
                         - name: House of Switzerland
                           link: house-of-switzerland
+                        - name: SALT CURED LIFE
+                          link: salt-cured-life
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2025/2F174000012PLXMQDD?fguid=2&cindex=2&overlaySrc=null
                           name: get tickets
