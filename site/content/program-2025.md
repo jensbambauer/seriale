@@ -339,7 +339,7 @@ sections:
           data:
             sections:
               - partial: text-plain
-                headline: "Strategic Management of Financing and Distribution"
+                headline: "seriale pro"
                 data:
                   text: "Seriale Pro is an established international business platform for the digital series industry, bringing together creators, producers, and other industry professionals from around the world. Now in its 9th edition, Seriale Pro offers a mix of conference programs about current topics, and opportunities for the industry, as well as networking events and the annual pitch contest, making it a hub for co-production opportunities and lasting partnerships.<br/><br/>Location: Kleines Haus Stadttheater Giessen, Ostanlage 43, 35390 Giessen<br/><br/>free entry"
               - partial: program
@@ -409,7 +409,7 @@ sections:
                       type: break
                       datetime: 2025-06-14
                       time: 13:00 | 1pm
-                    - title: "Financing & Analytics: Traditional and new ways"
+                    - title: "Strategic Management of Financing and Distribution"
                       type: Panel Discussion 
                       length: 2
                       time: 13:30 | 1:30pm
