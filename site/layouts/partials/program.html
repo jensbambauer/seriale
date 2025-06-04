@@ -67,6 +67,13 @@
         {{ else }}
         <span class="speaker-no-link">{{.name}}</span>
         {{ end }} {{ end }}
+        {{ if .pilots }}
+          {{ range.pilots }} {{ if .link }}
+          <a class="button" href="/pilots/{{.link}}" data-role="overlay-large" data-barba-prevent>{{.name}}</a>
+          {{ else }}
+          <span class="speaker-no-link">{{.name}}</span>
+          {{ end }} {{ end }}
+        {{ end }}
       </div>
       {{ end }}
       {{ if .external }}

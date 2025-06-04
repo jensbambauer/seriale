@@ -28,20 +28,21 @@ sections:
                       series:
                         - name: "The Geese Palace (Season 2)"
                           link: the-geese-palace
-                        - name: "The Blocker - Dream Job: Film Industry"
-                          link: the-blocker-dream-job-film-industry
                         - name: Tender and Loud
                           link: tender-and-loud
                         - name: "People Like Us (Season 3)"
                           link: people-like-us
-                        - name: "He'll Be Home for Christmas"
-                          link: he-ll-be-home-for-christmas
                         - name: "Collaborate & Listen"
                           link: collaborate-and-listen
                         - name: WE ARE STORIES
                           link: we-are-stories
                         - name: "Who the hell is Daniel?"
                           link: who-the-hell-is-daniel
+                      pilots:
+                        - name: "The Blocker - Dream Job: Film Industry"
+                          link: the-blocker-dream-job-film-industry
+                        - name: "He'll Be Home for Christmas"
+                          link: he-ll-be-home-for-christmas
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2025/2F174000012PLXMQDD#tickets
                           name: get tickets	  
@@ -113,8 +114,6 @@ sections:
                       series:
                         - name: For the Drama
                           link: for-the-drama
-                        - name: "We’re The Mess"
-                          link: we-re-the-mess
                         - name: LOVE SUCKS
                           link: love-sucks
                         - name: SPESSART TALES
@@ -125,6 +124,9 @@ sections:
                           link: the-big-house
                         - name: So Dark the Sky
                         - link: so-dark-the-sky
+                      pilots:
+                        - name: "We’re The Mess"
+                          link: we-re-the-mess
         - title: june 13th
           partial: tab-sections
           data:
@@ -462,12 +464,13 @@ sections:
                       series:                      
                         - name: Game Over – The Fall of Credit Suisse
                           link: game-over-the-fall-of-credit-suisse
-                        - name: Venus Under Threat
-                          link: venus-under-threat
                         - name: Rather Burn
                           link: rather-burn
                         - name: Marzahn, Mon Amour
                           link: marzahn-mon-amour
+                      pilots:                      
+                        - name: Venus Under Threat
+                          link: venus-under-threat
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2025/2F174000012PLXMQDD?fguid=2&cindex=2&overlaySrc=null
                           name: get tickets
@@ -477,8 +480,6 @@ sections:
                       time: 20:30 | 8:30pm
                       type: screening
                       series:                      
-                        - name: House of Switzerland
-                          link: house-of-switzerland
                         - name: Der kleine Tod
                           link: der-kleine-tod
                         - name: SALT CURED LIFE
@@ -489,6 +490,9 @@ sections:
                           link: stryx
                         - name: FEELINGS (Season 2)
                           link: feelings
+                      pilots:
+                        - name: House of Switzerland
+                          link: house-of-switzerland
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2025/2F174000012PLXMQDD?fguid=2&cindex=2&overlaySrc=null
                           name: get tickets
@@ -540,8 +544,10 @@ sections:
                           link: abracadavers
                         - name: ALWAYS
                           link: always
+                      series:
                         - name: Huldufólk - A hidden world
                           link: huldufolk-a-hidden-world
+
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2025/2F174000012PLXMQDD?fguid=2&cindex=1&overlaySrc=null#tickets
                           name: get tickets
