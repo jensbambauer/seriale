@@ -101,7 +101,7 @@ sections:
                         - name: Robert Schäfer
                       panelists:
                         - name: Zora Lewiz Link
-                          link: zora-lewiz-kink
+                          link: zora-lewiz-link
                         - name: Kristian Wolff
                           link: kristian-wolff  
                         - name: David Brenner
@@ -123,7 +123,7 @@ sections:
                         - name: The Big House
                           link: the-big-house
                         - name: So Dark the Sky
-                        - link: so-dark-the-sky
+                          link: so-dark-the-sky
                       pilots:
                         - name: "We’re The Mess"
                           link: we-re-the-mess
@@ -156,7 +156,7 @@ sections:
                         - name: Daria Solovieva
                         - name: Csongor Dobrotka
                     - title: "Crafting Visual Worlds: Cinematography in Serial Storytelling "
-                      length: 2
+                      length: 3
                       datetime: 2025-06-13
                       time: 10:15 | 10:15am
                       type: Behind the Camera – Panel & Live Podcast 
@@ -217,7 +217,7 @@ sections:
                           link: dipu-bhattacharya
                       panelists:
                         - name: Leandro Silva 
-                          link: leando-silva
+                          link: leandro-silva
                         - name: Rose of Dolls
                           link: rose-of-dolls
                         - name: Oliver Mend
@@ -339,7 +339,7 @@ sections:
           data:
             sections:
               - partial: text-plain
-                headline: "seriale pro"
+                headline: "Strategic Management of Financing and Distribution"
                 data:
                   text: "Seriale Pro is an established international business platform for the digital series industry, bringing together creators, producers, and other industry professionals from around the world. Now in its 9th edition, Seriale Pro offers a mix of conference programs about current topics, and opportunities for the industry, as well as networking events and the annual pitch contest, making it a hub for co-production opportunities and lasting partnerships.<br/><br/>Location: Kleines Haus Stadttheater Giessen, Ostanlage 43, 35390 Giessen<br/><br/>free entry"
               - partial: program
