@@ -158,7 +158,6 @@ sections:
         - image: /img/partners/kinocenter.png
         - image: /img/partners/Logo-STG.png
           link: "https://stadttheater-giessen.de/"
-        - image: /img/partners/wswc.png
         - image: /img/partners/dobago.png
           link: "http://www.dobago.de"
         - image: /img/partners/lichtacker.png
