@@ -158,8 +158,7 @@ sections:
         - image: /img/partners/kinocenter.png
         - image: /img/partners/Logo-STG.png
           link: "https://stadttheater-giessen.de/"
-        - image: neues WSWC Logo
-          link:
+        - image: /img/partners/wswc.png
         - image: /img/partners/dobago.png
           link: "http://www.dobago.de"
         - image: /img/partners/lichtacker.png
@@ -169,38 +168,19 @@ sections:
           link: "https://stolenmoments.de"
         - image: /img/partners/tag-nacht-media-logo.png
           link: "https://tagundnachtmedia.de/"
-        - image: Verbund hessischer Filmfestivals
-          link: 
-        - image: Hinter der Kamera 
-          link:
-        - image: Goethe-Institut
-          link:
-        - image: AG Filmfestival
-          link:
-        - image: Film und Media Meetup
-          link:
-        - image: Verbund hessischer Filmfestivals
-          link:
-        # - image: /img/partners/mm-eventservice.jpg
-        # - image: /img/partners/Lumatik.png
-        # - image: /img/partners/sparkasse.png
-        # - image: /img/partners/Seeka_TV.png
-          link: "https://watch.seeka.tv"
-        # - image: /img/partners/heyligenstaedt.png
-        # - image: /img/partners/sAWE.png
-        # - image: /img/partners/Unsere_Serien.svg
-        # - image: /img/partners/elefantenklo_magazin_logo.png
-        # - image: /img/partners/wswc-2024.png
-          link: "https://wswc.info/"
-        # - image: /img/partners/ZukunftInnenstadt-GI_rot.jpg
+        - image: /img/partners/Verbund-hessischer-Filmfestivals.jpg
+        - image: /img/partners/Hinter-der-Kamera-HdK_Logo_2024_1000.png 
+        - image: /img/partners/Goethe-Institut.png
+        - image: /img/partners/AGFilmfestival-logo.png
+        - image: /img/partners/Film-und-Media-Meetup-FAMM_2024-Seriale_IG.png
+        - image: /img/partners/wswc.png
   - partial: grid
     headline: our partner festivals
     data:
       items:
         - image: /img/partners/Seriesland.png
           link: "https://www.seriesland.eus"
-        - image: Seriale Indonesia
-          link: 
+        - image: /img/partners/Seriale-Indonesia_Black.png
         - image: /img/partners/DMF.png
           link: "https://www.digitalmediafest.it/en/"
         - image: /img/partners/to-webfest.png
@@ -227,7 +207,6 @@ sections:
           link: "https://dcwebfest.org"
         - image: /img/partners/Seoul_Webfest.png
           link: "https://www.seoulwebfest.com"
-        # - image: /img/partners/sicilly.png
           link: "http://sicilywebfest.com/index.html"
         - image: /img/partners/british-web-awards-logo.png
           link: "https://www.britishwebawards.com/"
@@ -237,11 +216,9 @@ sections:
           link: "https://webfestival.ru/?lang=en"
         - image: /img/partners/cusco-webfest.png
           link: "https://cuscowebfest.net/"
-        # - image: /img/partners/Buenos-Aires-Series.png
           link: "https://www.buenosaireseries.com"
         - image: /img/partners/vancouver.png
           link: "https://www.vancouverwebfest.com"
-        # - image: /img/partners/montreal-web-fest-logo.png
   - partial: text-plain
     headline: connect with us
     data:

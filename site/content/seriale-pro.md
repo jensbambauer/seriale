@@ -62,24 +62,13 @@ sections:
       items:
         - image: /img/partners/HFM_Logo_Red_sRGB.png
           link: "https://www.hessenfilm.de/"
-        # - image: /img/partners/Hessisches-Ministerium-fuer-Wirtschaft-Energie-Verkehr-und-Wohnen.png
-          link: "https://wirtschaft.hessen.de"
-        # - image: /img/partners/Kultur_und_Kreativwirtschaft_Hessen.svg
         - image: /img/partners/Giessen-WF.png
           link: "https://www.giessen.de/Wirtschaft/index.php?object=tx,2874.1&ModID=9&FID=684.7.1&NavID=1894.12&La=1"
         - image: /img/partners/Kreativ-sphaeren.jpg
-        # - image: /img/partners/Seeka_TV.png
-          link: "https://watch.seeka.tv"
         - image: /img/partners/Logo-STG.png
           link: "https://stadttheater-giessen.de/"
         - image: /img/partners/Bilbao-Seriesland1.png
           link: "https://www.seriesland.eus"
-        # - image: /img/partners/mm-eventservice.jpg
-        # - image: /img/partners/DIMA.png
-          link: "http://dima-market.com"
-        # - image: /img/partners/sparq-logo@1x.png
-          link: "https://www.sparqfest.live/"
-        # - image: /img/partners/FlixxoBlack.png
         - image: /img/partners/un3-logo.png
         - image: /img/partners/lichtacker.png
         - image: /img/partners/dobago.png
@@ -87,8 +76,7 @@ sections:
     headline: pitch contest & dima digital market sponsors
     data:
       items:
-        - image: Hessisches Ministerium für Wirtschaft, Energie, Verkehr und Wohnen
-          link:
+        - image: /img/partners/Wirtschaftsministerium.png
         - image: /img/partners/Giessen-WF.png
           link: "https://www.giessen.de/Wirtschaft/index.php?object=tx,2874.1&ModID=9&FID=684.7.1&NavID=1894.12&La=1"
         - image: /img/partners/DIMA.png 
