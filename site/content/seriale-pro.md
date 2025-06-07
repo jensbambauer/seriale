@@ -11,17 +11,17 @@ sections:
     data:
       headline: About
       paragraphs:
-        - text: "Seriale Pro offers a comprehensive business platform for the digital series industry. It includes the industry related activities, &quot;Business Meetings & Digital Market&quot;, the &quot;Pitch Contest&quot; and a Conference Program.<br><br>The Seriale Pro is a huge conference and networking event, it will be held for the 8th time as part of &quot;die Seriale&quot;<br><br>The &quot;DIMA Digital Market&quot; is Germany’s very first market with focus on short form digital series. This is in cooperation with &quot;Bilbao Seriesland&quot; and &quot;Minnesota Web Fest&quot;.<br><br>Finally about 13 brand new concepts for digitals series will be presented to the industry during the Pitch Contest."
+        - text: "Seriale Pro is an established international business platform for the digital series industry, bringing together creators, producers, and other industry professionals from around the world. Seriale Pro offers a mix of conference programs about current topics, and opportunities for the industry, as well as networking events, the annual pitch contest and a market, making it a hub for co-production opportunities and lasting partnerships."
   - partial: text-and-image
     headline: pitch contest
     data:
       image: /img/pitch-contest-2023.jpg
       headline: "Pitch Your Project"
-      text: "13 international creators get the chance to present their series project in a 3 minute long pitch. Among them, some creators will pitch their project for the first time. The jury will give a short feedback afterwards. The best pitch will be announced during the award ceremony on Sunday June 2. The pitch contest takes place on Saturday, June 1, from 3:30pm to 6pm at Kleines Haus Stadttheater Giessen."
-  # - partial: teaser-grid
-  #   headline: jury pitch contest
-  #   data:
-  #     list: jury-pitch-contest
+      text: "The Pitch Contest offers 12 international series creators a platform to present their projects to an international expert Jury and industry professionals. The talented creators will have the opportunity to pitch their innovative ideas, receiving insightful questions and valuable feedback from the Jury. Join us for a celebration of creativity!"
+  - partial: teaser-grid
+    headline: jury pitch contest
+    data:
+      list: jury-pitch-contest
   # - partial: teaser-grid
   #   headline: moderators pitch contest
   #   data:
@@ -32,13 +32,13 @@ sections:
       reversed: true
       image: /img/business-days.jpg
       headline: "Conference & Networking"
-      text: "The Conference days offers a large conference and networking program for the creative industry. Established international experts will present exclusive insights on the mechanisms of the global digital series market and talk about the latest developments and trends. Various possibilities for distribution, co-production and branded content will be presented and discussed in panels. Brand new project ideas will be presented and above all, this event invites to network and make new connections."
+      text: "The Seriale Pro offers a large conference and networking program for the creative industry. Established international experts will present exclusive insights on the mechanisms of the global digital series market and talk about the latest developments and trends. Various possibilities for distribution and co-production will be presented and discussed in panels. Brand new project ideas will be presented and above all, this event invites to network and make new connections."
   - partial: text-and-image
-    headline: Business Meetings & Digital Market
+    headline: DIMA DIGITAL MARKET
     data:
       image: /img/market.jpg
-      headline: "Germany's Market for Digital Series"
-      text: "The Business Meetings & Digital Market offer individual filmmakers, various companies, and institutions from the media industry the opportunity to meet potential business partners and expand their network in a one-on-one meeting format. This festival event brings together a variety of international, regional, and nationwide players from different sectors of the industry."
+      headline: "Business Meetings & Get Together"
+      text: "At the DIMA Digital Market, a range of exhibitors will present their companies, festivals, projects, or organizations. Through a dedicated booking system, attendees can arrange exclusive one-on-one meetings, offering a unique opportunity to connect directly with industry professionals.<br><br>The Business Meetings provide a wide range of networking opportunities across the media and creative industries. Alongside filmmakers, participants include marketing agencies, sound studios, musicians, freelance artists, authors, social media professionals, businesses, and organizations, such as those interested in image films or social media solutions, as well as many other creative and commercial stakeholders. This event brings together a dynamic mix of international, national, and regional players from across the industry."
   # - partial: text-and-image
   #   headline: die Seriale in the videmic app
   #   data:
@@ -68,21 +68,31 @@ sections:
         - image: /img/partners/Giessen-WF.png
           link: "https://www.giessen.de/Wirtschaft/index.php?object=tx,2874.1&ModID=9&FID=684.7.1&NavID=1894.12&La=1"
         - image: /img/partners/Kreativ-sphaeren.jpg
-        - image: /img/partners/Seeka_TV.png
+        # - image: /img/partners/Seeka_TV.png
           link: "https://watch.seeka.tv"
         - image: /img/partners/Logo-STG.png
           link: "https://stadttheater-giessen.de/"
         - image: /img/partners/Bilbao-Seriesland1.png
           link: "https://www.seriesland.eus"
         # - image: /img/partners/mm-eventservice.jpg
-        - image: /img/partners/DIMA.png
+        # - image: /img/partners/DIMA.png
           link: "http://dima-market.com"
         # - image: /img/partners/sparq-logo@1x.png
           link: "https://www.sparqfest.live/"
-        - image: /img/partners/FlixxoBlack.png
-        # - image: /img/partners/un3-logo.png
+        # - image: /img/partners/FlixxoBlack.png
+        - image: /img/partners/un3-logo.png
         - image: /img/partners/lichtacker.png
         - image: /img/partners/dobago.png
+  - partial: grid
+    headline: pitch contest & dima digital market sponsors
+    data:
+      items:
+        - image: Hessisches Ministerium für Wirtschaft, Energie, Verkehr und Wohnen
+          link:
+        - image: /img/partners/Giessen-WF.png
+          link: "https://www.giessen.de/Wirtschaft/index.php?object=tx,2874.1&ModID=9&FID=684.7.1&NavID=1894.12&La=1"
+        - image: /img/partners/DIMA.png 
+          link: "http://dima-market.com" 
   - partial: text-plain
     headline: connect with us
     data:
