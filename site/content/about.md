@@ -5,7 +5,7 @@ sections:
     headline: About
     data:
       paragraphs:
-        - text: "die Seriale - International Series Festival Giessen is the oldest festival in Germany dedicated to present and celebrate independet and digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work. On six festival days lectures, workshops and panel discussions will be held. All selected series will be screened in the cinema, open air and after the festival days at die Seriale SparqFest website for one week. The most outstanding series will be awarded by an expert jury. With the Seriale Pro we present a platform for the international digital series industry."
+        - text: "die Seriale - International Series Festival Giessen is the oldest festival in Germany dedicated to present and celebrate independent and digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work. On five festival days lectures, panel discussions and keynotes will be held. All selected series will be screened in the cinema and open air. The most outstanding series will be awarded by an expert jury. With the Seriale Pro we present a platform for the international digital series industry."
         - text: "die Seriale was launched by the two film makers, Csongor Dobrotka (Number of Silence) and Dennis Albrecht (Filmstadt), on June 12th, 2015 in order to offer German-speaking independent series a platform beyond the internet, as well; to highlight their innovative nature and their extraordinary quality and to connect the series creators among each other. The exchange between the filmmakers was supposed to enhance the quality of the format and to establish new perspectives in producing and publication."
   # - partial: teaser-grid
   #   headline: Team
@@ -18,94 +18,97 @@ sections:
       teasers:
         - image: /img/team/csongor-dobrotka.jpg
           title: Csongor Dobrotka
-          shortdescription: Founder & Festival Director
+          shortdescription: Founder & Festival Director          
         - image: /img/team/beate-bambauer.jpg
           title: Beate Bambauer
-          shortdescription: Program Director
+          shortdescription: Program Director          
         - image: /img/team/ralf-hofacker.jpg
           title: Ralf Hofacker
-          shortdescription: Festival Coordination & Media Design
-        - image: /img/team/lisa-heimbach.jpg
-          title: Lisa Heimbach
-          shortdescription: Festival Orginization & Office
-        - image: /img/team/celina-schmitt.jpg
-          title: Celina Schmitt
-          shortdescription: Conference Program Manager
-        - image: /img/team/ilona-kechter.jpg
-          title: Ilona Kechter
-          shortdescription: Award Ceremony & Red Carpet Organization
+          shortdescription: Festival Coordination & Media Design          
         - image: /img/team/jens-bambauer.jpg
           title: Jens Bambauer
-          shortdescription: Website & Live Stream
-        - image: /img/team/birgit-schweitzer.jpg
-          title: Birgit Schweitzer
-          shortdescription: Public Relations & Blog Editor
-        - image: /img/team/isabella-pianto.jpg
-          title: Isabella Pianto
-          shortdescription: Educational Organization & Host
-        - image: /img/team/anne-schokominza-michel.jpg
-          title: Anne Schokominza Michel
-          shortdescription: Head of Social Media Team
+          shortdescription: Website          
+        - image: /img/team/celina-schmitt.jpg
+          title: Celina Schmitt
+          shortdescription: Seriale Pro Manager          
         - image: /img/team/irina-shestopalova.jpg
           title: Irina Shestopalova
-          shortdescription: Social Media Manager & Host
-        - image: /img/team/cara-lynn-ohly.jpg
-          title: Cara Lynn Ohly
-          shortdescription: Organization & Communication
-        - image: /img/team/karolina-filatova.jpg
-          title: Karolina Filatova
-          shortdescription: Pitch Contest & Educational Organization
-        - image: /img/team/nike-weiss.jpg
-          title: Nike Weiß
-          shortdescription: Pitch Contest & Educational Organization
-        - image: /img/team/oihane-aramendia.jpg
-          title: Oihane Aramendia
-          shortdescription: Seriale Pro Organization
-        - image: /img/team/antoine-disle.jpg
-          title: Antoine Disle
-          shortdescription: Seriale Pro Advisor
-        - image: /img/team/elke-baumann.jpg
-          title: Elke Baumann
-          shortdescription: Pitch Contest Advisor
-        - image: /img/team/hannah-buscher.jpg
-          title: Hannah Buscher
-          shortdescription: Award Ceremony Host
-        - image: /img/team/robert-schaefer.jpg
-          title: Robert Schäfer
-          shortdescription: Award Ceremony Host
-        - image: /img/team/daria-solovieva.jpg
-          title: Daria Solovieva
-          shortdescription: Red Carpet Interviews & Host
-        - image: /img/team/mariia-eliseeva.jpg
-          title: Mariia Eliseeva
-          shortdescription: Host & Interviews
-        - image: /img/team/jan-krankl.jpg
-          title: Jan Krankl
-          shortdescription: Screenings Management
-        - image: /img/team/martin-otto.jpg
-          title: Martin Otto
-          shortdescription: Screening Organization
+          shortdescription: Social Media Manager, Public Relations & Interviews          
+        - image: /img/team/anne-schokominza-pfannenstiel.jpg
+          title: Anne Schokominza Pfannenstiel
+          shortdescription: Marketing & Head of Social Media, Controlling          
+        - image: /img/team/ilona-kechter.jpg
+          title: Ilona Kechter
+          shortdescription: Award Ceremony & Red Carpet Coordination          
+        - image: /img/team/sophia-beeck.jpg
+          title: Sophia Beeck
+          shortdescription: Seriale Office & Communication            
+        - image: /img/team/georg-ehrenburg.jpg
+          title: Georg Ehrenburg
+          shortdescription: Seriale Office & Communication           
+        - image: /img/team/anna-maria-engert.jpg
+          title: Anna-Maria Engert
+          shortdescription: Jury Communication          
+        - image: /img/team/jana-marie-krauss.jpg
+          title: Jana-Marie Krauß
+          shortdescription: Jury Communication          
+        - image: /img/team/stina-kunz.jpg
+          title: Stina Kunz
+          shortdescription: Pitch Contest Communication & Organization          
+        - image: /img/team/eva-charlotte-salditt.jpg
+          title: Eva Charlotte Salditt
+          shortdescription: Educational Communication & Organization          
         - image: /img/team/christoforos-mechanezidis.jpg
           title: Christoforos Mechanezidis
-          shortdescription: Photography
-        - image: /img/team/melinda-kechter.jpg
-          title: Melinda Kechter
-          shortdescription: Photography
-        - image: /img/team/cora-tuma.jpg
-          title: Cora Tuma
-          shortdescription: Film Team
-        - image: /img/team/annika-schwiderski.jpg
-          title: Annika Schwiderski
-          shortdescription: Film Team
-        - image: /img/team/paula-buerger.jpg
-          title: Paula Bürger
-          shortdescription: Film Team
-        - image: /img/team/chris-tom-mathews.jpg
-          title: Chris Tom Mathews
-          shortdescription: Film Team
-        - image: /img/team/alexandra-manlig.jpg
-          title: Alexandra Manlig
-          shortdescription: Host
+          shortdescription: Photography            
+        - image: /img/team/martin-otto.jpg
+          title: Martin Otto
+          shortdescription: Screening Manager Kinocenter Giessen            
+        - image: /img/team/daria-solovieva.jpg
+          title: Daria Solovieva
+          shortdescription: Award Ceremony Host, Moderation & Interviews          
+        - image: /img/team/robert-schaefer.jpg
+          title: Robert Schäfer
+          shortdescription: Award Ceremony Host & Moderation              
+        - image: /img/team/amaru-frida.jpg
+          title: Amarú Frida
+          shortdescription: Pitch Contest Host & Moderation          
+        - image: /img/team/ds.jpg
+          title: Christian Stadach
+          shortdescription: Animations          
+        - image: /img/team/ds.jpg
+          title: Robert G. Achtel
+          shortdescription: Web Design            
+        - image: /img/team/ds.jpg
+          title: Lisa Heimbach
+          shortdescription: Orginization & Office
+        - image: /img/team/colin-haubrich.jpg
+          title: Colin Haubrich
+          shortdescription: Eventteam
+        - image: /img/team/ariane-bukschat.jpg
+          title: Ariane Bukschat
+          shortdescription: Eventteam
+        - image: /img/team/olivia-balsser.jpg
+          title: Olivia Balsser
+          shortdescription: Eventteam                    
+        - image: /img/team/ds.jpg
+          title: Emil Leenen
+          shortdescription: Eventteam                       
+        - image: /img/team/ds.jpg
+          title: Alexandra Weber
+          shortdescription: Eventteam
+        - image: /img/team/ds.jpg
+          title: Thorben Triebert
+          shortdescription: Eventteam          
+        - image: /img/team/valentino-hubbert.jpg
+          title: Valentino Hubbert
+          shortdescription: Filmteam          
+        - image: /img/team/ds.jpg
+          title: Lion Krischnan
+          shortdescription: Filmteam          
+        - image: /img/team/ds.jpg
+          title: Niklas Stark
+          shortdescription: Filmteam                
   - partial: text-plain
     headline: connect with us
     data:
