@@ -13,7 +13,12 @@ sections:
           length: 4
           datetime: 2024-05-29
           time: A FILM TO KILL FOR / Seriesland
-          details: "<p>A Film To Kill For is an independent production company from Bilbao, Spain, dedicated to bold, genre-driven storytelling across digital platforms.</p><p>Rose of Dolls and Oliver Mend</p>"
+          details: "aa"
+          speaker:
+            - name: Rose of Dolls
+              link: rose-of-dolls
+            - name: Oliver Mend
+              link: oliver-mend
           external:
             - link: https://doodle.com/sign-up-sheet/participate/2be0679e-5d3e-496d-aa63-79466b82fdf0/select
               name: Sign Up
