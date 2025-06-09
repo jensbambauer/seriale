@@ -12,6 +12,15 @@
       <h4>{{.title}}</h4>
       {{ if .details}}
       <p>{{ .details | safeHTML }}</p>
+      {{ end }} {{ if .exhibitor }}
+      <div class="program__speaker">
+        <h4>Exhibitor</h4>
+        {{ range.exhibitor }} {{ if .link }}
+        <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        {{ else }}
+        <span class="speaker-no-link">{{.name}}</span>
+        {{ end }} {{ end }}
+      </div>
       {{ end }} {{ if .moderator }}
       <div class="program__speaker">
         <h4>Moderation</h4>
