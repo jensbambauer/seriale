@@ -2,9 +2,9 @@
 title: 11th International Series Festival Giessen
 sections:
   - partial: text-plain
-    headline: Marketplace Headline
+    headline: DIMA DIGITAL MARKET
     data:
-      text: "Marketplace Intro Text"
+      text: "Location: Kongresshalle Giessen (Alte Kunsthalle), Südanlage 3, 35390 Giessen"
   - partial: program
     smallmargin: true
     data:
