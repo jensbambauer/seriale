@@ -12,7 +12,8 @@ sections:
         - title: A FILM TO KILL FOR / Seriesland
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: "A Film To Kill For is an independent production company from Bilbao, Spain, dedicated to bold, genre-driven storytelling across digital platforms."
           speaker:
             - name: Rose of Dolls
@@ -25,7 +26,8 @@ sections:
         - title: Attraction Distribution
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: "Attraction Distribution is a world leader in quality family entertainment. We handle a catalogue of feature films across multiple genres, popular live action youth series and animation as well as prime time drama and original formats created by our sister companies and an extensive network of producers around the world."
           speaker:
             - name: Sylvia Kocman
@@ -36,7 +38,8 @@ sections:
         - title: Decocoon
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: "Decocoon is a young Swiss film producing company that emerged from an artists collective creating live and video performances."
           speaker:
             - name: Alberto Ruano
@@ -47,7 +50,8 @@ sections:
         - title: Digital Media World Cups / Mulia Pictures
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: "I am a co-manager of the Digital Media World Cups looking to educate the digital series community about our associated series festival circuits, the Web Series World Cup and the Audio Fiction World Cup. As Mulia Pictures, I am looking to network with fellow creatives."
           speaker:
             - name: Dipu Bhattacharya
@@ -58,7 +62,8 @@ sections:
         - title: DOBAGO FILM GmbH
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: "At DOBAGO FILM, we combine our expertise in series production, creative writing, post-production, and marketing to achieve unique results. With the support of our extensive network of partners, we realize film projects of various scales."
           speaker:
             - name: Anna-Maria Engert
@@ -69,7 +74,8 @@ sections:
         - title: Florencia Sokol - Writer, Screenwriter
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: ""
           speaker:
             - name: Florencia Sokol
@@ -80,7 +86,8 @@ sections:
         - title: LA WEBFEST / Hollywood Series
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: "Submissions are now open for the 17th Annual LA WEBFEST 2026, the first and largest web series festival. We accept films, series (long or short form), pilots, podcasts, shorts, and scripts. The 9th Annual Hollywood Series 2025 will be held online in December — early bird submissions are open until June."
           speaker:
             - name: Young Man Kang
@@ -91,7 +98,8 @@ sections:
         - title: MAULEÓN
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: "I’m the founder of MAULEÓN, a creative agency specialising in communication for the cultural and creative industries. I help creators and cultural institutions communicate their work and identity through strategic social media content that highlights what makes them unique."
           speaker:
             - name: Sara Mauleón
@@ -102,7 +110,8 @@ sections:
         - title: PixelPec GmbH
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: ""
           speaker:
             - name: Sebastian Simon
@@ -113,7 +122,8 @@ sections:
         - title: Playlist4You GmbH
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: ""
           speaker:
             - name: Thomas-Schneider Trumpp
@@ -123,7 +133,8 @@ sections:
         - title: Rio Webfest / Charlotte Producoes
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: "My name is Leandro Silva. I’m the founder of Rio Webfest and my company Charlotte Producoes is interested in international coproductions. www.charlotteproducoes.com"
           speaker:
             - name: Leandro Silva
@@ -134,7 +145,8 @@ sections:
         - title: Royal Blue Audio
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: "Freelance sound designer, re-recording mixer, and sound supervisor offering full audio post-production services for film, series, documentaries, and animation – from sound design and dialogue editing to mixing in stereo, 5.1, and beyond."
           speaker:
             - name: Kerthekan Balasubramaniam
@@ -144,7 +156,8 @@ sections:
         - title: Stefan Pohl Film
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: ""
           speaker:
             - name: Stefan Pohl
@@ -155,7 +168,8 @@ sections:
         - title: SZ.
           length: 4
           datetime: 2025-07-25
-          time: june 15th | multiple time slots available
+          time: june 15th
+          type: multiple time slots available
           details: "Fiction screenwriter and director with award-winning projects developed for Warner Media and others, selected for leading international markets such as Iberseries, Conecta Fiction, and MIPCOM."
           speaker:
             - name: Sofía Szelske
