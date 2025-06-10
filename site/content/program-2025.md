@@ -526,6 +526,9 @@ sections:
                       time: 10:00 | 10am
                       type: networking
                       details: "At the DIMA Digital Market, a range of exhibitors will present their companies, festivals, projects, or organizations. Through a dedicated booking system, attendees can arrange exclusive one-on-one meetings, offering a unique opportunity to connect directly with industry professionals.<br/><br/>The Business Meetings provide a wide range of networking opportunities across the media and creative industries. Alongside filmmakers, participants include marketing agencies, sound studios, musicians, freelance artists, authors, social media professionals, businesses, and organizations, such as those interested in image films or social media solutions, as well as many other creative and commercial stakeholders. This event brings together a dynamic mix of international, national, and regional players from across the industry.<br/><br/>Meeting slots can be booked via our website. Last-minute participants are also welcome, as remaining spots will be still available for registration throughout the festival-framework and the market day.<br/><br/>The Get Together will take place from 12pm to 2pm in the courtyard of the Kongresshalle. Everyone is welcome to attend - even spontaneously and regardless of whether they have booked an appointment for the market meetings.<br/>Participating companies and institutions may bring roll-ups, posters, and flyers to present themselves in the best possible way. These materials can be brought on June 15th from 30 minutes before the event starts, after registration by e-mail to pro@die-seriale.de"
+                      external:
+                        - link: /dima-digital-market
+                          name: Book a meeting
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
