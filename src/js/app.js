@@ -62,7 +62,7 @@ function init(container = document) {
 
 init();
 
-if (location.href.indexOf("seriale-pro") > -1) {
+if (location.href.indexOf("seriale-pro") > -1 || location.href.indexOf("dima-digital-market")) {
   $(".nav").addClass("seriale-pro");
 }
 
