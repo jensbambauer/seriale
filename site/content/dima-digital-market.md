@@ -9,6 +9,18 @@ sections:
     smallmargin: true
     data:
       items:			  
+        - title: 4Reel GmbH
+          length: 4
+          datetime: 2025-07-25
+          time: june 15th
+          type: multiple time slots available
+          details: "4Reel is a production company based in Frankfurt, Germany focused on documentary and fictional content. Aiming for high production value and emotional storytelling, 4Reel made a name for themselves with projects such as the award-winning doc series 'BASTARDS.'"
+          exhibitor:
+            - name: Marco Eisenbarth
+              link: marco-eisenbarth
+          external:
+            - link: https://doodle.com/sign-up-sheet/participate/70c4a9ea-23a5-4c26-83ee-588ee6c27c96/select
+              name: Doodle Sign Up
         - title: A FILM TO KILL FOR / Seriesland
           length: 4
           datetime: 2025-07-25
@@ -22,6 +34,18 @@ sections:
               link: oliver-mend
           external:
             - link: https://doodle.com/sign-up-sheet/participate/2be0679e-5d3e-496d-aa63-79466b82fdf0/select
+              name: Doodle Sign Up
+        - title: Anne Schokominza Pfannenstiel - Social Media/ Online Marketing Manager
+          length: 4
+          datetime: 2025-07-25
+          time: june 15th
+          type: multiple time slots available
+          details: "Schoko is from Giessen and since 2014 she has been a self-employed social media/online marketing manager, with focus on the creative industries, e-learning and equestrian sports. Therefore, she has worked with many different companies and currently works, among other things, as Head of Marketing and Social Media at die Seriale."
+          exhibitor:
+            - name: Anne Schokominza Pfannenstiel
+              link: anne-schokominza-pfannenstiel
+          external:
+            - link: https://doodle.com/sign-up-sheet/participate/dd408322-7401-479b-a233-75d2a7b56c01/select
               name: Doodle Sign Up
         - title: Attraction Distribution
           length: 4
@@ -76,7 +100,7 @@ sections:
           datetime: 2025-07-25
           time: june 15th
           type: multiple time slots available
-          details: ""
+          details: "Florencia Sokol is an independent writer and screenwriter based in Buenos Aires. She published two books and created and starred in the series Apartment A. Her main area of expertise is character-driven stories with humor, emotional nuance, and a strong focus on contemporary themes such as intimacy, identity, relationships and urban survival."
           exhibitor:
             - name: Florencia Sokol
               link: florencia-sokol
@@ -106,18 +130,6 @@ sections:
               link: sara-mauleon
           external:
             - link: https://doodle.com/sign-up-sheet/participate/054847bd-aa10-4576-a314-d508dc1c21eb/select
-              name: Doodle Sign Up
-        - title: PixelPec GmbH
-          length: 4
-          datetime: 2025-07-25
-          time: june 15th
-          type: multiple time slots available
-          details: ""
-          exhibitor:
-            - name: Sebastian Simon
-              link: sebastian-simon
-          external:
-            - link: https://doodle.com/sign-up-sheet/participate/8e7b12a8-102c-426f-8e1a-9a7b63725ea9/select
               name: Doodle Sign Up
         - title: Playlist4You GmbH
           length: 4
