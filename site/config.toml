@@ -35,7 +35,7 @@ languageCode = "en-us"
     [[menu.main]]
     identifier = "program"
     name       = "Program"
-    url        = "/program-2025/"
+    url        = "/program/"
     weight     = 6
     
     [[menu.main]]
