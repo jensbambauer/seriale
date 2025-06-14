@@ -1,51 +1,56 @@
 ---
 title: 11th International Series Festival Giessen
 sections:
-  - partial: stage
+  - partial: twitch
     widesection: true
     data:
-      videosource: /videos/digital-loop.mp4
-      slides:
-        # - headline: "save the date: 29th - june 3rd 2024"
-        # - headline: Series Screening on Demand
-        #   subheadline: available from June 29th to July 4th
-        #   button:
-        #     text: watch now
-        #     href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
-        # - headline: submissions for die seriale 2025 are open
-        #   button:
-        #     text: submit series
-        #     href: https://filmfreeway.com/dieSeriale
-        # - headline: Award Ceremony
-        #   button:
-        #     overlay: true
-        #     text: watch
-        #     href: /award-ceremony
-        # - headline: The festival
-        #   button:
-        #     overlay: true
-        #     text: watch trailer
-        #     href: /festival-trailer
-        - headline: nominees 2025
-          button:
-            text: view now
-            href: /nominations-2025
-        - headline: official selection 2025
-          button:
-            text: view now
-            href: /official-selection-2025
-        # - headline: series/pilots trailers 2023
-        #   button:
-        #     text: watch now
-        #     href: /festival/
-        # - headline: nominees & winners 2021
-        #   button:
-        #     text: view now
-        #     href: /awards-2021
-        # - headline: award winners 2019
-        #   button:
-        #     text: view now
-        #     href: /awards-2019
+      channel: dieSeriale
+  # - partial: stage
+  #   widesection: true
+  #   data:
+  #     videosource: /videos/digital-loop.mp4
+  #     slides:
+  #       - headline: nominees 2025
+  #         button:
+  #           text: view now
+  #           href: /nominations-2025
+  #       - headline: official selection 2025
+  #         button:
+  #           text: view now
+  #           href: /official-selection-2025
+
+  # - headline: "save the date: 29th - june 3rd 2024"
+  # - headline: Series Screening on Demand
+  #   subheadline: available from June 29th to July 4th
+  #   button:
+  #     text: watch now
+  #     href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
+  # - headline: submissions for die seriale 2025 are open
+  #   button:
+  #     text: submit series
+  #     href: https://filmfreeway.com/dieSeriale
+  # - headline: Award Ceremony
+  #   button:
+  #     overlay: true
+  #     text: watch
+  #     href: /award-ceremony
+  # - headline: The festival
+  #   button:
+  #     overlay: true
+  #     text: watch trailer
+  #     href: /festival-trailer
+  # - headline: series/pilots trailers 2023
+  #   button:
+  #     text: watch now
+  #     href: /festival/
+  # - headline: nominees & winners 2021
+  #   button:
+  #     text: view now
+  #     href: /awards-2021
+  # - headline: award winners 2019
+  #   button:
+  #     text: view now
+  #     href: /awards-2019
   # - partial: large-teaser
   #   data:
   #     background: /img/be-part-of-it-bg.jpg
@@ -167,7 +172,7 @@ sections:
           partial: tab-text
           data:
             headline: Submissions for 2025 are closed
-            text: ''
+            text: ""
             # text: '<a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
         # - title: in person & digital event
         #   partial: tab-text
