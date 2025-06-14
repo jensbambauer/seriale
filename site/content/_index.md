@@ -5,6 +5,11 @@ sections:
     widesection: true
     data:
       channel: dieSeriale
+  - partial: text
+    data:
+      headline: Award Ceremony Live Stream
+      paragraphs:
+        - text: "Live stream of the 11th Award Ceremony of die Seriale starts at 20:00 | 8pm."
   # - partial: stage
   #   widesection: true
   #   data:
