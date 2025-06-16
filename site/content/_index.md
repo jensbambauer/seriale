@@ -1,28 +1,28 @@
 ---
 title: 11th International Series Festival Giessen
 sections:
-  - partial: twitch
-    widesection: true
-    data:
-      channel: dieSeriale
-  - partial: text
-    data:
-      headline: Award Ceremony Live Stream
-      paragraphs:
-        - text: "Live stream of the 11th Award Ceremony of die Seriale starts at 20:00 | 8pm."
-  # - partial: stage
+  # - partial: twitch
   #   widesection: true
   #   data:
-  #     videosource: /videos/digital-loop.mp4
-  #     slides:
-  #       - headline: nominees 2025
-  #         button:
-  #           text: view now
-  #           href: /nominations-2025
-  #       - headline: official selection 2025
-  #         button:
-  #           text: view now
-  #           href: /official-selection-2025
+  #     channel: dieSeriale
+  # - partial: text
+  #   data:
+  #     headline: Award Ceremony Live Stream
+  #     paragraphs:
+  #       - text: "Live stream of the 11th Award Ceremony of die Seriale starts at 20:00 | 8pm."
+  - partial: stage
+    widesection: true
+    data:
+      videosource: /videos/digital-loop.mp4
+      slides:
+        - headline: nominees & winners 2025
+          button:
+            text: view now
+            href: /awards-2025
+        # - headline: official selection 2025
+        #   button:
+        #     text: view now
+        #     href: /official-selection-2025
 
   # - headline: "save the date: 29th - june 3rd 2024"
   # - headline: Series Screening on Demand

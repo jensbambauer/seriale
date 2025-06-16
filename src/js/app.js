@@ -75,37 +75,3 @@ stickyHeader(scrollbar);
 // pageTransition(init, scrollbar);
 //
 //
-(function () {
-  // Zielzeit berechnen: morgen 20:00 Uhr deutscher Zeit
-  const now = new Date();
-
-  // Einen Tag hinzufügen
-  const target = new Date(now);
-  target.setDate(now.getDate() + 1);
-  target.setHours(20, 0, 0, 0); // 20:00:00.000
-
-  // In deutscher Zeitzone (Mitteleuropäische Zeit / Sommerzeit)
-  // Zielzeit als UTC-Zeitpunkt berechnen
-  const germanOffset = -new Date()
-    .toLocaleString("en-US", {
-      timeZone: "Europe/Berlin",
-      timeZoneName: "short",
-    })
-    .includes("GMT+2")
-    ? 2
-    : 1;
-  const targetUTC = new Date(target.getTime() - germanOffset * 60 * 60 * 1000);
-
-  const timeUntilReload = targetUTC.getTime() - Date.now();
-
-  if (timeUntilReload > 0) {
-    console.log(
-      `Seite wird in ${Math.round(timeUntilReload / 1000)} Sekunden neu geladen.`,
-    );
-    setTimeout(() => {
-      location.reload();
-    }, timeUntilReload);
-  } else {
-    console.log("Zielzeit ist bereits vergangen. Kein Reload geplant.");
-  }
-})();
