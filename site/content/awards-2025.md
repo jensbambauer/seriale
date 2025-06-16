@@ -326,11 +326,6 @@ sections:
         - text: "The prize was awarded to a performer who brought a bold, yet also subtle touch to their interpretation — allowing for immediate empathy and connection with the character. Their natural ability to navigate a wide range of emotions made the performance both compelling and deeply authentic."
   - partial: text
     data:
-      headline: Series Jury | Statement for Best Cinematography
-      paragraphs:
-        - text: ""
-  - partial: text
-    data:
       headline: Pitch Contest Jury Statement
       paragraphs:
         - text: "A great Pitch, strong concept with potential and nice writing were the three criteria evaluated. And the following pitch hit all the marks: to a great prepared pitch, an original content and presentation."      
