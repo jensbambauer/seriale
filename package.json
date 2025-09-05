@@ -34,7 +34,7 @@
     "file-loader": "^2.0.0",
     "gotrue-js": "^0.9.1",
     "gsap": "^3.6.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-babel": "^7.0.0",
     "gulp-postcss": "^8.0.0",
     "gulp-util": "^3.0.7",
