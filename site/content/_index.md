@@ -1,5 +1,5 @@
 ---
-title: 11th International Series Festival Giessen
+title: 12th International Series Festival Giessen
 sections:
   # - partial: twitch
   #   widesection: true
@@ -19,6 +19,12 @@ sections:
           button:
             text: view now
             href: /awards-2025
+        - headline: submissions for die seriale 2026 are open
+          button:
+            text: submit series
+            href: https://filmfreeway.com/dieSeriale
+
+
         # - headline: official selection 2025
         #   button:
         #     text: view now
@@ -30,10 +36,6 @@ sections:
   #   button:
   #     text: watch now
   #     href: https://dieseriale.sparqfest.live/de/_events/screening_block/2023.00/die-seriale-2023.html
-  # - headline: submissions for die seriale 2025 are open
-  #   button:
-  #     text: submit series
-  #     href: https://filmfreeway.com/dieSeriale
   # - headline: Award Ceremony
   #   button:
   #     overlay: true
@@ -61,134 +63,134 @@ sections:
   #     background: /img/be-part-of-it-bg.jpg
   #     href: https://dieseriale.sparqfest.live/en/index.html
   #     text: Watch Series
-  - partial: time-table
-    headline: schedule 2025
-    data:
-      days:
-        - title: June 11th
-          blocks:
-            - time: 5pm
-              title: SCREENING BLOCK 1
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 4
-        - title: June 12th
-          blocks:
-            - time: 7pm - 9:30pm
-              title: FOCUS HESSEN
-              location: Reception, Networking, Opening & Panel Discussion<br/>Lottehof, Wetzlar<br/>free entry
-              size: 4
-            - time: 9:30pm
-              title: Open Air Screening
-              location: "Screening Block 2<br/>Lottehof, Wetzlar<br/>free entry"
-              size: 4
-        - title: June 13th
-          blocks:
-            - time: 10am - 3:30pm
-              title: EDUCATIONAL
-              location: Conference Program<br/>Stadttheater Giessen, Kleines Haus<br/>free entry
-              size: 4
-            - time: 3:30pm - 5:30pm
-              title: Film & Media MeetUp Live!
-              location: "Stadttheater Giessen, Kleines Haus<br/>free entry<br/><a href='https://www.eventbrite.com/e/film-media-meetup-die-seriale-educational-2025-tickets-1356254757489'>Signup for Speedmeetings</a>"
-              size: 4
-            - time: 6pm
-              title: OPENING & PREMIERES | with Q&A
-              location: Screening Block 3<br/>Kinocenter Giessen<br/>buy tickets on site & online
-              size: 4
-            - time: 8:30pm
-              title: SCREENING BLOCK 4 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 9:45pm
-              title: SCREENING BLOCK 5 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 11:15 - 2am
-              title: Networking Night
-              location: Stadttheater Giessen, Foyer<br/>with festival pass only
-              size: 3
-  - partial: time-table
-    data:
-      days:
-        - title: June 14th
-          blocks:
-            - time: 10am - 2:30pm
-              location: Conference Program<br/>Stadttheater Giessen, Kleines Haus<br/> free entry
-              title: SERIALE PRO
-              size: 4
-            - time: 3pm - 6pm
-              title: Pitch Contest
-              location: Stadttheater Giessen, Kleines Haus<br/> free entry, with registration
-              size: 3
-            - time: 6:30pm
-              title: Screening Block 6 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 8:30pm
-              title: Screening Block 7 | with Q&A
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 10:30pm
-              title: Networking Night
-              location: Mr. Jones<br/>with festival pass only
-              size: 3
-        - title: June 15th
-          blocks:
-            - time: 10am - 4pm
-              title: "DIMA DIGITAL MARKET"
-              location: Business Meetings & Round Tables<br/>Kongresshalle Giessen<br/>with registration only
-              size: 4
-            - time: 3pm
-              title: SCREENING BLOCK 8
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 4:30pm
-              title: SCREENING BLOCK 9
-              location: Kinocenter Giessen<br/>buy tickets on site & online
-              size: 3
-            - time: 6pm - 8pm
-              title: RED CARPET
-              location: City Hall | by invitation only
-              size: 3
-            - time: 8pm - 10pm
-              title: 11th AWARD CEREMONY OF DIE SERIALE
-              location: City Hall<br/>by invitation only
-              size: 3
-            - time: 10pm - open end
-              title: Aftershow
-              location: Stadtcafe<br/>by invitation only
-              size: 3
-  - partial: tabs
-    data:
-      background: /img/be-part-of-it-bg.jpg
-      headline: be part of it
-      intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
-      tabs:
-        - title: get tickets
-          partial: tab-text
-          data:
-            headline: get your tickets
-            text: ' <p> Festival Pass: 55,- €<br/><br/> The Festival Pass includes tickets to all movie theater screenings at Kinocenter Giessen and is available at all Festival locations. </p> <p> Single tickets are only available at Kinocenter Giessen or online:<br/><br/> <a class="button" href="https://www.kinopolis.de/gi/filmdetail/die-seriale-2025/2F174000012PLXMQDD">buy tickets</a> </p> '
-        # - title: submit series
-        #   partial: tab-text
-        #   data:
-        #     headline: Submissions for 2025 are open
-        - title: submit series
-          partial: tab-text
-          data:
-            headline: Submissions for 2025 are closed
-            text: ""
-            # text: '<a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
-        # - title: in person & digital event
-        #   partial: tab-text
-        #   data:
-        #     headline: die seriale 2022 takes place as a digital live hybrid event
-        #     text: "<p>die seriale 2022 takes place as a digital live hybrid event</p><p>The festival event in Giessen will take place from June 8 - 13, 2022. The digital event will take place online from June 14 - 19, 2022.</p><ul><li>all series & pilots will be presented in the movie theater, open air & video on demand</li><li>educational keynotes & panel discussions</li><li>seriale pro conference & networking events</li><li>dima digital market online</li><li>pitch contest</li><li>red carpet event with creator interviews</li><li>the award ceremony will take place June 12, 8pm (CEST) in Giessen</li></ul>"
-        - title: subscribe
-          partial: tab-newsletter
-          data:
-            headline: follow us on social media
-            text: "or join our newsletter to get updates:"
+  # - partial: time-table
+  #   headline: schedule 2025
+  #   data:
+  #     days:
+  #       - title: June 11th
+  #         blocks:
+  #           - time: 5pm
+  #             title: SCREENING BLOCK 1
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 4
+  #       - title: June 12th
+  #         blocks:
+  #           - time: 7pm - 9:30pm
+  #             title: FOCUS HESSEN
+  #             location: Reception, Networking, Opening & Panel Discussion<br/>Lottehof, Wetzlar<br/>free entry
+  #             size: 4
+  #           - time: 9:30pm
+  #             title: Open Air Screening
+  #             location: "Screening Block 2<br/>Lottehof, Wetzlar<br/>free entry"
+  #             size: 4
+  #       - title: June 13th
+  #         blocks:
+  #           - time: 10am - 3:30pm
+  #             title: EDUCATIONAL
+  #             location: Conference Program<br/>Stadttheater Giessen, Kleines Haus<br/>free entry
+  #             size: 4
+  #           - time: 3:30pm - 5:30pm
+  #             title: Film & Media MeetUp Live!
+  #             location: "Stadttheater Giessen, Kleines Haus<br/>free entry<br/><a href='https://www.eventbrite.com/e/film-media-meetup-die-seriale-educational-2025-tickets-1356254757489'>Signup for Speedmeetings</a>"
+  #             size: 4
+  #           - time: 6pm
+  #             title: OPENING & PREMIERES | with Q&A
+  #             location: Screening Block 3<br/>Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 4
+  #           - time: 8:30pm
+  #             title: SCREENING BLOCK 4 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 9:45pm
+  #             title: SCREENING BLOCK 5 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 11:15 - 2am
+  #             title: Networking Night
+  #             location: Stadttheater Giessen, Foyer<br/>with festival pass only
+  #             size: 3
+  # - partial: time-table
+  #   data:
+  #     days:
+  #       - title: June 14th
+  #         blocks:
+  #           - time: 10am - 2:30pm
+  #             location: Conference Program<br/>Stadttheater Giessen, Kleines Haus<br/> free entry
+  #             title: SERIALE PRO
+  #             size: 4
+  #           - time: 3pm - 6pm
+  #             title: Pitch Contest
+  #             location: Stadttheater Giessen, Kleines Haus<br/> free entry, with registration
+  #             size: 3
+  #           - time: 6:30pm
+  #             title: Screening Block 6 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 8:30pm
+  #             title: Screening Block 7 | with Q&A
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 10:30pm
+  #             title: Networking Night
+  #             location: Mr. Jones<br/>with festival pass only
+  #             size: 3
+  #       - title: June 15th
+  #         blocks:
+  #           - time: 10am - 4pm
+  #             title: "DIMA DIGITAL MARKET"
+  #             location: Business Meetings & Round Tables<br/>Kongresshalle Giessen<br/>with registration only
+  #             size: 4
+  #           - time: 3pm
+  #             title: SCREENING BLOCK 8
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 4:30pm
+  #             title: SCREENING BLOCK 9
+  #             location: Kinocenter Giessen<br/>buy tickets on site & online
+  #             size: 3
+  #           - time: 6pm - 8pm
+  #             title: RED CARPET
+  #             location: City Hall | by invitation only
+  #             size: 3
+  #           - time: 8pm - 10pm
+  #             title: 11th AWARD CEREMONY OF DIE SERIALE
+  #             location: City Hall<br/>by invitation only
+  #             size: 3
+  #           - time: 10pm - open end
+  #             title: Aftershow
+  #             location: Stadtcafe<br/>by invitation only
+  #             size: 3
+  # - partial: tabs
+  #   data:
+  #     background: /img/be-part-of-it-bg.jpg
+  #     headline: be part of it
+  #     intro: Join the oldest festival in Germany, dedicated to present and celebrate short form digital series. Our goal is to connect, support and pay tribute to all talented creators from around the world and to advertise their wonderful work.
+  #     tabs:
+  #       - title: get tickets
+  #         partial: tab-text
+  #         data:
+  #           headline: get your tickets
+  #           text: ' <p> Festival Pass: 55,- €<br/><br/> The Festival Pass includes tickets to all movie theater screenings at Kinocenter Giessen and is available at all Festival locations. </p> <p> Single tickets are only available at Kinocenter Giessen or online:<br/><br/> <a class="button" href="https://www.kinopolis.de/gi/filmdetail/die-seriale-2025/2F174000012PLXMQDD">buy tickets</a> </p> '
+  #       # - title: submit series
+  #       #   partial: tab-text
+  #       #   data:
+  #       #     headline: Submissions for 2025 are open
+  #       - title: submit series
+  #         partial: tab-text
+  #         data:
+  #           headline: Submissions for 2025 are closed
+  #           text: ""
+  #           # text: '<a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
+  #       # - title: in person & digital event
+  #       #   partial: tab-text
+  #       #   data:
+  #       #     headline: die seriale 2022 takes place as a digital live hybrid event
+  #       #     text: "<p>die seriale 2022 takes place as a digital live hybrid event</p><p>The festival event in Giessen will take place from June 8 - 13, 2022. The digital event will take place online from June 14 - 19, 2022.</p><ul><li>all series & pilots will be presented in the movie theater, open air & video on demand</li><li>educational keynotes & panel discussions</li><li>seriale pro conference & networking events</li><li>dima digital market online</li><li>pitch contest</li><li>red carpet event with creator interviews</li><li>the award ceremony will take place June 12, 8pm (CEST) in Giessen</li></ul>"
+  #       - title: subscribe
+  #         partial: tab-newsletter
+  #         data:
+  #           headline: follow us on social media
+  #           text: "or join our newsletter to get updates:"
   - partial: blog-previews
   # - partial: thumb-grid
   #   headline: official selection series 2021

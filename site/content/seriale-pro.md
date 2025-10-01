@@ -1,5 +1,5 @@
 ---
-title: 11th International Series Festival Giessen
+title: 12th International Series Festival Giessen
 sections:
   - partial: stage
     widesection: true
