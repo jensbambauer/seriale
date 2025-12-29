@@ -15,6 +15,10 @@ sections:
     data:
       videosource: /videos/digital-loop.mp4
       slides:
+        - headline: online screenings 2025
+          button:
+            text: view now
+            href: https://dieseriale.sparqfest.live/en/_events/screening_block/2025.00/dies-seriale-2025.html
         - headline: nominees & winners 2025
           button:
             text: view now
