@@ -1,24 +1,21 @@
-import jQuery from "jquery";
-import {TimelineLite, Power4, Power0, TweenLite} from "gsap";
 /**
- *
- * @author
- * @description
- *
+ * Twitch embed component
  */
+const twitch = function () {
+  const twitchEmbed = document.getElementById("twitch-embed");
 
-/*jslint browser: true*/
+  if (twitchEmbed) {
+    twitchEmbed.innerHTML = "";
 
-const twitch = function() {
-  if ($("#twitch-embed").length > 0) {
-    $("#twitch-embed").empty();
-    new Twitch.Embed("twitch-embed", {
-      width: 1440,
-      height: 620,
-      channel: "dieSeriale",
-      // only needed if your site is also embedded on embed.example.com and othersite.example.com
-      parent: ["die-seriale.de", "www.die-seriale.de"]
-    });
+    // Twitch embed is loaded via external script
+    if (typeof Twitch !== "undefined") {
+      new Twitch.Embed("twitch-embed", {
+        width: 1440,
+        height: 620,
+        channel: "dieSeriale",
+        parent: ["die-seriale.de", "www.die-seriale.de"],
+      });
+    }
 
     document.body.classList.add("live");
   }

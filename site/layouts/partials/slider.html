@@ -1,11 +1,9 @@
-{{ with.data }}
+{{ with .data }}
 <div class="swiper-container">
   <div class="swiper-wrapper">
-    {{ range.slides }}
+    {{ range .slides }}
     <div class="swiper-slide">
-      <img data-src="{{ .image }}" class="swiper-lazy" />
-      <!-- Preloader image -->
-      <div class="swiper-lazy-preloader swiper-lazy-preloader"></div>
+      <img src="{{ .image }}" loading="lazy" alt="" />
     </div>
     {{ end }}
   </div>

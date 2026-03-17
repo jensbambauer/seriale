@@ -506,6 +506,9 @@ button.swiper-pagination-bullet {
 
   img {
     width: 100%;
+    height: auto;
+    max-height: 576px;
+    object-fit: contain;
   }
 }
 
@@ -516,6 +519,14 @@ button.swiper-pagination-bullet {
   transform: translateX(-50%) translateY(-50%);
   z-index: 2;
   cursor: pointer;
+  width: auto;
+  height: auto;
+  margin-top: 0;
+
+  /* Override Swiper's default arrow icon */
+  &::after {
+    display: none;
+  }
 
   @media(--medium-viewport) {
     transform: translateY(-50%);

@@ -1,5 +1,14 @@
 h2 {
-  @apply --font-style-large-slab;
+  font-family: "Roboto Slab";
+  font-weight: 700;
+  font-size: 48px;
+
+  @media(--large-viewport) {
+    font-size: 40px;
+  }
+  @media(--small-viewport) {
+    font-size: 32px;
+  }
 }
 h2.no-icon {
   margin-top: 40px;
@@ -15,11 +24,25 @@ h3 {
   font-weight: 700;
   font-size: 100px;
   color: var(--mainColor);
-  @apply --font-style-very-large;
+
+  @media(--large-viewport) {
+    font-size: 80px;
+  }
+  @media(--medium-viewport) {
+    font-size: 50px;
+  }
 }
 
 h4 {
-    @apply --font-style-medium;
+    font-size: 24px;
+    font-weight: 700;
     color: black;
     margin-bottom: 32px;
+
+    @media(--large-viewport) {
+      font-size: 20px;
+    }
+    @media(--small-viewport) {
+      font-size: 18px;
+    }
 }

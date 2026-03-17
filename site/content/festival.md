@@ -34,7 +34,7 @@ sections:
     data:
       headline: About
       paragraphs:
-        - text: "&quot;die Seriale&quot; is the oldest festival in Germany for independent and digital series. The festival is dedicated to audience, creators, students and all series fans. The Official Selection with around 50 series and pilots from 21 countries is presented in the movie theater and open air. The supporting program offers a conference with lectures, keynotes and panel discussions."
+        - text: "&quot;die Seriale&quot; is the oldest festival in Germany for independent and digital series. The festival is dedicated to audience, creators, students and all series fans. The Official Selection with 50 series and pilots from 19 countries is presented in the movie theater and open air. The supporting program offers a conference with lectures, keynotes, panel discussions and workshops."
   # - partial: thumb-grid
   #   headline: official selection 2025
   #   data:

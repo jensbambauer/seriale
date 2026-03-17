@@ -1,29 +1,31 @@
-import {TweenLite, TimelineLite} from "gsap";
-
+import { gsap } from "gsap";
 
 export default function stickyHeader(scrollbar) {
   const el = document.querySelector(".nav");
-  const tl = new TimelineLite();
+  if (!el) return;
 
-  tl.fromTo(el.querySelector(".nav__container"), 1, {
-    y: 0
-  }, {
-    y: 58
-  }, "start");
+  const tl = gsap.timeline();
 
-  tl.fromTo(el.querySelector(".logo"), 0.5, {
-    x: 0
-  }, {
-    x: -110
-  }, "start+=0.3");
+  tl.fromTo(
+    el.querySelector(".nav__container"),
+    { y: 0 },
+    { y: 58 },
+    "start"
+  );
 
-  tl.fromTo(el.querySelectorAll(".logo__symbol"), 0.5, {
-    scale: 1,
-    opacity: 1
-  }, {
-    scale: 0.6,
-    opacity: 0
-  }, "start");
+  tl.fromTo(
+    el.querySelector(".logo"),
+    { x: 0 },
+    { x: -110 },
+    "start+=0.3"
+  );
+
+  tl.fromTo(
+    el.querySelectorAll(".logo__symbol"),
+    { scale: 1, opacity: 1 },
+    { scale: 0.6, opacity: 0 },
+    "start"
+  );
 
   tl.pause();
 
@@ -33,11 +35,10 @@ export default function stickyHeader(scrollbar) {
       tl.progress(percentTransition);
     }
 
-    const y = status.offset.y - (135 * Math.min(percentTransition, 1));
+    const y = status.offset.y - 135 * Math.min(percentTransition, 1);
 
-    TweenLite.set(el, {
-      y: window.innerWidth > 1023 ? y : status.offset.y
+    gsap.set(el, {
+      y: window.innerWidth > 1023 ? y : status.offset.y,
     });
-
   });
 }

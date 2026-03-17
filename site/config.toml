@@ -1,6 +1,11 @@
 baseurl = "/"
 languageCode = "en-us"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
     [[menu.main]]
     identifier = "home"
@@ -20,29 +25,29 @@ languageCode = "en-us"
     url        = "/seriale-pro/"
     weight     = 3
 
-    [[menu.main]]
-    identifier = "speaker"
-    name       = "Speaker"
-    url        = "/speaker/"
-    weight     = 4
+    # [[menu.main]]
+    # identifier = "speaker"
+    # name       = "Speaker"
+    # url        = "/speaker/"
+    # weight     = 4
 
-    [[menu.main]]
-    identifier = "jury"
-    name       = "Jury"
-    url        = "/jury/"
-    weight     = 5
-
-    [[menu.main]]
-    identifier = "program"
-    name       = "Program"
-    url        = "/program/"
-    weight     = 6
+    # [[menu.main]]
+    # identifier = "jury"
+    # name       = "Jury"
+    # url        = "/jury/"
+    # weight     = 5
+    #
+    # [[menu.main]]
+    # identifier = "program"
+    # name       = "Program"
+    # url        = "/program/"
+    # weight     = 6
     
-    [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/post/"
-    weight     = 7
+    # [[menu.main]]
+    # identifier = "blog"
+    # name       = "Blog"
+    # url        = "/post/"
+    # weight     = 7
 
     [[menu.main]]
     identifier = "about"

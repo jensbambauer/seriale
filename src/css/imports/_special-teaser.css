@@ -2,7 +2,15 @@
   width: calc(50% - 5px);
   background-color: var(--backgroundGrey);
   margin-right: 10px;
-  @apply --font-style-medium;
+  font-size: 24px;
+  font-weight: 700;
+
+  @media(--large-viewport) {
+    font-size: 20px;
+  }
+  @media(--small-viewport) {
+    font-size: 18px;
+  }
 
   &:last-child {
     margin-right: 0;

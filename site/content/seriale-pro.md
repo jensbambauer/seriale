@@ -18,10 +18,10 @@ sections:
       image: /img/pitch-contest-2023.jpg
       headline: "Pitch Your Project"
       text: "The Pitch Contest offers 12 international series creators a platform to present their projects to an international expert Jury and industry professionals. The talented creators will have the opportunity to pitch their innovative ideas, receiving insightful questions and valuable feedback from the Jury. Join us for a celebration of creativity!"
-  - partial: teaser-grid
-    headline: jury pitch contest
-    data:
-      list: jury-pitch-contest
+  # - partial: teaser-grid
+  #   headline: jury pitch contest
+  #   data:
+  #     list: jury-pitch-contest
   # - partial: teaser-grid
   #   headline: moderators pitch contest
   #   data:
@@ -79,8 +79,8 @@ sections:
         - image: /img/partners/Wirtschaftsministerium.png
         - image: /img/partners/Giessen-WF.png
           link: "https://www.giessen.de/Wirtschaft/index.php?object=tx,2874.1&ModID=9&FID=684.7.1&NavID=1894.12&La=1"
-        - image: /img/partners/DIMA.png 
-          link: "http://dima-market.com" 
+        - image: /img/partners/DIMA.png
+          link: "http://dima-market.com"
   - partial: text-plain
     headline: connect with us
     data:

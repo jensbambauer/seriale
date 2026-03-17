@@ -1,59 +1,64 @@
-import jQuery from "jquery";
 /**
- *
- * @author
- * @description
- *
+ * Newsletter form component
+ * Handles Mailchimp form submissions
  */
+const newsletterForm = function () {
+  const forms = document.querySelectorAll('[data-role="mailchimp-form"]');
 
-/*jslint browser: true*/
+  forms.forEach((form) => {
+    form.addEventListener("submit", onSubmit);
+  });
 
-const newsletterForm = function(newsletterForm, $, undefined) {
-  function NewsletterForm($el) {
+  function onSubmit(e) {
+    e.preventDefault();
 
-    $el.on("submit", onSubmit);
+    const form = e.target;
+    const errorResponse = form.querySelector(".error-response");
+    const emailInput = form.querySelector(".email");
 
-
-    function onSubmit(e) {
-      e.preventDefault();
-
-      var $form = jQuery(this);
-      $form.find(".error-response").text("");
-
-    		jQuery.getJSON($form.attr("action"), {EMAIL: $form.find(".email").val()}).done(function(data) {
-
-    			if (data.result === "error") {
-    				onError($form, data);
-    			} else {
-    				onSuccess($form, data);
-    			}
-
-    		});
+    if (errorResponse) {
+      errorResponse.textContent = "";
     }
 
-    function onError($form, data) {
-      $form.find(".error-response").html(data.msg);
-    }
+    const url = new URL(form.getAttribute("action"));
+    url.searchParams.set("EMAIL", emailInput?.value || "");
 
-    function onSuccess($form, data) {
-
-      $form.parents(".newsletter").find(".form-cols").fadeOut(300, function() {
-        $form.parents(".newsletter").find(".success").text(data.msg).fadeIn(300);
+    fetch(url.toString())
+      .then((response) => response.json())
+      .then((data) => {
+        if (data.result === "error") {
+          onError(form, data);
+        } else {
+          onSuccess(form, data);
+        }
+      })
+      .catch((err) => {
+        console.error("Newsletter subscription error:", err);
       });
-
-    }
-
   }
 
-  var init = function() {
-    jQuery('[data-role="mailchimp-form"]').each(function() {
-      new NewsletterForm(jQuery(this));
-    });
+  function onError(form, data) {
+    const errorResponse = form.querySelector(".error-response");
+    if (errorResponse) {
+      errorResponse.innerHTML = data.msg;
+    }
+  }
 
-  };
+  function onSuccess(form, data) {
+    const newsletter = form.closest(".newsletter");
+    if (!newsletter) return;
 
-  init();
+    const formCols = newsletter.querySelector(".form-cols");
+    const success = newsletter.querySelector(".success");
 
+    if (formCols) {
+      formCols.style.display = "none";
+    }
+    if (success) {
+      success.textContent = data.msg;
+      success.style.display = "block";
+    }
+  }
 };
 
 export default newsletterForm;

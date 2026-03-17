@@ -1,16 +1,33 @@
 /**
- *
- * @author
- * @description
- *
+ * Lazy load component
+ * Note: Consider using native loading="lazy" or IntersectionObserver
  */
+const lazyLoad = function () {
+  const lazyElements = document.querySelectorAll("[data-src]");
 
-/*jslint browser: true*/
+  if ("IntersectionObserver" in window) {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          const el = entry.target;
+          if (el.dataset.src) {
+            el.src = el.dataset.src;
+            delete el.dataset.src;
+          }
+          observer.unobserve(el);
+        }
+      });
+    });
 
-const lazyLoad = function() {
-
-  $("[data-src]").each((index, el) => {
-  });
+    lazyElements.forEach((el) => observer.observe(el));
+  } else {
+    // Fallback for older browsers
+    lazyElements.forEach((el) => {
+      if (el.dataset.src) {
+        el.src = el.dataset.src;
+      }
+    });
+  }
 };
 
 export default lazyLoad;

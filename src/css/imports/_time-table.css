@@ -7,8 +7,16 @@
   }
 
   h3 {
-    @apply --font-style-medium;
+    font-size: 24px;
+    font-weight: 700;
     color: black;
+
+    @media(--large-viewport) {
+      font-size: 20px;
+    }
+    @media(--small-viewport) {
+      font-size: 18px;
+    }
     margin-left: 25px;
     margin-bottom: 40px;
   }

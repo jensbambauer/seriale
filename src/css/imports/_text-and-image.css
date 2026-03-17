@@ -1,6 +1,7 @@
 .text-and-image {
     display: flex;
-    @apply --font-style-flow;
+    line-height: 1.5;
+    color: var(--flowTextColor);
 
     &--reversed &__col-image {
         order: 2;

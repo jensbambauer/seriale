@@ -13,7 +13,7 @@ sections:
   - partial: stage
     widesection: true
     data:
-      videosource: /videos/digital-loop.mp4
+      videosource: /videos/digital-loop-2026.mp4
       slides:
         # - headline: online screenings 2025
         #   button:
@@ -23,11 +23,11 @@ sections:
         #   button:
         #     text: view now
         #     href: /awards-2025
-        - headline: submissions for die seriale 2026 are closed
-        # - headline: official selection 2025
-        #   button:
-        #     text: view now
-        #     href: /official-selection-2025
+        # - headline: submissions for die seriale 2026 are closed
+        - headline: official selection 2026
+          button:
+            text: view now
+            href: /official-selection-2026
 
   # - headline: "save the date: 29th - june 3rd 2024"
   # - headline: Series Screening on Demand
@@ -190,7 +190,7 @@ sections:
   #         data:
   #           headline: follow us on social media
   #           text: "or join our newsletter to get updates:"
-  - partial: blog-previews
+  # - partial: blog-previews
   # - partial: thumb-grid
   #   headline: official selection series 2021
   #   data:
@@ -255,35 +255,34 @@ sections:
     headline: impressions
     data:
       slides:
-        - image: /img/impressions-2019/1.jpg
-        - image: /img/impressions-2019/2.jpg
-        - image: /img/impressions-2019/3.jpg
-        - image: /img/impressions-2019/4.jpg
-        - image: /img/impressions-2019/5.jpg
-        - image: /img/impressions-2019/6.jpg
-        - image: /img/impressions-2019/8.jpg
-        - image: /img/impressions-2019/9.jpg
-        - image: /img/impressions-2019/10.jpg
-        - image: /img/impressions-2019/11.jpg
-        - image: /img/impressions-2019/12.jpg
-        - image: /img/impressions-2019/13.jpg
-        - image: /img/impressions-2019/14.jpg
-        - image: /img/impressions-2019/15.jpg
-        - image: /img/impressions-2019/16.jpg
-        - image: /img/impressions-2019/17.jpg
-        - image: /img/impressions-2019/18.jpg
-        - image: /img/impressions-2019/19.jpg
-        - image: /img/impressions-2019/21.jpg
-        - image: /img/impressions-2019/22.jpg
-        - image: /img/impressions-2019/23.jpg
-        - image: /img/impressions-2019/24.jpg
-        - image: /img/impressions-2019/25.jpg
-        - image: /img/impressions-2019/26.jpg
-        - image: /img/impressions-2019/27.jpg
-        - image: /img/impressions-2019/28.jpg
-        - image: /img/impressions-2019/29.jpg
-        - image: /img/impressions-2019/30.jpg
-        - image: /img/impressions-2019/31.jpg
+        - image: /img/impressions-2026/230619_RP_4997-SERIALE-2023-FullRes.jpg
+        - image: /img/impressions-2026/240602-SERIALE_RP_2407-FullRes.jpg
+        - image: /img/impressions-2026/240602-SERIALE_RP_3811-FullRes.jpg
+        - image: /img/impressions-2026/awards-240602-SERIALE-2024_RP_2675-FullRes.jpg
+        - image: /img/impressions-2026/awards-240602-SERIALE-2024_RP_3524-FullRes.jpg
+        - image: /img/impressions-2026/awards-250615-SERIALE_RP_1460-2048Px.jpg
+        - image: /img/impressions-2026/awards-250615-SERIALE_RP_2083-2048Px.jpg
+        - image: /img/impressions-2026/awards-250615-SERIALE_RP_3506-2048Px.jpg
+        - image: /img/impressions-2026/dima-ds11-giessen-15062025-hofacker-4964.jpg
+        - image: /img/impressions-2026/dima-ds11-giessen-15062025-hofacker-4991.jpg
+        - image: /img/impressions-2026/GRUPPENFOTO-by-Christoforos-Mechanezidis-250613-SERIALE-079-2048Px.jpg
+        - image: /img/impressions-2026/kino-2-250613-SERIALE-073-FullRes.jpg
+        - image: /img/impressions-2026/kino-3-250613-SERIALE-109-FullRes.jpg
+        - image: /img/impressions-2026/kino-ds11-giessen-13062025-hofacker-2070.jpg
+        - image: /img/impressions-2026/kino-ds11-giessen-13062025-hofacker-2085.jpg
+        - image: /img/impressions-2026/meetup-ds11-media-meetup-13062025-0006-Foto-by-Ralf-Hofacker.jpg
+        - image: /img/impressions-2026/panels-ds11-giessen-13062025-hofacker-1488.jpg
+        - image: /img/impressions-2026/panels-ds11-giessen-13062025-hofacker-1574.jpg
+        - image: /img/impressions-2026/panels-ds11-giessen-13062025-hofacker-1707.jpg
+        - image: /img/impressions-2026/pitch-ds11-giessen-14062025-hofacker-3476.jpg
+        - image: /img/impressions-2026/PK-die-Seriale-10-14052024-0003.jpg
+        - image: /img/impressions-2026/Q&A-1-240531-SERIALE-2024_RP_4269-FullRes.jpg
+        - image: /img/impressions-2026/Q&A-5-250613-SERIALE-129-FullRes.jpg
+        - image: /img/impressions-2026/Q&A-ds11-giessen-13062025-hofacker-2165.jpg
+        - image: /img/impressions-2026/red-carpet-2-240602-SERIALE_RP_0527-FullRes.jpg
+        - image: /img/impressions-2026/red-carpet-20250615-SERIALE-Award-Ceremony-025-FullRes.jpg
+        - image: /img/impressions-2026/red-carpet-20250615-SERIALE-Award-Ceremony-132-FullRes.jpg
+        - image: /img/impressions-2026/red-carpet-250615-SERIALE_RP_0854-2048Px.jpg
   - partial: text-plain
     headline: connect with us
     data:

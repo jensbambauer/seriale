@@ -1,47 +1,55 @@
-
-import {TweenLite, Expo, Sine, Circ, Power4, TimelineLite} from "gsap";
+import { gsap } from "gsap";
 
 export default function overlay() {
   const $overlay = $(".overlay-container");
 
+  if (!$overlay.length) return;
+
   $overlay.hide();
 
   const showOverlay = ($content, variant) => {
-    const tl = new TimelineLite();
+    const tl = gsap.timeline();
     const $iframe = $content.find("iframe");
 
     $iframe.wrap('<div class="overlay-video"></div>');
     $overlay.addClass(variant);
-    $overlay.find(".overlay-content")
+    $overlay
+      .find(".overlay-content")
       .empty()
       .append(`<div class="overlay-content__inner">${$content.html()}</div>`);
 
     $overlay.find(".overlay-content__inner img").unwrap();
 
-    TweenLite.set($overlay.find(".overlay-content"), {
-      opacity: 0
+    gsap.set($overlay.find(".overlay-content"), {
+      opacity: 0,
     });
 
-    TweenLite.set($overlay.find(".overlay-content__mask"), {
+    gsap.set($overlay.find(".overlay-content__mask"), {
       scaleY: 0,
     });
 
-    tl.to($overlay.find(".overlay-content__mask"), 0.5, {
+    tl.to($overlay.find(".overlay-content__mask"), {
+      duration: 0.5,
       transformOrigin: "0 0",
       scaleY: 1,
-      ease: Power4.easeInOut
+      ease: "power4.inOut",
     });
 
     tl.set($overlay.find(".overlay-content"), {
-      opacity: 1
+      opacity: 1,
     });
 
-    tl.fromTo($overlay.find(".overlay-content__mask"), 0.5, {
-      transformOrigin: "100% 100%",
-    }, {
-      scaleY: 0,
-      ease: Power4.easeInOut
-    });
+    tl.fromTo(
+      $overlay.find(".overlay-content__mask"),
+      {
+        transformOrigin: "100% 100%",
+      },
+      {
+        duration: 0.5,
+        scaleY: 0,
+        ease: "power4.inOut",
+      }
+    );
 
     tl.pause();
 
@@ -57,33 +65,39 @@ export default function overlay() {
   };
 
   const hideOverlay = () => {
-    const tl = new TimelineLite();
+    const tl = gsap.timeline();
 
-    tl.fromTo($overlay.find(".overlay-content__mask"), 0.4, {
-      transformOrigin: "100% 100%",
-    }, {
-      scaleY: 1,
-      ease: Power4.easeInOut
-    });
+    tl.fromTo(
+      $overlay.find(".overlay-content__mask"),
+      {
+        transformOrigin: "100% 100%",
+      },
+      {
+        duration: 0.4,
+        scaleY: 1,
+        ease: "power4.inOut",
+      }
+    );
 
     tl.set($overlay.find(".overlay-content"), {
-      opacity: 0
+      opacity: 0,
     });
 
-    tl.to($overlay.find(".overlay-content__mask"), 0.4, {
+    tl.to($overlay.find(".overlay-content__mask"), {
+      duration: 0.4,
       transformOrigin: "0 0",
       scaleY: 0,
-      ease: Power4.easeInOut
+      ease: "power4.inOut",
     });
 
-    tl.to($overlay, 0.3, {
+    tl.to($overlay, {
+      duration: 0.3,
       opacity: 0,
       onComplete: () => {
-        $overlay.find(".overlay-content")
-          .empty();
+        $overlay.find(".overlay-content").empty();
         $overlay.hide();
         $overlay.removeClass("overlay-wide");
-      }
+      },
     });
   };
 
@@ -93,15 +107,15 @@ export default function overlay() {
 
   const showLoading = () => {
     $overlay.addClass("loading");
-    const tl = new TimelineLite();
-
-    tl.fromTo($overlay, 0.5, {
-      opacity: 0
-    }, {
-      display: "flex",
-      opacity: 1
-    });
-
+    gsap.fromTo(
+      $overlay,
+      { opacity: 0 },
+      {
+        duration: 0.5,
+        display: "flex",
+        opacity: 1,
+      }
+    );
   };
 
   const handleClick = (e) => {
@@ -111,7 +125,10 @@ export default function overlay() {
     showLoading();
 
     $.get($el.attr("href"), (data) => {
-      showOverlay($(data).find('[data-barba="container"] .container'), $el.data().role);
+      showOverlay(
+        $(data).find('[data-barba="container"] .container'),
+        $el.data().role
+      );
     });
   };
 

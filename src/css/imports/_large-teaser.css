@@ -3,8 +3,16 @@
   width: 100%;
   background: black;
   display: flex;
-  @apply --font-style-medium;
+  font-size: 24px;
+  font-weight: 700;
   color: var(--mainColor);
+
+  @media(--large-viewport) {
+    font-size: 20px;
+  }
+  @media(--small-viewport) {
+    font-size: 18px;
+  }
   justify-content: center;
   align-items: center;
   background-size: cover;

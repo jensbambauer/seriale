@@ -1,33 +1,33 @@
-import jQuery from "jquery";
-import {TimelineLite, Power4, Power0, TweenLite} from "gsap";
+// GSAP v3+ uses different imports
+import { gsap } from "gsap";
+
 /**
- *
- * @author
- * @description
- *
+ * Stage component - handles animated stage/hero sections
  */
-
-/*jslint browser: true*/
-
-const stage = function(el) {
+const stage = function (el) {
   const $el = $(el);
   const duration = 5;
-  const tl = new TimelineLite({
+
+  // Create timeline with GSAP 3 syntax
+  const tl = gsap.timeline({
     onComplete: () => {
       tl.restart();
-    }
+    },
   });
-  const ease = Power4.easeInOut;
+
+  const ease = "power4.inOut";
   let current = 0;
 
-  TweenLite.to($el.find(".stage__slider"), 0.5, {
-    opacity: 1
+  gsap.to($el.find(".stage__slider"), {
+    duration: 0.5,
+    opacity: 1,
   });
 
   const handleClick = (e, index) => {
     tl.pause();
     tl.seek(`end-${index}-=1.8`);
   };
+
   $el.on("mouseleave", () => {
     tl.play();
   });
@@ -36,15 +36,24 @@ const stage = function(el) {
     el.parentNode.addEventListener("click", (e) => {
       handleClick(e, index);
     });
+
     tl.add(() => {
       current = index;
     });
-    tl.fromTo(el, duration, {
-      xPercent: "-105",
-      ease: Power0.easeNone
-    }, {
-      xPercent: "0",
-    }, index === 0 ? "start" : "-=0.5");
+
+    tl.fromTo(
+      el,
+      {
+        xPercent: -105,
+        ease: "none",
+      },
+      {
+        duration: duration,
+        xPercent: 0,
+      },
+      index === 0 ? "start" : "-=0.5"
+    );
+
     $el.find(".stage__slider__slide").each((slideIndex, slide) => {
       const svg = slide.querySelector("svg");
       const headline = slide.querySelector(".stage__slider__slide__text");
@@ -52,68 +61,105 @@ const stage = function(el) {
 
       if (slideIndex === index) {
         if (button) {
-          tl.to(button, 0.5, {
+          tl.to(button, {
+            duration: 0.5,
             y: 100,
             opacity: 0,
             zIndex: 1,
-            ease
+            ease,
           });
         }
-        tl.to(headline, 0.5, {
-          y: 100,
-          opacity: 0,
-          zIndex: 1,
-          ease
-        }, "-=0.1");
-        tl.to(svg, 0.5, {
-          y: 100,
-          opacity: 0,
-          zIndex: 1,
-          ease
-        }, "-=0.3");
+        tl.to(
+          headline,
+          {
+            duration: 0.5,
+            y: 100,
+            opacity: 0,
+            zIndex: 1,
+            ease,
+          },
+          "-=0.1"
+        );
+        tl.to(
+          svg,
+          {
+            duration: 0.5,
+            y: 100,
+            opacity: 0,
+            zIndex: 1,
+            ease,
+          },
+          "-=0.3"
+        );
       }
-      if ((slideIndex === index + 1) || slideIndex === 0) {
-        tl.fromTo(svg, 0.5, {
-          y: -100,
-          opacity: 0,
-          ease
-        }, {
-          zIndex: 2,
-          y: 0,
-          opacity: 1
-        }, slideIndex === 0 ? "start" : null);
-        tl.fromTo(headline, 0.5, {
-          y: -100,
-          opacity: 0,
-          ease
-        }, {
-          zIndex: 2,
-          y: 0,
-          opacity: 1
-        }, slideIndex === 0 ? "start" : "-=0.4");
-        if (button) {
-          tl.fromTo(button, 0.5, {
+
+      if (slideIndex === index + 1 || slideIndex === 0) {
+        tl.fromTo(
+          svg,
+          {
             y: -100,
             opacity: 0,
-            ease
-          }, {
+          },
+          {
+            duration: 0.5,
             zIndex: 2,
             y: 0,
-            opacity: 1
-          }, slideIndex === 0 ? "start" : "-=0.8");
+            opacity: 1,
+            ease,
+          },
+          slideIndex === 0 ? "start" : null
+        );
+
+        tl.fromTo(
+          headline,
+          {
+            y: -100,
+            opacity: 0,
+          },
+          {
+            duration: 0.5,
+            zIndex: 2,
+            y: 0,
+            opacity: 1,
+            ease,
+          },
+          slideIndex === 0 ? "start" : "-=0.4"
+        );
+
+        if (button) {
+          tl.fromTo(
+            button,
+            {
+              y: -100,
+              opacity: 0,
+            },
+            {
+              duration: 0.5,
+              zIndex: 2,
+              y: 0,
+              opacity: 1,
+              ease,
+            },
+            slideIndex === 0 ? "start" : "-=0.8"
+          );
         }
       }
     });
+
     tl.addLabel(`end-${index}`);
   });
+
   $el.find(".stage__timeline li span").each((index, el) => {
-    tl.to(el, 0.2, {
-      transform: "translateY(100%)",
-      ease
-    }, "end");
-
+    tl.to(
+      el,
+      {
+        duration: 0.2,
+        transform: "translateY(100%)",
+        ease,
+      },
+      "end"
+    );
   });
-
 };
 
 export default stage;

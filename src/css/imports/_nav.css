@@ -31,7 +31,15 @@
   .logo {
     display: flex;
     align-items: center;
-    @apply --font-style-medium;
+    font-size: 24px;
+    font-weight: 700;
+
+    @media(--large-viewport) {
+      font-size: 20px;
+    }
+    @media(--small-viewport) {
+      font-size: 18px;
+    }
 
     img {
       margin-right: 15px;

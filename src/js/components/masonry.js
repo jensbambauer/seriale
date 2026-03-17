@@ -1,21 +1,15 @@
-import jQuery from "jquery";
 import Masonry from "masonry-layout";
+
 /**
- *
- * @author
- * @description
- *
+ * Masonry grid component
  */
+const masonryGrid = function () {
+  const grids = document.querySelectorAll('[data-role="masonry"]');
 
-/*jslint browser: true*/
-
-const masonryGrid = function() {
-
-  $('[data-role="masonry"]').each((index, el) => {
-    console.log(el);
-    const msnry = new Masonry(el, {
+  grids.forEach((el) => {
+    new Masonry(el, {
       itemSelector: ".list-columns__item",
-      columnWidth: ".list-columns__item"
+      columnWidth: ".list-columns__item",
     });
   });
 };

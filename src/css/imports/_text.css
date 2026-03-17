@@ -1,5 +1,6 @@
 .text {
-  @apply --font-style-flow;
+  line-height: 1.5;
+  color: var(--flowTextColor);
 
   &--background {
     background: var(--mainColor);

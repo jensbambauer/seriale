@@ -81,8 +81,24 @@
       top: 0;
 
       &__text {
-        @apply --font-style-very-large-slab;
+        font-family: "Roboto Slab";
+        font-weight: 700;
+        font-size: 128px;
         text-transform: lowercase;
+
+        @media(--large-viewport) {
+          font-size: 100px;
+        }
+        @media(--medium-viewport) {
+          font-size: 80px;
+        }
+        @media(--small-viewport) {
+          font-size: 56px;
+        }
+        @media(--very-small-viewport) {
+          font-size: 36px;
+        }
+
         transform-origin: 0 0;
         width: 200%;
         padding-left: 100%;
