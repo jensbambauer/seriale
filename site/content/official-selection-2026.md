@@ -6,7 +6,7 @@ sections:
     data:
       headline: series
       list:
-        - title: "2 Aliens - Fish Out Of Water" 
+        - title: "2 Aliens"
           origin: Germany
         - title: "AYER'S CLIFF"
           origin: Canada
@@ -19,7 +19,7 @@ sections:
         - title: Desa Timun
           origin: Indonesia
         - title: "División Palermo (Season 1 & 2)"
-          origin: Argentina  
+          origin: Argentina
         - title: Exile
           origin: Brazil
         - title: Eyes In The Woods
