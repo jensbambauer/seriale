@@ -80,7 +80,7 @@ sections:
           origin: South Korea
         - title: The Lost Boys Club
           origin: Indonesia
-        - title: "The Struggle for Existence (Season 2)"
+        - title: "The Struggle for Existence <br/> (Season 2)"
           origin: Denmark
         - title: The Sun is for Everyone
           origin: Brazil

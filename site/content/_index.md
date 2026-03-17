@@ -255,12 +255,12 @@ sections:
     headline: impressions
     data:
       slides:
-        - image: /img/impressions-2026/230619_RP_4997-SERIALE-2023-FullRes.jpg
+        - image: /img/impressions-2026/awards-250615-SERIALE_RP_1460-2048Px.jpg
+        - image: /img/impressions-2026/awards-240602-SERIALE-2024_RP_3524-FullRes.jpg
         - image: /img/impressions-2026/240602-SERIALE_RP_2407-FullRes.jpg
         - image: /img/impressions-2026/240602-SERIALE_RP_3811-FullRes.jpg
         - image: /img/impressions-2026/awards-240602-SERIALE-2024_RP_2675-FullRes.jpg
-        - image: /img/impressions-2026/awards-240602-SERIALE-2024_RP_3524-FullRes.jpg
-        - image: /img/impressions-2026/awards-250615-SERIALE_RP_1460-2048Px.jpg
+        - image: /img/impressions-2026/230619_RP_4997-SERIALE-2023-FullRes.jpg
         - image: /img/impressions-2026/awards-250615-SERIALE_RP_2083-2048Px.jpg
         - image: /img/impressions-2026/awards-250615-SERIALE_RP_3506-2048Px.jpg
         - image: /img/impressions-2026/dima-ds11-giessen-15062025-hofacker-4964.jpg
