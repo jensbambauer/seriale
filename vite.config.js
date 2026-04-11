@@ -1,5 +1,6 @@
 import { defineConfig } from "vite";
 import { resolve } from "path";
+import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   root: ".",
@@ -10,7 +11,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         app: resolve(__dirname, "src/js/app.js"),
-        // cms: resolve(__dirname, "src/js/cms.jsx"), // Disabled - CMS not needed currently
+        cms: resolve(__dirname, "src/js/cms.jsx"),
       },
       output: {
         entryFileNames: "[name].js",
@@ -25,12 +26,13 @@ export default defineConfig({
       },
     },
   },
-  // plugins: [react()], // Disabled - only needed for CMS
+  plugins: [react()],
   css: {
     postcss: "./postcss.config.js",
   },
   server: {
     port: 5173,
+    strictPort: true,
     cors: true,
   },
 });
