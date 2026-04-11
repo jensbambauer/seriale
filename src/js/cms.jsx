@@ -23,6 +23,31 @@ const juryFields = [
   { label: "Bio", name: "body", widget: "markdown" },
 ];
 
+// Jury categories for filtering
+const juryCategories = [
+  { label: "Short Form Series", value: "series" },
+  { label: "Long Form Series", value: "long-form-series" },
+  { label: "Animation", value: "animation" },
+  { label: "Documentary", value: "documentary" },
+  { label: "Pilots", value: "pilots" },
+  { label: "Pitch Contest", value: "pitch-contest" },
+];
+
+// Jury fields with category (for 2026+)
+const juryFieldsWithCategory = [
+  { label: "Name", name: "title", widget: "string" },
+  { label: "Image", name: "image", widget: "image", required: false },
+  { 
+    label: "Jury Category", 
+    name: "category", 
+    widget: "select",
+    options: juryCategories,
+    hint: "Which jury is this person part of?"
+  },
+  { label: "Short Description", name: "shortdescription", widget: "string", required: false },
+  { label: "Bio", name: "body", widget: "markdown" },
+];
+
 const speakerFields = [
   { label: "Name", name: "title", widget: "string" },
   { label: "Image", name: "image", widget: "image", required: false },
@@ -86,6 +111,12 @@ const seriesFields = [
   { label: "Image", name: "image", widget: "image", required: false },
   { label: "Trailer", name: "trailer", widget: "string", required: false, hint: "YouTube or Vimeo URL, e.g. https://www.youtube.com/watch?v=XXXXX or https://vimeo.com/123456" },
   { label: "Origin (Country)", name: "origin", widget: "string", required: false, hint: "e.g. Germany, France" },
+  { label: "Genre", name: "genre", widget: "string", required: false },
+  { label: "Creators", name: "creators", widget: "string", required: false },
+  { label: "Directors", name: "directors", widget: "string", required: false },
+  { label: "Writers", name: "writers", widget: "string", required: false },
+  { label: "Producers", name: "producers", widget: "string", required: false },
+  { label: "Cast", name: "cast", widget: "string", required: false },
   nominationsField,
   { label: "Body", name: "body", widget: "markdown" },
 ];
@@ -259,12 +290,15 @@ CMS.init({
           },
         ],
       },
-      createJuryCollection(2026, "animation", "Animation"),
-      createJuryCollection(2026, "documentary", "Documentary"),
-      createJuryCollection(2026, "long-form-series", "Long Form Series"),
-      createJuryCollection(2026, "pilots", "Pilots"),
-      createJuryCollection(2026, "pitch-contest", "Pitch Contest"),
-      createJuryCollection(2026, "series", "Short Form Series"),
+      // Jury 2026 - single collection with category field
+      {
+        name: "jury2026",
+        label: "2026 / Jury",
+        folder: "site/content/jury-2026",
+        create: true,
+        slug: "{{slug}}",
+        fields: juryFieldsWithCategory,
+      },
       createPilotCollection(2026),
       createSeriesCollection(2026),
       createSpeakerCollection(2026),
