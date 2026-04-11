@@ -1,6 +1,12 @@
 ---
 title: BASTARD2. BAD COMPANY (World Festival Premiere)
 image: /img/series/bastard2.jpg
+origin: Germany
+nominations:
+  - category: best-cinematography
+    credit: Laura Köhler, Marco Eisenbarth
+  - category: best-documentary
+    winner: true
 ---
 
 ## BASTARD2. BAD COMPANY (World Festival Premiere)

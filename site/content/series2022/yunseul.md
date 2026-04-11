@@ -1,6 +1,12 @@
 ---
 title: Yunseul (World Premiere)
 image: /img/series/yunseul.jpg
+origin: South Korea
+nominations:
+  - category: best-cinematography
+    credit: Ho Yeon Joo
+  - category: best-costume-design
+    winner: true
 ---
 
 ## Yunseul (World Premiere)

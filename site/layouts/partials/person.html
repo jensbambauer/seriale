@@ -1,0 +1,16 @@
+{{/* Person layout - used for speakers and jury members */}}
+<div class="person">
+  {{ with .Params.image }}
+  <img src="{{ . }}" alt="{{ $.Title }}" class="person__image">
+  {{ end }}
+  
+  <h2 class="person__name">{{ .Title }}</h2>
+  
+  {{ with .Params.shortdescription }}
+  <p class="person__description">{{ . }}</p>
+  {{ end }}
+  
+  <div class="person__bio">
+    {{ .Content }}
+  </div>
+</div>

@@ -1,7 +1,10 @@
 ---
 title: GinGin~PomPom~PomPommes
 image: /img/series/ginginpompompompommes.jpg
-
+origin: Germany
+nominations:
+  - category: best-idea
+---
 ---
 
 

@@ -1,0 +1,62 @@
+{{/* Archive Year Partial - displays awards, jury, and speakers for a given year */}}
+{{ $year := .data.year }}
+{{ $Page := .Page }}
+
+<div class="archive-year">
+  <h2 class="archive-year__title">{{ $year }}</h2>
+
+  {{/* === AWARDS & NOMINEES === */}}
+  <div class="archive-year__section">
+    <h3>Awards & Nominees</h3>
+    {{ $awards := $Page.Site.GetPage (printf "/awards-%s" $year) }}
+    {{ with $awards }}
+      {{/* Render the sections from the awards page */}}
+      {{ range .Params.sections }}
+        {{ partial "section" (dict "headline" .headline "partial" .partial "data" .data "Page" $Page "widesection" .widesection "smallmargin" .smallmargin) }}
+      {{ end }}
+    {{ else }}
+      <p><em>No awards data available for {{ $year }}</em></p>
+    {{ end }}
+  </div>
+
+  {{/* === JURY === */}}
+  <div class="archive-year__section">
+    <h3>Jury</h3>
+    {{ $juryBase := printf "jury-%s" $year }}
+    {{ $jurySection := $Page.Site.GetPage "section" $juryBase }}
+    {{ with $jurySection }}
+      {{ range .Sections }}
+        {{ $categoryName := replace .Title "jury-" "" }}
+        <h4>{{ $categoryName | title }}</h4>
+        <ul class="archive-year__list">
+          {{ range .Pages }}
+          <li>
+            <strong>{{ .Title }}</strong>
+            {{ with .Params.shortdescription }} - {{ . }}{{ end }}
+          </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    {{ else }}
+      <p><em>No jury data available for {{ $year }}</em></p>
+    {{ end }}
+  </div>
+
+  {{/* === SPEAKERS === */}}
+  <div class="archive-year__section">
+    <h3>Speakers</h3>
+    {{ $speakersSection := $Page.Site.GetPage "section" (printf "speakers%s" $year) }}
+    {{ with $speakersSection }}
+      <ul class="archive-year__list">
+        {{ range .Pages }}
+        <li>
+          <strong>{{ .Title }}</strong>
+          {{ with .Params.shortdescription }} - {{ . }}{{ end }}
+        </li>
+        {{ end }}
+      </ul>
+    {{ else }}
+      <p><em>No speakers data available for {{ $year }}</em></p>
+    {{ end }}
+  </div>
+</div>

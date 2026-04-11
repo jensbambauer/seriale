@@ -1,6 +1,9 @@
 ---
 title: Lucidity
 image: /img/series/lucidity.jpg
+origin: United States
+nominations:
+  - category: best-animation-puppetry
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eE7kiEQKLAE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

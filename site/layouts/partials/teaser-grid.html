@@ -4,7 +4,19 @@
   <h4>{{ . }}</h4>
   {{ end }}
   <ul class="teaser-grid__list">
-    {{ range where $.Page.Site.Pages "Section" .list }} {{ if .Params.Image }}
+    {{/* Support both simple sections (e.g. "speakers2026") and paths (e.g. "jury-2026/jury-series") */}}
+    {{ $pages := slice }}
+    {{ if strings.Contains .list "/" }}
+      {{/* Path-based: get pages from a specific subsection */}}
+      {{ $section := $.Page.Site.GetPage "section" .list }}
+      {{ with $section }}
+        {{ $pages = .Pages }}
+      {{ end }}
+    {{ else }}
+      {{/* Simple section name */}}
+      {{ $pages = where $.Page.Site.Pages "Section" .list }}
+    {{ end }}
+    {{ range $pages }} {{ if .Params.Image }}
     <li class="teaser-grid__list__item">
       <a href="{{ .Permalink }}" data-role="overlay-wide" data-barba-prevent>
         <picture>
@@ -13,7 +25,7 @@
             sizes="1px"
             srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w"
           />
-          <source media="(min-width: 768px)" srcset="{{ .Params.Image }}" />
+          <source media="(min-width: 768px)" srcset="{{ .Params.Image | safeURL }}" />
           <img src="{{ .Params.Image }}" alt="{{.Title}}" />
         </picture>
 

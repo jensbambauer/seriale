@@ -1,6 +1,12 @@
 ---
 title: Discontent (European Premiere)
 image: /img/series/discontent.jpg
+origin: Australia
+nominations:
+  - category: best-screenplay
+    credit: Kathleen Lee, Sam Rogers
+  - category: best-actress
+    credit: Kathleen Lee
 ---
 
 ## Discontent (European Premiere)

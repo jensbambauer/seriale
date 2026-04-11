@@ -1,6 +1,11 @@
 ---
 title: The Photographer (German Premiere)
 image: /img/series/the-photographer.jpg
+origin: Israel
+nominations:
+  - category: best-leading-performance
+    credit: Eynat Baranovsky
+  - category: best-idea
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/739379853" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

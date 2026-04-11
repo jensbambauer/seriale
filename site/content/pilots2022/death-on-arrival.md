@@ -1,6 +1,9 @@
 ---
 title: Death on Arrival (World Premiere)
 image: /img/series/death-on-arrival.jpg
+origin: Argentina
+nominations:
+  - category: best-pilot
 ---
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/509212268?h=49d533d40d" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

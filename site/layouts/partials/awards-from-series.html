@@ -1,0 +1,100 @@
+{{/* 
+  awards-from-series.html
+  
+  Reads nominations from series and pilots content files and groups them by category.
+  
+  Parameters (passed via .data):
+    - year: The year to look up (e.g., "2025")
+    - categories: List of category slugs to display in order
+    
+  Each series/pilot file should have nominations in frontmatter:
+    nominations:
+      - category: best-series
+        winner: true
+      - category: best-directing
+        credit: Director Name
+*/}}
+
+{{ $year := .data.year | default "2025" }}
+{{ $categories := .data.categories }}
+
+{{/* Define category display names */}}
+{{ $categoryNames := dict 
+    "best-series" "best series"
+    "best-directing" "best directing"
+    "best-screenplay" "best screenplay"
+    "best-idea" "best idea"
+    "best-leading-performance" "best leading performance"
+    "best-supporting-performance" "best supporting performance"
+    "best-cinematography" "best cinematography"
+    "best-editing" "best editing"
+    "best-original-score" "best original score"
+    "best-production-design" "best production design"
+    "best-costume-design" "best costume design"
+    "best-ensemble-cast" "best ensemble cast"
+    "best-pilot" "best pilot"
+    "best-long-form-series" "best long form series"
+    "best-documentary" "best documentary"
+    "best-animation" "best animation"
+    "best-pitch" "best pitch"
+}}
+
+{{/* Collect all pages from series and pilots for this year */}}
+{{ $seriesSection := printf "series%s" $year }}
+{{ $pilotsSection := printf "pilots%s" $year }}
+
+{{ $allPages := slice }}
+{{ with site.GetPage $seriesSection }}
+    {{ $allPages = $allPages | append .Pages }}
+{{ end }}
+{{ with site.GetPage $pilotsSection }}
+    {{ $allPages = $allPages | append .Pages }}
+{{ end }}
+
+{{/* Build a map of category -> list of nominees */}}
+{{ $nominationsByCategory := dict }}
+
+{{ range $allPages }}
+    {{ $page := . }}
+    {{ $title := .Title }}
+    {{ range .Params.nominations }}
+        {{ $cat := .category }}
+        {{ $credit := .credit | default "" }}
+        {{ $winner := .winner | default false }}
+        
+        {{/* Get existing list for this category or create empty slice */}}
+        {{ $existingList := index $nominationsByCategory $cat | default slice }}
+        
+        {{/* Create nominee entry */}}
+        {{ $nominee := dict "title" $title "origin" $credit "highlight" $winner }}
+        
+        {{/* Append to list */}}
+        {{ $existingList = $existingList | append $nominee }}
+        {{ $nominationsByCategory = merge $nominationsByCategory (dict $cat $existingList) }}
+    {{ end }}
+{{ end }}
+
+{{/* Output the nominations grouped by category */}}
+<div class="list-columns" data-role="masonry">
+    {{ range $categories }}
+        {{ $cat := . }}
+        {{ $nominees := index $nominationsByCategory $cat }}
+        {{ if $nominees }}
+        <div class="list-columns__item">
+            <h4>{{ index $categoryNames $cat | default $cat }}</h4>
+            <ul class="list-columns__list">
+                {{ range $nominees }}
+                <li class="list-grid__list__item {{ if .highlight }}list-columns__item--highlight{{ end }}">
+                    {{ with .title }}
+                        <span>{{ . | safeHTML }}</span>
+                    {{ end }}
+                    {{ with .origin }}
+                        <em>{{ . | safeHTML }}</em>
+                    {{ end }}
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+    {{ end }}
+</div>

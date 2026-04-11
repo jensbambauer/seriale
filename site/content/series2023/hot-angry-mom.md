@@ -1,6 +1,13 @@
 ---
 title: HOT ANGRY MOM (International Premiere)
 image: /img/series/hot-angry-mom.jpg
+origin: United States
+nominations:
+  - category: best-leading-performance
+    credit: Mel House
+    winner: true
+  - category: best-editing
+    credit: Jessica Alexandra Green
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/770037955" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

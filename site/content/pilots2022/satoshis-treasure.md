@@ -1,6 +1,9 @@
 ---
 title: Satoshi's Treasure (World Festival Premiere)
 image: /img/series/satoshis-treasure.jpg
+origin: Germany
+nominations:
+  - category: best-pilot
 ---
 
 ## Satoshi's Treasure (World Festival Premiere)

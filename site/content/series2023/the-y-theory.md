@@ -1,6 +1,16 @@
 ---
 title: The Y Theory (Season 3)
 image: /img/series/the-y-theory.jpg
+origin: Belgium
+nominations:
+  - category: best-cinematography
+    credit: Edouard Outters
+  - category: best-leading-performance
+    credit: Gaspard Rozenwajn
+  - category: best-supporting-performance
+    credit: Dirk Van Vaerenbergh
+    winner: true
+  - category: best-production-design
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CmBNQUCoVzg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

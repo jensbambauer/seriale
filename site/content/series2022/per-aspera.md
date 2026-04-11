@@ -1,6 +1,23 @@
 ---
 title: Per Aspera (German Festival Premiere)
 image: /img/series/per-aspera.jpg
+origin: Italy
+nominations:
+  - category: best-directing
+    credit: Andrea Traina
+  - category: best-cinematography
+    credit: Antonio Riva, Luca Cappello
+  - category: best-actor
+    credit: Salvo Paternò
+  - category: best-visual-effects
+    credit: Andrea Traina
+  - category: best-production-design
+    credit: Marianna Sciveres
+    winner: true
+  - category: best-sound-design
+  - category: best-original-score
+    credit: Marco Cascone
+    winner: true
 ---
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/587715374" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,6 +1,10 @@
 ---
 title: Finders Keepers
 image: /img/pilots/finders-keepers.jpg
+origin: Germany
+nominations:
+  - category: best-pilot
+    winner: true
 ---
 
 

@@ -1,6 +1,13 @@
 ---
 title: For Peanuts/Fuer Umme
 image: /img/series/fuer-umme.jpg
+origin: Germany
+nominations:
+  - category: best-leading-performance
+    credit: Michael Fritz Schumacher
+    winner: true
+  - category: best-supporting-performance
+    credit: Oliver Korittke
 ---
 
 

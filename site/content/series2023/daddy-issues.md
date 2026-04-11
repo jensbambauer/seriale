@@ -1,6 +1,10 @@
 ---
 title: Daddy Issues
 image: /img/series/daddy-issues.jpg
+origin: Israel
+nominations:
+  - category: best-leading-performance
+    credit: Irad Barzilay
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tblVNUPxbas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

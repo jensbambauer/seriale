@@ -1,6 +1,10 @@
 ---
 title: Landing Home (German Premiere)
 image: /img/series/landing-home.jpg
+origin: United States
+nominations:
+  - category: best-leading-performance
+    credit: Douglas Taurel
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q3xcOeflJug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

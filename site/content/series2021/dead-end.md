@@ -1,6 +1,10 @@
 ---
 title: Dead End
 image: /img/series/dead-end.jpg
+origin: Israel
+nominations:
+  - category: best-animation
+    winner: true
 ---
 
 

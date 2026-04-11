@@ -1,6 +1,15 @@
 ---
 title: Abracadavers (Season 2) (International Premiere)
 image: /img/series/abracadavers.jpg
+origin: Canada
+nominations:
+  - category: best-ensemble-cast
+  - category: best-visual-effects
+    credit: Morgan Ermter
+  - category: best-production-design
+    credit: Kenya Weaver, Mike Kasper
+  - category: best-costume-design
+    credit: Kenya Weaver
 ---
 
 ## Abracadavers (Season 2) (International Premiere)

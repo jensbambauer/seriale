@@ -1,6 +1,11 @@
 ---
 title: Casa De Ma
 image: /img/series/casa-de-ma.jpg
+origin: Spain
+nominations:
+  - category: best-ensemble-cast
+  - category: best-editing
+    credit: Andrés Estrada, Miguel Goicoeche, Enrique Blanchard
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IZ2W7Peq8TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

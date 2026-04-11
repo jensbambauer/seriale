@@ -1,6 +1,9 @@
 ---
 title: Recife is an egg / Recife é um ovo (International Premiere)
 image: /img/series/recife-is-an-egg.jpg
+origin: Brazil
+nominations:
+  - category: best-idea
 ---
 
 ## Recife is an egg / Recife é um ovo (International Premiere)

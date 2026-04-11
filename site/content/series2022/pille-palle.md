@@ -1,6 +1,9 @@
 ---
 title: Pille Palle
 image: /img/series/pille-palle.jpg
+origin: Germany
+nominations:
+  - category: best-documentary
 ---
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/303678338" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

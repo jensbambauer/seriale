@@ -1,6 +1,9 @@
 ---
 title: Wunschlos hubbelig / Wishlessly Bumpy
 image: /img/series/wunschlos-hubbelig.jpg
+origin: Germany
+nominations:
+  - category: best-animation
 ---
 
 

@@ -1,6 +1,14 @@
 ---
 title: Résistance (German Premiere)
 image: /img/series/resistance.jpg
+origin: France
+nominations:
+  - category: best-editing
+    credit: Maxime Chefdeville
+  - category: best-sound-design
+  - category: best-costume-design
+  - category: best-original-score
+    credit: Benjamin Ribolet
 ---
 
 

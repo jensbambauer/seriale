@@ -1,6 +1,12 @@
 ---
 title: Petites Histoires dans la Ville (European Festival Premiere)
 image: /img/series/petites-histoires-dans-la-ville.jpg
+origin: Canada
+nominations:
+  - category: best-supporting-performance
+    credit: Arlen Aguayo-Stewart
+  - category: best-supporting-performance
+    credit: Luis Oliva
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7apLz4JzcNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

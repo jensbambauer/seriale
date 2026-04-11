@@ -1,6 +1,7 @@
 ---
 title: Emmy & Christin (Out of Competition)
 image: /img/series/emmy-und-christin.jpg
+origin: Germany
 ---
 
 ## Emmy & Christin (Out of Competition)  

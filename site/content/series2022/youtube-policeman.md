@@ -1,6 +1,13 @@
 ---
 title: YouTube Policeman
 image: /img/series/youtube-policeman.jpg
+origin: Russian Federation
+nominations:
+  - category: best-directing
+    credit: Akaki Sakhelashvili
+    winner: true
+  - category: best-actor
+    credit: Fyodor Lavrov
 ---
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/582993679" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

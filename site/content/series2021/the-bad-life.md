@@ -1,6 +1,14 @@
 ---
 title: The Bad Life / Bizi Txarra (German Premiere)
 image: /img/series/the-bad-life.jpg
+origin: Spain
+nominations:
+  - category: best-cinematography
+    credit: Oliver Mend
+  - category: best-editing
+    credit: Damian Karras & Oliver Mend
+  - category: best-production-design
+  - category: best-sound-design
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/371350874" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

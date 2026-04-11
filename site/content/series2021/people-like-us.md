@@ -1,6 +1,9 @@
 ---
 title: People Like Us (Season 2) (German Premiere)
 image: /img/series/people-like-us.jpg
+origin: Singapore
+nominations:
+  - category: best-ensemble-cast
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/310734727" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

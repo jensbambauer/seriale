@@ -1,6 +1,9 @@
 ---
 title: Hollywood Nazista (European Premiere)
 image: /img/series/hollywood-nazista.jpg
+origin: Brazil
+nominations:
+  - category: best-documentary
 ---
 
 ## Hollywood Nazista (European Premiere)

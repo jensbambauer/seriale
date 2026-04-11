@@ -1,6 +1,19 @@
 ---
 title: Complete Time Travel Guide / Denboran Bidaiatzeko Gida Osoa
 image: /img/series/complete-time-travel-guide.jpg
+origin: Spain
+nominations:
+  - category: best-directing
+    credit: Rose of Dolls, Oliver Mend
+  - category: best-cinematography
+    credit: Rocío De Las Muñecas
+  - category: best-ensemble-cast
+  - category: best-editing
+    credit: Damian Karras, Oliver Mend
+    winner: true
+  - category: best-production-design
+    credit: Tania Soprano, Rose of Dolls
+  - category: best-costume-design
 ---
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/478519053" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

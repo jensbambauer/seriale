@@ -1,6 +1,12 @@
 ---
 title: Forgotten Masters (Season 2) (German Premiere)
 image: /img/series/forgotten-masters.jpg
+origin: Canada
+nominations:
+  - category: best-ensemble-cast
+  - category: best-costume-design
+    credit: Greta Headley
+  - category: best-idea
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lVLe8oZhorA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

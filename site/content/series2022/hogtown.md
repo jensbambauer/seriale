@@ -1,6 +1,16 @@
 ---
 title: Hogtown / Ainsi va Manu (German Premiere)
 image: /img/series/hogtown.jpg
+origin: Canada
+nominations:
+  - category: best-directing
+    credit: Josiane Blanc
+  - category: best-actress
+    credit: Cindy Charles
+  - category: best-supporting-actress
+    credit: Sandra Dorélas
+  - category: best-original-score
+    credit: Lora Bidner
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/23kTCtc7NJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

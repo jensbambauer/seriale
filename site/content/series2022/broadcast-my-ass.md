@@ -1,6 +1,9 @@
 ---
 title: Broadcast My Ass
 image: /img/series/broadcast-my-ass.jpg
+origin: Germany
+nominations:
+  - category: best-animation-puppetry
 ---
 
 ## Broadcast My Ass

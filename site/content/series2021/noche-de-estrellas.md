@@ -1,6 +1,12 @@
 ---
 title: Noche De Estrellas (International Premiere)
 image: /img/series/noche-de-estrellas.jpg
+origin: Argentina
+nominations:
+  - category: best-screenplay
+    credit: Agustina Levati & Pedro Levati
+  - category: best-ensemble-cast
+  - category: best-costume-design
 ---
 
 ## Noche De Estrellas (International Premiere)

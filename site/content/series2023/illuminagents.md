@@ -1,6 +1,10 @@
 ---
 title: Illuminagents (European Festival Premiere)
 image: /img/series/illuminagents.jpg
+origin: Canada
+nominations:
+  - category: best-idea
+    winner: true
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eFHk5tqn_To" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

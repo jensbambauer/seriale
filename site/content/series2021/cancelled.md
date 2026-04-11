@@ -1,6 +1,11 @@
 ---
 title: CANCELLED
 image: /img/series/cancelled.jpg
+origin: Australia
+nominations:
+  - category: best-screenplay
+    credit: María Albiñana & Luke Eve
+  - category: best-ensemble-cast
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Uk07zS6kqeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

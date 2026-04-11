@@ -1,6 +1,9 @@
 ---
-title: Recife’s Greatest Love Story
+title: Recife's Greatest Love Story
 image: /img/series/recifes-greatest-love-story.jpg
+origin: Brazil
+nominations:
+  - category: best-idea
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/04yhTatF3Y0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

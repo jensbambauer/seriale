@@ -1,6 +1,9 @@
 ---
 title: Fritz Menzer - A Secret Life (German Festival Premiere)
 image: /img/series/fritz-menzer.jpg
+origin: Germany
+nominations:
+  - category: best-documentary
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mh4u4ujqvvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

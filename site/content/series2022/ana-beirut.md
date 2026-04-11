@@ -1,6 +1,9 @@
 ---
 title: Ana Beirut
 image: /img/series/ana-beirut.jpg
+origin: Lebanon
+nominations:
+  - category: best-documentary
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GxGwH6iIKMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

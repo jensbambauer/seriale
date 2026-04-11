@@ -1,6 +1,9 @@
 ---
 title: Lebensraum 
 image: /img/series/lebensraum.jpg
+origin: Germany
+nominations:
+  - category: best-pilot
 ---
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/779782991" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

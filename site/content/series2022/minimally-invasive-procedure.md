@@ -1,6 +1,10 @@
 ---
 title: Minimally Invasive Procedure
 image: /img/series/minimally-invasive-procedure.jpg
+origin: United States
+nominations:
+  - category: best-sound-design
+  - category: best-idea
 ---
 
 ## Minimally Invasive Procedure

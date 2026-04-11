@@ -1,6 +1,9 @@
 ---
 title: The Dump (Season 2)
 image: /img/series/the-dump.jpg
+origin: Canada
+nominations:
+  - category: best-animation
 ---
 
 ## The Dump (Season 2)

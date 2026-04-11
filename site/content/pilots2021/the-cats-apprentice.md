@@ -1,6 +1,9 @@
 ---
 title: The Cat's Apprentice
 image: /img/pilots/the-cats-apprentice.jpg
+origin: United States
+nominations:
+  - category: best-pilot
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 title: Monster Week
 image: /img/series/monster-week.jpg
+origin: South Korea
+nominations:
+  - category: best-animation
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z7Zui1CoSFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

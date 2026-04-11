@@ -1,6 +1,9 @@
 ---
 title: Hudson Falls (German Premiere)
 image: /img/series/hudson-falls.jpg
+origin: United States
+nominations:
+  - category: best-pilot
 ---
 
 ## Hudson Falls (German Premiere)

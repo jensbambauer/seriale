@@ -1,6 +1,10 @@
 ---
 title: ANA (I AM)
 image: /img/series/ana.jpg
+origin: Lebanon
+nominations:
+  - category: best-documentary
+    winner: true
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OZMhieL6dyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

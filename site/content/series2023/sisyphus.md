@@ -1,6 +1,12 @@
 ---
 title: Sisyphus
 image: /img/series/sisyphus.jpg
+origin: Italy
+nominations:
+  - category: best-supporting-performance
+    credit: Angelo Spagnoletti
+  - category: best-visual-effects
+  - category: best-sound-design
 ---
 ## Sisyphus
 Country: Italy | Genre: Dystopian-Surreal | Creator: Alessandro Mignacca | Writers: Alessandro Mignacca, Daniele Morelli | Directors: Alessandro Mignacca, Daniele Morelli, Elisabetta Baldi | Producers: Alessandro Mignacca, Daniele Morelli, Alessandro Aquilani, Fusolab | Main Cast: Guglielmo Favilla, Angelo Spagnoletti

@@ -1,6 +1,9 @@
 ---
 title: Buschka Discovers Germany (Season 4) (World Festival Premiere)
 image: /img/series/buschka-discovers-germany.jpg
+origin: Germany
+nominations:
+  - category: best-documentary
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CAx9eoamiKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

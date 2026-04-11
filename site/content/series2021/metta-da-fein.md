@@ -1,6 +1,15 @@
 ---
 title: Metta da fein (German Festival Premiere)
 image: /img/series/metta-da-fein.jpg
+origin: Switzerland
+nominations:
+  - category: best-series
+  - category: best-screenplay
+    credit: Carlo Beer & Urs Berlinger
+  - category: best-leading-performance
+    credit: René Schnoz
+  - category: best-supporting-performance
+    credit: David Flepp
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/484156444" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

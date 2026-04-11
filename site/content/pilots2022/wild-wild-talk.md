@@ -1,6 +1,9 @@
 ---
 title: Wild Wild Talk
 image: /img/series/wild-wild-talk.jpg
+origin: Germany
+nominations:
+  - category: best-pilot
 ---
 
 ## Wild Wild Talk

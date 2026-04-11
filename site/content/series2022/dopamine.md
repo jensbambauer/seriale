@@ -1,6 +1,9 @@
 ---
 title: DOPAMINE
 image: /img/series/dopamine.jpg
+origin: France
+nominations:
+  - category: best-documentary
 ---
 
 ## DOPAMINE

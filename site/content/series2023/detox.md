@@ -1,6 +1,12 @@
 ---
 title: Detox (International Premiere)
 image: /img/series/detox.jpg
+origin: Canada
+nominations:
+  - category: best-ensemble-cast
+    winner: true
+  - category: best-original-score
+    credit: Jean-Philippe Levac & Karelle Tremblay
 ---
 
 ## Detox (International Premiere)

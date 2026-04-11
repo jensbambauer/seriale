@@ -1,6 +1,10 @@
 ---
 title: "Top Dogs: Homicides"
 image: /img/series/topdogs-homicides.jpg
+origin: Canada
+nominations:
+  - category: best-supporting-performance
+    credit: Thomas Beaudoin
 ---
 
 ## Top Dogs: Homicides

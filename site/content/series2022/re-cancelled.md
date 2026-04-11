@@ -1,6 +1,12 @@
 ---
 title: RE CANCELLED (German Premiere)
 image: /img/series/re-cancelled.jpg
+origin: Australia
+nominations:
+  - category: best-directing
+    credit: Luke Eve
+  - category: best-editing
+    credit: Melanie Annan
 ---
 
 ## RE CANCELLED (German Premiere)

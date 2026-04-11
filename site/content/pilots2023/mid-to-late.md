@@ -1,6 +1,9 @@
 ---
 title: Mid-to-Late (International Premiere)
 image: /img/series/mid-to-late.jpg
+origin: United States
+nominations:
+  - category: best-pilot
 ---
 
 ## Mid-to-Late (International Premiere)

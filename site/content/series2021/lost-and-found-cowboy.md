@@ -1,6 +1,11 @@
 ---
 title: Lost & Found Cowboy (German Festival Premiere)
 image: /img/series/lost-and-found-cowboy.jpg
+origin: Japan
+nominations:
+  - category: best-leading-performance
+    credit: Atsushi Ogata
+  - category: best-idea
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/346070131" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

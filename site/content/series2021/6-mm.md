@@ -1,6 +1,10 @@
 ---
 title: 6 MM
 image: /img/series/6-mm.jpg
+origin: Poland
+nominations:
+  - category: best-cinematography
+    credit: Kamil Małecki & Piotr Lebek
 ---
 
 

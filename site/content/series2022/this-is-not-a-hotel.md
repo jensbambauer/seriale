@@ -1,6 +1,14 @@
 ---
 title: This Is Not A Hotel (German Premiere)
 image: /img/series/this-is-not-a-hotel.jpg
+origin: Argentina
+nominations:
+  - category: best-screenplay
+    credit: Dana Crosa
+  - category: best-actress
+    credit: Mara Bestelli
+  - category: best-supporting-actor
+    credit: Santiago Gobernori
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0dnicKGuMdA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

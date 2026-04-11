@@ -1,6 +1,9 @@
 ---
 title: Rhythms of Italy (World Festival Premiere)
 image: /img/series/rhythms-of-italy.jpg
+origin: Ireland
+nominations:
+  - category: best-documentary
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/olTOBkwK-hc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

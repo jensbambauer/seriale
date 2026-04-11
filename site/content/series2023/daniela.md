@@ -1,6 +1,14 @@
 ---
 title: Daniel/a (German Premiere)
 image: /img/series/daniela.jpg
+origin: Spain
+nominations:
+  - category: best-screenplay
+    credit: Mikel Ayllon
+  - category: best-cinematography
+    credit: Zigor Etxebarria
+  - category: best-leading-performance
+    credit: Leire Ormazabal
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqvP8Titq1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

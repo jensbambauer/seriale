@@ -1,6 +1,9 @@
 ---
 title: Italia Sicilia Gela (Season 2)
 image: /img/series/italia-sicilia-gela.jpg
+origin: Italy
+nominations:
+  - category: best-documentary
 ---
 
 

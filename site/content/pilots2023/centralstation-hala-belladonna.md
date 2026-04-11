@@ -1,6 +1,9 @@
 ---
 title: Centralstation - Hala Belladonna (Festival Premiere)
 image: /img/series/centralstation-hala-belladonna.jpg
+origin: Germany
+nominations:
+  - category: best-pilot
 ---
 
 ## Centralstation - Hala Belladonna (Festival Premiere)

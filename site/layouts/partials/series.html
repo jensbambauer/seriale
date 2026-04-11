@@ -1,0 +1,77 @@
+{{/* Series layout - used for series pages */}}
+<div class="series">
+  {{ with .Params.image }}
+  <img src="{{ . }}" alt="{{ $.Title }}" class="series__image">
+  {{ end }}
+  
+  <h1 class="series__title">{{ .Title }}</h1>
+  
+  {{/* Trailer embed */}}
+  {{ with .Params.trailer }}
+    {{ $trailerUrl := . }}
+    <div class="series__trailer">
+      {{ if (findRE "youtube\\.com|youtu\\.be" $trailerUrl) }}
+        {{/* Extract YouTube video ID */}}
+        {{ $videoId := "" }}
+        {{ if findRE "youtube\\.com/watch\\?v=" $trailerUrl }}
+          {{ $videoId = replaceRE ".*youtube\\.com/watch\\?v=([^&]+).*" "$1" $trailerUrl }}
+        {{ else if findRE "youtu\\.be/" $trailerUrl }}
+          {{ $videoId = replaceRE ".*youtu\\.be/([^?]+).*" "$1" $trailerUrl }}
+        {{ else if findRE "youtube\\.com/embed/" $trailerUrl }}
+          {{ $videoId = replaceRE ".*youtube\\.com/embed/([^?]+).*" "$1" $trailerUrl }}
+        {{ end }}
+        {{ if $videoId }}
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ $videoId }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {{ end }}
+      {{ else if (findRE "vimeo\\.com" $trailerUrl) }}
+        {{/* Extract Vimeo video ID */}}
+        {{ $videoId := replaceRE ".*vimeo\\.com/([0-9]+).*" "$1" $trailerUrl }}
+        {{ if $videoId }}
+          <iframe width="560" height="315" src="https://player.vimeo.com/video/{{ $videoId }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {{ end }}
+      {{ end }}
+    </div>
+  {{ end }}
+  
+  {{/* Metadata */}}
+  <div class="series__metadata">
+    {{ $metadata := slice }}
+    
+    {{ with .Params.origin }}
+      {{ $metadata = $metadata | append (printf "Country: %s" .) }}
+    {{ end }}
+    
+    {{ with .Params.genre }}
+      {{ $metadata = $metadata | append (printf "Genre: %s" .) }}
+    {{ end }}
+    
+    {{ with .Params.creators }}
+      {{ $metadata = $metadata | append (printf "Creators: %s" .) }}
+    {{ end }}
+    
+    {{ with .Params.writers }}
+      {{ $metadata = $metadata | append (printf "Writers: %s" .) }}
+    {{ end }}
+    
+    {{ with .Params.directors }}
+      {{ $metadata = $metadata | append (printf "Directors: %s" .) }}
+    {{ end }}
+    
+    {{ with .Params.producers }}
+      {{ $metadata = $metadata | append (printf "Producers: %s" .) }}
+    {{ end }}
+    
+    {{ with .Params.cast }}
+      {{ $metadata = $metadata | append (printf "Main Cast: %s" .) }}
+    {{ end }}
+    
+    {{ if gt (len $metadata) 0 }}
+      <p class="series__meta">{{ delimit $metadata " | " }}</p>
+    {{ end }}
+  </div>
+  
+  {{/* Description */}}
+  <div class="series__description">
+    {{ .Content }}
+  </div>
+</div>

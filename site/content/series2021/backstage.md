@@ -1,6 +1,11 @@
 ---
 title: Backstage (German Festival Premiere)
 image: /img/series/backstage.jpg
+origin: Spain
+nominations:
+  - category: best-supporting-performance
+    credit: Andrea Nuñez
+  - category: best-production-design
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/509882119" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

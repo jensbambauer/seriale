@@ -1,6 +1,9 @@
 ---
 title: As Dead As It Gets (World Premiere)
 image: /img/series/as-dead-as-it-gets.jpg
+origin: Germany
+nominations:
+  - category: best-pilot
 ---
 
 ## As Dead As It Gets (World Premiere)

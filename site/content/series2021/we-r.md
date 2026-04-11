@@ -1,6 +1,9 @@
 ---
 title: We/r (World Premiere)
 image: /img/series/we-r.jpg
+origin: Germany
+nominations:
+  - category: best-idea
 ---
 
 

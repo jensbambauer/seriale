@@ -1,6 +1,10 @@
 ---
 title: Tokens (Season 2) (European Festival Premiere)
 image: /img/series/tokens.jpg
+origin: Canada
+nominations:
+  - category: best-screenplay
+    credit: Winnifred Jong
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LYHWK55hAHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

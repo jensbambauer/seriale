@@ -1,6 +1,12 @@
 ---
 title: Bastards / Bâtards (German Premiere)
 image: /img/series/bastards.jpg
+origin: Switzerland
+nominations:
+  - category: best-editing
+    credit: Léo Parmentier
+  - category: best-visual-effects
+  - category: best-costume-design
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/475490408" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

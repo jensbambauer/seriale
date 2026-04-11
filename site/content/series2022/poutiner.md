@@ -1,6 +1,9 @@
 ---
 title: Poutiner (World Festival Premiere)
 image: /img/series/poutiner.jpg
+origin: Australia
+nominations:
+  - category: best-documentary
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0xAgHzmI8sA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,6 +1,10 @@
 ---
 title: Sasha and her STI / Sas heeft een soa
 image: /img/series/sasha-and-her-sti.jpg
+origin: Netherlands
+nominations:
+  - category: best-actress
+    credit: Britt Scholte
 ---
 
 ## Sasha and her STI / Sas heeft een soa

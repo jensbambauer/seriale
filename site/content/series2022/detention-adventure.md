@@ -1,6 +1,12 @@
 ---
 title: Detention Adventure (Season 3) (European Premiere)
 image: /img/series/detention-adventure.jpg
+origin: Canada
+nominations:
+  - category: best-ensemble-cast
+  - category: best-visual-effects
+    credit: Sebastian Harder
+  - category: best-sound-design
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MimFsYNJu_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

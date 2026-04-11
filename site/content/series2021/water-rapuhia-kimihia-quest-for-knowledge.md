@@ -1,6 +1,9 @@
 ---
 title: "Water - Rapuhia, kimihia: Quest for knowledge (European Festival Premiere)"
 image: /img/series/water-rapuhia-kimihia-quest-for-knowledge.jpg
+origin: New Zealand
+nominations:
+  - category: best-documentary
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PuaME3TLetk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

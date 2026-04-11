@@ -1,6 +1,12 @@
 ---
 title: Witching Hour (German Premiere)
 image: /img/series/witching-hour.jpg
+origin: Spain
+nominations:
+  - category: best-cinematography
+    credit: Rose of Dolls
+  - category: best-sound-design
+  - category: best-idea
 ---
 
 ## Witching Hour (German Premiere)

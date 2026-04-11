@@ -1,6 +1,10 @@
 ---
 title: Detention Adventure (Season 2)
 image: /img/series/detention-adventure.jpg
+origin: Canada
+nominations:
+  - category: best-visual-effects
+    winner: true
 ---
 
 

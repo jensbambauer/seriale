@@ -1,6 +1,9 @@
 ---
 title: FOUR TRACKS
 image: /img/series/four-tracks.jpg
+origin: Germany
+nominations:
+  - category: best-pilot
 ---
 
 ## FOUR TRACKS

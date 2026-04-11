@@ -1,6 +1,9 @@
 ---
 title: The Same Coin
 image: /img/pilots/the-same-coin.jpg
+origin: United States
+nominations:
+  - category: best-pilot
 ---
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/526624913" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

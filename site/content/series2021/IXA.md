@@ -1,6 +1,12 @@
 ---
 title: IXA (German Premiere)
 image: /img/series/ixa.jpg
+origin: Spain
+nominations:
+  - category: best-cinematography
+    credit: Ander Mujika
+    winner: true
+  - category: best-idea
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/540991682" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

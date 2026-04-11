@@ -1,6 +1,12 @@
 ---
 title: Avocado Toast
 image: /img/series/avocado-toast.jpg
+origin: Canada
+nominations:
+  - category: best-directing
+    credit: Sam Coyle
+  - category: best-leading-performance
+    credit: Heidi Lynch
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/414187191" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

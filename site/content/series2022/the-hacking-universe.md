@@ -1,6 +1,10 @@
 ---
 title: The Hacking Universe
 image: /img/series/the-hacking-universe.jpg
+origin: Russian Federation
+nominations:
+  - category: best-animation-puppetry
+    winner: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8KT1AXFm2wM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

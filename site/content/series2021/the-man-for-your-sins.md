@@ -1,6 +1,10 @@
 ---
 title: The Man for Your Sins (Season 3) (World Premiere)
 image: /img/series/the-man-for-your-sins.jpg
+origin: Germany
+nominations:
+  - category: best-screenplay
+    credit: Joachim Jung
 ---
 
 

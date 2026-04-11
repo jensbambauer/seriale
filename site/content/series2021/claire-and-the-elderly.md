@@ -1,6 +1,20 @@
 ---
 title: Claire and the elderly (German Premiere)
 image: /img/series/claire-and-the-elderly.jpg
+origin: Canada
+nominations:
+  - category: best-series
+    winner: true
+  - category: best-screenplay
+    credit: Sarah Pellerin
+    winner: true
+  - category: best-leading-performance
+    credit: Muriel Dutil
+  - category: best-supporting-performance
+    credit: Bénédicte Décary
+  - category: best-original-score
+    credit: Pierre-Philippe Côté
+    winner: true
 ---
 
 

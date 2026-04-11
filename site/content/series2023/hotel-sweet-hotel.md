@@ -1,6 +1,22 @@
 ---
 title: Hotel Sweet Hotel
 image: /img/series/hotel-sweet-hotel.jpg
+origin: Colombia
+nominations:
+  - category: best-series
+  - category: best-cinematography
+    credit: Esteban Vergara
+    winner: true
+  - category: best-supporting-performance
+    credit: Ana María Arango
+  - category: best-supporting-performance
+    credit: Isabella Restrepo
+  - category: best-supporting-performance
+    credit: Hugo Gómez
+  - category: best-visual-effects
+    credit: Cristian Casas, Miguel Ortega, Juan David Alfaro
+  - category: best-original-score
+    credit: José Carlos María
 ---
 
 ## Hotel Sweet Hotel

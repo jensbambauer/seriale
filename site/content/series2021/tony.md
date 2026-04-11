@@ -1,6 +1,18 @@
 ---
 title: Tony (German Premiere)
 image: /img/series/tony.jpg
+origin: Argentina
+nominations:
+  - category: best-series
+  - category: best-directing
+    credit: Malena Filmus & Rocío Blanco
+  - category: best-screenplay
+    credit: Malena Filmus & Matías Sirota
+  - category: best-leading-performance
+    credit: Malena Filmus
+    winner: true
+  - category: best-supporting-performance
+    credit: Martín Garabal
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RNT3rL-wnMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

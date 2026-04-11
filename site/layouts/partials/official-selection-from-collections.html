@@ -1,0 +1,47 @@
+{{/* 
+  official-selection-from-collections.html
+  
+  Reads series and pilots from content collections and displays them in a grid.
+  
+  Parameters (passed via .data):
+    - year: The year to look up (e.g., "2026")
+    - sections: List of section configs with type and headline
+      Example:
+        sections:
+          - type: series
+            headline: "series"
+          - type: pilots
+            headline: "pilots"
+*/}}
+
+{{ $year := .data.year | default "2026" }}
+{{ $sections := .data.sections }}
+
+{{ range $sections }}
+    {{ $sectionType := .type }}
+    {{ $headline := .headline }}
+    
+    {{/* Build section path like "series2026" or "pilots2026" */}}
+    {{ $sectionPath := printf "%s%s" $sectionType $year }}
+    
+    {{/* Get all pages from this section */}}
+    {{ with site.GetPage $sectionPath }}
+        {{ $pages := .Pages }}
+        
+        {{ if gt (len $pages) 0 }}
+        <div class="list-grid">
+            {{ with $headline }}
+            <h4>{{ . }}</h4>
+            {{ end }}
+            <ul class="list-grid__list">
+                {{ range $pages }}
+                <li class="list-grid__list__item">
+                    <span>{{ .Title | safeHTML }}</span>
+                    <em>{{ .Params.origin }}</em>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+    {{ end }}
+{{ end }}

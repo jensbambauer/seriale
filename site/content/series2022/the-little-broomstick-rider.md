@@ -1,6 +1,9 @@
 ---
 title: The Little Broomstick Rider
 image: /img/series/the-little-broomstick-rider.jpg
+origin: Italy
+nominations:
+  - category: best-animation-puppetry
 ---
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/692206939" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,6 +1,14 @@
 ---
 title: Geese Palace / Palacio los gansos (German Festival Premiere)
 image: /img/series/geese-palace.jpg
+origin: Argentina
+nominations:
+  - category: best-screenplay
+    credit: Silvina Ganger
+  - category: best-actress
+    credit: Lucila Brea
+  - category: best-supporting-actor
+    credit: Claudio Mattos
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EHspPqG_mnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

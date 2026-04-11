@@ -1,6 +1,9 @@
 ---
 title: Freedom Farm Sanctuary (German Premiere)
 image: /img/series/freedom-farm-sanctuary.jpg
+origin: Israel
+nominations:
+  - category: best-documentary
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/467336772" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,17 @@
 ---
 title: Frapuccino (Season 2) (German Premiere) 
 image: /img/series/frapuccino.jpg
+origin: France
+nominations:
+  - category: best-series
+  - category: best-screenplay
+    credit: Mathilde Bourbin
+  - category: best-leading-performance
+    credit: Mathilde Bourbin
+  - category: best-ensemble-cast
+  - category: best-editing
+    credit: Eder Urrejola & Bruno Béquet
+    winner: true
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FMblBCOGqJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

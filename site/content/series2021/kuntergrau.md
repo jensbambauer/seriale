@@ -1,6 +1,14 @@
 ---
 title: KUNTERGRAU (Season 3)(World Festival Premiere)
 image: /img/series/kuntergrau.jpg
+origin: Germany
+nominations:
+  - category: best-cinematography
+    credit: Max Jonas Fohrbeck
+  - category: best-leading-performance
+    credit: Fabian Freistühler
+  - category: best-original-score
+    credit: Maximilian Kelm
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WEyfOULzmmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

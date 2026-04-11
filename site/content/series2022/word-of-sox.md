@@ -1,6 +1,9 @@
 ---
 title: Word of Sox (World Premiere)
 image: /img/series/word-of-sox.jpg
+origin: Germany
+nominations:
+  - category: best-animation-puppetry
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rzqfiDrITKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

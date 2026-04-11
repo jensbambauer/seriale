@@ -1,6 +1,9 @@
 ---
 title: The Boogeys (German Festival Premiere)
 image: /img/pilots/the-boogeys.jpg
+origin: Canada
+nominations:
+  - category: best-pilot
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RNPibtF4M6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

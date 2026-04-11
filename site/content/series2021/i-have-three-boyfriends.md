@@ -1,6 +1,10 @@
 ---
 title: I Have Three Boyfriends
 image: /img/series/i-have-three-boyfriends.jpg
+origin: South Korea
+nominations:
+  - category: best-leading-performance
+    credit: Ji-eun Kim
 ---
 
 

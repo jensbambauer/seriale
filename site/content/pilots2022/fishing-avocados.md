@@ -1,6 +1,9 @@
 ---
 title: Fishing Avocados (World Premiere)
 image: /img/series/fishing-avocados.jpg
+origin: Germany
+nominations:
+  - category: best-pilot
 ---
 
 ## Fishing Avocados (World Premiere)

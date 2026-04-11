@@ -1,6 +1,11 @@
 ---
 title: CROSS (German Premiere)
 image: /img/series/cross.jpg
+origin: Argentina
+nominations:
+  - category: best-actor
+    credit: Marcelo Subiotto
+    winner: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o4KKabMKoxE?list=PLGIP2SzAkWMZ1WVZsPMCRidr84tYvEKVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

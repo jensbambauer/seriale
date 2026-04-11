@@ -1,6 +1,14 @@
 ---
 title: Neptunia (German Festival Premiere)
 image: /img/series/neptunia.jpg
+origin: Uruguay
+nominations:
+  - category: best-leading-performance
+    credit: Dario Amado
+  - category: best-visual-effects
+  - category: best-sound-design
+  - category: best-original-score
+    credit: Hernan Gonzalez
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L4F47T5K2qo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

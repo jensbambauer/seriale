@@ -1,6 +1,14 @@
 ---
 title: Emmy & Christin (World Premiere)
 image: /img/series/emmy-und-christin.jpg
+origin: Germany
+nominations:
+  - category: best-cinematography
+    credit: Marco Marcel Eisenbarth
+  - category: best-leading-performance
+    credit: Anna-Marlene Wirtz
+  - category: best-leading-performance
+    credit: Elena Halangk
 ---
 
 

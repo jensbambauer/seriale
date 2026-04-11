@@ -1,6 +1,10 @@
 ---
 title: Tiny Garden (International Premiere)
 image: /img/series/tiny-garden.jpg
+origin: Singapore
+nominations:
+  - category: best-documentary
+    winner: true
 ---
 
 

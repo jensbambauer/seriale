@@ -1,6 +1,10 @@
 ---
 title: The girl who dreamed of being a llama (and the boy who wanted to be blind)
 image: /img/series/the-girl-who-dreamed-of-being-a-llama.jpg
+origin: France
+nominations:
+  - category: best-pilot
+    winner: true
 ---
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/465006477?h=291913189f" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

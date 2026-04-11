@@ -1,6 +1,10 @@
 ---
 title: The Youth (German Festival Premiere)
 image: /img/series/the-youth.jpg
+origin: South Korea
+nominations:
+  - category: best-actress
+    credit: Ga En Lee
 ---
 
 ## The Youth (German Festival Premiere)

@@ -1,6 +1,14 @@
 ---
 title: Night Witches
 image: /img/series/night-witches.jpg
+origin: Kazakhstan
+nominations:
+  - category: best-cinematography
+    credit: Sherkhan Tansykbaev
+    winner: true
+  - category: best-editing
+    credit: Ernar Nurgaliev
+  - category: best-sound-design
 ---
 
 ## Night Witches

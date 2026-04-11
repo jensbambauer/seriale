@@ -1,6 +1,9 @@
 ---
 title: Bizarre Creatures (German Festival Premiere)
 image: /img/series/bizarre-creatures.jpg
+origin: Argentina
+nominations:
+  - category: best-animation
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/509899291" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

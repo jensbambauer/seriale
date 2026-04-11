@@ -1,6 +1,10 @@
 ---
 title: Segunda Pele (German Premiere)
 image: /img/series/segunda-pele.jpg
+origin: Brazil
+nominations:
+  - category: best-sound-design
+    winner: true
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4d4Ocz-EduA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

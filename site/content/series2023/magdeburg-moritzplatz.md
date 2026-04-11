@@ -1,6 +1,10 @@
 ---
 title: Magdeburg Moritzplatz (Season 2) (German Festival Premiere)
 image: /img/series/magdeburg-moritzplatz.jpg
+origin: Germany
+nominations:
+  - category: best-ensemble-cast
+  - category: best-sound-design
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xv95SlT_Wic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

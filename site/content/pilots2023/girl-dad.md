@@ -1,6 +1,9 @@
 ---
 title: Girl Dad (European Premiere)
 image: /img/series/girl-dad.jpg
+origin: United States
+nominations:
+  - category: best-pilot
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q0tCumHN3lI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

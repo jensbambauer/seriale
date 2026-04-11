@@ -1,6 +1,12 @@
 ---
 title: No, you're stupid! (Season 2) (International Premiere)
 image: /img/series/no-youre-stupid.jpg
+origin: Russian Federation
+nominations:
+  - category: best-series
+    winner: true
+  - category: best-ensemble-cast
+  - category: best-production-design
 ---
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/700773606" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

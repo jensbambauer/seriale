@@ -1,6 +1,21 @@
 ---
 title: 2 Minutes 
 image: /img/series/2-minutes.jpg
+origin: Germany
+nominations:
+  - category: best-series
+  - category: best-directing
+    credit: Lisa Miller
+  - category: best-screenplay
+    credit: Lisa Miller
+  - category: best-ensemble-cast
+    winner: true
+  - category: best-original-score
+    credit: Freya Arde
+  - category: best-editing
+    credit: Ina Tangermann
+  - category: best-supporting-performance
+    credit: Corinna Harfouch
 ---
 <iframe width="560" height="315" src="https://redponypictures.com/2-minuten" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,12 @@
 ---
 title: Fake Live
 image: /img/series/fake-live.jpg
+origin: Brazil
+nominations:
+  - category: best-leading-performance
+    credit: Fernanda Paes Leme
+  - category: best-idea
+    winner: true
 ---
 
 

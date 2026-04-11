@@ -1,6 +1,11 @@
 ---
 title: Inimigo Oculto (International Premiere)
 image: /img/series/inimigo-oculto.jpg
+origin: Brazil
+nominations:
+  - category: best-visual-effects
+    credit: Victor Iemini
+  - category: best-idea
 ---
 
 ## Inimigo Oculto (International Premiere)

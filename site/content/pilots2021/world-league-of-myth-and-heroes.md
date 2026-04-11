@@ -1,6 +1,9 @@
 ---
 title: World League of Myth and Heroes
 image: /img/pilots/world-league-of-myth-and-heroes.jpg
+origin: Brazil
+nominations:
+  - category: best-pilot
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t5MiLRLoGKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

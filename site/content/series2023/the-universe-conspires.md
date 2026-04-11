@@ -1,6 +1,16 @@
 ---
 title: The Universe Conspires. An Essay on Love. (German Festival Premiere)
 image: /img/series/the-universe-conspires.jpg
+origin: Uruguay
+nominations:
+  - category: best-directing
+    credit: Leonardo Pintos
+  - category: best-ensemble-cast
+  - category: best-editing
+    credit: Paulo Olivera & Leandro Salandrú
+  - category: best-original-score
+    credit: Valentín Ferreira
+    winner: true
 ---
 
 ## The Universe Conspires. An Essay on Love. (German Festival Premiere)

@@ -1,6 +1,9 @@
 ---
 title: Eat. Drink. Dish. (German Premiere)
 image: /img/series/eat-drink-dish.jpg
+origin: United States
+nominations:
+  - category: best-pilot
 ---
 
 ## Eat. Drink. Dish. (German Premiere)

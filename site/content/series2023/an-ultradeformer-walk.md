@@ -1,6 +1,12 @@
 ---
 title: An Ultradeformer Walk (World Premiere)
 image: /img/series/an-ultradeformer-walk.jpg
+origin: Argentina
+nominations:
+  - category: best-supporting-performance
+    credit: Cristina Maresca
+  - category: best-production-design
+  - category: best-costume-design
 ---
 
 ## An Ultradeformer Walk (World Premiere)

@@ -1,6 +1,9 @@
 ---
 title: Shadow Man
 image: /img/series/shadow-man.jpg
+origin: Germany
+nominations:
+  - category: best-sound-design
 ---
 
 

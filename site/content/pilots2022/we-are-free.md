@@ -1,6 +1,9 @@
 ---
 title: We are free / Wir sind frei (Hessian Festival Premiere)
 image: /img/series/we-are-free.jpg
+origin: Germany
+nominations:
+  - category: best-pilot
 ---
 
 ## We are free / Wir sind frei (Hessian Festival Premiere)

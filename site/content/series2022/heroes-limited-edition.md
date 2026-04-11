@@ -1,6 +1,14 @@
 ---
 title: HEROES - Limited Edition (International Premiere)
 image: /img/series/heroes-limited-edition.jpg
+origin: Israel
+nominations:
+  - category: best-ensemble-cast
+  - category: best-visual-effects
+    credit: Adi Kvetner, Nadav Rotem
+    winner: true
+  - category: best-costume-design
+    credit: Tal Kilshon
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jf_TrmBZWsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

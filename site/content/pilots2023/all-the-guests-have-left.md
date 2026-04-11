@@ -1,6 +1,9 @@
 ---
 title: all the guests have left (World Premiere)
 image: /img/series/all-the-guests-have-left.jpg
+origin: Germany
+nominations:
+  - category: best-pilot
 ---
 
 ## all the guests have left (World Premiere)

@@ -1,6 +1,9 @@
 ---
 title: How To (European Festival Premiere)
 image: /img/series/how-to.jpg
+origin: Italy
+nominations:
+  - category: best-idea
 ---
 
 ## How To (European Festival Premiere)

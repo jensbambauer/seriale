@@ -1,6 +1,9 @@
 ---
 title: Serkar (German Premiere)
 image: /img/series/serkar.jpg
+origin: Germany
+nominations:
+  - category: best-pilot
 ---
 
 ## Serkar (German Premiere)

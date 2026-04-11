@@ -1,6 +1,9 @@
 ---
 title: Fox in the Woods
 image: /img/series/fox-in-the-woods.jpg
+origin: South Korea
+nominations:
+  - category: best-animation-puppetry
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xalAteQ7UpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

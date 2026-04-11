@@ -1,6 +1,17 @@
 ---
 title: W. (Chapter II) (European Premiere)
 image: /img/series/w.jpg
+origin: Luxembourg
+nominations:
+  - category: best-series
+  - category: best-directing
+    credit: Frédéric Zeimet
+  - category: best-leading-performance
+    credit: Catherine Elsen
+  - category: best-visual-effects
+    credit: Gil Galvao
+    winner: true
+  - category: best-sound-design
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/749885698" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

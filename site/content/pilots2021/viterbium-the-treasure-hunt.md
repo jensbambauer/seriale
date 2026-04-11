@@ -1,6 +1,9 @@
 ---
 title: Viterbium - The Treasure Hunt (German Festival Premiere)
 image: /img/pilots/viterbium.jpg
+origin: Italy
+nominations:
+  - category: best-pilot
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/h8k10QAXhcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

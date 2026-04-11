@@ -1,6 +1,9 @@
 ---
 title: Trust us and be patient (International Premiere)
 image: /img/series/trust-us-and-be-patient.jpg
+origin: South Korea
+nominations:
+  - category: best-ensemble-cast
 ---
 
 ## Trust us and be patient (International Premiere)

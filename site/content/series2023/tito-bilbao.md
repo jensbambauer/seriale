@@ -1,6 +1,10 @@
 ---
 title: Tito Bilbao (German Premiere)
 image: /img/series/tito-bilbao.jpg
+origin: Argentina
+nominations:
+  - category: best-animation
+    winner: true
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/767024511?share=copy" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

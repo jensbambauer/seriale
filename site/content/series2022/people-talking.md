@@ -1,6 +1,13 @@
 ---
 title: People Talking / Gente Hablando (Season 2)
 image: /img/series/gente-hablando.jpg
+origin: Spain
+nominations:
+  - category: best-screenplay
+    credit: Álvaro Carmona
+    winner: true
+  - category: best-supporting-actor
+    credit: Miki Esparbé
 ---
 
 ## People Talking / Gente Hablando (Season 2)

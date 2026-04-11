@@ -1,6 +1,10 @@
 ---
 title: The Red Thread (German Festival Premiere)
 image: /img/series/the-red-thread.jpg
+origin: Australia
+nominations:
+  - category: best-supporting-actress
+    credit: Chrissie Shaw
 ---
 
 ## The Red Thread (German Festival Premiere)

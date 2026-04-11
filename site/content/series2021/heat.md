@@ -1,6 +1,18 @@
 ---
 title: Heat (European Premiere)
 image: /img/series/heat.jpg
+origin: Netherlands
+nominations:
+  - category: best-series
+  - category: best-directing
+    credit: Martijn Winkler
+  - category: best-screenplay
+    credit: Martijn Winkler
+  - category: best-ensemble-cast
+  - category: best-visual-effects
+  - category: best-sound-design
+  - category: best-original-score
+    credit: James Banbury & Pete Davis
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/469499036" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

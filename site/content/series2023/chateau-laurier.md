@@ -1,6 +1,13 @@
 ---
 title: Chateau Laurier (Season 2) (International Premiere) 
 image: /img/series/chateau-laurier.jpg
+origin: Canada
+nominations:
+  - category: best-production-design
+  - category: best-costume-design
+    credit: Melissa Bessey
+  - category: best-original-score
+    credit: Michael Stanutz
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/775924136" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

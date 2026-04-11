@@ -1,6 +1,9 @@
 ---
 title: The Photo of My Life
 image: /img/series/the-photo-of-my-life.jpg
+origin: South Korea
+nominations:
+  - category: best-idea
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-vn80hQ1BDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,9 @@
 ---
 title: Beyond Fashion
 image: /img/series/beyond-fashion.jpg
+origin: Germany
+nominations:
+  - category: best-documentary
 ---
 
 ## Beyond Fashion

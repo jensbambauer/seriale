@@ -1,6 +1,12 @@
 ---
 title: Wipe me away
 image: /img/series/wipe-me-away.jpg
+origin: Canada
+nominations:
+  - category: best-cinematography
+    credit: Philippe St-Gelais
+  - category: best-original-score
+    credit: Joseph Marchand
 ---
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/530468371" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

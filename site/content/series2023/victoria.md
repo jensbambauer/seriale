@@ -1,6 +1,18 @@
 ---
 title: Victoria (German Premiere)
 image: /img/series/victoria.jpg
+origin: Argentina
+nominations:
+  - category: best-series
+  - category: best-directing
+    credit: Agustina Gatto
+    winner: true
+  - category: best-cinematography
+    credit: Ignacio Aveillé
+  - category: best-leading-performance
+    credit: Magela Zanotta
+  - category: best-leading-performance
+    credit: Héctor Díaz
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/759630336?share=copy" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
