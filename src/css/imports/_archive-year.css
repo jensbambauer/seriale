@@ -1,0 +1,11 @@
+.archive-year {
+  font-size: 12px;
+
+  .container__content {
+    padding: 0;
+  }
+
+  section + section {
+    margin-top: 20px;
+  }
+}
