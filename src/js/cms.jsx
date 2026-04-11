@@ -169,6 +169,23 @@ const createPilotCollection = (year) => ({
   fields: pilotFields,
 });
 
+// Team fields
+const teamFields = [
+  { label: "Name", name: "title", widget: "string" },
+  { label: "Image", name: "image", widget: "image", required: false },
+  { label: "Role", name: "shortdescription", widget: "string", required: false },
+];
+
+// Helper to create team collection
+const createTeamCollection = (year) => ({
+  name: `team${year}`,
+  label: `${year} / Team`,
+  folder: `site/content/team${year}`,
+  create: true,
+  slug: "{{slug}}",
+  fields: teamFields,
+});
+
 // Initialize CMS with inline config
 CMS.init({
   config: {
@@ -302,6 +319,7 @@ CMS.init({
       createPilotCollection(2026),
       createSeriesCollection(2026),
       createSpeakerCollection(2026),
+      createTeamCollection(2026),
 
       // === 2025 ===
       // Awards
