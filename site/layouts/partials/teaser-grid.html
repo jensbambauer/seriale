@@ -4,9 +4,17 @@
   <h4>{{ . }}</h4>
   {{ end }}
   <ul class="teaser-grid__list">
-    {{/* Support both simple sections (e.g. "speakers2026") and paths (e.g. "jury-2026/jury-series") */}}
+    {{/* Support multiple ways to get pages:
+         1. list: "section-name" - simple section
+         2. list: "section/subsection" - path to subsection
+         3. list: "section" + category: "value" - filter by category param
+    */}}
     {{ $pages := slice }}
-    {{ if strings.Contains .list "/" }}
+    {{ if .category }}
+      {{/* Filter by category within a section */}}
+      {{ $sectionPages := where $.Page.Site.Pages "Section" .list }}
+      {{ $pages = where $sectionPages ".Params.category" .category }}
+    {{ else if strings.Contains .list "/" }}
       {{/* Path-based: get pages from a specific subsection */}}
       {{ $section := $.Page.Site.GetPage "section" .list }}
       {{ with $section }}
