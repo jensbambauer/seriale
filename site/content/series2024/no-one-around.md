@@ -1,6 +1,11 @@
 ---
 title: No One Around (German Festival Premiere)
 image: /img/series/no-one-around.jpg
+nominations:
+  - category: best-editing
+    credit: "Joaquín Bravo, Magui Mieres, Karen Antunes"
+    winner: true
+  - category: best-ensemble-cast
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/919759541?h=4ec8f563b2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

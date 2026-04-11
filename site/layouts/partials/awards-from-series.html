@@ -75,7 +75,7 @@
 {{ end }}
 
 {{/* Output the nominations grouped by category */}}
-<div class="list-columns" data-role="masonry">
+<div class="list-columns {{ with .class }}{{ . }}{{ end }}" data-role="masonry">
     {{ range $categories }}
         {{ $cat := . }}
         {{ $nominees := index $nominationsByCategory $cat }}

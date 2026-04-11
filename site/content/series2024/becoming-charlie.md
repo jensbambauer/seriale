@@ -1,6 +1,22 @@
 ---
 title: Becoming Charlie 
 image: /img/series/becoming-charlie.jpg
+nominations:
+  - category: best-directing
+    credit: "Kerstin Polte, Greta Benkelmann"
+  - category: best-screenplay
+    credit: "Lion H. Lau"
+    winner: true
+  - category: best-leading-performance
+    credit: "Lea Drinda"
+    winner: true
+  - category: best-supporting-performance
+    credit: "Katja Bürkle"
+  - category: best-original-score
+    credit: "Pelle Parr"
+  - category: best-costume-design
+  - category: best-cinematography
+    credit: "Lotta Kilian, Philip Jestädt"
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/922379421?h=532abf9349&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

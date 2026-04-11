@@ -1,6 +1,11 @@
 ---
 title: I WILL BURY YOU (Season 2) (European Festival Premiere)
 image: /img/series/i-will-bury-you.jpg
+nominations:
+  - category: best-supporting-performance
+    credit: "Clare Coulter"
+  - category: best-cinematography
+    credit: "Michael Jari Davidson"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sKHRERe6bVA?si=MRxj3_ayVoL_P74P" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

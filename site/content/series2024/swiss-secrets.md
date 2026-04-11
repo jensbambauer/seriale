@@ -1,6 +1,8 @@
 ---
 title: Swiss Secrets (International Premiere)
 image: /img/series/swiss-secrets.jpg
+nominations:
+  - category: best-long-form-series
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v-iB5RxBMzU?si=gzME3CKCKwu5ymXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,8 @@
 ---
 title: Kick it like a girl
 image: /img/series/kick-it-like-a-girl.jpg
+nominations:
+  - category: best-documentary
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/949168448?h=b7b6ceec8e" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

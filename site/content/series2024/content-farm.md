@@ -1,6 +1,10 @@
 ---
 title: Content Farm (International Premiere)
 image: /img/series/content-farm.jpg
+nominations:
+  - category: best-editing
+    credit: "Alaine Hutton"
+  - category: best-idea
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ygkMGTWfmo4?si=tOsgZiQrXsaRzgTb" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

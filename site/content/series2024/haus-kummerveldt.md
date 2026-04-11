@@ -1,6 +1,10 @@
 ---
 title: Haus Kummerveldt
 image: /img/series/haus-kummerveldt.jpg
+nominations:
+  - category: best-production-design
+  - category: best-costume-design
+  - category: best-ensemble-cast
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RqdHGCs6XA8?si=v9yNRXnyL48XLHzP" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,8 @@
 ---
 title: Super Fails
 image: /img/series/super-fails.jpg
+nominations:
+  - category: best-animation
 ---
 
 ## Super Fails

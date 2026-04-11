@@ -1,6 +1,8 @@
 ---
 title: AS WE ARE (World Premiere)
 image: /img/series/as-we-are.jpg
+nominations:
+  - category: best-long-form-series
 ---
 
 ## AS WE ARE (World Premiere)

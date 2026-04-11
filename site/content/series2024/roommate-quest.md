@@ -1,6 +1,13 @@
 ---
 title: Roommate Quest! (World Premiere)
 image: /img/series/roommate-quest.jpg
+nominations:
+  - category: best-screenplay
+    credit: "Julia Römpp"
+  - category: best-supporting-performance
+    credit: "Nils Brunkhorst"
+  - category: best-production-design
+  - category: best-ensemble-cast
 ---
 
 ## Roommate Quest! (World Premiere)

@@ -1,6 +1,9 @@
 ---
 title: With Grace (Season 3) (German Premiere)
 image: /img/series/with-grace.jpg
+nominations:
+  - category: best-supporting-performance
+    credit: "Ben Wood"
 ---
 
 ## With Grace (Season 3) (German Premiere)

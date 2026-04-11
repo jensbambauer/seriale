@@ -1,6 +1,15 @@
 ---
 title: MusicStories (World Premiere)
 image: /img/series/music-stories.jpg
+nominations:
+  - category: best-editing
+    credit: "Elena Walter"
+  - category: best-production-design
+  - category: best-costume-design
+  - category: best-idea
+    winner: true
+  - category: best-cinematography
+    credit: "Jonas Schmieta"
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/922108314?h=60db576879&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,11 @@
 ---
 title: Finest Cuts (World Premiere)
 image: /img/series/finest-cuts.jpg
+nominations:
+  - category: best-leading-performance
+    credit: "Guilherme Corrêa"
+  - category: best-cinematography
+    credit: "Eduardo Sansigolo"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_cMFhMTNNuU?si=tXj8XnEMwIsA8ffP" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

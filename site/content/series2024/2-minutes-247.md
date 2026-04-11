@@ -1,6 +1,20 @@
 ---
 title: 2 Minutes - 24/7 
 image: /img/series/2-minutes-24-7.jpg
+nominations:
+  - category: best-series
+    winner: true
+  - category: best-directing
+    credit: "Lisa Miller, Leonie Krippendorff"
+  - category: best-editing
+    credit: "Elena Scharwächter, Emma Gräf, Petja von Bredow"
+  - category: best-original-score
+    credit: "Philipp Thimm"
+  - category: best-costume-design
+    winner: true
+  - category: best-cinematography
+    credit: "Sabine Panossian, Lotta Kilian"
+  - category: best-ensemble-cast
 ---
 
 ## 2 Minutes - 24/7

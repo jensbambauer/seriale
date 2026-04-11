@@ -1,6 +1,8 @@
 ---
 title: The MUTE Series (World Premiere)
 image: /img/series/the-mute-series.jpg
+nominations:
+  - category: best-idea
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/393643710?h=14580024b3&color=ffffff&title=0&byline=0&portrait=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

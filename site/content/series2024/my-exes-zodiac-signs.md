@@ -1,6 +1,9 @@
 ---
 title: My Exes' Zodiac Signs
 image: /img/series/my-exes-zodiac-signs.jpg
+nominations:
+  - category: best-screenplay
+    credit: "Andrezza Czech"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pWjrjTzsDSo?si=9b5jMqDvpXNXMYdj" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

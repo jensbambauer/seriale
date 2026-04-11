@@ -1,6 +1,8 @@
 ---
 title: Lily's turn (German Premiere)
 image: /img/series/lilys-turn.jpg
+nominations:
+  - category: best-long-form-series
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-le7S1qyLE?si=Y8L0cu5-i2P4ICDS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

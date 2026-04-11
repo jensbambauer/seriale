@@ -1,6 +1,9 @@
 ---
 title: Füxe 
 image: /img/series/fuexe.jpg
+nominations:
+  - category: best-long-form-series
+    winner: true
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B3q71xiGgwI?si=NTe3kdNWPYWzS5rm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

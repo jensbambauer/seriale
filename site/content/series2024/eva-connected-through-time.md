@@ -1,6 +1,8 @@
 ---
 title: Eva. Connected Through Time (German Premiere) 
 image: /img/series/eva-connected-through-time.jpg
+nominations:
+  - category: best-animation
 ---
 
 ## Eva. Connected Through Time (German Premiere) 

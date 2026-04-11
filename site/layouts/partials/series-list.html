@@ -1,0 +1,33 @@
+{{/* 
+  series-list.html
+  
+  Displays series as a multi-column list with title and origin.
+  
+  Parameters (passed via .data):
+    - year: The year to look up (e.g., "2025")
+    - headline: Optional headline
+*/}}
+
+{{ $year := .data.year | default "2025" }}
+{{ $seriesSection := printf "series%s" $year }}
+
+{{ $allPages := slice }}
+{{ with site.GetPage $seriesSection }}
+    {{ $allPages = .Pages }}
+{{ end }}
+
+{{ if $allPages }}
+<div class="list-columns" data-role="masonry">
+    <div class="list-columns__item">
+        {{ with .data.headline }}<h4>{{ . }}</h4>{{ end }}
+        <ul class="list-columns__list">
+            {{ range $allPages }}
+            <li class="list-grid__list__item">
+                <span>{{ .Title }}</span>
+                {{ with .Params.origin }}<em>{{ . }}</em>{{ end }}
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
+{{ end }}

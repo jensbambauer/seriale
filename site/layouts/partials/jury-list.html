@@ -1,0 +1,42 @@
+{{/* 
+  jury-list.html
+  
+  Displays jury members grouped by category using list-columns layout.
+  
+  Parameters:
+    - .data.year: The year to look up (e.g., "2024")
+    - .class: Optional extra CSS class
+*/}}
+
+{{ $year := .data.year | default "2024" }}
+{{ $jurySection := printf "jury-%s" $year }}
+
+{{/* Define jury categories and display names */}}
+{{ $categories := slice
+  (dict "folder" "jury-series" "label" "Series Jury")
+  (dict "folder" "jury-documentary" "label" "Documentary Jury")
+  (dict "folder" "jury-animation" "label" "Animation Jury")
+  (dict "folder" "jury-long-form-series" "label" "Long Form Series Jury")
+  (dict "folder" "jury-pilots" "label" "Pilots Jury")
+  (dict "folder" "jury-pitch-contest" "label" "Pitch Contest Jury")
+}}
+
+<div class="list-columns {{ with .class }}{{ . }}{{ end }}" data-role="masonry">
+  {{ range $categories }}
+    {{ $catPath := printf "%s/%s" $jurySection .folder }}
+    {{ $section := site.GetPage $catPath }}
+    {{ if and $section $section.Pages }}
+    <div class="list-columns__item">
+      <h4>{{ .label }}</h4>
+      <ul class="list-columns__list">
+        {{ range $section.Pages }}
+        <li class="list-grid__list__item">
+          <span>{{ .Title }}</span>
+          {{ with .Params.shortdescription }}<em>{{ . }}</em>{{ end }}
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  {{ end }}
+</div>

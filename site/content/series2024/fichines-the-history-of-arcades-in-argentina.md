@@ -1,6 +1,9 @@
 ---
 title: "Fichines: The History of Arcades in Argentina (European Premiere)"
 image: /img/series/fichines-the-history-of-arcades-in-argentina.jpg
+nominations:
+  - category: best-documentary
+    winner: true
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/877638006?h=47533a3285" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

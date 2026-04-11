@@ -1,6 +1,13 @@
 ---
 title: The Care-Breakers (European Premiere)
 image: /img/series/the-care-breakers.jpg
+nominations:
+  - category: best-directing
+    credit: "Zoé Tremblay-Bianco"
+  - category: best-leading-performance
+    credit: "Tiffany Montambault"
+  - category: best-editing
+    credit: "Andrée-Anne Lavoie"
 ---
 
 ## The Care-Breakers (European Premiere)

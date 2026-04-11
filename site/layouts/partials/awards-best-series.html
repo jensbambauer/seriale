@@ -24,7 +24,7 @@
     {{ end }}
 {{ end }}
 
-<div class="list-columns" data-role="masonry">
+<div class="list-columns {{ with .class }}{{ . }}{{ end }}" data-role="masonry">
     <div class="list-columns__item">
         <h4>best series</h4>
         <ul class="list-columns__list">

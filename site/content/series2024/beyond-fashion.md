@@ -1,6 +1,8 @@
 ---
 title: Beyond Fashion (Season 2) (International Festival Premiere)
 image: /img/series/beyond-fashion.jpg
+nominations:
+  - category: best-documentary
 ---
 <iframe width="560" height="315" src="https://www.ardmediathek.de/video/beyond-fashion/trailer-beyond-fashion-staffel-2/ard-kultur/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy80NmZmNTJlYy1iOWY0LTQ5YTktODJhOS1lZGYzZjlkOWE2NmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

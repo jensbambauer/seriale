@@ -1,6 +1,17 @@
 ---
 title: Sasha Counters! (International Premiere)
 image: /img/series/sasha-counters.jpg
+nominations:
+  - category: best-directing
+    credit: "Anna Zaytseva"
+    winner: true
+  - category: best-leading-performance
+    credit: "Anna Potebnya"
+  - category: best-production-design
+    winner: true
+  - category: best-cinematography
+    credit: "Egor Vetokhin"
+    winner: true
 ---
 
 ## Sasha Counters! (International Premiere)

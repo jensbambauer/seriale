@@ -1,0 +1,29 @@
+{{/* 
+  speaker-list.html
+  
+  Displays speakers as a list using list-columns layout.
+  
+  Parameters:
+    - .data.year: The year to look up (e.g., "2024")
+    - .class: Optional extra CSS class
+*/}}
+
+{{ $year := .data.year | default "2024" }}
+{{ $speakerSection := printf "speakers%s" $year }}
+
+{{ $section := site.GetPage $speakerSection }}
+{{ if and $section $section.Pages }}
+<div class="list-columns {{ with .class }}{{ . }}{{ end }}" data-role="masonry">
+  <div class="list-columns__item">
+    <h4>Speakers</h4>
+    <ul class="list-columns__list">
+      {{ range $section.Pages }}
+      <li class="list-grid__list__item">
+        <span>{{ .Title }}</span>
+        {{ with .Params.shortdescription }}<em>{{ . }}</em>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
+{{ end }}

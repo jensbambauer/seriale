@@ -1,6 +1,10 @@
 ---
 title: Hogtown (Season 2) (International Premiere)
 image: /img/series/hogtown.jpg
+nominations:
+  - category: best-supporting-performance
+    credit: "Sandra Dorélas"
+    winner: true
 ---
 
 ## Hogtown (Season 2) (International Premiere)

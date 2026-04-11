@@ -1,6 +1,8 @@
 ---
 title: AD Maiora (International Premiere)
 image: /img/series/ad-maiora.jpg
+nominations:
+  - category: best-documentary
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oLVsOphqjL8?si=BJZhAczjaIZ-BkzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

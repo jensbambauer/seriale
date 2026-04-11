@@ -1,6 +1,13 @@
 ---
 title: Wipe me away (Season 2) (German Premiere)
 image: /img/series/wipe-me-away.jpg
+nominations:
+  - category: best-original-score
+    credit: "Joseph Marchand"
+  - category: best-cinematography
+    credit: "Philippe St-Gelais"
+  - category: best-ensemble-cast
+    winner: true
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/831267978?h=3f87830afa" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

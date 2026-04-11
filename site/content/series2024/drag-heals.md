@@ -1,6 +1,8 @@
 ---
 title: Drag Heals (Season 4) 
 image: /img/series/drag-heals.jpg
+nominations:
+  - category: best-documentary
 ---
 
 ## Drag Heals (Season 4) 

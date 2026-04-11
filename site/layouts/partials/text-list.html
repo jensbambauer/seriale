@@ -1,0 +1,14 @@
+{{/* List series titles as text */}}
+{{ with .data }}
+<div class="text-list">
+  {{ with .headline }}<h3>{{ . }}</h3>{{ end }}
+  {{ $pages := where $.Page.Site.Pages "Section" .list }}
+  {{ if $pages }}
+  <ul>
+    {{ range $pages }}
+    <li>{{ .Title }}{{ with .Params.origin }} ({{ . }}){{ end }}</li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</div>
+{{ end }}

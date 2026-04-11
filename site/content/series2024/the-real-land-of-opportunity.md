@@ -1,6 +1,8 @@
 ---
 title: The Real Land of Opportunity (German Premiere)
 image: /img/series/the-real-land-of-opportunity.jpg
+nominations:
+  - category: best-documentary
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/866962262?h=8c240c5832" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

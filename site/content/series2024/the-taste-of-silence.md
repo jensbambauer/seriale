@@ -1,6 +1,8 @@
 ---
 title: THE TASTE OF SILENCE (World Premiere)
 image: /img/series/the-taste-of-silence.jpg
+nominations:
+  - category: best-long-form-series
 ---
 
 ## THE TASTE OF SILENCE (World Premiere)

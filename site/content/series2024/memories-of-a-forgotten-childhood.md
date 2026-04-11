@@ -1,6 +1,9 @@
 ---
 title: Memories of a forgotten Childhood (World Festival Premiere)
 image: /img/series/memories-of-a-forgotten-childhood.jpg
+nominations:
+  - category: best-screenplay
+    credit: "Lars Smekal"
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/875485158?h=865e9dc332" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

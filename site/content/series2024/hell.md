@@ -1,6 +1,20 @@
 ---
 title: Hell
 image: /img/series/hell.jpg
+nominations:
+  - category: best-directing
+    credit: "Santiago Mouriño, Pablo Balmaceda"
+  - category: best-leading-performance
+    credit: "Agostina Inella"
+  - category: best-supporting-performance
+    credit: "Verónica Gerez"
+  - category: best-editing
+    credit: "Santiago Mouriño"
+  - category: best-original-score
+    credit: "Juan Manuel Ponce"
+    winner: true
+  - category: best-cinematography
+    credit: "Alejandro Ortiguera"
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/668658865?h=9e05ecd73b" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

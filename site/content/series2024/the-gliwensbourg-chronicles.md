@@ -1,6 +1,11 @@
 ---
 title: The Gliwensbourg Chronicles (World Premiere)
 image: /img/series/the-gliwensbourg-chronicles.jpg
+nominations:
+  - category: best-original-score
+    credit: "Guillaume Wilmot"
+  - category: best-production-design
+  - category: best-costume-design
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/huPPAW1hHS0?si=QWDXkBC_8cBIHPWL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

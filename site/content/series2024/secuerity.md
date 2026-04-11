@@ -1,6 +1,9 @@
 ---
 title: Secürity (World Premiere)
 image: /img/series/secuerity.jpg
+nominations:
+  - category: best-idea
+  - category: best-ensemble-cast
 ---
 <iframe width="560" height="315" src="https://app.frame.io/presentations/aaea4cf0-8c7f-4526-ad02-4acc288db586" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

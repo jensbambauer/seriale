@@ -1,6 +1,9 @@
 ---
 title: The Drop (European Premiere) 
 image: /img/series/the-drop.jpg
+nominations:
+  - category: best-costume-design
+  - category: best-idea
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9lrih624xBU?si=H1UyDHPmDb5eBy5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

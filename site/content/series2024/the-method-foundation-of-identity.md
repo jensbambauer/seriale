@@ -1,6 +1,10 @@
 ---
 title: The Method. Foundation of Identity (World Festival Premiere)
 image: /img/series/the-method.jpg
+nominations:
+  - category: best-leading-performance
+    credit: "Paola Barrientos"
+  - category: best-production-design
 ---
 <iframe width="560" height="315" src="https://player.vimeo.com/video/894505651?h=6cc1b08fd9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

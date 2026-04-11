@@ -1,6 +1,9 @@
 ---
 title: all the guests have left 
 image: /img/series/all-the-guests-have-left.jpg
+nominations:
+  - category: best-screenplay
+    credit: "Dion Schumann"
 ---
 
 ## all the guests have left 
