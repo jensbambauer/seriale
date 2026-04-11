@@ -62,6 +62,126 @@ sections:
   #     background: /img/be-part-of-it-bg.jpg
   #     href: https://dieseriale.sparqfest.live/en/index.html
   #     text: Watch Series
+  - partial: time-table
+    headline: schedule 2026
+    data:
+      days:
+        - title: June 11th
+          blocks:
+            - time: 3pm - 5pm
+              title: "WORKSHOP: From Idea to Pilot: Creating a Series That Can Actually Be Made - Part 1"
+              location: "Festival Hub, Kreuzplatz 7, Giessen<br/>by Florencia Sokol, Sofía Szelske<br/>by application form (starting soon)"
+              size: 4
+            - time: 7pm - 10pm
+              title: FOCUS HESSEN
+              location: Reception, Networking,<br/>Opening & Panel Discussions<br/>Lottehof, Wetzlar<br/>free entry
+              size: 4
+            - time: 10pm
+              title: Open Air Screening
+              location: "Screening Block 1<br/>Lottehof, Wetzlar<br/>free entry"
+              size: 4
+            - time: 11pm
+              title: Open Air Screening
+              location: "Screening Block 2<br/>Lottehof, Wetzlar<br/>free entry"
+              size: 4
+        - title: June 12th
+          blocks:
+            - time: 10am - 2:30pm
+              title: EDUCATIONAL
+              location: Conference Program<br/>Heyligenstaedt, Giessen<br/>free entry
+              size: 4
+            - time: 11:30am - 1pm
+              title: "WORKSHOP: Building effective content strategies across the different Social Media Platforms"
+              location: "Festival Hub, Kreuzplatz 7, Giessen<br/>by Sara Mauleón, Anne Schokominza Pfannestiel<br/>by registration (free entry)"
+              size: 4
+            - time: 2:30pm - 5pm
+              title: Film & Media MeetUp Live!
+              location: "Heyligenstaedt, Giessen<br/>free entry, by registration (starting soon)<br/>Signup for Speedmeetings</a>"
+              size: 4
+            - time: 6pm
+              title: OPENING & PREMIERES | with Q&A
+              location: Screening Block 3<br/>Kinocenter Giessen<br/>buy tickets on site & online
+              size: 4
+            - time: 8:30pm
+              title: SCREENING BLOCK 4 | with Q&A
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 9:45pm
+              title: SCREENING BLOCK 5 | with Q&A
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 11:15 - 2am
+              title: Networking Night
+              location: Stadcafe Giessen<br/>with festival pass only
+              size: 3
+        - title: June 13th
+          blocks:
+            - time: 10am - 2:30pm
+              location: Conference Program<br/>Stadttheater Giessen, Kleines Haus<br/> free entry
+              title: SERIALE PRO
+              size: 4
+            - time: 11:30am - 1:30pm
+              title: "WORKSHOP: From Idea to Pilot: Creating a Series That Can Actually Be Made - Part 2"
+              location: "Festival Hub, Kreuzplatz 7, Giessen<br/>by Florencia Sokol, Sofía Szelske<br/>by application form (starting soon)"
+              size: 4
+            - time: 3pm - 6pm
+              title: Pitch Contest
+              location: Stadttheater Giessen, Kleines Haus<br/> free entry, by registration
+              size: 3
+            - time: 6:30pm
+              title: Screening Block 6 | with Q&A
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 8:30pm
+              title: Screening Block 7 | with Q&A
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 10:30pm - 2am
+              title: Networking Night
+              location: Sattblau<br/>with festival pass only
+              size: 3
+  - partial: time-table
+    headline: schedule 2026
+    data:
+      days:
+        - title: June 14th
+          blocks:
+            - time: 10am - 4pm
+              title: "DIMA DIGITAL MARKET"
+              location: Business Meetings & Round Tables<br/>Kongresshalle Giessen<br/>by registration only
+              size: 4
+            - time: 3pm
+              title: SCREENING BLOCK 8
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 4:30pm
+              title: SCREENING BLOCK 9
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
+            - time: 6pm - 8:30pm
+              title: RED CARPET
+              location: City Hall Giessen<br/>by invitation only
+              size: 3
+            - time: 8:30pm - 10pm
+              title: 12th AWARD CEREMONY OF DIE SERIALE
+              location: City Hall Giessen<br/>by invitation only
+              size: 3
+            - time: 10:30pm - 3am
+              title: Aftershow
+              location: Âu Lac<br/>by invitation only
+              size: 3
+        - title: June 15th
+          blocks:
+            - time: 12pm - 8pm
+              title: LOCATION TOUR
+              location: Wetzlar, Braunfels<br/>by invitation only
+              size: 4
+        - title: June 16th
+          blocks:
+            - time: 5pm - 7pm
+              title: SCREENING BLOCK 10
+              location: Kinocenter Giessen<br/>buy tickets on site & online
+              size: 3
   # - partial: time-table
   #   headline: schedule 2025
   #   data:
