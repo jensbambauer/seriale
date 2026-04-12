@@ -87,7 +87,7 @@
       color: var(--mainColor);
       height: auto;
       font-size: 16px;
-      padding: 12px 4px;
+      padding: 12px 8px;
     }
   }
 
@@ -100,7 +100,7 @@
   .list-columns__item--highlight {
     background: var(--mainColor);
     color: white;
-    padding-left: 4px;
+    padding: 4px 4px;
   }
 }
 
@@ -134,4 +134,3 @@
     padding-top: 12px;
   }
 }
-

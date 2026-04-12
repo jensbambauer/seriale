@@ -14,7 +14,7 @@ import pageTransition from "./components/page-transition";
 import overlay from "./components/overlay";
 import stickyHeader from "./components/sticky-header";
 import stage from "./components/stage";
-import masonryGrid from "./components/masonry";
+import masonryGrid, { refreshMasonry } from "./components/masonry";
 import lazyLoad from "./components/lazyLoad";
 import twitch from "./components/twitch";
 
@@ -82,3 +82,10 @@ if (scrollbar) {
   stickyHeader(scrollbar);
 }
 // pageTransition(init, scrollbar);
+
+// Tab change listener - refresh masonry layouts when switching tabs
+document.querySelectorAll('input[name="tabs"]').forEach((input) => {
+  input.addEventListener("change", () => {
+    setTimeout(refreshMasonry, 50);
+  });
+});
