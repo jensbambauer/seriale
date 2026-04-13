@@ -26,8 +26,27 @@
     {{ end }}
     {{/* Sort by weight */}}
     {{ $pages = $pages.ByWeight }}
+    {{ $nolink := .nolink }}
     {{ range $pages }} {{ if .Params.Image }}
     <li class="teaser-grid__list__item">
+      {{ if $nolink }}
+      <div>
+        <picture>
+          <source
+            media="(max-width: 767px)"
+            sizes="1px"
+            srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w"
+          />
+          <source media="(min-width: 768px)" srcset="{{ .Params.Image | safeURL }}" />
+          <img src="{{ .Params.Image }}" alt="{{.Title}}" />
+        </picture>
+
+        <h4>{{ .Title }}</h4>
+        {{ if .Params.Shortdescription }}
+        <p>{{ .Params.Shortdescription }}</p>
+        {{ end }}
+      </div>
+      {{ else }}
       <a href="{{ .Permalink }}" data-role="overlay-wide" data-barba-prevent>
         <picture>
           <source
@@ -44,6 +63,7 @@
         <p>{{ .Params.Shortdescription }}</p>
         {{ end }}
       </a>
+      {{ end }}
     </li>
     {{ end }} {{ end }} {{ range .teasers}}
     <li class="teaser-grid__list__item">

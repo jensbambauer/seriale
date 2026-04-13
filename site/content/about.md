@@ -15,6 +15,7 @@ sections:
     headline: Team
     data:
       col4: true
+      nolink: true
       list: team2026
   - partial: text-plain
     headline: connect with us
