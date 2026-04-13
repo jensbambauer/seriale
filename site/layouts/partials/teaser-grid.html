@@ -24,6 +24,8 @@
       {{/* Simple section name */}}
       {{ $pages = where $.Page.Site.Pages "Section" .list }}
     {{ end }}
+    {{/* Sort by weight */}}
+    {{ $pages = $pages.ByWeight }}
     {{ range $pages }} {{ if .Params.Image }}
     <li class="teaser-grid__list__item">
       <a href="{{ .Permalink }}" data-role="overlay-wide" data-barba-prevent>
