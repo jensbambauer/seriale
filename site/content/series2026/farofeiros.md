@@ -1,4 +1,6 @@
 ---
-title: "Farofeiros"
+title: Farofeiros
 origin: Brazil
+nominations: []
 ---
+tba
