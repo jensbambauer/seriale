@@ -31,6 +31,7 @@ sections:
         - best-long-form-series
         - best-documentary
         - best-animation
+        - best-vertical-series
         - best-pitch
   - partial: text
     headline: "Partner Festivals - Direct Selections"

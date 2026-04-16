@@ -73,6 +73,7 @@ const awardCategories = [
   { label: "Best Long Form Series", value: "best-long-form-series" },
   { label: "Best Documentary", value: "best-documentary" },
   { label: "Best Animation", value: "best-animation" },
+  { label: "Best Vertical Series", value: "best-vertical-series" },
 ];
 
 // Nominations field for series/pilots
