@@ -1,6 +1,8 @@
 ---
 title: Farofeiros
 origin: Brazil
-nominations: []
+nominations:
+  - winner: false
+    category: best-vertical-series
 ---
 tba
