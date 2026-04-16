@@ -24,6 +24,10 @@ sections:
         #     text: view now
         #     href: /awards-2025
         # - headline: submissions for die seriale 2026 are closed
+        - headline: nominations 2026
+          button:
+            text: view now
+            href: /nominations-2026
         - headline: official selection 2026
           button:
             text: view now

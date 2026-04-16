@@ -12,10 +12,10 @@ sections:
           #   text: watch trailer
           #   href: /festival-trailer
         - headline: The festival
-          button:
-            overlay: true
-            text: watch trailer
-            href: /festival-trailer
+          # button:
+          #   overlay: true
+          #   text: watch trailer
+          #   href: /festival-trailer
         # - headline: nominees & winners 2020
         #   button:
         #     text: view now
@@ -74,8 +74,8 @@ sections:
     headline: award ceremony
     data:
       image: /img/new-awards.jpg
-      headline: "11th annual Award Ceremony of die Seriale"
-      text: "At our Award Ceremony the most outstanding series and pilots will be honored. A total of 17 winners, selected by an international jury of experts, will take home the Seriale award. The evening will be moderated by Daria Solovieva, Robert Schäfer and Amarú Frida. This year's Award Ceremony will once again be accentuated with music by the pianist Lada Nevmyatullina."
+      headline: "12th annual Award Ceremony of die Seriale"
+      text: "At our Award Ceremony the most outstanding series and pilots will be honored. A total of 18 winners, selected by an international jury of experts, will take home the Seriale award. The evening will be moderated by Daria Solovieva, Robert Schäfer and Amarú Frida. This year's Award Ceremony will once again be accentuated with music by the pianist Lada Nevmyatullina."
   - partial: text-and-image
     headline: educational
     data:
