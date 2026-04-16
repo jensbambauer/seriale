@@ -381,7 +381,6 @@ sections:
         - image: /img/impressions-2026/240602-SERIALE_RP_3811-FullRes.jpg
         - image: /img/impressions-2026/awards-240602-SERIALE-2024_RP_2675-FullRes.jpg
         - image: /img/impressions-2026/250615-SERIALE_RP_3923-FullRes.jpg
-        - image: /img/impressions-2026/250615-SERIALE_RP_3923-FullRes.jpg
         - image: /img/impressions-2026/250615-SERIALE_RP_3831-FullRes.jpg
         - image: /img/impressions-2026/awards-250615-SERIALE_RP_2083-2048Px.jpg
         - image: /img/impressions-2026/awards-250615-SERIALE_RP_3506-2048Px.jpg
