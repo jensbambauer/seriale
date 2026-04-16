@@ -15,6 +15,7 @@ const CONFIG = {
   'series': { width: 400, height: 225, fit: 'cover' },
   'pilots': { width: 400, height: 225, fit: 'cover' },
   'team': { width: 311, height: 311, fit: 'cover' },
+  'impressions-': { width: 970, height: 647, fit: 'cover' },
 };
 
 const IMG_DIR = path.join(__dirname, '../site/static/img');
