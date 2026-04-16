@@ -6,11 +6,7 @@ sections:
     data:
       headline: best series
       paragraphs:
-        - text: "The nominations for BEST SERIES will be announced during the Opening Ceremony of the 12th DIE SERIALE. The BEST SERIES award includes prize money of 1.000 €."
-  - partial: awards-best-series
-    smallmargin: true
-    data:
-      year: "2026"
+        - text: "All narrative short form series are nominated for BEST SERIES."
   - partial: awards-from-series
     smallmargin: true
     data:

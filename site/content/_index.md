@@ -298,7 +298,7 @@ sections:
         - title: submit series
           partial: tab-text
           data:
-            headline: Submissions for 2025 are closed
+            headline: Submissions for 2026 are closed
             text: ""
   #       # - title: in person & digital event
   #       #   partial: tab-text
