@@ -380,8 +380,8 @@ sections:
         - image: /img/impressions-2026/240602-SERIALE_RP_2407-FullRes.jpg
         - image: /img/impressions-2026/240602-SERIALE_RP_3811-FullRes.jpg
         - image: /img/impressions-2026/awards-240602-SERIALE-2024_RP_2675-FullRes.jpg
-        - image: /img/impressions-250615-SERIALE_RP_3831-FullRes
-        - image: /img/impressions-250615-SERIALE_RP_3923-FullRes
+        - image: /img/impressions-2026/impressions-250615-SERIALE_RP_3831-FullRes.jpg
+        - image: /img/impressions-2026/impressions-250615-SERIALE_RP_3923-FullRes.jpg
         - image: /img/impressions-2026/230619_RP_4997-SERIALE-2023-FullRes.jpg
         - image: /img/impressions-2026/awards-250615-SERIALE_RP_2083-2048Px.jpg
         - image: /img/impressions-2026/awards-250615-SERIALE_RP_3506-2048Px.jpg
@@ -389,7 +389,7 @@ sections:
         - image: /img/impressions-2026/dima-ds11-giessen-15062025-hofacker-4991.jpg
         - image: /img/impressions-2026/GRUPPENFOTO-by-Christoforos-Mechanezidis-250613-SERIALE-079-2048Px.jpg
         - image: /img/impressions-2026/kino-2-250613-SERIALE-073-FullRes.jpg
-        - image: /img/impressions-250613-SERIALE-092-FullRes
+        - image: /img/impressions-2026/impressions-250613-SERIALE-092-FullRes.jpg
         - image: /img/impressions-2026/kino-3-250613-SERIALE-109-FullRes.jpg
         - image: /img/impressions-2026/kino-ds11-giessen-13062025-hofacker-2070.jpg
         - image: /img/impressions-2026/kino-ds11-giessen-13062025-hofacker-2085.jpg
