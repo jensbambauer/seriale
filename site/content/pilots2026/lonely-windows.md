@@ -1,4 +1,8 @@
 ---
-title: "Lonely Windows"
+title: Lonely Windows
 origin: Russia
+nominations:
+  - winner: false
+    category: best-pilot
 ---
+tba
