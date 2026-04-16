@@ -1,6 +1,8 @@
 ---
 title: 2 Aliens
 origin: Germany
-nominations: []
+nominations:
+  - winner: false
+    category: best-animation
 ---
 desc
