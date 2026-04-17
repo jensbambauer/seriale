@@ -12,8 +12,8 @@ const __dirname = path.dirname(__filename);
 const CONFIG = {
   'jury-': { width: 526, height: 526, fit: 'cover' },
   'speakers': { width: 526, height: 526, fit: 'cover' },
-  'series': { width: 400, height: 225, fit: 'cover' },
-  'pilots': { width: 400, height: 225, fit: 'cover' },
+  'series': { width: 1080, height: 608, fit: 'cover' },  // 16:9 für Overlay
+  'pilots': { width: 1080, height: 608, fit: 'cover' },  // 16:9 für Overlay
   'team': { width: 311, height: 311, fit: 'cover' },
   'impressions-': { width: 970, height: 647, fit: 'cover' },
 };
