@@ -1,12 +1,6 @@
 {{/* Series layout - used for series pages */}}
 <div class="series">
-  {{ with .Params.image }}
-  <img src="{{ . }}" alt="{{ $.Title }}" class="series__image">
-  {{ end }}
-  
-  <h1 class="series__title">{{ .Title }}</h1>
-  
-  {{/* Trailer embed */}}
+  {{/* Video oder Bild (Video hat Priorität) */}}
   {{ with .Params.trailer }}
     {{ $trailerUrl := . }}
     <div class="series__trailer">
@@ -31,7 +25,16 @@
         {{ end }}
       {{ end }}
     </div>
+  {{ else }}
+    {{/* Nur Bild anzeigen wenn kein Video vorhanden */}}
+    {{ with .Params.image }}
+    <div class="series__image-container">
+      <img src="{{ . }}" alt="{{ $.Title }}" class="series__image">
+    </div>
+    {{ end }}
   {{ end }}
+  
+  <h1 class="series__title">{{ .Title }}</h1>
   
   {{/* Metadata */}}
   <div class="series__metadata">

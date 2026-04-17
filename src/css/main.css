@@ -28,6 +28,7 @@
 @import "./imports/_grid.css";
 @import "./imports/_program.css";
 @import "./imports/_overlay.css";
+@import "./imports/_series.css";
 
 body {
   font-family: Roboto;
