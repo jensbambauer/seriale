@@ -1,7 +1,7 @@
 ---
 title: Series 2026
 sections:
-  - partial: teaser-grid
+  - partial: thumb-grid
     headline: Official Selection
     data:
       list: series2026
