@@ -16,5 +16,6 @@ nominations:
     credit: Simon Lamarre-Ledoux
   - winner: false
     category: best-production-design
+    credit: Paskale Jobin
 ---
 tba
