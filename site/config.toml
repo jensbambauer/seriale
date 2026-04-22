@@ -37,11 +37,11 @@ languageCode = "en-us"
     # url        = "/jury/"
     # weight     = 5
     #
-    # [[menu.main]]
-    # identifier = "program"
-    # name       = "Program"
-    # url        = "/program/"
-    # weight     = 6
+    [[menu.main]]
+    identifier = "program"
+    name       = "Program"
+    url        = "/program-2026/"
+    weight     = 6
     
     # [[menu.main]]
     # identifier = "blog"

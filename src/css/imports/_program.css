@@ -37,6 +37,10 @@
       padding: 4px 10px;
       align-items: baseline;
 
+      @media (--small-viewport) {
+        flex-direction: column-reverse;
+      }
+
       &--1 {
         width: 192px;
         max-width: 100%;
@@ -51,12 +55,20 @@
       }
       &--4 {
         width: 60%;
+
+        @media (--small-viewport) {
+          width: 100%;
+        }
       }
 
       time {
         font-size: 24px;
         font-weight: 700;
         line-height: 1.5;
+
+        @media (--small-viewport) {
+          font-size: 14px;
+        }
       }
 
       small {
@@ -64,6 +76,10 @@
         font-weight: bold;
         text-transform: uppercase;
         margin-left: auto;
+
+        @media (--small-viewport) {
+          margin-left: 0;
+        }
       }
     }
     &__body {
@@ -75,7 +91,9 @@
       h4 {
         margin-bottom: 0;
       }
-      p, ul, li {
+      p,
+      ul,
+      li {
         color: #808080;
         max-width: 960px;
       }
