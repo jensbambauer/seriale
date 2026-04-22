@@ -1,5 +1,6 @@
 ---
 title: nominations 2022 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: text
     headline: Nominees 2022

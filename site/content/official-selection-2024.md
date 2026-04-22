@@ -1,5 +1,6 @@
 ---
 title: official selection 2024 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: list-grid
     headline: official selection 2024
@@ -16,14 +17,14 @@ sections:
           origin: Argentina
         - title: Becoming Charlie
           origin: Germany
-        - title: "Beyond Fashion (Season 2)" 
+        - title: "Beyond Fashion (Season 2)"
           origin: Germany
         - title: Content Farm
           origin: Canada
         - title: "Drag Heals (Season 4)"
           origin: Canada
         - title: "Eva. Connected Through Time"
-          origin: Russian Federation 
+          origin: Russian Federation
         - title: Family Therapy
           origin: Argentina
         - title: "Fichines: The History of Arcades in Argentina"
@@ -60,9 +61,9 @@ sections:
           origin: Uruguay
         - title: Protected Space
           origin: Israel
-        - title: "Roommate Quest!" 
+        - title: "Roommate Quest!"
           origin: Germany
-        - title: "Sasha Counters!" 
+        - title: "Sasha Counters!"
           origin: Russian Federation
         - title: "Secürity"
           origin: Germany
@@ -72,8 +73,8 @@ sections:
           origin: Switzerland
         - title: "The Care-Breakers"
           origin: Canada
-        - title: The Drop 
-          origin: Canada 
+        - title: The Drop
+          origin: Canada
         - title: The Gliwensbourg Chronicles
           origin: France
         - title: "The Kirlian Frequency (Season 2)"
@@ -89,25 +90,25 @@ sections:
         - title: "Wipe me away (Season 2)"
           origin: Canada
         - title: "With Grace (Season 3)"
-          origin: Australia 
+          origin: Australia
   - partial: list-grid
     data:
       headline: pilots
       list:
-        - title: "CCF's Solstice Stories" 
+        - title: "CCF's Solstice Stories"
           origin: Canada
         - title: Earthlings
           origin: Germany
-        - title: "The Last Monkey" 
+        - title: "The Last Monkey"
           origin: Spain
         - title: For Years to Come
           origin: United States
-        - title: Lady Priest 
+        - title: Lady Priest
           origin: Australia
         - title: Pulp Air
           origin: Spain
         - title: Strauss in the head
           origin: Germany
         - title: The Folks
-          origin: Germany 
+          origin: Germany
 ---

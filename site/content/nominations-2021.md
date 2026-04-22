@@ -1,5 +1,6 @@
 ---
 title: nominations 2021 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: text
     headline: Nominees 2021
@@ -49,7 +50,7 @@ sections:
               origin: <b>Malena Filmus &</b><b> Matías Sirota</b>
         - headline: best cinematography
           list:
-            - title: "22 / Vinte e Dois" 
+            - title: "22 / Vinte e Dois"
               origin: Plinio Scambora
             - title: 6 MM
               origin: <b>Kamil Małecki &</b><b> Piotr Lebek</b>
@@ -73,7 +74,7 @@ sections:
               origin: Muriel Dutil
             - title: Emmy & Christin
               origin: "Anna-Marlene Wirtz"
-            - title: "Emmy & Christin" 
+            - title: "Emmy & Christin"
               origin: Elena Halangk
             - title: Fake Live
               origin: Fernanda Paes Leme
@@ -98,11 +99,11 @@ sections:
             - title: Metta da fein
               origin: René Schnoz
             - title: "Miliz!"
-              origin: Miguel Abrantes Ostrowski 
+              origin: Miguel Abrantes Ostrowski
             - title: Neptunia
               origin: Dario Amado
         - headline: best ensemble cast
-          list: 
+          list:
             - title: 2 Minutes
               origin:
             - title: Cancelled
@@ -118,7 +119,7 @@ sections:
             - title: People Like Us (Season 2)
               origin:
             - title: Trust us and be patient
-              origin:	  
+              origin:
         - headline: best supporting actress
           list:
             - title: 2 Minutes
@@ -236,7 +237,7 @@ sections:
             - title: Resistance
               origin: Benjamin Ribolet
         - headline: best idea
-          list: 
+          list:
             - title: Fake Live
               origin:
             - title: "GinGin~PomPom~PomPommes"
@@ -257,15 +258,15 @@ sections:
         - headline: best animation
           list:
             - title: Bizarre Creatures
-              origin: 
+              origin:
             - title: Dead End
               origin:
             - title: Forest League
               origin:
             - title: Monster Week
-              origin:  
+              origin:
             - title: Wunschlos hubbelig
-              origin:  
+              origin:
         - headline: best documentary
           list:
             - title: "Buschka discovers Germany - Show Me Your East Side! (Season 3)"
@@ -301,4 +302,3 @@ sections:
             - title: World League of Myth and Heroes
               origin:
 ---
-

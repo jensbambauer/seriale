@@ -1,5 +1,6 @@
 ---
 title: Jury 2022
+robots: noindex, nofollow
 sections:
   - partial: teaser-grid
     headline: Jury Series

@@ -1,5 +1,6 @@
 ---
 title: nominees and winners 2020 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: text
     headline: Nominees & Winners 2020
@@ -22,7 +23,7 @@ sections:
           list:
             - origin: Christian Stadach
               title: Anomalie (S1P2)
-            - origin: '<b>Facundo Nuble,</b><b>Gastón Armagno</b>'
+            - origin: "<b>Facundo Nuble,</b><b>Gastón Armagno</b>"
               title: Fehler 78
             - origin: Mark Lorei
               title: Haus Kummerveldt
@@ -58,7 +59,7 @@ sections:
               highlight: true
         - headline: best cinematography
           list:
-            - title: Anomalie (S1P2) 
+            - title: Anomalie (S1P2)
               origin: Marco Eisenbarth
             - title: Butterfly Dream
               origin:
@@ -69,7 +70,7 @@ sections:
             - title: Sicilian Rhapsody
               origin: Nicolò Cappello
             - title: The First Shot
-              origin: 
+              origin:
             - title: True Demon
               origin: Max Lais
               highlight: true
@@ -103,7 +104,7 @@ sections:
               origin: Andrea Vélazquez
             - title: "Pepper: Ricochet"
               origin: Caris Vujcec
-            - title: Ratée Sans Avenir 
+            - title: Ratée Sans Avenir
               origin: Caroline Chirache
             - title: Singles’ Diaries
               origin: Lena Meckel
@@ -130,7 +131,7 @@ sections:
             - title: Slippers
               origin: Alexandre Kominek
             - title: The Man for Your Sins (S2)
-              origin: Hannes Hellmann 
+              origin: Hannes Hellmann
             - title: What Happened to Mirae
               origin: Kangin
 
@@ -147,7 +148,7 @@ sections:
               highlight: true
             - title: Utopia Planitia
               origin: Kendra Alaura
-            - title: Whatever 
+            - title: Whatever
               origin: Pin Montané
 
         - headline: best supporting actor
@@ -247,7 +248,7 @@ sections:
               origin:
 
         - headline: best ensemble cast
-          list: 
+          list:
             - title: Carpark Clubbing
               origin:
               highlight: true
@@ -263,11 +264,11 @@ sections:
               origin:
             - title: "Or So the Story Goes: Knock Knock"
               origin:
-            - title: The Way to Sangju	
+            - title: The Way to Sangju
               origin:
 
         - headline: innovation award
-          list: 
+          list:
             - title: ALT ESC
               origin:
             - title: Collegiate Assessor
@@ -338,4 +339,3 @@ sections:
             - title: Wolfgang Doe
               origin:
 ---
-

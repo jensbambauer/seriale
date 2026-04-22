@@ -1,5 +1,6 @@
 ---
 title: nominees and winners 2024 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: text
     headline: Nominees & Winners 2024
@@ -15,7 +16,7 @@ sections:
           list:
             - origin:
               title: "2 Minutes - 24/7"
-              highlight: true      
+              highlight: true
   - partial: list-columns
     smallmargin: true
     data:
@@ -340,5 +341,5 @@ sections:
     data:
       headline: Series Jury | Statement for Best Cinematography
       paragraphs:
-        - text: "Many of the projects this year had impressed us with their craftsmanship when it came to cinematography. The director of photography of one particular project took great care and had incredible attention to detail, thinking about how the lighting in every corner of the frame and in the foreground and background of shots impacts the story and how we connect to the characters."       
+        - text: "Many of the projects this year had impressed us with their craftsmanship when it came to cinematography. The director of photography of one particular project took great care and had incredible attention to detail, thinking about how the lighting in every corner of the frame and in the foreground and background of shots impacts the story and how we connect to the characters."
 ---

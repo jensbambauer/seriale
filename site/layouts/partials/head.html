@@ -24,6 +24,10 @@
     content="die seriale is the oldest festival in Germany dedicated to present and celebrate digital series."
   />
 
+  {{ with .Params.robots }}
+    <meta name="robots" content="{{ . }}" />
+  {{ end }}
+
   <!-- Open Graph -->
   <meta
     property="og:description"

@@ -1,5 +1,6 @@
 ---
 title: official selection 2025 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: list-grid
     headline: official selection 2025
@@ -16,14 +17,14 @@ sections:
           origin: France
         - title: Closure
           origin: Australia
-        - title: "Collaborate & Listen" 
+        - title: "Collaborate & Listen"
           origin: United States
         - title: Depois do fim
           origin: Brazil
         - title: Der kleine Tod
           origin: Austria
         - title: Explorando el Norte
-          origin: Spain 
+          origin: Spain
         - title: "FEELINGS (Season 2)"
           origin: Germany
         - title: For the Drama
@@ -60,9 +61,9 @@ sections:
           origin: Argentina
         - title: "Ren: The Girl with the Mark (Season 2)"
           origin: United Kingdom
-        - title: SAM 
+        - title: SAM
           origin: Iran
-        - title: So Dark the Sky 
+        - title: So Dark the Sky
           origin: Canada
         - title: Soul Shift
           origin: Germany
@@ -72,8 +73,8 @@ sections:
           origin: Switzerland
         - title: Tender and Loud
           origin: Russia
-        - title: The Big House 
-          origin: Uruguay 
+        - title: The Big House
+          origin: Uruguay
         - title: "The Geese Palace (Season 2)"
           origin: Argentina
         - title: The Primeval Father
@@ -90,15 +91,15 @@ sections:
     data:
       headline: pilots
       list:
-        - title: "He'll Be Home for Christmas" 
+        - title: "He'll Be Home for Christmas"
           origin: United States
         - title: House of Switzerland
           origin: Switzerland
-        - title: "Huldufólk - A hidden world" 
+        - title: "Huldufólk - A hidden world"
           origin: Germany
         - title: SALT CURED LIFE
           origin: United States
-        - title: "The Blocker - Dream Job: Film Industry" 
+        - title: "The Blocker - Dream Job: Film Industry"
           origin: Germany
         - title: Venus Under Threat
           origin: "Argentina, Spain"

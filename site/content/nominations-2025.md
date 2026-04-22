@@ -1,5 +1,6 @@
 ---
 title: nominations 2025 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: text
     headline: nominees 2025

@@ -1,5 +1,6 @@
 ---
 title: 10th International Series Festival Giessen
+robots: noindex, nofollow
 sections:
   - partial: tabs
     widesection: true
@@ -35,7 +36,7 @@ sections:
                       hosts:
                         - name: Can Taş, Daria Solovieva
                     - title: Champagne reception and networking
-                      details: 
+                      details:
                       length: 2
                       datetime: 2023-06-14
                       time: 19:30 | 7:30pm
@@ -50,15 +51,15 @@ sections:
                       panelists:
                         - name: Magdalena Kaim
                           link: magdalena-kaim
-                        - name: Kathrin Göpfert 
+                        - name: Kathrin Göpfert
                           link: kathrin-goepfert
-                        - name: Nicolas Gebbe 
-                          link: nicolas-gebbe 
-                        - name: Zora Lewiz Link 
+                        - name: Nicolas Gebbe
+                          link: nicolas-gebbe
+                        - name: Zora Lewiz Link
                           link: zora-lewiz-link
-                        - name: Malin Rudloff 
-                          link: malin-rudloff 
-                        - name: Dietrich Faber 
+                        - name: Malin Rudloff
+                          link: malin-rudloff
+                        - name: Dietrich Faber
                           link: dietrich-faber
                     - title: "Focus Hessen: Reunion with Hessian creators from previous years"
                       length: 3
@@ -68,7 +69,7 @@ sections:
                       moderator:
                         - name: Can Taş
                       panelists:
-                        - name: Elena Halangk 
+                        - name: Elena Halangk
                           link: elena-halangk
                         - name: Josia Krug
                           link: josia-krug
@@ -156,19 +157,19 @@ sections:
                     - title: "The Creative Process in Digital Series: A Panel of Experts"
                       length: 2
                       time: 10:15 | 10:15am
-                      type: Panel Discussion 
+                      type: Panel Discussion
                       details: "In our first Creators Panel, the series creators of this year’s Official Selection will talk about their works. What inspired them? Which message(s) do they want to send with their series? And what advice would they like to give aspiring creators on their journey into the film industry?"
                       moderator:
                         - name: Dipu Bhattacharya
                           link: dipu-bhattacharya
                       panelists:
-                        - name: Kyle Leland Cullerton  
-                          link: kyle-leland-cullerton 
-                        - name: Mel House  
-                          link: mel-house 
-                        - name: Rose of Dolls 
+                        - name: Kyle Leland Cullerton
+                          link: kyle-leland-cullerton
+                        - name: Mel House
+                          link: mel-house
+                        - name: Rose of Dolls
                           link: rose-of-dolls
-                        - name: Ruairi Glasheen 
+                        - name: Ruairi Glasheen
                           link: ruairi-glasheen
                     - title: "AI - The Good, the Bad and the Future"
                       type: Panel Discussion
@@ -179,14 +180,14 @@ sections:
                         - name: Isabella Pianto
                       panelists:
                         - name: Angela Krewani
-                          link: angela-krewani 
-                        - name: Thomas Krupa 
-                          link: thomas-krupa 
-                        - name: Patrick Schimanski 
+                          link: angela-krewani
+                        - name: Thomas Krupa
+                          link: thomas-krupa
+                        - name: Patrick Schimanski
                           link: patrick-schimanski
-                        - name: Waref Abu Quba 
+                        - name: Waref Abu Quba
                           link: waref-abu-quba
-                        - name: ChatGPT 
+                        - name: ChatGPT
                           link: chatgpt
                     - title: "Gender Onscreen: The Constructions of Gender and Identity in Digital Series."
                       type: Panel Discussion
@@ -194,17 +195,17 @@ sections:
                       time: 12:00 | 12:00pm
                       details: "This panel discusses the representation of gender roles in audiovisual media. With examples from this year's Official Selection, this panel will reflect on the constructions of identities and gender roles in series."
                       moderators:
-                        - name: Isabella Pianto 
+                        - name: Isabella Pianto
                         - name: Anne Failing
                       panelists:
-                        - name: Felix Hasebrink 
+                        - name: Felix Hasebrink
                           link: felix-hasebrink
-                        - name: Mikel Ayllon 
+                        - name: Mikel Ayllon
                           link: mikel-ayllon
-                        - name: Ineke Hagedorn 
-                          link: ineke-hagedorn 
-                        - name: Susanne Bauer 
-                          link: susanne-bauer       
+                        - name: Ineke Hagedorn
+                          link: ineke-hagedorn
+                        - name: Susanne Bauer
+                          link: susanne-bauer
                     - title: Break
                       length: 2
                       type: break
@@ -216,58 +217,58 @@ sections:
                       time: 13:30 | 1:30pm
                       details: "In our second Creators Panel, the series creators of this year's Official Selection will talk about their projects and the creative process of their work. Where do they get inspiration and what challenges do they face from the basic idea to the realization?"
                       moderator:
-                        - name: Mariia Eliseeva 
+                        - name: Mariia Eliseeva
                       panelists:
-                        - name: Ludmila Wagnest 
+                        - name: Ludmila Wagnest
                           link: ludmila-wagnest
-                        - name: Mathilde Bourbin 
-                          link: mathilde-bourbin 
-                        - name: Frédéric Zeimet 
+                        - name: Mathilde Bourbin
+                          link: mathilde-bourbin
+                        - name: Frédéric Zeimet
                           link: frederic-zeimet
-                        - name: Lukas Lankisch 
+                        - name: Lukas Lankisch
                           link: lukas-lankisch
-                        - name: Marco Hülser 
+                        - name: Marco Hülser
                           link: marco-huelser
-                        - name: Daniel Popat 
-                          link: daniel-popat 
+                        - name: Daniel Popat
+                          link: daniel-popat
                     - title: "Die Wand (360°) - Film as a sensually perceptible experience"
-                      type: Talk 
+                      type: Talk
                       length: 3
                       time: 14:00 | 2pm
                       details: "Director Thomas Krupa and VR Artist Tobias Biesecke will present and speak about their VR film “Die Wand (360°)”. The possibilities of VR in general and for series will be discussed. Visitors will have the opportunity to watch “Die Wand (360°)” during the Educational."
                       moderator:
-                        - name: Isabella Pianto 
+                        - name: Isabella Pianto
                       panelists:
-                        - name: Thomas Krupa 
-                          link: thomas-krupa 
-                        - name: Tobias Bieseke 
+                        - name: Thomas Krupa
+                          link: thomas-krupa
+                        - name: Tobias Bieseke
                           link: tobias-bieseke
                     - title: "“Die Wand (360°)” - VR-Experience"
-                      type: VR-Screenings 
+                      type: VR-Screenings
                       length: 3
                       time: 10:00 - 19:30 | 10am - 7:30pm
                       details: 'Start times: 10am - 11:20am | 11:30am - 12:50pm | 1pm - 2:20pm | 2:30 - 3:20pm | 4:00pm - 5:20pm | 5:30pm - 6:50pm (5 visitors per screening)<br/>Country: Germany | Genre: Drama, Mystery | Runtime: 80 min<br/>Creator & Director: Thomas Krupa<br/>Writer/Novel: Marlen Haushofer<br/>VR-Artist: Tobias Bieseke<br/>Producer: Schauspiel Essen<br/>Main Cast: Floriane Kleinpaß, Alexey Ekimov, Sabine Osthoff, Stefan Migge, Stefan Diekmann <br/><br/>Visitors of the Educational can watch the VR film “Die Wand (360°)” at the specified start times. The film was made at “Schauspiel Essen” and is based on the novel by Marlen Haushofer, the VR version was created by Thomas Krupa.<br/><br/> Suddenly there is a wall. In the middle of the landscape - invisible, impenetrable, endless. Yesterday, the nameless woman was waving at her cousin and her husband, who were only going into the village for a short while - today she wakes up and is alone in their hunting lodge. Only the dog Luchs is still with her. Outside the wall there is complete standstill, inside the will to survive of those left behind awakens. Together with some animal companions, the narrator gets to know the beauty and horror of untamed nature far away from any civilisation, experiences moments of great sadness and surprising contentment, feels loneliness and freedom in equal measure. Just when she no longer expects it, a man suddenly appears in the seclusion of her existence. Is this the end of the nightmare? Or its beginning?<br/><br/><a class="button" href="https://stadttheater-giessen.de/de/veranstaltungen/extras/die-wand/">get tickets</a>'
                     - title: "Let's change the picture together"
-                      type: Panel Discussion 
+                      type: Panel Discussion
                       length: 3
                       time: 14:30 | 2:30pm
                       details: "In this panel discussion we talk about the inequality of women* in the film industry. Together with ProQuote Film and international guest, we will ask about the conditions and role models that we can create ourselves to improve the status quo. If you can see it, you can be it!"
                       moderator:
-                        - name: Johanna Polley 
+                        - name: Johanna Polley
                           link: johanna-polley
                       panelists:
                         - name: Eva Maria Sommersberg
                           link: eva-maria-sommersberg
-                        - name: Mathilde Bourbin 
+                        - name: Mathilde Bourbin
                           link: mathilde-bourbin
-                        - name: Rose of Dolls 
+                        - name: Rose of Dolls
                           link: rose-of-dolls
-                        - name: Ineke Hagedorn 
-                          link: ineke-hagedorn 
-                        - name: Young Man Kang 
+                        - name: Ineke Hagedorn
+                          link: ineke-hagedorn
+                        - name: Young Man Kang
                           link: young-man-kang
                     - title: "Film & Media MEETUP Live"
-                      type: Networking 
+                      type: Networking
                       length: 3
                       time: 15:30 | 3:30pm
                       details: "The Film & Media Meetup is coming to Giessen and will take place as part of the Educational at the Stadttheater Giessen, in the foyer on the first floor. In a relaxed atmosphere, you can have a drink and talk about projects with other filmmakers from Hessen and around the world, make contacts or simply hear what's going on at the moment. Everything you need to get started in the film and media industry or for your upcoming projects. The Film & Media Meetup is a project in cooperation with Filmhaus Frankfurt, Film- und Kinobüro Hessen, Hessen Film & Medien, the Hessen Film and Media Academy (hFMA), Junge Generation Hessischer Film and the Produzentenverband."
@@ -363,9 +364,9 @@ sections:
                       length: 2
                       details: "Introduction of the program and all guest of the day."
                       hosts:
-                        - name: Alexandra Manlig 
-                        - name: Celina Schmitt 
-                    - title: Branded Series 
+                        - name: Alexandra Manlig
+                        - name: Celina Schmitt
+                    - title: Branded Series
                       type: Keynote
                       length: 2
                       time: 11:00 | 11:00am
@@ -373,31 +374,31 @@ sections:
                         - name: Young Man Kang
                           link: young-man-kang
                       details: "South Korean branded series are taking advantage of the opportunity to involve private investors in the financing of web series, providing companies, cities, and cultural institutions with a new type of advertising platform. Despite the branding, a high level of quality is achieved, and the content aspects of the series are never neglected. These series typically have an audience of millions. Young Man Kang from Seoul introduces this successful concept and its spread in South Korea. He is the director of the renowned Seoul Webfest, one of the world's largest web festivals, of the Asia Web Awards and since this year of LA Webfest. He is a film producer, and his company YMK Films focuses on branded series. Additionally, he represents the VOD platform KTH (Korea Telecom Hitel) at the Seriale, which is specifically searching for web series."
-                    - title: Social Media Marketing 
-                      type: Festival Panel 
+                    - title: Social Media Marketing
+                      type: Festival Panel
                       length: 2
                       time: 11:15 | 11:15am
                       speakers:
                         - name: Sara Mauleón Carbayo
-                          link: sara-mauleon-carbayo 
-                        - name: Anne Schokominza Michel 
+                          link: sara-mauleon-carbayo
+                        - name: Anne Schokominza Michel
                           link: anne-schokominza-michel
                       details: "Social media offers important platforms for the marketing, publication, and distribution of web series. Here, attention becomes an important currency. Sara Mauleón Carbayo and Anne Michel provide insights into strategies for effectively marketing web series on social media. They differentiate the functional mechanisms and peculiarities of various social media platforms and demonstrate how to use them to their fullest potential."
-                    - title: Green Shooting 
-                      type: Festival Panel 
+                    - title: Green Shooting
+                      type: Festival Panel
                       length: 2
                       time: 11:40 | 11:40am
                       moderator:
-                        - name: Alexandra Manlig 
+                        - name: Alexandra Manlig
                       panelists:
-                        - name: Daniel Götz 
-                          link: daniel-goetz  
-                        - name: Dr. Tina Kaiser 
+                        - name: Daniel Götz
+                          link: daniel-goetz
+                        - name: Dr. Tina Kaiser
                           link: tina-kaiser
-                        - name: Nicolas Kronauer 
-                          link: nicolas-kronauer 
-                        - name: Noah Kofort 
-                          link: noah-kofort 
+                        - name: Nicolas Kronauer
+                          link: nicolas-kronauer
+                        - name: Noah Kofort
+                          link: noah-kofort
                       details: "Sustainability is one of the biggest, if not the biggest, issue of our time. This also applies to series and film production. This panel will discuss various options for lower CO2-production and highlight their current status. Since this year there have also been mandatory minimum ecological standards for funded projects in Germany. The theory and implementation of these minimum standards will be discussed, as well as associated labels and CO2 calculators. The participants come from different areas and bring a wealth of experience and expertise with them. For all media professionals and those interested in the environment, the panel will offer new perspectives and helpful information for future projects."
                     - title: Break
                       length: 2
@@ -411,17 +412,17 @@ sections:
                       time: 13:00 | 1pm
                       details: "Various financing options for web series will be discussed in this panel, which are not necessarily mutually exclusive, but can complement each other in the best way possible. The panel will also explore the options of private investors and co-productions and how they can support both the creative and financial aspects of web series production. The experienced speakers will share their insights in financing web series and provide valuable advice for those seeking funding opportunities."
                       moderator:
-                        - name: Rose of Dolls 
-                          link: rose-of-dolls 
+                        - name: Rose of Dolls
+                          link: rose-of-dolls
                       panelists:
-                        - name: Kate Madison 
+                        - name: Kate Madison
                           link: kate-madison
-                        - name: Sofía Szelske 
+                        - name: Sofía Szelske
                           link: sofia-szelske
-                        - name: Suzette Laqua 
-                          link: suzette-laqua 
+                        - name: Suzette Laqua
+                          link: suzette-laqua
                         - name: Pola Hempowicz
-                          link: pola-hempowicz 
+                          link: pola-hempowicz
                     - title: "Distribution/New Markets"
                       length: 3
                       type: Panel Discussion
@@ -429,19 +430,19 @@ sections:
                       time: 14:00 | 2pm
                       details: "The distribution of web series has undergone significant changes in recent years and new distribution platforms and markets have emerged. This panel will discuss the latest developments and opportunities in web series distribution, including the role of streaming platforms, as well as social media channels. The experienced speakers will share their insights in marketing web series and present strategies to reach audiences in new markets, including the specifics of web series and the importance of subtitles. Additionally, the role of the festival circuit in web series distribution will be discussed. This panel provides a great opportunity for web series creators and industry professionals to learn more about the latest trends and challenges in web series distribution and gain valuable insights and advice from experienced experts."
                       moderator:
-                        - name: Celina Schmitt 
+                        - name: Celina Schmitt
                       panelists:
-                        - name: Antoine Disle 
-                          link: antoine-disle 
-                        - name: Lea von den Steinen 
-                          link: lea-von-den-Steinen 
+                        - name: Antoine Disle
+                          link: antoine-disle
+                        - name: Lea von den Steinen
+                          link: lea-von-den-Steinen
                         - name: Oliver Mend
                           link: oliver-mend
-                        - name: Pedro Levati 
-                          link: pedro-levati 
+                        - name: Pedro Levati
+                          link: pedro-levati
                         - name: Rocío Carbajo
-                          link: rocio-carbajo 
-                        - name: Rose of Dolls 
+                          link: rocio-carbajo
+                        - name: Rose of Dolls
                           link: rose-of-dolls
               - partial: text-plain
                 headline: late night talks
@@ -457,7 +458,7 @@ sections:
                       time: 15:00 | 3pm
                       type: talk
                       host:
-                        - name: Daria Solovieva 
+                        - name: Daria Solovieva
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
@@ -471,7 +472,7 @@ sections:
                       datetime: 2023-06-17
                       time: 15:30 | 3pm
                       type: pitch contest
-                      details: "Brand new concepts for digital series will be presented to the industry at the Pitch Contest."				  
+                      details: "Brand new concepts for digital series will be presented to the industry at the Pitch Contest."
                     - title: Screening Block 6
                       length: 2
                       datetime: 2023-06-17
@@ -493,13 +494,13 @@ sections:
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD
                           name: get tickets
-                    - title: seriesly TRIVIA QUIZ 
-                      type: Quiz 
+                    - title: seriesly TRIVIA QUIZ
+                      type: Quiz
                       length: 2
                       time: 18:00 | 6pm
                       hosts:
                         - name: Maik Zehrfeld
-                        - name: Fabio Cunetto 
+                        - name: Fabio Cunetto
                       details: "We put the “TV” in TriVia! Take part in this fun and interactive quiz on various series topics, hosted by the creators of serieslyAWESOME.tv, with the chance to win awesome prizes!"
                     - title: Screening Block 7
                       length: 2
@@ -602,7 +603,7 @@ sections:
                           link: segunda-pele
                       external:
                         - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2023/BDA64000012PLXMQDD
-                          name: get tickets	  
+                          name: get tickets
               - partial: text-plain
                 headline: "Networking On Board"
                 data:
@@ -670,7 +671,7 @@ sections:
                         - link: https://seriale2.vercel.app/workshop-register
                           name: register
                       speaker:
-                        - name: Pedro Levati 
+                        - name: Pedro Levati
                           link: pedro-levati
                     - title: "Beyond the Shadows - Budget-Friendly Concepts in Film Lighting"
                       type: workshop

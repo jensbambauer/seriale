@@ -1,5 +1,6 @@
 ---
 title: official selection 2019 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: list-grid
     headline: official selection 2019
@@ -8,67 +9,67 @@ sections:
       list:
         - title: 555m
           origin: South Korea
-        - title: A Day Dream	
+        - title: A Day Dream
           origin: South Korea
         - title: A-Live
           origin: Italy
-        - title: After Nightfall	
+        - title: After Nightfall
           origin: Australia
-        - title: Angst	
+        - title: Angst
           origin: Austria
-        - title: Anomalie	
+        - title: Anomalie
           origin: Germany
-        - title: Antarktika	
+        - title: Antarktika
           origin: Germany
-        - title: AWKWARDLY	
+        - title: AWKWARDLY
           origin: United States
         - title: Bastards.
           origin: Germany
-        - title: Buschka discovers Germany	
+        - title: Buschka discovers Germany
           origin: Germany
         - title: Caterpillars’ Times (Season 2)
           origin: Canada
-        - title: Chinese Dream	
+        - title: Chinese Dream
           origin: Germany
-        - title: Crazy Possible 	
+        - title: Crazy Possible
           origin: United States
-        - title: Dark Area 
+        - title: Dark Area
           origin: Russian Federation
-        - title: Dele Viaje	
+        - title: Dele Viaje
           origin: Costa Rica
-        - title: Demon X 	
+        - title: Demon X
           origin: Canada
         - title: Die on the wheel’s
           origin: Chile
-        - title: Dorien 	
+        - title: Dorien
           origin: Spain
-        - title: Dreaming Whilst Black 	
+        - title: Dreaming Whilst Black
           origin: United Kingdom
-        - title: einfach Maria	
+        - title: einfach Maria
           origin: Germany
         - title: Fast Heroes Sixty (Season 2)
           origin: Germany
-        - title: Frank 	
+        - title: Frank
           origin: United Kingdom
-        - title: Freelancers	
+        - title: Freelancers
           origin: Germany
-        - title: Future History 1968 	
+        - title: Future History 1968
           origin: Russian Federation
         - title: Gorda
           origin: Argentina
-        - title: Guardiões do Cerrado	
+        - title: Guardiões do Cerrado
           origin: Brazil
-        - title: Hanshi Charlie	
+        - title: Hanshi Charlie
           origin: Switzerland
         - title: How To Know If You’re Dating a Narcissist
           origin: Australia
-        - title: Hungry Bytes	
+        - title: Hungry Bytes
           origin: Switzerland
-        - title: In Bed 	
+        - title: In Bed
           origin: Russian Federation
         - title: In the Land of the Wolves
           origin: Spain
-        - title: Indictus	
+        - title: Indictus
           origin: Italy
         - title: It's forbidden to whistle
           origin: Argentina
@@ -78,21 +79,21 @@ sections:
           origin: New Zealand
         - title: M
           origin: Argentina
-        - title: Necessary Evil 	
+        - title: Necessary Evil
           origin: Canada
         - title: Noche de Amor
           origin: Argentina
-        - title: Nomad 7 	
+        - title: Nomad 7
           origin: Brazil
-        - title: Other People's Children	
+        - title: Other People's Children
           origin: United States
         - title: Public Writer (Season 2)
           origin: Canada
-        - title: Queer Amsterdam	
+        - title: Queer Amsterdam
           origin: Netherlands
         - title: Real
           origin: Argentina
-        - title: Rebecca 	
+        - title: Rebecca
           origin: Brazil
         - title: Similar
           origin: Argentina
@@ -100,49 +101,49 @@ sections:
           origin: Germany
         - title: Taste
           origin: United States
-        - title: The Green Challenge	
+        - title: The Green Challenge
           origin: Germany
         - title: The Leader
           origin: Argentina
-        - title: The strategy of water 	
+        - title: The strategy of water
           origin: Switzerland
         - title: The Unadaptables
           origin: Argentina
-        - title: The Vault 	
+        - title: The Vault
           origin: Canada
-        - title: Theater People	
+        - title: Theater People
           origin: United States
-        - title: VideoHunterS 	
+        - title: VideoHunterS
           origin: Germany
-        - title: Vitto Wai	
+        - title: Vitto Wai
           origin: Spain
-        - title: Wrong Kind of Black	
+        - title: Wrong Kind of Black
           origin: Australia
   - partial: list-grid
     data:
       headline: pilots
       list:
-        - title: Flight69	
+        - title: Flight69
           origin: France
-        - title: Hinterher	
+        - title: Hinterher
           origin: Germany
-        - title: Little Achilles 	
+        - title: Little Achilles
           origin: Germany
-        - title: Otherside	
+        - title: Otherside
           origin: Brazil
-        - title: Pandas don’t cry 	
+        - title: Pandas don’t cry
           origin: Germany
-        - title: Security	
+        - title: Security
           origin: Germany
         - title: The Night of the Hungry Turtles
           origin: Germany
-        - title: The Snowman's Gift	
+        - title: The Snowman's Gift
           origin: South Korea
-        - title: The Well 	
+        - title: The Well
           origin: United States
-        - title: Twinky Doo’s Magic World	
+        - title: Twinky Doo’s Magic World
           origin: Italy
-        - title: Utopia Planitia 	
+        - title: Utopia Planitia
           origin: United States
   - partial: list-grid
     data:

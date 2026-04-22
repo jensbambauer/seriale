@@ -1,5 +1,6 @@
 ---
 title: nominations 2023 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: text
     headline: Nominees & Winners 2023
@@ -9,19 +10,19 @@ sections:
       items:
         - headline: best series
           list:
-            - origin: 
-              title: All In 
-            - origin: 
-              title: Black Sunday 
-            - origin: 
+            - origin:
+              title: All In
+            - origin:
+              title: Black Sunday
+            - origin:
               title: Death Phone
-              highlight: true 
-            - origin: 
-              title: "Frapuccino (Season 2)" 
-            - origin: 
-              title: Hammersmith 
-            - origin: 
-              title: Hotel Sweet Hotel 
+              highlight: true
+            - origin:
+              title: "Frapuccino (Season 2)"
+            - origin:
+              title: Hammersmith
+            - origin:
+              title: Hotel Sweet Hotel
             - origin:
               title: Victoria
             - origin:
@@ -196,7 +197,7 @@ sections:
             - title: Queen of the Playground
               origin: <b>Arseniy Abdrakhmanov &</b><b> Nozim Mukhitdinov</b>
             - title: Sisyphus
-              origin: 
+              origin:
             - title: "W.<br> (Chapter II)"
               origin: Gil Galvao
               highlight: true
@@ -205,20 +206,20 @@ sections:
             - title: An Ultradeformer Walk
               origin:
             - title: "Chateau Laurier<br> (Season 2)"
-              origin: 
+              origin:
             - title: Death Phone
               origin:
-              highlight: true 
+              highlight: true
             - title: Private
               origin:
             - title: "The Y-Theory<br> (Season 3)"
-              origin: 
+              origin:
             - title: We are all Maca
-              origin: 
+              origin:
         - headline: best costume design
           list:
             - title: An Ultradeformer Walk
-              origin: 
+              origin:
             - title: "Chateau Laurier<br> (Season 2)"
               origin: Melissa Bessey
             - title: Death Phone
@@ -346,7 +347,7 @@ sections:
     data:
       headline: Pilots Jury | Honorable Mention for Mid-to-Late
       paragraphs:
-        - text: "This series portraits a current story with a masterful performance by its protagonist. Additionally, the cinematography, the soundtrack, and the script development are well executed. That’s why we think this pilot deserves the Honorable Mention."  		  		  	  		  
+        - text: "This series portraits a current story with a masterful performance by its protagonist. Additionally, the cinematography, the soundtrack, and the script development are well executed. That’s why we think this pilot deserves the Honorable Mention."
   - partial: text
     headline: Partner Festival's Direct Selections
   - partial: text
@@ -391,7 +392,7 @@ sections:
     data:
       headline: Pilots Jury | Statement Best Pilot
       paragraphs:
-        - text: "This series is an original proposal with captivating script that leaves you wanting more. We highlight the technical quality, the use of special effects that enhance the story development, and the performances of its cast. Without a doubt, the whole crew has done a great job."	
+        - text: "This series is an original proposal with captivating script that leaves you wanting more. We highlight the technical quality, the use of special effects that enhance the story development, and the performances of its cast. Without a doubt, the whole crew has done a great job."
   - partial: text
     smallmargin: true
     data:

@@ -1,5 +1,6 @@
 ---
 title: nominations 2019 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: text
     headline: Nominees and Winners 2019
@@ -141,7 +142,7 @@ sections:
             - title: Dele Viaje
               origin: Patiño
             - title: Dorien
-              origin:  Iván Cester, Javier Bayón
+              origin: Iván Cester, Javier Bayón
             - title: M
               origin: Yosef Munro
         - headline: best sound design
@@ -153,7 +154,6 @@ sections:
             - title: Indictus
             - title: It’s forbidden to whistle
             - title: Real
-
 
         - headline: best supporting actor
           list:
@@ -185,8 +185,6 @@ sections:
               origin: Ane Lindane
             - title: Public Writer
               origin: Sandrine Bisson
-
-
 
         - headline: best ensemble cast
           list:
@@ -240,7 +238,7 @@ sections:
             - title: The Vault
 
         - headline: best costume design
-          list: 
+          list:
             - title: In the Land of the Wolves
               highlight: true
             - title: How To Know if You’re Dating a Narcissist
@@ -301,4 +299,3 @@ sections:
       paragraphs:
         - text: "<strong>Bilbao Seriesland:</strong> Anomalie | with travel and accommodation<br> <strong>BAWEBFEST:</strong> Anomalie | in cooperation and with support of “Goethe Institut” Buenos Aires with travel and accommodation<br> <strong>Seoul Webfest:</strong> Anomalie<br> <strong>Asia Web Awards:</strong> Bastards.<br> <strong>Minnesota Webfest:</strong> Freelancers<br> <strong>NZ Web Fest:</strong> Hinterher<br> <strong>Miami Web Fest:</strong> Anomalie<br> <strong>Sicily Web Fest:</strong> Anomalie<br> <strong>Realist Web Fest:</strong> Pandas don’t cry | with travel and accommodation<br> <strong>Webfest Berlin:</strong> The Night of the Hungry Turtles<br><strong>Rio Web Fest</strong>: Buschka discovers Germany"
 ---
-

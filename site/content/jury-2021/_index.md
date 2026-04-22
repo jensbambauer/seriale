@@ -1,5 +1,6 @@
 ---
 title: Jury 2021
+robots: noindex, nofollow
 sections:
   - partial: teaser-grid
     headline: Jury Series

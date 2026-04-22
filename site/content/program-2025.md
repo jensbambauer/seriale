@@ -1,5 +1,6 @@
 ---
 title: 12th International Series Festival Giessen
+robots: noindex, nofollow
 sections:
   - partial: tabs
     widesection: true

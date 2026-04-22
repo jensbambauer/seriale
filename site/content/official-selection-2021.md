@@ -1,5 +1,6 @@
 ---
 title: official selection 2021 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: list-grid
     headline: official selection 2021

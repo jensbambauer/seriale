@@ -1,5 +1,6 @@
 ---
 title: nominations 2024 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: text
     headline: nominees 2024

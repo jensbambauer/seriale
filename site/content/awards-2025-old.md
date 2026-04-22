@@ -1,5 +1,6 @@
 ---
 title: nominees & winners 2025 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: text
     headline: Nominees & Winners 2025

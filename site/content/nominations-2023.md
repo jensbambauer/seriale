@@ -1,5 +1,6 @@
 ---
 title: nominations 2023 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: text
     headline: Nominees 2023
@@ -172,7 +173,7 @@ sections:
             - title: Queen of the Playground
               origin: <b>Arseniy Abdrakhmanov &</b><b> Nozim Mukhitdinov</b>
             - title: Sisyphus
-              origin: 
+              origin:
             - title: "W.<br> (Chapter II)"
               origin: Gil Galvao
         - headline: best production design
@@ -180,19 +181,19 @@ sections:
             - title: An Ultradeformer Walk
               origin:
             - title: "Chateau Laurier<br> (Season 2)"
-              origin: 
+              origin:
             - title: Death Phone
-              origin: 
+              origin:
             - title: Private
               origin:
             - title: "The Y-Theory<br> (Season 3)"
-              origin: 
+              origin:
             - title: We are all Maca
-              origin: 
+              origin:
         - headline: best costume design
           list:
             - title: An Ultradeformer Walk
-              origin: 
+              origin:
             - title: "Chateau Laurier<br> (Season 2)"
               origin: Melissa Bessey
             - title: Death Phone

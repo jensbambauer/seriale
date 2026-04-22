@@ -1,12 +1,13 @@
 ---
 title: official selection 2020 | die seriale
+robots: noindex, nofollow
 sections:
   - partial: list-grid
     headline: official selection 2020
     data:
       headline: series
       list:
-        - title: .After	
+        - title: .After
           origin: United States
         - title: ALT ESC
           origin: Argentina
@@ -18,11 +19,11 @@ sections:
           origin: Australia
         - title: Collegiate Assessor
           origin: Russian Federation
-        - title: Dependence	
+        - title: Dependence
           origin: United States
         - title: Discipline
           origin: South Korea
-        - title: Do You Know Vlog	
+        - title: Do You Know Vlog
           origin: Germany
         - title: En Red / In Network
           origin: Argentina
@@ -32,7 +33,7 @@ sections:
           origin: Brazil
         - title: Grandma Sofía
           origin: Argentina
-        - title: Gurko - Am Rand von Smartcity	
+        - title: Gurko - Am Rand von Smartcity
           origin: Germany
         - title: Hammersmith
           origin: United States
@@ -60,7 +61,7 @@ sections:
           origin: Germany
         - title: Manu
           origin: Brazil
-        - title: Marias	
+        - title: Marias
           origin: United States
         - title: Migrant Stories
           origin: Argentina
@@ -72,7 +73,7 @@ sections:
           origin: Brazil
         - title: "Pepper: Ricochet"
           origin: United States
-        - title: Pet Killer	
+        - title: Pet Killer
           origin: France
         - title: Preview
           origin: France
@@ -96,7 +97,7 @@ sections:
           origin: Australia
         - title: Standby, Curator
           origin: South Korea
-        - title: Swipe	
+        - title: Swipe
           origin: Netherlands
         - title: Sydney Sleuthers
           origin: Australia
@@ -126,7 +127,7 @@ sections:
           origin: South Korea
         - title: What is emerging?
           origin: Brazil
-        - title: Whatever	
+        - title: Whatever
           origin: Chile
         - title: Who Killed Lucy the Poodle?
           origin: New Zealand
@@ -153,3 +154,4 @@ sections:
         - title: Wolfgang Doe
           origin: Germany
 ---
+
