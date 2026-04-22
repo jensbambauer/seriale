@@ -1,4 +1,5 @@
 {{ with.data }}
+{{ $speakerSection := or .speakerSection "speakers" }}
 <div class="program">
   {{ range.items }}
   <div class="program__item">
@@ -16,7 +17,7 @@
       <div class="program__speaker">
         <h4>Exhibitor</h4>
         {{ range.exhibitor }} {{ if .link }}
-        <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        <a class="button" href="/{{ $speakerSection }}/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
         {{ else }}
         <span class="speaker-no-link">{{.name}}</span>
         {{ end }} {{ end }}
@@ -25,7 +26,7 @@
       <div class="program__speaker">
         <h4>Moderation</h4>
         {{ range.moderator }} {{ if .link }}
-        <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        <a class="button" href="/{{ $speakerSection }}/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
         {{ else }}
         <span class="speaker-no-link">{{.name}}</span>
         {{ end }} {{ end }}
@@ -34,7 +35,7 @@
       <div class="program__speaker">
         <h4>Guests</h4>
         {{ range.panelists }} {{ if .link }}
-        <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        <a class="button" href="/{{ $speakerSection }}/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
         {{ else }}
         <span class="speaker-no-link">{{.name}}</span>
         {{ end }} {{ end }}
@@ -43,7 +44,7 @@
       <div class="program__speaker">
         <h4>Speaker</h4>
         {{ range.speaker }} {{ if .link }}
-        <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        <a class="button" href="/{{ $speakerSection }}/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
         {{ else }}
         <span class="speaker-no-link">{{.name}}</span>
         {{ end }} {{ end }}
@@ -52,7 +53,7 @@
       <div class="program__speaker">
         <h4>Hosts</h4>
         {{ range.hosts }} {{ if .link }}
-        <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        <a class="button" href="/{{ $speakerSection }}/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
         {{ else }}
         <span class="speaker-no-link">{{.name}}</span>
         {{ end }} {{ end }}
@@ -62,7 +63,7 @@
       <div class="program__speaker">
         <h4>Jury</h4>
         {{ range.jury }} {{ if .link }}
-        <a class="button" href="/speakers/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
+        <a class="button" href="/{{ $speakerSection }}/{{.link}}" data-role="overlay-wide" data-barba-prevent>{{.name}}</a>
         {{ else }}
         <span class="speaker-no-link">{{.name}}</span>
         {{ end }} {{ end }}

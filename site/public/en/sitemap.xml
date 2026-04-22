@@ -2,6 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/team2026/csongor-dobrotka/</loc>
+  </url><url>
+    <loc>/team2026/beate-bambauer/</loc>
+  </url><url>
+    <loc>/team2026/ralf-hofacker/</loc>
+  </url><url>
+    <loc>/team2026/jens-bambauer/</loc>
+  </url><url>
+    <loc>/team2026/celina-schmitt/</loc>
+  </url><url>
+    <loc>/team2026/irina-shestopalova/</loc>
+  </url><url>
+    <loc>/team2026/anne-schokominza-pfannenstiel/</loc>
+  </url><url>
+    <loc>/team2026/ilona-kechter/</loc>
+  </url><url>
+    <loc>/team2026/sophia-beeck/</loc>
+  </url><url>
+    <loc>/team2026/georg-ehrenburg/</loc>
+  </url><url>
+    <loc>/team2026/anna-maria-engert/</loc>
+  </url><url>
+    <loc>/team2026/jana-marie-krauss/</loc>
+  </url><url>
+    <loc>/team2026/stina-kunz/</loc>
+  </url><url>
+    <loc>/team2026/eva-charlotte-salditt/</loc>
+  </url><url>
+    <loc>/team2026/christoforos-mechanezidis/</loc>
+  </url><url>
+    <loc>/team2026/martin-otto/</loc>
+  </url><url>
+    <loc>/team2026/daria-solovieva/</loc>
+  </url><url>
+    <loc>/team2026/robert-schaefer/</loc>
+  </url><url>
+    <loc>/team2026/amaru-frida/</loc>
+  </url><url>
+    <loc>/team2026/christian-stadach/</loc>
+  </url><url>
+    <loc>/team2026/robert-g-achtel/</loc>
+  </url><url>
+    <loc>/team2026/lisa-heimbach/</loc>
+  </url><url>
+    <loc>/team2026/colin-haubrich/</loc>
+  </url><url>
+    <loc>/team2026/ariane-bukschat/</loc>
+  </url><url>
+    <loc>/team2026/olivia-balsser/</loc>
+  </url><url>
+    <loc>/team2026/emil-leenen/</loc>
+  </url><url>
+    <loc>/team2026/alexandra-weber/</loc>
+  </url><url>
+    <loc>/team2026/thorben-triebert/</loc>
+  </url><url>
+    <loc>/team2026/valentino-hubbert/</loc>
+  </url><url>
+    <loc>/team2026/lion-krischnan/</loc>
+  </url><url>
+    <loc>/team2026/niklas-stark/</loc>
+  </url><url>
     <loc>/</loc>
     <lastmod>2023-04-08T10:11:58+00:00</lastmod>
     <xhtml:link
@@ -155,7 +217,7 @@
   </url><url>
     <loc>/program-2025/</loc>
   </url><url>
-    <loc>/program/</loc>
+    <loc>/program-2026/</loc>
   </url><url>
     <loc>/seriale-pro/</loc>
   </url><url>
@@ -219,15 +281,11 @@
   </url><url>
     <loc>/speakers2020/alejo-rosemberg/</loc>
   </url><url>
-    <loc>/speakers2021/alejo-rosemberg/</loc>
-  </url><url>
     <loc>/jury-2020/jury-series/alexandra-ansidei/</loc>
   </url><url>
     <loc>/jury-2021/jury-series/alexandra-ansidei/</loc>
   </url><url>
     <loc>/speakers2021/alexandre-paes-leme/</loc>
-  </url><url>
-    <loc>/speakers2021/alina-rank/</loc>
   </url><url>
     <loc>/speakers2022/alina-rank/</loc>
   </url><url>
@@ -249,11 +307,7 @@
   </url><url>
     <loc>/series2022/ana-beirut/</loc>
   </url><url>
-    <loc>/speakers2021/andrea-meneses/</loc>
-  </url><url>
     <loc>/speakers2022/andrea-meneses/</loc>
-  </url><url>
-    <loc>/speakers2021/andrea-traina/</loc>
   </url><url>
     <loc>/speakers2022/andrea-traina/</loc>
   </url><url>
@@ -270,8 +324,6 @@
     <loc>/speakers2024/angela-krewani/</loc>
   </url><url>
     <loc>/series2019/angst/</loc>
-  </url><url>
-    <loc>/speakers2021/anja-henningsmeyer/</loc>
   </url><url>
     <loc>/speakers2022/anja-henningsmeyer/</loc>
   </url><url>
@@ -309,8 +361,6 @@
   </url><url>
     <loc>/speakers2019/annette-krossa/</loc>
   </url><url>
-    <loc>/speakers2021/annette-krossa/</loc>
-  </url><url>
     <loc>/series2019/anomalie/</loc>
   </url><url>
     <loc>/series2020/anomalie/</loc>
@@ -341,8 +391,6 @@
   </url><url>
     <loc>/speakers2019/ariana-saiegh/</loc>
   </url><url>
-    <loc>/speakers2021/ariana-saiegh/</loc>
-  </url><url>
     <loc>/speakers2024/ariana-saiegh/</loc>
   </url><url>
     <loc>/series2022/arthur/</loc>
@@ -353,8 +401,6 @@
   </url><url>
     <loc>/speakers2019/asier-macazaga/</loc>
   </url><url>
-    <loc>/speakers2021/asier-macazaga/</loc>
-  </url><url>
     <loc>/jury-2020/jury-series/astrid-matron/</loc>
   </url><url>
     <loc>/jury-2024/jury-series/astrid-matron/</loc>
@@ -362,8 +408,6 @@
     <loc>/speakers2019/atsushi-ogata/</loc>
   </url><url>
     <loc>/speakers2020/atsushi-ogata/</loc>
-  </url><url>
-    <loc>/speakers2021/atsushi-ogata/</loc>
   </url><url>
     <loc>/series2021/avocado-toast/</loc>
   </url><url>
@@ -433,8 +477,6 @@
   </url><url>
     <loc>/speakers2019/caris-vujcec/</loc>
   </url><url>
-    <loc>/speakers2021/caris-vujcec/</loc>
-  </url><url>
     <loc>/series2026/carlinhos-and-his-magic-camera/</loc>
   </url><url>
     <loc>/series2020/carpark-clubbing/</loc>
@@ -459,21 +501,15 @@
   </url><url>
     <loc>/speakers2020/catherine-lieser/</loc>
   </url><url>
-    <loc>/speakers2021/catherine-lieser/</loc>
-  </url><url>
     <loc>/jury-2025/jury-series/catherine-moreau/</loc>
   </url><url>
     <loc>/speakers2025/catherine-moreau/</loc>
   </url><url>
     <loc>/speakers2019/catherine-white/</loc>
   </url><url>
-    <loc>/speakers2021/catherine-white/</loc>
-  </url><url>
     <loc>/series2024/ccfs-solstice-stories/</loc>
   </url><url>
     <loc>/pilots2023/centralstation-hala-belladonna/</loc>
-  </url><url>
-    <loc>/speakers2021/charlotte-jahnz/</loc>
   </url><url>
     <loc>/speakers2022/charlotte-jahnz/</loc>
   </url><url>
@@ -501,13 +537,9 @@
   </url><url>
     <loc>/speakers2020/christian-stadach/</loc>
   </url><url>
-    <loc>/speakers2021/christian-stadach/</loc>
-  </url><url>
     <loc>/speakers2022/christian-stadach/</loc>
   </url><url>
     <loc>/speakers2019/christoph-callenberg/</loc>
-  </url><url>
-    <loc>/speakers2021/christoph-callenberg/</loc>
   </url><url>
     <loc>/series2021/claire-and-the-elderly/</loc>
   </url><url>
@@ -567,8 +599,6 @@
   </url><url>
     <loc>/speakers2020/denise-jabbour/</loc>
   </url><url>
-    <loc>/speakers2021/denise-jabbour/</loc>
-  </url><url>
     <loc>/archive/2022/jury-pilots/dennis-albrecht/</loc>
   </url><url>
     <loc>/jury-2022/jury-pilots/dennis-albrecht/</loc>
@@ -580,8 +610,6 @@
     <loc>/jury-2025/jury-pilots/dennis-albrecht/</loc>
   </url><url>
     <loc>/speakers2019/dennis-albrecht/</loc>
-  </url><url>
-    <loc>/speakers2021/dennis-albrecht/</loc>
   </url><url>
     <loc>/speakers2022/dennis-albrecht/</loc>
   </url><url>
@@ -647,8 +675,6 @@
   </url><url>
     <loc>/speakers2020/dominik-lando/</loc>
   </url><url>
-    <loc>/speakers2021/dominik-lando/</loc>
-  </url><url>
     <loc>/series2022/dopamine/</loc>
   </url><url>
     <loc>/series2019/dorien/</loc>
@@ -681,11 +707,7 @@
   </url><url>
     <loc>/pilots2020/escape/</loc>
   </url><url>
-    <loc>/speakers2021/ettore-nicoletti/</loc>
-  </url><url>
     <loc>/speakers2022/ettore-nicoletti/</loc>
-  </url><url>
-    <loc>/speakers2021/eva-maria-sommersberg/</loc>
   </url><url>
     <loc>/speakers2022/eva-maria-sommersberg/</loc>
   </url><url>
@@ -741,6 +763,8 @@
   </url><url>
     <loc>/speakers2025/florencia-sokol/</loc>
   </url><url>
+    <loc>/speakers2026/florencia-sokol/</loc>
+  </url><url>
     <loc>/speakers2024/florian-friedrich/</loc>
   </url><url>
     <loc>/series2021/fuer-umme/</loc>
@@ -769,8 +793,6 @@
   </url><url>
     <loc>/speakers2020/frederic-zeimet/</loc>
   </url><url>
-    <loc>/speakers2021/frederic-zeimet/</loc>
-  </url><url>
     <loc>/speakers2022/frederic-zeimet/</loc>
   </url><url>
     <loc>/speakers2023/frederic-zeimet/</loc>
@@ -789,8 +811,6 @@
   </url><url>
     <loc>/series2024/fuexe/</loc>
   </url><url>
-    <loc>/speakers2021/gabriela-cortes/</loc>
-  </url><url>
     <loc>/speakers2022/gabriela-cortes/</loc>
   </url><url>
     <loc>/series2025/game-over-the-fall-of-credit-suisse/</loc>
@@ -803,10 +823,6 @@
   </url><url>
     <loc>/jury-2021/jury-series/gast%C3%B3n-haag/</loc>
   </url><url>
-    <loc>/speakers2021/gaston-haag/</loc>
-  </url><url>
-    <loc>/speakers2021/gasto%CC%81n-haag/</loc>
-  </url><url>
     <loc>/speakers2022/gaston-haag/</loc>
   </url><url>
     <loc>/series2022/geese-palace/</loc>
@@ -814,8 +830,6 @@
     <loc>/series2024/gelbe-karten-und-lila-latzhosen/</loc>
   </url><url>
     <loc>/speakers2019/genie/</loc>
-  </url><url>
-    <loc>/speakers2021/genie/</loc>
   </url><url>
     <loc>/archive/2022/jury-pitch-contest/george-reese/</loc>
   </url><url>
@@ -905,8 +919,6 @@
   </url><url>
     <loc>/series2022/hogtown/</loc>
   </url><url>
-    <loc>/speakers2021/holle-barbara-zoz/</loc>
-  </url><url>
     <loc>/speakers2022/holle-barbara-zoz/</loc>
   </url><url>
     <loc>/series2023/hollywood-nazista/</loc>
@@ -963,8 +975,6 @@
   </url><url>
     <loc>/speakers2019/ismail-erdogru/</loc>
   </url><url>
-    <loc>/speakers2021/ismail-erdogru/</loc>
-  </url><url>
     <loc>/speakers2024/ismail-erdogru/</loc>
   </url><url>
     <loc>/series2019/its-forbidden-to-whistle/</loc>
@@ -979,8 +989,6 @@
   </url><url>
     <loc>/speakers2019/jan-paschen/</loc>
   </url><url>
-    <loc>/speakers2021/jan-paschen/</loc>
-  </url><url>
     <loc>/speakers2025/jana-laemmerer/</loc>
   </url><url>
     <loc>/speakers2022/janet-de-nardis/</loc>
@@ -989,11 +997,7 @@
   </url><url>
     <loc>/speakers2021/janet-de-nardis/</loc>
   </url><url>
-    <loc>/speakers2021/janina-strothmann/</loc>
-  </url><url>
     <loc>/speakers2019/jasper-wiedhoeft/</loc>
-  </url><url>
-    <loc>/speakers2021/jasper-wiedhoeft/</loc>
   </url><url>
     <loc>/series2022/jessy-zip/</loc>
   </url><url>
@@ -1037,33 +1041,23 @@
   </url><url>
     <loc>/jury-2020/jury-series/jonathan-babir/</loc>
   </url><url>
-    <loc>/speakers2021/jonathan-steinhardt/</loc>
-  </url><url>
     <loc>/speakers2022/jonathan-steinhardt/</loc>
   </url><url>
     <loc>/speakers2019/joo-hyun-yoo/</loc>
-  </url><url>
-    <loc>/speakers2021/joo-hyun-yoo/</loc>
   </url><url>
     <loc>/speakers2019/joerg-buschka/</loc>
   </url><url>
     <loc>/speakers2020/joerg-buschka/</loc>
   </url><url>
-    <loc>/speakers2021/joschua-kessler/</loc>
-  </url><url>
     <loc>/speakers2022/joschua-kessler/</loc>
   </url><url>
     <loc>/speakers2023/joschua-kessler/</loc>
-  </url><url>
-    <loc>/speakers2021/josia-krug/</loc>
   </url><url>
     <loc>/speakers2022/josia-krug/</loc>
   </url><url>
     <loc>/speakers2023/josia-krug/</loc>
   </url><url>
     <loc>/archive/2022/jury-pitch-contest/julia-weber/</loc>
-  </url><url>
-    <loc>/speakers2021/julia-weber/</loc>
   </url><url>
     <loc>/speakers2022/julia-weber/</loc>
   </url><url>
@@ -1097,8 +1091,6 @@
   </url><url>
     <loc>/jury-2025/jury-animation/</loc>
   </url><url>
-    <loc>/jury-2026/jury-animation/</loc>
-  </url><url>
     <loc>/jury-2019/jury-documentary/</loc>
   </url><url>
     <loc>/jury-2020/jury-documentary/</loc>
@@ -1113,13 +1105,9 @@
   </url><url>
     <loc>/jury-2025/jury-documentary/</loc>
   </url><url>
-    <loc>/jury-2026/jury-documentary/</loc>
-  </url><url>
     <loc>/jury-2024/jury-long-form-series/</loc>
   </url><url>
     <loc>/jury-2025/jury-long-form-series/</loc>
-  </url><url>
-    <loc>/jury-2026/jury-long-form-series/</loc>
   </url><url>
     <loc>/jury-2019/jury-pilots/</loc>
   </url><url>
@@ -1135,8 +1123,6 @@
   </url><url>
     <loc>/jury-2025/jury-pilots/</loc>
   </url><url>
-    <loc>/jury-2026/jury-pilots/</loc>
-  </url><url>
     <loc>/jury-2019/jury-pitch-contest/</loc>
   </url><url>
     <loc>/jury-2021/jury-pitch-contest/</loc>
@@ -1144,8 +1130,6 @@
     <loc>/jury-2024/jury-pitch-contest/</loc>
   </url><url>
     <loc>/jury-2025/jury-pitch-contest/</loc>
-  </url><url>
-    <loc>/jury-2026/jury-pitch-contest/</loc>
   </url><url>
     <loc>/jury-2019/jury-series/</loc>
   </url><url>
@@ -1160,8 +1144,6 @@
     <loc>/jury-2024/jury-series/</loc>
   </url><url>
     <loc>/jury-2025/jury-series/</loc>
-  </url><url>
-    <loc>/jury-2026/jury-series/</loc>
   </url><url>
     <loc>/series2026/k-road-chronicles-season-4/</loc>
   </url><url>
@@ -1195,8 +1177,6 @@
   </url><url>
     <loc>/speakers2019/kevin-longa/</loc>
   </url><url>
-    <loc>/speakers2021/kevin-longa/</loc>
-  </url><url>
     <loc>/series2024/kick-it-like-a-girl/</loc>
   </url><url>
     <loc>/series2023/kith-and-kin/</loc>
@@ -1215,19 +1195,13 @@
   </url><url>
     <loc>/speakers2020/kristian-wolff/</loc>
   </url><url>
-    <loc>/speakers2021/kristian-wolff/</loc>
-  </url><url>
     <loc>/speakers2025/kristian-wolff/</loc>
-  </url><url>
-    <loc>/speakers2021/kristin-rasch/</loc>
   </url><url>
     <loc>/speakers2022/kristin-rasch/</loc>
   </url><url>
     <loc>/series2021/kuntergrau/</loc>
   </url><url>
     <loc>/speakers2020/kyle-leland/</loc>
-  </url><url>
-    <loc>/speakers2021/kyle-leland/</loc>
   </url><url>
     <loc>/speakers2022/kyle-leland-cullerton/</loc>
   </url><url>
@@ -1248,8 +1222,6 @@
     <loc>/speakers2024/lars-smekal/</loc>
   </url><url>
     <loc>/speakers2024/laura-goetz/</loc>
-  </url><url>
-    <loc>/speakers2021/laura-koehler/</loc>
   </url><url>
     <loc>/speakers2022/laura-koehler/</loc>
   </url><url>
@@ -1299,10 +1271,6 @@
   </url><url>
     <loc>/speakers2020/lina-kokaly/</loc>
   </url><url>
-    <loc>/speakers2021/lina-kokaly/</loc>
-  </url><url>
-    <loc>/speakers2021/linda-gasser/</loc>
-  </url><url>
     <loc>/speakers2022/linda-gasser/</loc>
   </url><url>
     <loc>/speakers2024/lion-lau/</loc>
@@ -1312,8 +1280,6 @@
     <loc>/jury-2019/jury-pilots/liudmila-filonenko/</loc>
   </url><url>
     <loc>/speakers2019/liudmila-filonenko/</loc>
-  </url><url>
-    <loc>/speakers2021/liudmila-filonenko/</loc>
   </url><url>
     <loc>/speakers2021/liza-simbirskaya/</loc>
   </url><url>
@@ -1349,17 +1315,11 @@
   </url><url>
     <loc>/speakers2020/ludmilla-wagnest/</loc>
   </url><url>
-    <loc>/speakers2021/ludmila-wagnest/</loc>
-  </url><url>
-    <loc>/speakers2021/ludmilla-wagnest/</loc>
-  </url><url>
     <loc>/speakers2022/ludmila-wagnest/</loc>
   </url><url>
     <loc>/speakers2023/ludmila-wagnest/</loc>
   </url><url>
     <loc>/speakers2019/luis-balthisar-balzer/</loc>
-  </url><url>
-    <loc>/speakers2021/luis-balthisar-balzer/</loc>
   </url><url>
     <loc>/jury-2021/jury-series/luis-felipe-alvarado/</loc>
   </url><url>
@@ -1407,8 +1367,6 @@
   </url><url>
     <loc>/speakers2019/marc-boutter/</loc>
   </url><url>
-    <loc>/speakers2021/marc-boutter/</loc>
-  </url><url>
     <loc>/speakers2022/marc-boutter/</loc>
   </url><url>
     <loc>/jury-2022/jury-documentary/marco-eisenbarth/</loc>
@@ -1439,8 +1397,6 @@
   </url><url>
     <loc>/speakers2019/maria-eva-de-sanctis/</loc>
   </url><url>
-    <loc>/speakers2021/maria-eva-de-sanctis/</loc>
-  </url><url>
     <loc>/archive/2022/jury-pitch-contest/mariana-schneider/</loc>
   </url><url>
     <loc>/speakers2021/mariana-schneider/</loc>
@@ -1450,8 +1406,6 @@
     <loc>/series2020/marias/</loc>
   </url><url>
     <loc>/speakers2024/marion-wagner/</loc>
-  </url><url>
-    <loc>/speakers2021/martha-lotta-koerber/</loc>
   </url><url>
     <loc>/speakers2022/martha-lotta-koerber/</loc>
   </url><url>
@@ -1471,8 +1425,6 @@
   </url><url>
     <loc>/speakers2019/mathias-balzer/</loc>
   </url><url>
-    <loc>/speakers2021/mathias-balzer/</loc>
-  </url><url>
     <loc>/speakers2022/mathilde-bourbin/</loc>
   </url><url>
     <loc>/speakers2023/mathilde-bourbin/</loc>
@@ -1489,17 +1441,11 @@
   </url><url>
     <loc>/speakers2020/matthias-noe/</loc>
   </url><url>
-    <loc>/speakers2021/matthias-noe/</loc>
-  </url><url>
     <loc>/speakers2025/matthias-noe/</loc>
   </url><url>
     <loc>/speakers2025/matthias-ventker/</loc>
   </url><url>
     <loc>/speakers2020/max-fraenkel/</loc>
-  </url><url>
-    <loc>/speakers2021/max-fraenkel/</loc>
-  </url><url>
-    <loc>/speakers2021/maximilian-allgeier/</loc>
   </url><url>
     <loc>/speakers2022/maximilian-allgeier/</loc>
   </url><url>
@@ -1513,11 +1459,7 @@
   </url><url>
     <loc>/speakers2020/melissa-malone/</loc>
   </url><url>
-    <loc>/speakers2021/melissa-malone/</loc>
-  </url><url>
     <loc>/archive/2022/jury-pitch-contest/melvina-kotios/</loc>
-  </url><url>
-    <loc>/speakers2021/melvina-kotios/</loc>
   </url><url>
     <loc>/speakers2022/melvina-kotios/</loc>
   </url><url>
@@ -1539,13 +1481,9 @@
   </url><url>
     <loc>/archive/2022/jury-pitch-contest/mia-rogelsek/</loc>
   </url><url>
-    <loc>/speakers2021/mia-rogelsek/</loc>
-  </url><url>
     <loc>/speakers2022/mia-rogelsek/</loc>
   </url><url>
     <loc>/speakers2021/michele-pinto/</loc>
-  </url><url>
-    <loc>/speakers2021/micky-jukovic/</loc>
   </url><url>
     <loc>/speakers2022/micky-jukovic/</loc>
   </url><url>
@@ -1569,13 +1507,9 @@
   </url><url>
     <loc>/speakers2020/misti-boland/</loc>
   </url><url>
-    <loc>/speakers2021/misti-boland/</loc>
-  </url><url>
     <loc>/series2021/monster-week/</loc>
   </url><url>
     <loc>/speakers2020/moritz-becherer/</loc>
-  </url><url>
-    <loc>/speakers2021/moritz-becherer/</loc>
   </url><url>
     <loc>/speakers2022/moritz-becherer/</loc>
   </url><url>
@@ -1593,8 +1527,6 @@
   </url><url>
     <loc>/speakers2020/muriel-aboulrouss/</loc>
   </url><url>
-    <loc>/speakers2021/muriel-aboulrouss/</loc>
-  </url><url>
     <loc>/series2024/music-stories/</loc>
   </url><url>
     <loc>/series2026/my-alien-friend/</loc>
@@ -1604,8 +1536,6 @@
     <loc>/speakers2024/natalia-bornay/</loc>
   </url><url>
     <loc>/speakers2020/nataliya-grigorieva/</loc>
-  </url><url>
-    <loc>/speakers2021/nataliya-grigorieva/</loc>
   </url><url>
     <loc>/series2019/necessary-evil/</loc>
   </url><url>
@@ -1629,15 +1559,11 @@
   </url><url>
     <loc>/speakers2020/nicole-fornoff/</loc>
   </url><url>
-    <loc>/speakers2021/nicole-fornoff/</loc>
-  </url><url>
     <loc>/series2022/night-witches/</loc>
   </url><url>
     <loc>/speakers2024/niklas-bauer/</loc>
   </url><url>
     <loc>/speakers2020/nil-idil-cakmak/</loc>
-  </url><url>
-    <loc>/speakers2021/nil-idil-cakmak/</loc>
   </url><url>
     <loc>/jury-2022/jury-pilots/nils-schnell/</loc>
   </url><url>
@@ -1652,8 +1578,6 @@
     <loc>/series2024/no-one-around/</loc>
   </url><url>
     <loc>/series2022/no-youre-stupid/</loc>
-  </url><url>
-    <loc>/speakers2021/noah-kofort/</loc>
   </url><url>
     <loc>/speakers2022/noah-kofort/</loc>
   </url><url>
@@ -1682,6 +1606,8 @@
     <loc>/nominations-2024/</loc>
   </url><url>
     <loc>/nominations-2025/</loc>
+  </url><url>
+    <loc>/nominations-2026/</loc>
   </url><url>
     <loc>/awards-2025-old/</loc>
   </url><url>
@@ -1777,8 +1703,6 @@
   </url><url>
     <loc>/speakers2025/patrick-schimanski/</loc>
   </url><url>
-    <loc>/speakers2021/paul-becht/</loc>
-  </url><url>
     <loc>/speakers2022/paul-becht/</loc>
   </url><url>
     <loc>/speakers2024/paula-berger/</loc>
@@ -1813,6 +1737,8 @@
   </url><url>
     <loc>/series2022/pille-palle/</loc>
   </url><url>
+    <loc>/pilots2026/</loc>
+  </url><url>
     <loc>/pilots2019/</loc>
   </url><url>
     <loc>/pilots2020/</loc>
@@ -1824,8 +1750,6 @@
     <loc>/pilots2023/</loc>
   </url><url>
     <loc>/pilots2025/</loc>
-  </url><url>
-    <loc>/pilots2026/</loc>
   </url><url>
     <loc>/pitch-contest-moderators/</loc>
   </url><url>
@@ -1899,8 +1823,6 @@
   </url><url>
     <loc>/speakers2020/ricarda-saleh/</loc>
   </url><url>
-    <loc>/speakers2021/ricarda-saleh/</loc>
-  </url><url>
     <loc>/archive/2022/jury-documentary/riccardo-cannella/</loc>
   </url><url>
     <loc>/jury-2021/jury-series/riccardo-cannella/</loc>
@@ -1959,9 +1881,9 @@
   </url><url>
     <loc>/jury-2022/jury-documentary/sandra-bertalanffy/</loc>
   </url><url>
-    <loc>/speakers2019/sang-bin-suh/</loc>
+    <loc>/jury-2023/jury-documentary/sandra-bertalanffy/</loc>
   </url><url>
-    <loc>/speakers2021/sang-bin-suh/</loc>
+    <loc>/speakers2019/sang-bin-suh/</loc>
   </url><url>
     <loc>/speakers2021/santiago-gomez/</loc>
   </url><url>
@@ -1993,11 +1915,7 @@
   </url><url>
     <loc>/speakers2020/sebastian-huergo/</loc>
   </url><url>
-    <loc>/speakers2021/sebastian-huergo/</loc>
-  </url><url>
     <loc>/speakers2019/sebastian-jansen/</loc>
-  </url><url>
-    <loc>/speakers2021/sebastian-jansen/</loc>
   </url><url>
     <loc>/jury-2019/jury-pilots/sebastian-simon/</loc>
   </url><url>
@@ -2041,6 +1959,8 @@
   </url><url>
     <loc>/speakers2024/sergio-sosa/</loc>
   </url><url>
+    <loc>/series2026/</loc>
+  </url><url>
     <loc>/series2019/</loc>
   </url><url>
     <loc>/series2020/</loc>
@@ -2055,8 +1975,6 @@
   </url><url>
     <loc>/series2025/</loc>
   </url><url>
-    <loc>/series2026/</loc>
-  </url><url>
     <loc>/pilots2022/serkar/</loc>
   </url><url>
     <loc>/series2021/shadow-man/</loc>
@@ -2064,8 +1982,6 @@
     <loc>/jury-2021/jury-pilots/shamila-lengsfeld/</loc>
   </url><url>
     <loc>/speakers2019/shamila-lengsfeld/</loc>
-  </url><url>
-    <loc>/speakers2021/shamila-lengsfeld/</loc>
   </url><url>
     <loc>/series2022/sheker/</loc>
   </url><url>
@@ -2096,6 +2012,8 @@
     <loc>/speakers2023/sofia-szelske/</loc>
   </url><url>
     <loc>/speakers2025/sofia-szelske/</loc>
+  </url><url>
+    <loc>/speakers2026/sof%C3%ADa-szelske/</loc>
   </url><url>
     <loc>/series2025/soul-shift/</loc>
   </url><url>
@@ -2159,8 +2077,6 @@
   </url><url>
     <loc>/series2024/super-fails/</loc>
   </url><url>
-    <loc>/speakers2021/susanne-bauer/</loc>
-  </url><url>
     <loc>/speakers2022/susanne-bauer/</loc>
   </url><url>
     <loc>/speakers2023/susanne-bauer/</loc>
@@ -2187,17 +2103,11 @@
   </url><url>
     <loc>/speakers2024/suzette-laqua/</loc>
   </url><url>
-    <loc>/speakers2021/sven-unland/</loc>
-  </url><url>
     <loc>/speakers2022/sven-unland/</loc>
   </url><url>
     <loc>/speakers2019/svenja-buettner/</loc>
   </url><url>
-    <loc>/speakers2021/svenja-buettner/</loc>
-  </url><url>
     <loc>/speakers2020/svenja-freise/</loc>
-  </url><url>
-    <loc>/speakers2021/svenja-freise/</loc>
   </url><url>
     <loc>/series2020/swipe/</loc>
   </url><url>
@@ -2226,6 +2136,8 @@
     <loc>/series2026/task-force-querlitz/</loc>
   </url><url>
     <loc>/series2019/taste/</loc>
+  </url><url>
+    <loc>/team2026/</loc>
   </url><url>
     <loc>/series2025/tender-and-loud/</loc>
   </url><url>
@@ -2351,8 +2263,6 @@
   </url><url>
     <loc>/speakers2019/thomas-meudt/</loc>
   </url><url>
-    <loc>/speakers2021/thomas-meudt/</loc>
-  </url><url>
     <loc>/jury-2019/jury-animation/thomas-schneider-trumpp/</loc>
   </url><url>
     <loc>/jury-2020/jury-animation/thomas-schneider-trumpp/</loc>
@@ -2362,8 +2272,6 @@
     <loc>/speakers2019/thomas-schneider-trumpp/</loc>
   </url><url>
     <loc>/speakers2020/thomas-schneider-trumpp/</loc>
-  </url><url>
-    <loc>/speakers2021/thomas-schneider-trumpp/</loc>
   </url><url>
     <loc>/speakers2022/thomas-schneider-trumpp/</loc>
   </url><url>
@@ -2382,8 +2290,6 @@
     <loc>/jury-2025/jury-animation/thomas-zeug/</loc>
   </url><url>
     <loc>/series2020/throwback89/</loc>
-  </url><url>
-    <loc>/speakers2021/till-georg-schadeck/</loc>
   </url><url>
     <loc>/speakers2022/till-georg-schadeck/</loc>
   </url><url>
@@ -2415,11 +2321,7 @@
   </url><url>
     <loc>/speakers2020/tobias-leveringhaus/</loc>
   </url><url>
-    <loc>/speakers2021/tobias-leveringhaus/</loc>
-  </url><url>
     <loc>/series2023/tokens/</loc>
-  </url><url>
-    <loc>/speakers2021/tom-beyer/</loc>
   </url><url>
     <loc>/series2021/tony/</loc>
   </url><url>
@@ -2448,8 +2350,6 @@
     <loc>/series2020/utopia-plantitia/</loc>
   </url><url>
     <loc>/speakers2020/valerio-camelin/</loc>
-  </url><url>
-    <loc>/speakers2021/valerio-camelin/</loc>
   </url><url>
     <loc>/pilots2025/venus-under-threat/</loc>
   </url><url>

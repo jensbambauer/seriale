@@ -17,6 +17,7 @@ sections:
               - partial: program
                 smallmargin: true
                 data:
+                  speakerSection: speakers2026
                   items:
                     - title: "From Idea to Pilot (Session 1)"
                       type: workshop
@@ -27,8 +28,10 @@ sections:
                         - link: https://seriale2.vercel.app/workshop-register
                           name: register
                       speaker:
-                        - name: Pedro Levati
-                          link: pedro-levati
+                        - name: Florencia Sokol
+                          link: florencia-sokol
+                        - name: Sofía Szelske
+                          link: sofia-szelske
                     - title: "From Idea to Pilot (Session 2)"
                       type: workshop
                       length: 4
@@ -36,8 +39,10 @@ sections:
                       details: "Creating a Series That Can Actually Be Made.<br/><br/> This two-part workshop guides participants through developing a series from concept to pilot, with a focus on clarity, production awareness, and sales potential. We will define what makes a strong protagonist, build a compelling series engine, and shape a pilot that naturally generates a story extending beyond episode one. The workshop combines narrative tools (conflict, stakes, character wound) with practical constraints (budgeting resources, contained worlds, shootable scenes). <br/><br/>Location: Giessen, Festival hub (during die Seriale)"
                       external:
                       speaker:
-                        - name: Pedro Levati
-                          link: pedro-levati
+                        - name: Florencia Sokol
+                          link: florencia-sokol
+                        - name: Sofía Szelske
+                          link: sofia-szelske
   - partial: text-plain
     headline: connect with us
     data:
