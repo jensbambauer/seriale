@@ -1,0 +1,5 @@
+---
+title: Sofía Szelske | Lab Producciones | Argentina
+image: /img/sofia-szelske.jpg
+---
+Creator, screenwriter, and co-director of Naturaleza Muerta, a series for Warner Media Latin America, winner of Best Series at die Seriale Festival 2023 (Germany). She wrote Después de las 12, premiered at the Mar del Plata International Film Festival 2021, and was selected for festivals such as the Brussels International Fantastic Film Festival (BIFFF) 2022 and the Canadian REGARD – Saguenay International Short Film Festival 2022. Recently, she wrote two feature films for Zeppelin Studio, co-wrote and produced an animated branded-content short for Kik Compounds (Belgium), and worked as a script doctor on two feature films for El Colchón Entertainment, one nominated for the Goya Awards 2026. She also wrote a micro-fiction for Banijay Iberia. She is currently co-writing a series for Oficina Burman (The Mediapro Studio), another for Zeppelin Studio (Argentina), and a feature film for El Colchón Entertainment (Peru), to be produced in 2026.
