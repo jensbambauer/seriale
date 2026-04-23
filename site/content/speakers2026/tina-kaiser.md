@@ -1,0 +1,6 @@
+---
+title: Tina Kaiser
+image: /img/tina-kaiser.jpg
+shortdescription: Writer, Film Scholar, Dramaturg | Philipps University of Marburg | Germany
+---
+Tina Kaiser works as a Dramaturg for documentaries and feature films, as an Author, and as a Scholar based in Berlin and Marburg. She is a Research Associate for Film Studies and Media Practice at the Philipps University of Marburg and a Board Member of the Hessian Film and Media Academy (hFMA). Projects she has supported as a Dramaturg have won numerous national and international awards, including the EXPLORATION AWARD 2025 at the IOFF International Ocean Film Festival in San Francisco, and the German Environmental & Sustainability Film Award 2024 at the International NaturVision Film Festival in Ludwigsburg for “Expedition Arktis 2 – Tauchfahrt am Nordpol” (Dir. Philipp Grieß, Manuel Ernst) and the LOLA Best Documentary Film German Film Award 2021 for “Herr Bachmann und seine Klasse” (Dir. Maria Speth). Her current film project is “Silent Friend” (Dir. Ildikó Enyedi). Her portfolio also includes collaborations and projects in the fields of ecology, nature conservation, and species protection, including work for the German Marine Research Alliance (DAM).
