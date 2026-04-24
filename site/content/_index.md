@@ -74,7 +74,7 @@ sections:
           blocks:
             - time: 3pm - 5pm
               title: "WORKSHOP: From Idea to Pilot: Creating a Series That Can Actually Be Made - Part 1"
-              location: "Festival Hub, Kreuzplatz 7, Giessen<br/>by Florencia Sokol, Sofía Szelske<br/>by application form (starting soon)"
+              location: 'Festival Hub, Kreuzplatz 7, Giessen<br/>by Florencia Sokol, Sofía Szelske<br/><br/><a class="button button--small" href="https://seriale2.vercel.app/workshop-register" target="_blank" data-barba-prevent>register</a>'
               size: 4
             - time: 7pm - 10pm
               title: FOCUS HESSEN
@@ -126,7 +126,7 @@ sections:
               size: 4
             - time: 11:30am - 1:30pm
               title: "WORKSHOP: From Idea to Pilot: Creating a Series That Can Actually Be Made - Part 2"
-              location: "Festival Hub, Kreuzplatz 7, Giessen<br/>by Florencia Sokol, Sofía Szelske<br/>by application form (starting soon)"
+              location: 'Festival Hub, Kreuzplatz 7, Giessen<br/>by Florencia Sokol, Sofía Szelske<br/><br/><a class="button button--small" href="https://seriale2.vercel.app/workshop-register" target="_blank" data-barba-prevent>register</a>'
               size: 4
             - time: 3pm - 6pm
               title: Pitch Contest
