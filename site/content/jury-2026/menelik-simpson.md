@@ -1,5 +1,6 @@
 ---
 title: Menelik Simpson
+image: /img/menelik-simpson.jpg
 category: pilots
 shortdescription: Writer, Editor & Director | MAWS Productions | United Kingdom
 ---
