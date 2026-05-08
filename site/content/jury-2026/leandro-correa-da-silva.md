@@ -1,5 +1,5 @@
 ---
-title: Leandro Correa da Silva
+title: Leandro Silva
 image: /img/leandro-silva.jpg
 category: series
 shortdescription: CEO, Founder | Charlotte Produções, Rio Webfest | Brazil
