@@ -1,6 +1,13 @@
 ---
 title: BAD PEOPLE
+image: /img/series/bad-people-still.jpg
 origin: Germany
+genre: Comedy
+creators: Julia Mirjam Cantuária
+directors: Nathalie Lamb
+writers: Julia Mirjam Cantuária
+producers: Lara Stump
+cast: Jeremias Meyer, Şafak Şengül, Arnd Schimkat
 nominations:
   - winner: false
     category: best-directing
@@ -20,4 +27,4 @@ nominations:
     category: best-original-score
     credit: Peter Albrecht
 ---
-tba
+Heaven or Hell? Timoteo, Nazlı, and Cornelius decide the fate of recently deceased people who have been classified as moral borderline cases. The interviews with the deceased are not the only challenge for the three of them; they also rarely agree with one another.
