@@ -1,6 +1,14 @@
 ---
 title: Eyes In The Woods
+image: /img/series/eyes-in-the-woods-still.jpg
+trailer: https://www.youtube.com/watch?v=hM4V7odPDKc
 origin: Canada
+genre: Queer Mystery/Thriller/Adventure
+creators: Morgan Ermter
+directors: Morgan Ermter
+writers: Morgan Ermter, Alanna Schwartz
+producers: "Griffin Cork, Cayley Ermter, Kenya Weaver, Morgan Ermter "
+cast: Lily Willcocks, Aela Herbert, Alice Wordsworth, Selina Wong, Griffin Cork
 nominations:
   - winner: false
     category: best-editing
@@ -15,4 +23,4 @@ nominations:
     category: best-original-score
     credit: Scott Steneker
 ---
-tba
+The forest watches as two sisters confront personal truths - and what lurks in the dark.
