@@ -1,6 +1,14 @@
 ---
 title: MARI WITCHHUNTER
+image: /img/series/mari-witchhunter-still.jpg
+trailer: https://vimeo.com/1092374610/f4a0319745
 origin: Spain
+genre: Adventure, Kids
+creators: Rose of Dolls & Oliver Mend
+directors: Rose of Dolls & Oliver Mend
+writers: Rose of Dolls & Oliver Mend
+producers: Rose of Dolls, Irene Gomez, Maite Taranco
+cast: Nerea Sanz, Mikkele Arizkorreta, Asier Valdestilla, Maria Cruickshank
 nominations:
   - winner: false
     category: best-leading-performance
@@ -15,4 +23,4 @@ nominations:
     category: best-costume-design
     credit: Aitana Gonzalez Lopez
 ---
-tba
+Mari, destined to hunt witches, leads a story where magic and reality intertwine through Basque mythology. With her group of friends, she battles witches to protect society, facing dangerous and escalating challenges along the way.
