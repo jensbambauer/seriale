@@ -1,5 +1,6 @@
 ---
 title: House Of Bellevue
+image: /img/series/house-of-bellevue.jpg
 origin: Germany
 genre: Drama
 creators: Kai S. Pieck
