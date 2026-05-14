@@ -1,6 +1,15 @@
 ---
 title: Mukbang
+image: /img/series/mukbang-still.jpg
+trailer: https://vimeo.com/1177793789
 origin: Canada
+genre: Drama, Horror
+creators: Fanie Demeule & Kevin T. Landry
+directors: Kevin T. Landry
+writers: Fanie Demeule & Kevin T. Landry
+producers: "Mathieu Paiement & Philippe-A. Allard "
+cast: Léanne Désilets, Sophie Desmarais, Amaryllis Tremblay, Geneviève
+  Brouillette, Jean-Marc Dalphond, Sasha Migliarese, Russell Yuen
 nominations:
   - winner: false
     category: best-directing
@@ -18,4 +27,4 @@ nominations:
     category: best-production-design
     credit: Paskale Jobin
 ---
-tba
+When Kim discovers the bizarre universe of mukbangs – live online shows where devouring mountains of food might just turn you into a star – her craving for recognition takes over. But has she bitten off more than she can chew?
