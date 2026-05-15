@@ -7,6 +7,11 @@ sections:
       list: jury-2026
       category: series
   - partial: teaser-grid
+    headline: Jury Vertical Series
+    data:
+      list: jury-2026
+      category: vertical-series
+  - partial: teaser-grid
     headline: Jury Documentary
     data:
       list: jury-2026

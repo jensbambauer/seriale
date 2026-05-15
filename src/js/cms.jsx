@@ -26,6 +26,7 @@ const juryFields = [
 // Jury categories for filtering
 const juryCategories = [
   { label: "Short Form Series", value: "series" },
+  { label: "Vertical Series", value: "vertical-series" },
   { label: "Long Form Series", value: "long-form-series" },
   { label: "Animation", value: "animation" },
   { label: "Documentary", value: "documentary" },
