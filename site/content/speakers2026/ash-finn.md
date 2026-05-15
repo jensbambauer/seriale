@@ -1,5 +1,6 @@
 ---
 title: Ash Finn
+image: /img/ash-finn.jpg
 shortdescription: Writer, Production Designer & Art Director | Mythica
   Entertainment | United Kingdom
 ---
