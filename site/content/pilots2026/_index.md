@@ -1,7 +1,7 @@
 ---
 title: Pilots 2026
 sections:
-  - partial: teaser-grid
+  - partial: thumb-grid
     headline: Pilots
     data:
       list: pilots2026

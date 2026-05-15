@@ -125,7 +125,14 @@ const seriesFields = [
 const pilotFields = [
   { label: "Title", name: "title", widget: "string" },
   { label: "Image", name: "image", widget: "image", required: false },
+  { label: "Trailer", name: "trailer", widget: "string", required: false, hint: "YouTube or Vimeo URL, e.g. https://www.youtube.com/watch?v=XXXXX or https://vimeo.com/123456" },
   { label: "Origin (Country)", name: "origin", widget: "string", required: false, hint: "e.g. Germany, France" },
+  { label: "Genre", name: "genre", widget: "string", required: false },
+  { label: "Creators", name: "creators", widget: "string", required: false },
+  { label: "Directors", name: "directors", widget: "string", required: false },
+  { label: "Writers", name: "writers", widget: "string", required: false },
+  { label: "Producers", name: "producers", widget: "string", required: false },
+  { label: "Cast", name: "cast", widget: "string", required: false },
   nominationsField,
   { label: "Body", name: "body", widget: "markdown" },
 ];
