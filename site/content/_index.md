@@ -96,7 +96,7 @@ sections:
               size: 4
             - time: 11:30am - 1pm
               title: "WORKSHOP: Building effective content strategies across the different Social Media Platforms"
-              location: "Festival Hub, Kreuzplatz 7, Giessen<br/>by Sara Mauleón, Anne Schokominza Pfannestiel<br/>by registration (free entry)"
+              location: "Festival Hub, Kreuzplatz 7, Giessen<br/>by Sara Mauleón, Anne Schokominza Pfannenstiel<br/>by registration (free entry)"
               size: 4
             - time: 2:30pm - 5pm
               title: Film & Media MeetUp Live!
@@ -162,7 +162,7 @@ sections:
               title: SCREENING BLOCK 9
               location: Kinocenter Giessen<br/>buy tickets on site & online
               size: 3
-            - time: 6pm - 8:30pm
+            - time: 6:30pm - 8:30pm
               title: RED CARPET
               location: City Hall Giessen<br/>by invitation only
               size: 3
