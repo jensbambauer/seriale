@@ -28,6 +28,9 @@ sections:
                       time: 15:00 | 3pm
                       type: workshop
                       details: "This two-part workshop guides participants through the development of a series from concept to pilot, with a focus on clarity, production awareness, and sales potential. We will define what makes a strong protagonist, build a compelling series engine, and shape a pilot that naturally generates a story extending beyond episode one. The workshop combines narrative tools (conflict, stakes, character wound) with practical constraints (budgeting resources, contained worlds, shootable scenes). Participants will leave with a focused synopsis, a pilot outline, a clear teaser direction, and a concrete strategy for how and where their project can live. Internationally successful series creators will guide you through this two-day intensive workshop and support you in bringing your own project to life. The workshop is hosted by the international series festival die Seriale in cooperation with the Darmstadt University of Applied Sciences (Department Media/Motion Pictures). The workshop tutors are Florencia Sokol and Sofía Szelske, both screenwriters and award-winning creators."
+                      external:
+                        - link: https://seriale2.vercel.app/workshop-register
+                          name: register
                       speaker:
                         - name: Florencia Sokol
                           link: florencia-sokol
@@ -36,7 +39,7 @@ sections:
               - partial: text-plain
                 headline: Focus Hessen
                 data:
-                  text: "Focus Hessen is dedicated to serial storytelling that puts the region in focus – this year in an expanded format that not only highlights creative voices, but opens up new perspectives on the industry. At the historic Lottehof Wetzlar, we invite series fans to come together to enjoy an open-air event and provide a platform for the Hessian industry to meet international professionals. For the first time, the evening features a thematic panel that goes far beyond individual series projects and provides a space for exchange among industry players who help shape the future of serial storytelling in Hesse and beyond. As night falls, the program transitions to an open-air screening, presenting series and pilot episodes on the big screen under the stars. Focus Hessen is therefore an evening to discover, connect and celebrate Hessian storytelling within an international festival context.<br/><br/>Location: Lottehof, Lottestrasse 8–10, 35578 Wetzlar"
+                  text: "Focus Hessen is dedicated to serial storytelling that puts the region in focus – this year in an expanded format that not only highlights creative voices, but opens up new perspectives on the industry. At the historic Lottehof Wetzlar, we invite series fans to come together to enjoy an open-air event and provide a platform for the Hessian industry to meet international professionals. For the first time, the evening features a thematic panel that goes far beyond individual series projects and provides a space for exchange among industry players who help shape the future of serial storytelling in Hesse and beyond. As night falls, the program transitions to an open-air screening, presenting series and pilot episodes on the big screen under the stars. Focus Hessen is therefore an evening to discover, connect and celebrate Hessian storytelling within an international festival context.<br/><br/>Location: Lottehof, Lottestrasse 8–10, 35578 Wetzlar<br/><br/>free entry"
               - partial: program
                 smallmargin: true
                 data:
@@ -56,6 +59,7 @@ sections:
                       details: "Official welcome by Csongor Dobrotka – die Seriale Festival Director."
                       hosts:
                         - name: Amarú Frida
+                          link: amarú-frida
                         - name: Daria Solovieva
                     - title: "Between Touchdowns and the Apocalypse: New Series Formats from Hesse"
                       length: 2
@@ -66,11 +70,14 @@ sections:
                       moderator:
                         - name: Daria Solovieva
                         - name: Amarú Frida
+                          link: amarú-frida
                       panelists:
                         - name: Louisa Frey
+                          link: louisa-frey
                         - name: Lucas Yalaza
                           link: lucas-yalaza
                         - name: Sebastian Simon
+                          link: sebastian-simon
                     - title: "Fostering a Community for Structural Improvement"
                       length: 2
                       datetime: 2026-06-11
@@ -99,6 +106,7 @@ sections:
                       details: "What happens when the greatest distance you travel is the one within yourself? Join us for an intimate look at two compelling Argentinian series that explore the bittersweet reality of leaving home. In \"NOBODY,\" we follow Sandra as she travels from Argentina to Giessen, Germany, only to discover that the silence she tried to outrun followed her across the ocean. It's a haunting exploration of isolation and the uncomfortable truth that we cannot escape ourselves. In contrast, \"The Day Before Leaving\" captures the frantic, final 24 hours of Teo's life in Buenos Aires. What should be a structured farewell turns into a chaotic and unexpected encounter involving a roommate, a rabbit, and the realization that saying goodbye is never as simple as packing a suitcase."
                       moderator:
                         - name: Amarú Frida
+                          link: amarú-frida
                         - name: Daria Solovieva
                       panelists:
                         - name: Ezequiel Tronconi
@@ -110,7 +118,7 @@ sections:
                       datetime: 2026-06-11
                       time: 22:00 | 10pm
                       type: screening
-                      details: "Open Air Screening of series and pilots from the current Official Selection. All screenings in original language with English subtitles.<br/><br/>Location: Lottehof, Lottestrasse 8–10, 35578 Wetzlar"
+                      details: "Open Air Screening of series and pilots from the current Official Selection. All screenings in original language with English subtitles.<br/><br/>Location: Lottehof, Lottestrasse 8–10, 35578 Wetzlar<br/><br/>free entry"
                       pilots:
                         - name: "You're leaving me"
                           link: youre-leaving-me
@@ -123,7 +131,7 @@ sections:
                       datetime: 2026-06-11
                       time: 23:00 | 11pm
                       type: screening
-                      details: "Open Air Screening of series and pilots from the current Official Selection. All screenings in original language with English subtitles.<br/><br/>Location: Lottehof, Lottestrasse 8–10, 35578 Wetzlar"
+                      details: "Open Air Screening of series and pilots from the current Official Selection. All screenings in original language with English subtitles.<br/><br/>Location: Lottehof, Lottestrasse 8–10, 35578 Wetzlar<br/><br/>free entry"
                       series:
                         - name: "NOBODY"
                           link: nobody
@@ -136,7 +144,7 @@ sections:
               - partial: text-plain
                 headline: Educational
                 data:
-                  text: "The Educational is the festival's discourse-oriented section, now entering its 11th edition. It creates a space where scholars and practitioners come together with filmmakers to discuss the cultural, aesthetic, and structural dimensions of serial storytelling. Through curated panels, keynotes and a live podcast, the Educational examines how series are made, how they are seen, and how they shape our understanding of the world around us. In line with this year's festival theme, \"Creating the Future\", the 2026 edition turns to questions of innovation, transformation, and emerging forms of storytelling. It reflects on the latest creative impulses and industry developments. With international guests and interdisciplinary perspectives, the Educational invites dialogue, reflection, and exchange.<br/><br/>Location: Heyligenstaedt, Aulweg 41, 35392 Giessen"
+                  text: "The Educational is the festival's discourse-oriented section, now entering its 11th edition. It creates a space where scholars and practitioners come together with filmmakers to discuss the cultural, aesthetic, and structural dimensions of serial storytelling. Through curated panels, keynotes and a live podcast, the Educational examines how series are made, how they are seen, and how they shape our understanding of the world around us. In line with this year's festival theme, \"Creating the Future\", the 2026 edition turns to questions of innovation, transformation, and emerging forms of storytelling. It reflects on the latest creative impulses and industry developments. With international guests and interdisciplinary perspectives, the Educational invites dialogue, reflection, and exchange.<br/><br/>Location: Heyligenstaedt, Aulweg 41, 35392 Giessen<br/><br/>free entry"
               - partial: program
                 smallmargin: true
                 data:
@@ -156,6 +164,7 @@ sections:
                       speaker:
                         - name: Dr. Janina Rojek
                         - name: Amarú Frida
+                          link: amarú-frida
                         - name: Daria Solovieva
                         - name: Csongor Dobrotka
                     - title: "Festivals Worldwide – A Circuit to Display and Celebrate Series"
@@ -166,6 +175,7 @@ sections:
                       details: "How do series travel to festivals worldwide, and what role do these platforms play in connecting creators, audiences, and industry players? This panel looks at the international festival circuit as a space for exchange, visibility, and facilitation. Dipu Bhattacharya, the head of the Web Series World Cup section within the Digital Media World Cup, speaks with several festival directors. Together, they will discuss how they select and present series, what distinguishes or unites their regional scenes, and how festivals are evolving in response to new formats and audiences."
                       moderator:
                         - name: Dipu Bhattacharya
+                          link: dipu-bhattacharya
                       panelists:
                         - name: Cathrin Ehrlich
                           link: cathrin-ehrlich
@@ -217,6 +227,7 @@ sections:
                       details: "For the first time, our festival presents Indonesian series in Germany. This panel explores the emerging landscape of Indonesian serial storytelling, from independent creators to local industry developments. The discussion also highlights the role of institutions like the Goethe-Institut in supporting creative work. With contributions from series creators of our Official Selection, the panel offers insights into the creative and cultural practices shaping Indonesia's series scene today."
                       moderator:
                         - name: Amarú Frida
+                          link: amarú-frida
                         - name: Daria Solovieva
                       panelists:
                         - name: Daud Nugraha
@@ -258,7 +269,7 @@ sections:
                       datetime: 2026-06-12
                       time: 11:30 | 11:30am
                       type: workshop
-                      details: "A practical conversation on how to design and implement a content strategy that truly fits each platform. We will explore how to identify the right channels, adapt messaging for different audiences, and show how to create content that performs. During this workshop, we will highlight current trends, best practices, and actionable steps to elevate your digital presence."
+                      details: "A practical conversation on how to design and implement a content strategy that truly fits each platform. We will explore how to identify the right channels, adapt messaging for different audiences, and show how to create content that performs. During this workshop, we will highlight current trends, best practices, and actionable steps to elevate your digital presence.<br/><br/>by registration (free entry)"
                       speaker:
                         - name: Sara Mauleón
                           link: sara-mauleón
@@ -267,7 +278,7 @@ sections:
               - partial: text-plain
                 headline: Film & Media Meetup LIVE
                 data:
-                  text: "Once again, Seriale hosts the Film & Media Meetup to bring together creators from Hesse and around the world. Directly following the Educational programme, the event offers a relaxed setting for exchange, networking, and insights into current industry developments. In an informal atmosphere, participants can connect over a drink, discuss projects, and build meaningful relationships. A highlight of the meetup is the opportunity to take part in Speed Meetings designed to facilitate quick and efficient networking. Whether at the beginning of a career in the film and media industry or in the context of developing new projects, the meetup provides access to relevant contacts, ideas, and opportunities.<br/><br/>Location: Heyligenstaedt, Aulweg 41, 35392 Giessen<br/><br/>Admission is free."
+                  text: "Location: Heyligenstaedt, Aulweg 41, 35392 Giessen<br/><br/>Admission is free."
               - partial: program
                 smallmargin: true
                 data:
@@ -277,10 +288,8 @@ sections:
                       length: 3
                       datetime: 2026-06-12
                       time: 14:30 | 2:30pm
-                      type: networking
-                      details: "The Film & Media Meetup is organized by Film- und Kinobüro Hessen, Filmhaus Frankfurt, hFMA, Junge Generation Hessischer Film, and Queer Media Society Hessen. It is held in cooperation with \"Ich will zum Film\" by Crew United, Kuratorium junger deutscher Film, Pensionskasse Rundfunk, ZAV - Künstler[*innen]vermittlung, and MBF - the Rental. The project is funded by Hessen Film & Medien GmbH."
-                      external:
-                        - link: https://forms.cloud.microsoft/pages/responsepage.aspx?id=wrKBbGk69EGgFnCV5mtGV8PQDvn-3fFDt1gkZU2BuRJUOUgyMVcxVDRJM0hGT0tVNFMzMkg5UENIMC4u&route=shorturl
+                      type: networking & speed meetings
+                      details: "Once again, Seriale hosts the Film & Media Meetup to bring together creators from Hesse and around the world. Directly following the Educational programme, the event offers a relaxed setting for exchange, networking, and insights into current industry developments. In an informal atmosphere, participants can connect over a drink, discuss projects, and build meaningful relationships. A highlight of the meetup is the opportunity to take part in Speed Meetings designed to facilitate quick and efficient networking. Whether at the beginning of a career in the film and media industry or in the context of developing new projects, the meetup provides access to relevant contacts, ideas, and opportunities.<br/><br/>The Film & Media Meetup is organized by Film- und Kinobüro Hessen, Filmhaus Frankfurt, hFMA, Junge Generation Hessischer Film, and Queer Media Society Hessen. It is held in cooperation with \"Ich will zum Film\" by Crew United, Kuratorium junger deutscher Film, Pensionskasse Rundfunk, ZAV - Künstler[*innen]vermittlung, and MBF - the Rental. The project is funded by Hessen Film & Medien GmbH."
                           name: register
                     - title: "Speed Meetings"
                       length: 2
@@ -289,6 +298,8 @@ sections:
                       type: networking
                       moderator:
                         - name: Ilona Kechter
+                      external:
+                        - link: https://forms.cloud.microsoft/pages/responsepage.aspx?id=wrKBbGk69EGgFnCV5mtGV8PQDvn-3fFDt1gkZU2BuRJUOUgyMVcxVDRJM0hGT0tVNFMzMkg5UENIMC4u&route=shorturl
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
@@ -312,6 +323,10 @@ sections:
                           link: mukbang
                         - name: "Task Force Querlitz"
                           link: task-force-querlitz
+                      external:
+                        - link:
+                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026-opening-+-premiere/A1A74000012PLXMQDD
+                          name: get tickets
                     - title: "Screening Block 4"
                       length: 2
                       datetime: 2026-06-12
@@ -328,6 +343,10 @@ sections:
                           link: knots
                         - name: "NOBODY"
                           link: nobody
+                      external:
+                        - link:
+                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                          name: get tickets
                     - title: "Screening Block 5"
                       length: 2
                       datetime: 2026-06-12
@@ -345,10 +364,14 @@ sections:
                           link: mari-witchhunter
                         - name: "2 Aliens"
                           link: 2-aliens
+                      external:
+                        - link:
+                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                          name: get tickets
               - partial: text-plain
                 headline: Networking Night
                 data:
-                  text: "Location: Stadtcafe Giessen"
+                  text: "Location: Stadtcafe Giessen<br/><br/>with festival pass only"
               - partial: program
                 smallmargin: true
                 data:
@@ -366,7 +389,7 @@ sections:
               - partial: text-plain
                 headline: Seriale Pro
                 data:
-                  text: "Our industry program, Seriale Pro, serves as a premier hub for global series exchange, co-production opportunities, and long-term partnerships. By bringing together creators, producers, and industry experts from across the globe, we foster a truly international community. Celebrating its 10th edition, Seriale Pro features insightful panel discussions, exclusive networking events, and a pitch contest designed to bridge the gap between emerging talent and established professionals.<br/><br/>Location: Kleines Haus Stadttheater Giessen, Ostanlage 43, 35390 Giessen"
+                  text: "Our industry program, Seriale Pro, serves as a premier hub for global series exchange, co-production opportunities, and long-term partnerships. By bringing together creators, producers, and industry experts from across the globe, we foster a truly international community. Celebrating its 10th edition, Seriale Pro features insightful panel discussions, exclusive networking events, and a pitch contest designed to bridge the gap between emerging talent and established professionals.<br/><br/>Location: Kleines Haus Stadttheater Giessen, Ostanlage 43, 35390 Giessen<br/><br/>free entry"
               - partial: program
                 smallmargin: true
                 data:
@@ -390,6 +413,7 @@ sections:
                       moderator:
                         - name: Daria Solovieva
                         - name: Robert Schäfer
+                          link: robert-schäfer
                       panelists:
                         - name: Sara Mauleón
                           link: sara-mauleón
@@ -412,9 +436,12 @@ sections:
                       details: "This panel focuses on international co-productions and explores how creative projects can be successfully developed across national borders. The discussion will cover opportunities, challenges, and proven strategies for effective collaboration between producers, funding bodies, and creative professionals."
                       moderator:
                         - name: Menelik Simpson
+                          link: menelik-simpson
                       panelists:
                         - name: Felix Maximilian
+                          link: felix-maximilian
                         - name: Gisela Waetzoldt-Hildebrandt
+                          link: gisela-waetzoldt-hildebrandt
                         - name: Ludmila Wagnest
                           link: ludmila-wagnest
                         - name: Rose of Dolls
@@ -448,6 +475,7 @@ sections:
                       details: "The panel focuses on the current rise of vertical series formats and their growing international presence. The discussion centers on marketable creative concepts, production strategies, and the unique opportunities the format offers for socially relevant topics and emerging talent. Together, the experts will discuss how vertical series are expanding the landscape of television series and what potential they hold for innovative, digital, and social formats."
                       moderator:
                         - name: Amarú Frida
+                          link: amarú-frida
                       panelists:
                         - name: Dr. Darko Jakovljevic
                         - name: Guido Hettinger
@@ -455,6 +483,7 @@ sections:
                         - name: Meriem Rebai
                           link: meriem-rebai
                         - name: Timo Landsiedel
+                          link: timo-landsiedel
               - partial: text-plain
                 headline: Workshop
                 data:
@@ -470,6 +499,9 @@ sections:
                       time: 11:30 | 11:30am
                       type: workshop
                       details: "This two-part workshop guides participants through the development of a series from concept to pilot, with a focus on clarity, production awareness, and sales potential. We will define what makes a strong protagonist, build a compelling series engine, and shape a pilot that naturally generates a story extending beyond episode one. The workshop combines narrative tools (conflict, stakes, character wound) with practical constraints (budgeting resources, contained worlds, shootable scenes). Participants will leave with a focused synopsis, a pilot outline, a clear teaser direction, and a concrete strategy for how and where their project can live. Internationally successful series creators will guide you through this two-day intensive workshop and support you in bringing your own project to life. The workshop is hosted by the international series festival die Seriale in cooperation with the Darmstadt University of Applied Sciences (Department Media/Motion Pictures). The workshop tutors are Florencia Sokol and Sofía Szelske, both screenwriters and award-winning creators."
+                      external:
+                        - link: https://seriale2.vercel.app/workshop-register
+                          name: register
                       speaker:
                         - name: Florencia Sokol
                           link: florencia-sokol
@@ -478,7 +510,7 @@ sections:
               - partial: text-plain
                 headline: Pitch Contest
                 data:
-                  text: "Location: Kleines Haus Stadttheater Giessen, Ostanlage 43, 35390 Giessen"
+                  text: "Location: Kleines Haus Stadttheater Giessen, Ostanlage 43, 35390 Giessen<br/><br/>free entry, with registration"
               - partial: program
                 smallmargin: true
                 data:
@@ -492,6 +524,7 @@ sections:
                       details: "The Pitch Contest offers 13 international series creators a platform to present their projects to an international expert Jury. The talented creators will have the opportunity to pitch their innovative ideas, receiving insightful questions and valuable feedback from the Jury. Join us for a celebration of creativity!"
                       moderator:
                         - name: Amarú Frida
+                          link: amarú-frida
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
@@ -522,6 +555,10 @@ sections:
                           link: you-have-to-forget-that
                         - name: "Flea Market For Pros"
                           link: flea-market-for-pros
+                      external:
+                        - link:
+                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                          name: get tickets
                     - title: "Screening Block 7"
                       length: 2
                       datetime: 2026-06-13
@@ -540,10 +577,14 @@ sections:
                           link: ren-the-girl-with-the-mark-season-3
                         - name: "BAD PEOPLE"
                           link: bad-people
+                      external:
+                        - link:
+                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                          name: get tickets
               - partial: text-plain
                 headline: Networking Night
                 data:
-                  text: "Location: Sattblau"
+                  text: "Location: Sattblau<br/><br/>with festival pass only"
               - partial: program
                 smallmargin: true
                 data:
@@ -572,7 +613,7 @@ sections:
                       datetime: 2026-06-14
                       time: 10:00 | 10am
                       type: networking
-                      details: "The DIMA Digital Market brings together a diverse range of exhibitors presenting their companies, festivals, projects, and organizations. Through a dedicated booking system, participants can schedule one-on-one meetings, creating targeted opportunities to connect directly with industry professionals. The Business Meetings are designed to foster exchange across the international series landscape and adjacent creative industries. Alongside series creators and producers, participants include professionals from fields such as marketing, sound and music, design, social media, and digital content production, as well as companies and organizations seeking collaborations in storytelling, branded content, or audiovisual communication. The market creates a dynamic interface between creative talent and potential partners, both from Germany and abroad. Meeting slots can be booked via the Seriale website. A limited number of appointments will also be available for spontaneous registration during the festival and on the market day. Interested exhibitors can apply for a market stand by sending an email to pro@die-seriale.de. Participating companies and institutions are welcome to bring presentation materials such as roll-ups, posters, or flyers. Setup is possible from 30 minutes before the event begins."
+                      details: "The DIMA Digital Market brings together a diverse range of exhibitors presenting their companies, festivals, projects, and organizations. Through a dedicated booking system, participants can schedule one-on-one meetings, creating targeted opportunities to connect directly with industry professionals. The Business Meetings are designed to foster exchange across the international series landscape and adjacent creative industries. Alongside series creators and producers, participants include professionals from fields such as marketing, sound and music, design, social media, and digital content production, as well as companies and organizations seeking collaborations in storytelling, branded content, or audiovisual communication. The market creates a dynamic interface between creative talent and potential partners, both from Germany and abroad. Meeting slots can be booked via the Seriale website. A limited number of appointments will also be available for spontaneous registration during the festival and on the market day. Interested exhibitors can apply for a market stand by sending an email to pro@die-seriale.de. Participating companies and institutions are welcome to bring presentation materials such as roll-ups, posters, or flyers. Setup is possible from 30 minutes before the event begins.<br/><br/>by registration only"
               - partial: text-plain
                 headline: Workshop
                 data:
@@ -587,7 +628,7 @@ sections:
                       datetime: 2026-06-14
                       time: 11:30 | 11:30am
                       type: workshop
-                      details: "A fun and hands-on workshop where children and families create their own shadow puppets of \"Desa Timun\" characters. Participants will also learn to tell simple stories using the Aniwayang technique – combining light, shadow, and imagination to bring their creations to life.<br/><br/>Ein unterhaltsamer und praxisorientierter Workshop, in dem Kinder und Familien ihre eigenen Schattenspielfiguren der \"Desa Timun\"-Charaktere basteln. Die Teilnehmer*innen lernen außerdem, einfache Geschichten mit Hilfe der Aniwayang-Technik zu erzählen – dabei verbinden sie Licht, Schatten und Fantasie, um ihre Kreationen zum Leben zu erwecken."
+                      details: "A fun and hands-on workshop where children and families create their own shadow puppets of \"Desa Timun\" characters. Participants will also learn to tell simple stories using the Aniwayang technique – combining light, shadow, and imagination to bring their creations to life."
                       speaker:
                         - name: Daud Nugraha
                           link: daud-nugraha
@@ -618,6 +659,10 @@ sections:
                           link: greystanes
                         - name: "Recanto dos Ribeiros"
                           link: recanto-dos-ribeiros
+                      external:
+                        - link:
+                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                          name: get tickets
                     - title: "Screening Block 9"
                       length: 2
                       datetime: 2026-06-14
@@ -634,6 +679,10 @@ sections:
                           link: krass-klassenfahrt-the-new-generation-season-2
                         - name: "The Human, Will"
                           link: the-human-will
+                      external:
+                        - link:
+                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                          name: get tickets
               - partial: text-plain
                 headline: Special
                 data:
@@ -667,22 +716,24 @@ sections:
                       time: 18:30 | 6:30pm
                       type: red carpet
                       details: "The Red Carpet event sets the perfect mood for the 12th Seriale Award Ceremony. We invite you to join us for a festive start to the evening as we raise a glass to this year's achievements. Enjoy the reception as a space to connect with fellow guests and capture the excitement of the night during our photo session. An evening of celebration and shared anticipation awaits – the perfect moment to celebrate our passion for serial storytelling together."
-                    - title: "12th Award Ceremony of die Seriale"
+                    - title: "12th Award Ceremony of die Seriale<br/><br/>by invitation only"
                       length: 2
                       datetime: 2026-06-14
                       time: 20:30 | 8:30pm
                       type: award ceremony
-                      details: "Following the Red Carpet event, the 12th Seriale Award Ceremony will honor this year's most outstanding series and pilots. A total of 18 awards will be presented to the projects selected by an international jury of experts. Once again, the ceremony will be beautifully accompanied by the musical talents of pianist Lada Nevmyatullina."
+                      details: "Following the Red Carpet event, the 12th Seriale Award Ceremony will honor this year's most outstanding series and pilots. A total of 18 awards will be presented to the projects selected by an international jury of experts. Once again, the ceremony will be beautifully accompanied by the musical talents of pianist Lada Nevmyatullina.<br/><br/>by invitation only"
                       hosts:
                         - name: Daria Solovieva
                         - name: Robert Schäfer
+                          link: robert-schäfer
                         - name: Amarú Frida
+                          link: amarú-frida
                     - title: Aftershow
                       length: 2
                       datetime: 2026-06-14
                       time: 22:30 | 10:30pm
                       type: after show
-                      details: "Location: Âu Lac"
+                      details: "Celebration & Networking.<br/><br/>Location: Âu Lac<br/><br/>by invitation only"
         - title: June 15th
           partial: tab-sections
           data:
@@ -690,7 +741,7 @@ sections:
               - partial: text-plain
                 headline: Location Tour
                 data:
-                  text: "12pm – 8pm Location Tour"
+                  text: "Networking & Location Tour in Wetzlar & Braunfels.<br/><br/>by invitation only"
               - partial: program
                 smallmargin: true
                 data:
@@ -699,7 +750,7 @@ sections:
                     - title: Location Tour
                       length: 8
                       datetime: 2026-06-15
-                      time: 12:00 | 12pm
+                      time: 12:00-20:00 | 12pm-8pm
                       type: networking
         - title: June 16th
           partial: tab-sections
@@ -751,6 +802,10 @@ sections:
                       pilots:
                         - name: "Eidesis"
                           link: eidesis
+                      external:
+                        - link:
+                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                          name: get tickets
   - partial: text-plain
     headline: connect with us
     data:
