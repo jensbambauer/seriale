@@ -288,8 +288,10 @@ sections:
                       length: 3
                       datetime: 2026-06-12
                       time: 14:30 | 2:30pm
-                      type: networking & speed meetings
+                      type: networking
                       details: "Once again, Seriale hosts the Film & Media Meetup to bring together creators from Hesse and around the world. Directly following the Educational programme, the event offers a relaxed setting for exchange, networking, and insights into current industry developments. In an informal atmosphere, participants can connect over a drink, discuss projects, and build meaningful relationships. A highlight of the meetup is the opportunity to take part in Speed Meetings designed to facilitate quick and efficient networking. Whether at the beginning of a career in the film and media industry or in the context of developing new projects, the meetup provides access to relevant contacts, ideas, and opportunities.<br/><br/>The Film & Media Meetup is organized by Film- und Kinobüro Hessen, Filmhaus Frankfurt, hFMA, Junge Generation Hessischer Film, and Queer Media Society Hessen. It is held in cooperation with \"Ich will zum Film\" by Crew United, Kuratorium junger deutscher Film, Pensionskasse Rundfunk, ZAV - Künstler[*innen]vermittlung, and MBF - the Rental. The project is funded by Hessen Film & Medien GmbH."
+                      external:
+                        - link: https://forms.cloud.microsoft/pages/responsepage.aspx?id=wrKBbGk69EGgFnCV5mtGV8PQDvn-3fFDt1gkZU2BuRJUOUgyMVcxVDRJM0hGT0tVNFMzMkg5UENIMC4u&route=shorturl
                           name: register
                     - title: "Speed Meetings"
                       length: 2
@@ -324,8 +326,7 @@ sections:
                         - name: "Task Force Querlitz"
                           link: task-force-querlitz
                       external:
-                        - link:
-                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026-opening-+-premiere/A1A74000012PLXMQDD
+                        - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2026-opening-+-premiere/A1A74000012PLXMQDD
                           name: get tickets
                     - title: "Screening Block 4"
                       length: 2
@@ -344,8 +345,7 @@ sections:
                         - name: "NOBODY"
                           link: nobody
                       external:
-                        - link:
-                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                        - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
                           name: get tickets
                     - title: "Screening Block 5"
                       length: 2
@@ -365,8 +365,7 @@ sections:
                         - name: "2 Aliens"
                           link: 2-aliens
                       external:
-                        - link:
-                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                        - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
                           name: get tickets
               - partial: text-plain
                 headline: Networking Night
@@ -556,8 +555,7 @@ sections:
                         - name: "Flea Market For Pros"
                           link: flea-market-for-pros
                       external:
-                        - link:
-                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                        - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
                           name: get tickets
                     - title: "Screening Block 7"
                       length: 2
@@ -578,8 +576,7 @@ sections:
                         - name: "BAD PEOPLE"
                           link: bad-people
                       external:
-                        - link:
-                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                        - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
                           name: get tickets
               - partial: text-plain
                 headline: Networking Night
@@ -660,8 +657,7 @@ sections:
                         - name: "Recanto dos Ribeiros"
                           link: recanto-dos-ribeiros
                       external:
-                        - link:
-                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                        - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
                           name: get tickets
                     - title: "Screening Block 9"
                       length: 2
@@ -680,8 +676,7 @@ sections:
                         - name: "The Human, Will"
                           link: the-human-will
                       external:
-                        - link:
-                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                        - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
                           name: get tickets
               - partial: text-plain
                 headline: Special
@@ -803,8 +798,7 @@ sections:
                         - name: "Eidesis"
                           link: eidesis
                       external:
-                        - link:
-                        https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
+                        - link: https://www.kinopolis.de/gi/filmdetail/die-seriale-2026/B1A74000012PLXMQDD
                           name: get tickets
   - partial: text-plain
     headline: connect with us
