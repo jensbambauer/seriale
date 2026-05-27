@@ -22,13 +22,17 @@ const createSeriesCollection = (year) => ({
   name: `series${year}`,
   label: `${year} / Series`,
   folder: `site/content/series${year}`,
-  media_folder: `{{media_folder}}/series${year}`,    // Dynamisch!
-  public_folder: `/img/series${year}`,                // Dynamisch!
+  media_folder: `site/static/img/series${year}`,    // Absoluter Pfad!
+  public_folder: `/img/series${year}`,               // Öffentlicher Pfad!
   create: true,
   slug: "{{slug}}",
   fields: seriesFields,
 });
 ```
+
+**Wichtig:** 
+- `media_folder` = physischer Speicherort (absoluter Pfad vom Projekt-Root)
+- `public_folder` = URL-Pfad für die Website
 
 ### Was bedeutet das?
 
