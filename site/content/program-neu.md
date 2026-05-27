@@ -25,7 +25,7 @@ sections:
                   pilotsSection: pilots2026
                   items:
                     - title: "From Idea to Pilot: Creating a Series That Can Actually Be Made - Part 1"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-11
                       time: 15:00-17:00 | 3pm-5pm
                       type: workshop
@@ -63,7 +63,7 @@ sections:
                           link: amarú-frida
                         - name: Daria Solovieva
                     - title: "Between Touchdowns and the Apocalypse: New Series Formats from Hesse"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-11
                       time: 20:15-20:45 | 8:15pm-8:45pm
                       type: panel discussion
@@ -80,7 +80,7 @@ sections:
                         - name: Sebastian Simon
                           link: sebastian-simon
                     - title: "Fostering a Community for Structural Improvement"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-11
                       time: 20:45-21:30 | 8:45pm-9:30pm
                       type: panel discussion
@@ -100,7 +100,7 @@ sections:
                         - name: Oliver Arnold
                           link: oliver-arnold
                     - title: "Bridges to Hessen: International Perspectives on Series Creation"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-11
                       time: 21:30-22:00 | 9:30pm-10pm
                       type: panel discussion
@@ -115,7 +115,7 @@ sections:
                         - name: Pilar Germano
                           link: pilar-germano
                     - title: "Open Air Screening – Block 1"
-                      length: 2
+                      length: 3
                       datetime: 2026-06-11
                       time: 22:00-23:00 | 10pm-11pm
                       type: screening
@@ -128,7 +128,7 @@ sections:
                         - name: "Women taking the Field"
                           link: women-taking-the-field
                     - title: "Open Air Screening – Block 2"
-                      length: 2
+                      length: 3
                       datetime: 2026-06-11
                       time: 23:00-00:00 | 11pm-12am
                       type: screening
@@ -159,7 +159,7 @@ sections:
                       datetime: 2026-06-12
                       time: 9:30 | 9:30am
                     - title: Opening
-                      length: 2
+                      length: 3
                       datetime: 2026-06-12
                       time: 10:00-10:15 | 10am-10:15am
                       type: opening
@@ -171,7 +171,7 @@ sections:
                         - name: Daria Solovieva
                         - name: Csongor Dobrotka
                     - title: "Festivals Worldwide – A Circuit to Display and Celebrate Series"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-12
                       time: 10:15-11:15 | 10:15am-11:15am
                       type: panel discussion
@@ -195,7 +195,7 @@ sections:
                         - name: Young Man Kang
                           link: young-man-kang
                     - title: "The Heart's Compass: Navigating Connection, Desire, and the Digital Abyss"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-12
                       time: 11:15-12:15 | 11:15am-12:15pm
                       type: panel discussion
@@ -225,7 +225,7 @@ sections:
                         - name: Ana Balduini
                           link: ana-balduini
                     - title: "Indonesia Unfolding – A New Wave of Serial Storytelling"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-12
                       time: 12:15-13:00 | 12:15pm-1pm
                       type: panel discussion
@@ -240,7 +240,7 @@ sections:
                         - name: Lukman Hakim
                           link: lukman-hakim
                     - title: "Thinking Ahead: Spotting & Setting Trends"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-12
                       time: 13:00-14:00 | 1pm-2pm
                       type: panel discussion
@@ -272,7 +272,7 @@ sections:
                   pilotsSection: pilots2026
                   items:
                     - title: "Building effective content strategies across the different Social Media Platforms"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-12
                       time: 11:30-13:00 | 11:30am-1pm
                       type: workshop
@@ -303,7 +303,7 @@ sections:
                         - link: https://forms.cloud.microsoft/pages/responsepage.aspx?id=wrKBbGk69EGgFnCV5mtGV8PQDvn-3fFDt1gkZU2BuRJUOUgyMVcxVDRJM0hGT0tVNFMzMkg5UENIMC4u&route=shorturl
                           name: register
                     - title: "Speed Meetings"
-                      length: 2
+                      length: 3
                       datetime: 2026-06-12
                       time: 15:30-17:00 | 3:30pm-5pm
                       type: networking
@@ -311,6 +311,8 @@ sections:
                         - name: Ilona Kechter
                       external:
                         - link: https://forms.cloud.microsoft/pages/responsepage.aspx?id=wrKBbGk69EGgFnCV5mtGV8PQDvn-3fFDt1gkZU2BuRJUOUgyMVcxVDRJM0hGT0tVNFMzMkg5UENIMC4u&route=shorturl
+                          name: register
+
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
@@ -410,7 +412,7 @@ sections:
                   pilotsSection: pilots2026
                   items:
                     - title: Opening
-                      length: 2
+                      length: 3
                       datetime: 2026-06-13
                       time: 10:00-10:30 | 10am-10:30am
                       type: opening
@@ -419,7 +421,7 @@ sections:
                         - name: Csongor Dobrotka
                         - name: Celina Schmitt
                     - title: "Artistic Ambition vs. Market Demands: Marketing Strategies for Independent Series"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-13
                       time: 10:30-11:15 | 10:30am-11:15am
                       type: panel discussion
@@ -438,12 +440,12 @@ sections:
                         - name: Henry Gagnon
                           link: henry-gagnon
                     - title: Networking Break
-                      length: 2
+                      length: 3
                       type: break
                       datetime: 2026-06-13
                       time: 11:15-11:45 | 11:15am-11:45am
                     - title: "Co-Production Essentials: Navigating Challenges, Seizing Opportunities"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-13
                       time: 11:45-12:30 | 11:45am-12:30pm
                       type: panel discussion
@@ -463,12 +465,12 @@ sections:
                         - name: Suzette Laqua
                           link: suzette-laqua
                     - title: Networking Break
-                      length: 2
+                      length: 3
                       type: break
                       datetime: 2026-06-13
                       time: 12:30-12:45 | 12:30pm-12:45pm
                     - title: "Inside the K-Content Boom: A Producer's Perspective"
-                      length: 2
+                      length: 3
                       datetime: 2026-06-13
                       time: 12:45-13:15 | 12:45pm-1:15pm
                       type: keynote
@@ -477,12 +479,12 @@ sections:
                         - name: Kyojun Kim
                           link: kyojun-kim
                     - title: Lunch Break
-                      length: 2
+                      length: 3
                       type: break
                       datetime: 2026-06-13
                       time: 13:15-13:45 | 1:15pm-1:45pm
                     - title: "Vertical Visions: Rethinking Film Production for a New Era"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-13
                       time: 13:45-14:30 | 1:45pm-2:30pm
                       type: panel discussion
@@ -512,7 +514,7 @@ sections:
                   pilotsSection: pilots2026
                   items:
                     - title: "From Idea to Pilot: Creating a Series That Can Actually Be Made - Part 2"
-                      length: 4
+                      length: 3
                       datetime: 2026-06-13
                       time: 11:30-13:30 | 11:30am-1:30pm
                       type: workshop
@@ -630,7 +632,7 @@ sections:
                   pilotsSection: pilots2026
                   items:
                     - title: "Business Meetings DIMA – Digital Market"
-                      length: 6
+                      length: 4
                       datetime: 2026-06-14
                       time: 10:00-16:00 | 10am-4pm
                       type: networking
@@ -718,7 +720,7 @@ sections:
                   pilotsSection: pilots2026
                   items:
                     - title: "Desa Timun (The Cucumber Village) – Live Shadow Puppet Performance"
-                      length: 2
+                      length: 3
                       datetime: 2026-06-14
                       time: 16:00-17:30 | 4pm-5:30pm
                       type: performance
@@ -779,7 +781,7 @@ sections:
                   pilotsSection: pilots2026
                   items:
                     - title: Location Tour
-                      length: 8
+                      length: 4
                       datetime: 2026-06-15
                       time: 12:00-18:00 | 12pm-6pm
                       type: networking
