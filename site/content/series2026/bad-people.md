@@ -1,6 +1,6 @@
 ---
 title: BAD PEOPLE
-image: /img/series/bad-people-still.jpg
+image: /img/series2026/bad-people-still.jpg
 origin: Germany
 genre: Comedy
 creators: Julia Mirjam Cantuária

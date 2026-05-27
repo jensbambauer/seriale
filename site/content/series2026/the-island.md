@@ -1,6 +1,6 @@
 ---
 title: The Island
-image: /img/series/the-island.jpg
+image: /img/series2026/the-island.jpg
 origin: South Korea
 genre: Fantasy, Drama
 directors: Hoyeon Ju

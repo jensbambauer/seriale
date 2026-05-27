@@ -1,6 +1,6 @@
 ---
 title: Mukbang
-image: /img/series/mukbang-still.jpg
+image: /img/series2026/mukbang-still.jpg
 trailer: https://vimeo.com/1177793789
 origin: Canada
 genre: Drama, Horror

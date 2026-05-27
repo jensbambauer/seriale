@@ -1,6 +1,6 @@
 ---
 title: 2 Aliens
-image: /img/series/2-aliens-still.jpg
+image: /img/series2026/2-aliens-still.jpg
 trailer: https://www.youtube.com/watch?v=pYX99E0f-QY&pp=ygUPMkFsaWVucyBUcmFpbGVy
 origin: Germany
 genre: Science Fiction, Comedy, Action

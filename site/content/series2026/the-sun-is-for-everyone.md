@@ -1,6 +1,6 @@
 ---
 title: The Sun is for Everyone
-image: /img/series/the-sun-is-for-everyone-still.jpg
+image: /img/series2026/the-sun-is-for-everyone-still.jpg
 origin: Brazil
 genre: Comedy
 creators: Duda Pannain & Ryan Aguiar

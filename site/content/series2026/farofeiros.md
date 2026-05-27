@@ -1,6 +1,6 @@
 ---
 title: Farofeiros
-image: /img/series/farofeiros.jpg
+image: /img/series2026/farofeiros.jpg
 origin: Brazil
 genre: Comedy
 directors: Tays Nopfler

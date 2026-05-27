@@ -1,6 +1,6 @@
 ---
 title: "Ren: The Girl with the Mark (Season 3)"
-image: /img/series/ren-the-girl-with-the-mark-season-3-still.jpg
+image: /img/series2026/ren-the-girl-with-the-mark-season-3-still.jpg
 trailer: https://youtu.be/rmoON9BSoKg?si=5M40BffOhfrYCmUQ
 origin: United Kingdom
 genre: Fantasy

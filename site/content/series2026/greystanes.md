@@ -1,6 +1,6 @@
 ---
 title: Greystanes
-image: /img/series/greystanes-still.jpg
+image: /img/series2026/greystanes-still.jpg
 trailer: https://www.youtube.com/watch?v=IG9dWQZrMjg
 origin: Australia
 genre: Supernatural Horror, Dark Fantasy

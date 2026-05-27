@@ -1,6 +1,6 @@
 ---
 title: You're leaving me
-image: /img/pilots/you-re-leaving-me-still.jpg
+image: /img/pilots2026/you-re-leaving-me-still.jpg
 origin: Argentina
 genre: Dramatic Comedy
 creators: Nicole Kaplan Amaral

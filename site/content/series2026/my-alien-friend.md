@@ -1,6 +1,6 @@
 ---
 title: My Alien Friend
-image: /img/series/my-alien-friend-still.jpg
+image: /img/series2026/my-alien-friend-still.jpg
 origin: Russia
 genre: Science Fiction, Detective
 creators: Ivan Petukhov

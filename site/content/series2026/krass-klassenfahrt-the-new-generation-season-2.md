@@ -1,6 +1,6 @@
 ---
 title: Krass Klassenfahrt - The New Generation (Season 2)
-image: /img/series/krass-klassenfahrt-still.jpg
+image: /img/series2026/krass-klassenfahrt-still.jpg
 trailer: https://www.youtube.com/watch?v=G_lhXfCF5M8
 origin: Germany
 genre: Coming of Age

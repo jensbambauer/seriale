@@ -1,6 +1,6 @@
 ---
 title: The Day Before Leaving
-image: /img/series/the-day-before-leaving-still.jpg
+image: /img/series2026/the-day-before-leaving-still.jpg
 trailer: https://youtu.be/3B5IUsVV0yI
 origin: Argentina
 genre: Dramedy

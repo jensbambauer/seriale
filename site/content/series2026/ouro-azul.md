@@ -1,6 +1,6 @@
 ---
 title: Ouro Azul
-image: /img/series/ouro-azul-still-3.jpg
+image: /img/series2026/ouro-azul-still-3.jpg
 origin: Brazil
 genre: Drama
 creators: Drielle Moura & Felipe Roz

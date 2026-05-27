@@ -1,6 +1,6 @@
 ---
 title: Desa Timun
-image: /img/series/desa-timun.jpg
+image: /img/series2026/desa-timun.jpg
 trailer: https://www.youtube.com/watch?v=_-AloHvyklY
 origin: Indonesia
 genre: Culture, Children Short Animation

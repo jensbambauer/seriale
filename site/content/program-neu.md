@@ -25,7 +25,7 @@ sections:
                   pilotsSection: pilots2026
                   items:
                     - title: "From Idea to Pilot: Creating a Series That Can Actually Be Made - Part 1"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-11
                       time: 15:00-17:00 | 3pm-5pm
                       type: workshop
@@ -63,7 +63,7 @@ sections:
                           link: amarú-frida
                         - name: Daria Solovieva
                     - title: "Between Touchdowns and the Apocalypse: New Series Formats from Hesse"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-11
                       time: 20:15-20:45 | 8:15pm-8:45pm
                       type: panel discussion
@@ -80,7 +80,7 @@ sections:
                         - name: Sebastian Simon
                           link: sebastian-simon
                     - title: "Fostering a Community for Structural Improvement"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-11
                       time: 20:45-21:30 | 8:45pm-9:30pm
                       type: panel discussion
@@ -100,7 +100,7 @@ sections:
                         - name: Oliver Arnold
                           link: oliver-arnold
                     - title: "Bridges to Hessen: International Perspectives on Series Creation"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-11
                       time: 21:30-22:00 | 9:30pm-10pm
                       type: panel discussion
@@ -171,7 +171,7 @@ sections:
                         - name: Daria Solovieva
                         - name: Csongor Dobrotka
                     - title: "Festivals Worldwide – A Circuit to Display and Celebrate Series"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-12
                       time: 10:15-11:15 | 10:15am-11:15am
                       type: panel discussion
@@ -195,7 +195,7 @@ sections:
                         - name: Young Man Kang
                           link: young-man-kang
                     - title: "The Heart's Compass: Navigating Connection, Desire, and the Digital Abyss"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-12
                       time: 11:15-12:15 | 11:15am-12:15pm
                       type: panel discussion
@@ -225,7 +225,7 @@ sections:
                         - name: Ana Balduini
                           link: ana-balduini
                     - title: "Indonesia Unfolding – A New Wave of Serial Storytelling"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-12
                       time: 12:15-13:00 | 12:15pm-1pm
                       type: panel discussion
@@ -240,7 +240,7 @@ sections:
                         - name: Lukman Hakim
                           link: lukman-hakim
                     - title: "Thinking Ahead: Spotting & Setting Trends"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-12
                       time: 13:00-14:00 | 1pm-2pm
                       type: panel discussion
@@ -272,7 +272,7 @@ sections:
                   pilotsSection: pilots2026
                   items:
                     - title: "Building effective content strategies across the different Social Media Platforms"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-12
                       time: 11:30-13:00 | 11:30am-1pm
                       type: workshop
@@ -419,7 +419,7 @@ sections:
                         - name: Csongor Dobrotka
                         - name: Celina Schmitt
                     - title: "Artistic Ambition vs. Market Demands: Marketing Strategies for Independent Series"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-13
                       time: 10:30-11:15 | 10:30am-11:15am
                       type: panel discussion
@@ -443,7 +443,7 @@ sections:
                       datetime: 2026-06-13
                       time: 11:15-11:45 | 11:15am-11:45am
                     - title: "Co-Production Essentials: Navigating Challenges, Seizing Opportunities"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-13
                       time: 11:45-12:30 | 11:45am-12:30pm
                       type: panel discussion
@@ -482,7 +482,7 @@ sections:
                       datetime: 2026-06-13
                       time: 13:15-13:45 | 1:15pm-1:45pm
                     - title: "Vertical Visions: Rethinking Film Production for a New Era"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-13
                       time: 13:45-14:30 | 1:45pm-2:30pm
                       type: panel discussion
@@ -512,7 +512,7 @@ sections:
                   pilotsSection: pilots2026
                   items:
                     - title: "From Idea to Pilot: Creating a Series That Can Actually Be Made - Part 2"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-13
                       time: 11:30-13:30 | 11:30am-1:30pm
                       type: workshop
@@ -647,7 +647,7 @@ sections:
                   pilotsSection: pilots2026
                   items:
                     - title: "Desa Timun (The Cucumber Village) – Shadow Puppet Workshop"
-                      length: 2
+                      length: 4
                       datetime: 2026-06-14
                       time: 11:30-13:00 | 11:30am-1pm
                       type: workshop
@@ -799,7 +799,7 @@ sections:
                   pilotsSection: pilots2026
                   items:
                     - title: '"Let''s fix it in post?" – The Perspective from the Audio Department'
-                      length: 2
+                      length: 4
                       datetime: 2026-06-16
                       time: 11:30-13:30 | 11:30am-1:30pm
                       type: workshop

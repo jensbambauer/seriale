@@ -1,6 +1,6 @@
 ---
 title: BFF - Best Family Forever
-image: /img/series/bff-best-family-forever-still.jpg
+image: /img/series2026/bff-best-family-forever-still.jpg
 trailer: https://www.youtube.com/watch?v=dVA3mIM7xyQ
 origin: Germany
 genre: Comedy

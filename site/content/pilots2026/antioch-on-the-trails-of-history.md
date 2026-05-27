@@ -1,6 +1,6 @@
 ---
 title: ANTIOCH - On the trails of history
-image: /img/pilots/antioch-on-the-trails-of-history-still.jpg
+image: /img/pilots2026/antioch-on-the-trails-of-history-still.jpg
 trailer: https://youtu.be/TIi6gib4hoA
 origin: Germany
 genre: Historical Documentary

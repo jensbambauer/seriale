@@ -1,6 +1,6 @@
 ---
 title: SU MAJESTAD
-image: /img/series/su-majestad.jpg
+image: /img/series2026/su-majestad.jpg
 trailer: https://vimeo.com/1065442972/1ca7ad54a1?share=copy
 origin: Spain
 genre: Comedy

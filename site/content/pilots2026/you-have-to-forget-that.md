@@ -1,6 +1,6 @@
 ---
 title: YOU HAVE TO FORGET THAT
-image: /img/pilots/you-have-to-forget-that-still.jpg
+image: /img/pilots2026/you-have-to-forget-that-still.jpg
 trailer: ""
 origin: Germany
 genre: Drama

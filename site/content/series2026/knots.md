@@ -1,6 +1,6 @@
 ---
 title: Knots
-image: /img/series/knots-still.jpg
+image: /img/series2026/knots-still.jpg
 trailer: https://www.youtube.com/watch?v=Y_u06iHPaeI
 origin: Argentina
 genre: Comedy

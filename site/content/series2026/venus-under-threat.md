@@ -1,6 +1,6 @@
 ---
 title: Venus Under Threat
-image: /img/series/venus-under-threat-still.jpg
+image: /img/series2026/venus-under-threat-still.jpg
 trailer: https://vimeo.com/1121446337/1715aac49e?share=copy&fl=sv&fe=ci
 origin: Argentina, Spain
 genre: Comedy

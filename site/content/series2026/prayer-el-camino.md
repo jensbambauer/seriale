@@ -1,6 +1,6 @@
 ---
 title: Prayer El Camino
-image: /img/series/prayer-el-camino-still.jpg
+image: /img/series2026/prayer-el-camino-still.jpg
 trailer: https://www.youtube.com/shorts/oWv70k0mHPY
 origin: Spain, United States
 genre: Drama

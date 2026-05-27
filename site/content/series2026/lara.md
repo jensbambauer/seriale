@@ -1,6 +1,6 @@
 ---
 title: Lara
-image: /img/series/lara.jpg
+image: /img/series2026/lara.jpg
 trailer: https://www.youtube.com/watch?v=A-zVDRJo4Z0
 origin: Argentina
 genre: Comedy

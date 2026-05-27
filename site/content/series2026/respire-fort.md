@@ -1,6 +1,6 @@
 ---
 title: Respire Fort
-image: /img/series/respire-fort-still.jpg
+image: /img/series2026/respire-fort-still.jpg
 trailer: https://youtu.be/TIxP9ryh1W8
 origin: France
 genre: Drama, Science Fiction

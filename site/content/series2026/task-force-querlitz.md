@@ -1,6 +1,6 @@
 ---
 title: Task Force Querlitz
-image: /img/series/task-force-querlitz.jpg
+image: /img/series2026/task-force-querlitz.jpg
 origin: Germany
 genre: Adult Animation
 creators: Simon Thummet, Sebastian Simon, Arne Hain

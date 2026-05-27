@@ -1,6 +1,6 @@
 ---
 title: Freedom Farm Sanctuary (Season 2)
-image: /img/series/freedom-farm-sanctuary-season-2-still.jpg
+image: /img/series2026/freedom-farm-sanctuary-season-2-still.jpg
 trailer: https://youtu.be/6W441W82kmY
 origin: Israel
 genre: Documentary

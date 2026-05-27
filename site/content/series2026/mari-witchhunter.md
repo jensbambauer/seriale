@@ -1,6 +1,6 @@
 ---
 title: MARI WITCHHUNTER
-image: /img/series/mari-witchhunter-still.jpg
+image: /img/series2026/mari-witchhunter-still.jpg
 trailer: https://vimeo.com/1092374610/f4a0319745
 origin: Spain
 genre: Adventure, Kids

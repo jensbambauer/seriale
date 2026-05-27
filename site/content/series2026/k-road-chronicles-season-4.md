@@ -1,6 +1,6 @@
 ---
 title: K' Road Chronicles (Season 4)
-image: /img/series/k-road-chronicles-still.jpg
+image: /img/series2026/k-road-chronicles-still.jpg
 trailer: https://youtu.be/Zt-pizePO80?si=7r52oceHouzUY8aG
 origin: New Zealand
 genre: Documentary

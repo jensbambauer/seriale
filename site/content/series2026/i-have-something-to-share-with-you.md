@@ -1,6 +1,6 @@
 ---
 title: I have something to share with you
-image: /img/series/i-have-something-to-share-with-you-still.jpg
+image: /img/series2026/i-have-something-to-share-with-you-still.jpg
 trailer: https://vimeo.com/1146369587?fl=pl&fe=vl
 origin: Argentina
 genre: Romantic Comedy

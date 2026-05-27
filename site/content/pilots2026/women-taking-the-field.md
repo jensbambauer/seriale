@@ -1,6 +1,6 @@
 ---
 title: Women taking the Field
-image: /img/pilots/women-taking-the-field-still.jpg
+image: /img/pilots2026/women-taking-the-field-still.jpg
 origin: Germany
 genre: Documentary
 creators: Louisa Frey

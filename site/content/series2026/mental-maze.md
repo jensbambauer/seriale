@@ -1,6 +1,6 @@
 ---
 title: Mental Maze
-image: /img/series/mental-maze-still.jpg
+image: /img/series2026/mental-maze-still.jpg
 trailer: https://vimeo.com/910067931
 origin: Argentina
 genre: Documentary

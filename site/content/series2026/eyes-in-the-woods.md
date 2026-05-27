@@ -1,6 +1,6 @@
 ---
 title: Eyes In The Woods
-image: /img/series/eyes-in-the-woods-still.jpg
+image: /img/series2026/eyes-in-the-woods-still.jpg
 trailer: https://www.youtube.com/watch?v=hM4V7odPDKc
 origin: Canada
 genre: Queer Mystery/Thriller/Adventure

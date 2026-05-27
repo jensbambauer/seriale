@@ -1,6 +1,6 @@
 ---
 title: Eidesis
-image: /img/pilots/eidesis-still.jpg
+image: /img/pilots2026/eidesis-still.jpg
 trailer: https://youtu.be/Rch0gAcxdCA
 origin: Chile
 genre: Fantasy

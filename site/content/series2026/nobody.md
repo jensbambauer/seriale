@@ -1,6 +1,6 @@
 ---
 title: NOBODY
-image: /img/series/nobody-still.jpg
+image: /img/series2026/nobody-still.jpg
 origin: Argentina
 genre: Dramatic Comedy
 creators: Natalia Arleo & Ezequiel Tronconi

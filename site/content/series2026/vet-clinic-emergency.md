@@ -1,6 +1,6 @@
 ---
 title: Vet Clinic Emergency
-image: /img/series/vet-clinic-emergency-still.jpg
+image: /img/series2026/vet-clinic-emergency-still.jpg
 origin: Germany
 genre: Documentary
 creators: Birthe Franke & Hannah Altschuck

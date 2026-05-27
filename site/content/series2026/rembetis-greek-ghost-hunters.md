@@ -1,6 +1,6 @@
 ---
 title: Rembetis - Greek Ghost Hunters
-image: /img/series/rembetis-still.jpg
+image: /img/series2026/rembetis-still.jpg
 trailer: https://www.youtube.com/watch?v=BPyZ8hthExk
 origin: Germany
 genre: Mystery-Comedy

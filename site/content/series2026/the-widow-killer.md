@@ -1,6 +1,6 @@
 ---
 title: The Widow Killer
-image: /img/series/the-widow-killer-still.jpg
+image: /img/series2026/the-widow-killer-still.jpg
 trailer: https://vimeo.com/1174355428
 origin: Austria, Germany
 genre: Crime, History

@@ -1,6 +1,6 @@
 ---
 title: Flea Market For Pros
-image: /img/pilots/flea-market-for-pros.jpg
+image: /img/pilots2026/flea-market-for-pros.jpg
 trailer: https://www.youtube.com/watch?v=gn4zCXJwFrE
 origin: Germany
 genre: Comedy-Mockumentary

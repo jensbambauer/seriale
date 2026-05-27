@@ -1,6 +1,6 @@
 ---
 title: Carlinhos and his Magic Camera
-image: /img/series/carlinhos-and-his-magic-camera-still.jpg
+image: /img/series2026/carlinhos-and-his-magic-camera-still.jpg
 trailer: https://youtu.be/4C15kq3iHnY?si=wErkyCej4zdStk9F
 origin: Brazil
 genre: Musical, Fantasy, Adventure, Kids

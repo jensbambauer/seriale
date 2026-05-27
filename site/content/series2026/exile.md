@@ -1,6 +1,6 @@
 ---
 title: Exile
-image: /img/series/exile-still.jpg
+image: /img/series2026/exile-still.jpg
 trailer: https://youtu.be/kggz2yIQRuY
 origin: Brazil
 genre: Drama

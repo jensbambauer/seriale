@@ -1,6 +1,6 @@
 ---
 title: División Palermo (Season 1 & 2)
-image: /img/series/division-palermo-still.jpg
+image: /img/series2026/division-palermo-still.jpg
 origin: Argentina
 genre: Comedy
 creators: Santiago Korovsky

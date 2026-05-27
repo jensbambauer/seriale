@@ -1,6 +1,6 @@
 ---
 title: The Desert Man
-image: /img/series/the-desert-man-still.jpg
+image: /img/series2026/the-desert-man-still.jpg
 trailer: https://vimeo.com/1028175849
 origin: Qatar, Turkey
 genre: Travel Documentary

@@ -1,6 +1,6 @@
 ---
 title: Recanto dos Ribeiros
-image: /img/series/recanto-dos-ribeiros-still.jpg
+image: /img/series2026/recanto-dos-ribeiros-still.jpg
 trailer: ""
 origin: Brazil
 genre: Suspense, Horror

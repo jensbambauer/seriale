@@ -1,6 +1,6 @@
 ---
 title: The Lost Boys Club
-image: /img/series/the-lost-boys-club-still.jpg
+image: /img/series2026/the-lost-boys-club-still.jpg
 origin: Indonesia
 genre: Coming of Age, Drama, Fantasy
 creators: Mulya Abdul Syukur

@@ -1,6 +1,6 @@
 ---
 title: Lonely Windows
-image: /img/pilots/lonely-windows-still.jpg
+image: /img/pilots2026/lonely-windows-still.jpg
 trailer: https://youtu.be/KusxbPtSgbc?si=CV9N3VOWNPxzsv1k
 origin: Russia
 genre: Fantasy, Mystery, Drama

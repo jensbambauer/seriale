@@ -1,6 +1,6 @@
 ---
 title: The Human, Will
-image: /img/series/the-human-will-still.jpg
+image: /img/series2026/the-human-will-still.jpg
 trailer: https://vimeo.com/1150517090/0a76be3f47
 origin: United States
 genre: Comedy
