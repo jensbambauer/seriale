@@ -1,5 +1,7 @@
 {{ with.data }}
 {{ $speakerSection := or .speakerSection "speakers" }}
+{{ $seriesSection := or .seriesSection "series" }}
+{{ $pilotsSection := or .pilotsSection "pilots" }}
 <div class="program">
   {{ range.items }}
   <div class="program__item">
@@ -73,17 +75,20 @@
       <div class="program__speaker">
         <h4>series screening</h4>
         {{ range.series }} {{ if .link }}
-        <a class="button" href="/series/{{.link}}" data-role="overlay-large" data-barba-prevent>{{.name}}</a>
+        <a class="button" href="/{{ $seriesSection }}/{{.link}}" data-role="overlay-large" data-barba-prevent>{{.name}}</a>
         {{ else }}
         <span class="speaker-no-link">{{.name}}</span>
         {{ end }} {{ end }}
-        {{ if .pilots }}
-          {{ range.pilots }} {{ if .link }}
-          <a class="button" href="/pilots/{{.link}}" data-role="overlay-large" data-barba-prevent>{{.name}}</a>
-          {{ else }}
-          <span class="speaker-no-link">{{.name}}</span>
-          {{ end }} {{ end }}
-        {{ end }}
+      </div>
+      {{ end }}
+      {{ if .pilots }}
+      <div class="program__speaker">
+        <h4>pilots screening</h4>
+        {{ range.pilots }} {{ if .link }}
+        <a class="button" href="/{{ $pilotsSection }}/{{.link}}" data-role="overlay-large" data-barba-prevent>{{.name}}</a>
+        {{ else }}
+        <span class="speaker-no-link">{{.name}}</span>
+        {{ end }} {{ end }}
       </div>
       {{ end }}
       {{ if .external }}
