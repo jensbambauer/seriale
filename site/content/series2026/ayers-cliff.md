@@ -1,6 +1,6 @@
 ---
 title: AYER'S CLIFF
-image: /img/series2026/ayers-cliff-still.jpg
+image: /img/series2026/screenshot-2026-05-18-at-12.13.16.png
 origin: Canada
 genre: Comedy
 creators: Édouard Gingras & Zacharie Lareau
