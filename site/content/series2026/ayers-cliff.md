@@ -1,6 +1,6 @@
 ---
 title: AYER'S CLIFF
-image: /img/series2026/screenshot-2026-05-18-at-12.13.16.png
+image: /img/series2026/ayers-cliff-still.jpg
 origin: Canada
 genre: Comedy
 creators: Édouard Gingras & Zacharie Lareau
@@ -18,4 +18,5 @@ nominations:
     category: best-supporting-performance
     credit: Joey Scarpellino
 ---
+
 In Ayer’s Cliff, Louis-Philippe, a rebellious actor, befriends Henri, a young stablehand and bartender searching for his identity. When tragedy strikes, Henri must team up with his uncle, Martin Stevens, a Quebec pop-disco singer, to prevent the worst from happening.
