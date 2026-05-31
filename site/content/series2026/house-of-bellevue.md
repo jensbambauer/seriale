@@ -1,6 +1,7 @@
 ---
 title: House Of Bellevue
 image: /img/series2026/house-of-bellevue.jpg
+trailer: https://www.youtube.com/watch?v=CXFmendVv1s
 origin: Germany
 genre: Drama
 creators: Kai S. Pieck
