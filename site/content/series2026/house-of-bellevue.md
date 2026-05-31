@@ -8,7 +8,7 @@ directors: Kai S. Pieck, Toby Chlosta, Gabriel B. Arrahnio
 writers: Kai S. Pieck, Toby Chlosta, Laura Tamoj, Raquel Kishori Dukpa
 producers: Alexander Kiening
 cast: Ricco-Jarret Boateng, Nora Henes, Florence Kasumba, Binta Yaffa, Ilonka
-  Petruschka, Abed Haddad
+  Petruschka, Abed Haddad, Kawian Paigal
 nominations:
   - winner: false
     category: best-long-form-series
