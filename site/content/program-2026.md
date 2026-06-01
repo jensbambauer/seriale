@@ -282,6 +282,9 @@ sections:
                           link: sara-mauleón
                         - name: Schokominza Pfannenstiel
                           link: schokominza-pfannenstiel
+                      external:
+                        - link: https://mailchi.mp/die-seriale.de/wokshopsocialmedia
+                          name: register
               - partial: text-plain
                 headline: Film & Media Meetup LIVE
                 data:
@@ -299,9 +302,6 @@ sections:
                       time: 14:30-17:00 | 2:30pm-5pm
                       type: networking
                       details: 'Once again, Seriale hosts the Film & Media Meetup to bring together creators from Hesse and around the world. Directly following the Educational programme, the event offers a relaxed setting for exchange, networking, and insights into current industry developments. In an informal atmosphere, participants can connect over a drink, discuss projects, and build meaningful relationships. A highlight of the meetup is the opportunity to take part in Speed Meetings designed to facilitate quick and efficient networking. Whether at the beginning of a career in the film and media industry or in the context of developing new projects, the meetup provides access to relevant contacts, ideas, and opportunities.<br/><br/>The Film & Media Meetup is organized by Film- und Kinobüro Hessen, Filmhaus Frankfurt, hFMA, Junge Generation Hessischer Film, and Queer Media Society Hessen. It is held in cooperation with "Ich will zum Film" by Crew United, Kuratorium junger deutscher Film, Pensionskasse Rundfunk, ZAV - Künstler[*innen]vermittlung, and MBF - the Rental. The project is funded by Hessen Film & Medien GmbH.'
-                      external:
-                        - link: https://forms.cloud.microsoft/pages/responsepage.aspx?id=wrKBbGk69EGgFnCV5mtGV8PQDvn-3fFDt1gkZU2BuRJUOUgyMVcxVDRJM0hGT0tVNFMzMkg5UENIMC4u&route=shorturl
-                          name: register
                     - title: "Speed Meetings"
                       length: 3
                       datetime: 2026-06-12
@@ -657,6 +657,9 @@ sections:
                       speaker:
                         - name: Daud Nugraha
                           link: daud-nugraha
+                      external:
+                        - link: https://mailchi.mp/die-seriale.de/shadowpuppet
+                          name: register
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
@@ -728,6 +731,9 @@ sections:
                       speaker:
                         - name: Daud Nugraha
                           link: daud-nugraha
+                      external:
+                        - link: https://stadttheater-giessen.de
+                          name: stadttheater giessen
               - partial: text-plain
                 headline: "Red Carpet & Award Ceremony"
                 data:
@@ -809,6 +815,9 @@ sections:
                       speaker:
                         - name: Kerthekan Balasubramaniam
                           link: kerthekan-balasubramaniam
+                      external:
+                        - link: https://mailchi.mp/die-seriale.de/audiodepartment
+                          name: register
               - partial: text-plain
                 headline: Kinocenter Giessen
                 data:
