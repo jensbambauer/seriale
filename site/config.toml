@@ -25,18 +25,18 @@ languageCode = "en-us"
     url        = "/seriale-pro/"
     weight     = 3
 
-    # [[menu.main]]
-    # identifier = "speaker"
-    # name       = "Speaker"
-    # url        = "/speaker/"
-    # weight     = 4
+    [[menu.main]]
+    identifier = "speaker"
+    name       = "Speaker"
+    url        = "/speakers2026/"
+    weight     = 4
 
-    # [[menu.main]]
-    # identifier = "jury"
-    # name       = "Jury"
-    # url        = "/jury/"
-    # weight     = 5
-    #
+    [[menu.main]]
+    identifier = "jury"
+    name       = "Jury"
+    url        = "/jury-2026/"
+    weight     = 5
+
     [[menu.main]]
     identifier = "program"
     name       = "Program"

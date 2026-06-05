@@ -6,12 +6,12 @@ sections:
     data:
       videosource: /videos/festival-loop.mp4
       slides:
-        # - headline: The festival
-          # button:
-          #   overlay: true
-          #   text: watch trailer
-          #   href: /festival-trailer
         - headline: The festival
+          button:
+            overlay: true
+            text: watch trailer
+            href: /festival-trailer
+        # - headline: The festival
           # button:
           #   overlay: true
           #   text: watch trailer
@@ -35,10 +35,10 @@ sections:
       headline: About
       paragraphs:
         - text: "&quot;die Seriale&quot; is the oldest festival in Germany for independent and digital series. The festival is dedicated to audience, creators, students and all series fans. The Official Selection with 50 series and pilots from 19 countries is presented in the movie theater and open air. The supporting program offers a conference with lectures, keynotes, panel discussions and workshops."
-  # - partial: thumb-grid
-  #   headline: official selection 2025
-  #   data:
-  #     list: series
+  - partial: thumb-grid
+    headline: official selection 2025
+    data:
+      list: series2026
   # - partial: thumb-grid
   #   headline: official selection 2025 - series
   #   data:
