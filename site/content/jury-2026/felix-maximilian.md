@@ -1,5 +1,6 @@
 ---
 title: Felix Maximilian
+image: /img/felix-maximilian.jpg
 category: long-form-series
 shortdescription: Actor | Germany
 ---
