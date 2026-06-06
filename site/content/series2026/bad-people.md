@@ -27,4 +27,6 @@ nominations:
     category: best-original-score
     credit: Peter Albrecht
 ---
+Schlechte Menschen (German Title)
+
 Heaven or Hell? Timoteo, Nazlı, and Cornelius decide the fate of recently deceased people who have been classified as moral borderline cases. The interviews with the deceased are not the only challenge for the three of them; they also rarely agree with one another.
