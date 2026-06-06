@@ -25,4 +25,6 @@ nominations:
     category: best-costume-design
     credit: Bárbara Sniesko
 ---
+Desterro (Original Title)
+
 In 1968, under Brazil’s military dictatorship, Alice returns home after fleeing a violent act. Reunited with her sister Carmem and her former love Helena – now a nun – buried secrets and desires resurface as they confront loss, love, and the truths they hide.
