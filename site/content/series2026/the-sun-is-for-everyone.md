@@ -12,4 +12,6 @@ nominations:
   - winner: false
     category: best-ensemble-cast
 ---
+O Sol é Para Todes (Original Title)
+
 A traditional couple and a label-free couple are forced to share the same apartment, triggering comic conflicts, uncomfortable discoveries, and unexpected reflections on contemporary relationships.
