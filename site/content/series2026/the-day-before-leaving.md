@@ -16,4 +16,6 @@ nominations:
     category: best-supporting-performance
     credit: Lucas Crespi
 ---
+El día antes de viajar (Original Title)
+
 In the final 24 hours before leaving Buenos Aires for the premiere of his play in Spain, Teo tries to tie up his life. But when Cami – staying in his apartment – arrives unexpectedly with a rabbit, he faces something unplanned: the chance to start over just as he’s about to leave.
