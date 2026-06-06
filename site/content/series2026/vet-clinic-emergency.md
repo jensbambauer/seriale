@@ -12,4 +12,6 @@ nominations:
   - winner: false
     category: best-documentary
 ---
+Einsatz in der Tierklinik (German Title)
+
 At Hofheim Veterinary Clinic, every minute counts for seriously ill animals. This four-part series follows patients – from kittens to baboons – through diagnosis, surgery, and recovery, revealing the deep bonds with their owners and the vets, and moments of hope, fear, and relief.
