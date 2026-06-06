@@ -16,4 +16,6 @@ nominations:
   - winner: false
     category: best-ensemble-cast
 ---
+KAMPEN FOR TILVÆRELSEN (Original Title)
+
 Two friends navigate modern masculinity in this Danish comedy series. Through awkward, honest, and humorous conversations, they struggle to balance being caring partners, present fathers and sexy lovers in a world where traditional roles are constantly shifting.
