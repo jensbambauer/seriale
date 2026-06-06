@@ -13,4 +13,6 @@ nominations:
   - winner: false
     category: best-animation
 ---
+Carlinhos e sua Câmera Mágica (Original Title)
+
 Carlinhos is a 7-year-old boy with a magical Super 8 camera that brings anything in front of it to life. With the phrase “Camera on, magic activated,” he turns everyday moments into fun adventures, blending creativity, fantasy, and music for kids aged 3 to 10.
