@@ -1,5 +1,5 @@
 ---
-title: The Struggle for Existence  <nobr>(Season 2)</nobr>
+title: The Struggle for Existence  (Season 2)
 image: /img/series2026/the-struggle-for-existence-still.jpg
 trailer: https://www.youtube.com/watch?v=D2tkgGO3RlE
 origin: Denmark
