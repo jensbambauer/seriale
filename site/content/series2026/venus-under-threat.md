@@ -17,4 +17,6 @@ nominations:
     category: best-supporting-performance
     credit: Ana Balduini
 ---
+Venus en Juego (Original Title)
+
 A sharp, fast-paced miniseries about modern hookups: brief, single-location episodes capturing flashes of desire, ego, contradictions, and misunderstandings. With awkward humor and relatable beats, each story pushes characters against their limits and biases – an unsettling, funny mirror that lingers.
