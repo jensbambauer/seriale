@@ -23,4 +23,6 @@ nominations:
     category: best-costume-design
     credit: Aitana Gonzalez Lopez
 ---
+Mari Sorgin Ehiztari (Original Title)
+
 Mari, destined to hunt witches, leads a story where magic and reality intertwine through Basque mythology. With her group of friends, she battles witches to protect society, facing dangerous and escalating challenges along the way.
