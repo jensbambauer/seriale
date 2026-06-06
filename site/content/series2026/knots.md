@@ -15,4 +15,6 @@ nominations:
     category: best-editing
     credit: Maru Blanco
 ---
+Nudos (Original Title)
+
 “Knots” is a comedy miniseries with dramatic undertones about what remains unsaid. Four stories reveal hidden tensions: a patient and his therapist, an awkward dinner between friends, a fresh start after a breakup, and a driving lesson that spirals out of control, where what’s repressed finally erupts.
