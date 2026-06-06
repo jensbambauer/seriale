@@ -25,6 +25,6 @@ nominations:
     category: best-original-score
     credit: Jasin Challah, Claudio Pagonis, Reinhard Schaub
 ---
-Rembetis – Die Geisterjäger (German Title)
+Rembetis – Die Geisterjäger (Original Title)
 
 After years of comfort in their (new) German home, the Rembetis, traditional Greek ghost hunters, must reconnect with their roots and protect the world from demons and spirits accidentally unleashed upon humanity.
