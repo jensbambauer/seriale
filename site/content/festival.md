@@ -161,12 +161,13 @@ sections:
         - image: /img/partners/dobago.png
           link: "http://www.dobago.de"
         - image: /img/partners/lichtacker.png
-        - image: /img/partners/sparq-logo@1x.png
-          link: "https://www.sparqfest.live/"
+        - image: /img/partners/un3-logo.png
+          link: "https://un3.tv"
         - image: /img/partners/rossi-photography.png
           link: "https://stolenmoments.de"
         - image: /img/partners/tag-nacht-media-logo.png
           link: "https://tagundnachtmedia.de/"
+        - image: /img/partners/heyligenstaedt-2026.png
         - image: /img/partners/Verbund-hessischer-Filmfestivals.jpg
         - image: /img/partners/Hinter-der-Kamera-HdK_Logo_2024_1000.png 
         - image: /img/partners/Goethe-Institut.png

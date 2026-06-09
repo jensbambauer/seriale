@@ -154,6 +154,10 @@ sections:
               title: "DIMA DIGITAL MARKET"
               location: Business Meetings & Round Tables<br/>Kongresshalle Giessen<br/>by registration only
               size: 4
+            - time: 11:30am - 1pm
+              title: "WORKSHOP: Desa Timun (The Cucumber Village) – Shadow Puppet"
+              location: "Festival Hub, Kreuzplatz 7, Giessen<br/>by Daud Nugraha and team"
+              size: 4
             - time: 3pm
               title: SCREENING BLOCK 8
               location: Kinocenter Giessen<br/>buy tickets on site & online
@@ -176,12 +180,16 @@ sections:
               size: 3
         - title: June 15th
           blocks:
-            - time: 12pm - 8pm
+            - time: 12pm - 6pm
               title: LOCATION TOUR
               location: Wetzlar, Braunfels<br/>by invitation only
               size: 4
         - title: June 16th
           blocks:
+            - time: 11:30am - 1:30pm
+              title: '"Let`s fix it in post?" – The Perspective from the Audio Department'
+              location: "Festival Hub, Kreuzplatz 7, Giessen<br/>by Kerthekan Balasubramaniam"
+              size: 4
             - time: 5pm - 7pm
               title: SCREENING BLOCK 10
               location: Kinocenter Giessen<br/>buy tickets on site & online
@@ -294,26 +302,26 @@ sections:
         #   data:
         #     headline: Submissions for 2025 are open
         #     text: '<a class="button" href="https://filmfreeway.com/dieSeriale">Submit via FilmFreeway</a>'
-        # - title: get tickets
-        #   partial: tab-text
-        #   data:
-        #     headline: get your tickets
-        #     text: ' <p> Festival Pass: 55,- €<br/><br/> The Festival Pass includes tickets to all movie theater screenings at Kinocenter Giessen and is available at all Festival locations. </p> <p> Single tickets are only available at Kinocenter Giessen or online:<br/><br/> <a class="button" href="https://www.kinopolis.de/gi/filmdetail/die-seriale-2025/2F174000012PLXMQDD">buy tickets</a> </p> '
+        - title: get tickets
+          partial: tab-text
+          data:
+            headline: tickets & festival pass
+            text: 'Festival Pass: 56,- €<br/><br/> <p>The Festival Pass includes tickets to all 8 movie theater screenings at Kinocenter Giessen and access to all Networking Nights, it is available at all Festival locations & Festival Hub. Festival Hub, Kreuzplatz 7, Giessen To reserve your festival pass, simply send an email to info@die-seriale.de</p>Ticket: 8,49 € – 10,49 €<p> Single tickets are only available at Kinocenter Giessen or online:<br/><br/> <a class="button" href="https://www.kinopolis.de/gi/events/detail/die-seriale-2026/7302">buy tickets</a> </p><p>The entry to the supporting events at Heyligenstaedt, Kleines Haus Stadttheater Giessen, Lottehof Wetzlar and Kongresshalle Giessen is free.</p>'
         - title: submit series
           partial: tab-text
           data:
-            headline: Submissions for 2026 are closed
+            headline: Submissions for 2027 open on September 15th
             text: ""
-  #       # - title: in person & digital event
-  #       #   partial: tab-text
-  #       #   data:
-  #       #     headline: die seriale 2022 takes place as a digital live hybrid event
-  #       #     text: "<p>die seriale 2022 takes place as a digital live hybrid event</p><p>The festival event in Giessen will take place from June 8 - 13, 2022. The digital event will take place online from June 14 - 19, 2022.</p><ul><li>all series & pilots will be presented in the movie theater, open air & video on demand</li><li>educational keynotes & panel discussions</li><li>seriale pro conference & networking events</li><li>dima digital market online</li><li>pitch contest</li><li>red carpet event with creator interviews</li><li>the award ceremony will take place June 12, 8pm (CEST) in Giessen</li></ul>"
-  #       - title: subscribe
-  #         partial: tab-newsletter
-  #         data:
-  #           headline: follow us on social media
-  #           text: "or join our newsletter to get updates:"
+        #       # - title: in person & digital event
+        #       #   partial: tab-text
+        #       #   data:
+        #       #     headline: die seriale 2022 takes place as a digital live hybrid event
+        #       #     text: "<p>die seriale 2022 takes place as a digital live hybrid event</p><p>The festival event in Giessen will take place from June 8 - 13, 2022. The digital event will take place online from June 14 - 19, 2022.</p><ul><li>all series & pilots will be presented in the movie theater, open air & video on demand</li><li>educational keynotes & panel discussions</li><li>seriale pro conference & networking events</li><li>dima digital market online</li><li>pitch contest</li><li>red carpet event with creator interviews</li><li>the award ceremony will take place June 12, 8pm (CEST) in Giessen</li></ul>"
+        - title: subscribe
+          partial: tab-newsletter
+          data:
+            headline: follow us on social media
+            text: "or join our newsletter to get updates:"
   # - partial: blog-previews
   # - partial: thumb-grid
   #   headline: official selection series 2021
