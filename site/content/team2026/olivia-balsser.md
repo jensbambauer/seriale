@@ -1,6 +1,6 @@
 ---
-title: Olivia Balsser
+title: "Lea Eisenfeller "
 weight: 250
-image: /img/team/olivia-balsser.jpg
-shortdescription: Eventteam
+image: /img/lea-eisenfeller.jpg
+shortdescription: Festivalteam
 ---
