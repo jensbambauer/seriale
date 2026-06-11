@@ -1,6 +1,6 @@
 ---
-title: Stina Kunz
+title: Annette Eidmann
 weight: 130
-image: /img/team/stina-kunz.jpg
-shortdescription: Pitch Contest Communication & Organization
+image: /img/android-chrome-96x96.png
+shortdescription: Festival Organization
 ---
