@@ -1,6 +1,6 @@
 ---
-title: Emil Leenen
+title: Joelle Heß
 weight: 260
-image: /img/team/ds.jpg
-shortdescription: Eventteam
+image: /img/joelle-hess.jpg
+shortdescription: Festivalteam
 ---
