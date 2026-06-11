@@ -1,6 +1,6 @@
 ---
-title: Anne Schokominza Pfannenstiel
+title: Schokominza Pfannenstiel
 weight: 70
-image: /img/team/anne-schokominza-pfannenstiel.jpg
+image: /img/schokominza-pfannenstiel.jpg
 shortdescription: Marketing & Head of Social Media, Controlling
 ---
