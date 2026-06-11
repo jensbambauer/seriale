@@ -1,6 +1,6 @@
 ---
-title: Valentino Hubbert
+title: Franziska Meier
 weight: 290
-image: /img/team/valentino-hubbert.jpg
-shortdescription: Filmteam
+image: /img/franziska-meier.jpg
+shortdescription: Festivalteam
 ---
