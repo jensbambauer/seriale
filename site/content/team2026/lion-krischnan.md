@@ -1,6 +1,6 @@
 ---
-title: Kira
+title: Robert G. Achtel
 weight: 300
-image: /img/kira-zuniga-blankenberg.jpg
-shortdescription: Festivalteam
+image: /img/ds.jpg
+shortdescription: Web Design
 ---
