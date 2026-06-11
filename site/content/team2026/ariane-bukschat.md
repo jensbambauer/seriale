@@ -1,6 +1,6 @@
 ---
-title: Ariane Bukschat
+title: Anna Özütürk
 weight: 240
-image: /img/team/ariane-bukschat.jpg
-shortdescription: Eventteam
+image: /img/anna-ozuetuerk.jpg
+shortdescription: Festivalteam
 ---
