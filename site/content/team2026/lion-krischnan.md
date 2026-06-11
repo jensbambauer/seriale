@@ -1,6 +1,6 @@
 ---
-title: Lion Krischnan
+title: Kira Zuñiga Blankenberg
 weight: 300
-image: /img/team/ds.jpg
-shortdescription: Filmteam
+image: /img/kira-zuniga-blankenberg.jpg
+shortdescription: Festivalteam
 ---
