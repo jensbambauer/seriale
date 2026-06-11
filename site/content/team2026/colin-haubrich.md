@@ -1,6 +1,6 @@
 ---
-title: Colin Haubrich
+title: Aleksey Plakhotnik
 weight: 230
-image: /img/team/colin-haubrich.jpg
-shortdescription: Eventteam
+image: /img/ds.jpg
+shortdescription: Seriale Pro
 ---
