@@ -1,6 +1,6 @@
 ---
-title: Anna
+title: Christian Stadach
 weight: 240
-image: /img/anna-ozuetuerk.jpg
-shortdescription: Festivalteam
+image: /img/ds.jpg
+shortdescription: Animations
 ---
