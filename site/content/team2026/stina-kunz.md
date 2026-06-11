@@ -1,6 +1,6 @@
 ---
 title: Annette Eidmann
 weight: 130
-image: /img/android-chrome-96x96.png
+image: /img/ds.jpg
 shortdescription: Festival Organization
 ---
