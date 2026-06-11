@@ -1,6 +1,6 @@
 ---
-title: Georg Ehrenburg
+title: Maximilian Alte
 weight: 100
-image: /img/team/georg-ehrenburg.jpg
-shortdescription: Seriale Office & Communication
+image: /img/maximilian-alte.jpg
+shortdescription: Pitch Contest Organization & Communication
 ---
