@@ -1,6 +1,6 @@
 ---
-title: Thorben Triebert
+title: Alina Feldbusch
 weight: 280
-image: /img/team/ds.jpg
-shortdescription: Eventteam
+image: /img/alina-feldbusch.jpg
+shortdescription: Festivalteam
 ---
