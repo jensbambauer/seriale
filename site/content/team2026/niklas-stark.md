@@ -1,6 +1,6 @@
 ---
-title: Niklas Stark
+title: Marie Schmidt
 weight: 310
-image: /img/team/ds.jpg
-shortdescription: Filmteam
+image: /img/marie-schmidt.jpg
+shortdescription: Festivalteam
 ---
