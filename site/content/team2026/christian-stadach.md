@@ -1,6 +1,6 @@
 ---
-title: Christian Stadach
+title: Anna Özütürk
 weight: 200
-image: /img/team/ds.jpg
-shortdescription: Animations
+image: /img/anna-ozuetuerk.jpg
+shortdescription: Festivalteam
 ---
