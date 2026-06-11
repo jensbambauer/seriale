@@ -1,6 +1,6 @@
 ---
-title: Sophia Beeck
+title: Celina Schimmer
 weight: 90
-image: /img/team/sophia-beeck.jpg
-shortdescription: Seriale Office & Communication
+image: /img/celina-schimmer.jpg
+shortdescription: Festival Organization & Communication
 ---
