@@ -13,7 +13,7 @@ nominations:
   - winner: true
     category: best-screenplay
     credit: Jannik Dahl Pedersen & Rasmus Skaarup Johansen
-  - winner: false
+  - winner: true
     category: best-ensemble-cast
 ---
 KAMPEN FOR TILVÆRELSEN (Original Title)
