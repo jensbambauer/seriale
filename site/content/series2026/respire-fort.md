@@ -15,5 +15,7 @@ nominations:
   - winner: false
     category: best-editing
     credit: Arthur Fanget
+  - winner: true
+    category: best-series
 ---
 Jacques is a compulsive and depressive accountant with the power to rewind time for short periods – at the cost of memory loss. He has meticulously planned his suicide for tonight… But that was before Ellie, his upstairs neighbor, got involved.
