@@ -14,7 +14,7 @@ nominations:
   - winner: false
     category: best-directing
     credit: Kevin T. Landry
-  - winner: false
+  - winner: true
     category: best-leading-performance
     credit: Léanne Désilets
   - winner: false
