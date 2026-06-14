@@ -10,7 +10,7 @@ writers: Ryan Cauchi, Matt Ferro
 producers: "Matt Ferro, Ryan Cauchi "
 cast: "Chloe Delle-Vedove, Frances Duca, Tigran Tovmasian, James Pantelis "
 nominations:
-  - winner: false
+  - winner: true
     category: best-vertical-series
 ---
 11-year-old Samantha and her older brother Marius discover a dark family secret and battle a nightmare’s gallery of creatures from Maltese folklore, with the help of their Nanna and her old-world superstitions and customs.
