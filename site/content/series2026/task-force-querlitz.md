@@ -9,7 +9,7 @@ writers: Simon Thummet
 producers: Sebastian Simon
 cast: Elisabeth Mell, Hans-Joachim Heist, Luise Wolff, Noah Tinwa
 nominations:
-  - winner: false
+  - winner: true
     category: best-animation
 ---
 After a meteorite impact, reality is turned upside down in the small German town of Querlitz. From within the overrun fortress of the town hall, three overwhelmed
