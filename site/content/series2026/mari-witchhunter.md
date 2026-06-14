@@ -16,7 +16,7 @@ nominations:
   - winner: false
     category: best-cinematography
     credit: Rocio de las Muñecas
-  - winner: false
+  - winner: true
     category: best-editing
     credit: Damian Karras & Oliver Mend
   - winner: false
