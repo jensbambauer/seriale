@@ -10,7 +10,7 @@ writers: Jannik Dahl Pedersen & Rasmus Skaarup Johansen
 producers: Jannik Dahl Pedersen & Rasmus Skaarup Johansen
 cast: Jannik Dahl Pedersen, Rasmus Skaarup Johansen, Camilla Lau & Sofie Torp
 nominations:
-  - winner: false
+  - winner: true
     category: best-screenplay
     credit: Jannik Dahl Pedersen & Rasmus Skaarup Johansen
   - winner: false
