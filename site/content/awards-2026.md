@@ -4,9 +4,9 @@ sections:
   - partial: text
     headline: Nominees & Winners 2026
     data:
-      headline:
+      headline: null
       paragraphs:
-        - text: "All narrative short form series are nominated for BEST SERIES."
+        - text: All narrative short form series are nominated for BEST SERIES.
   - partial: awards-best-series
     smallmargin: true
     data:
@@ -34,9 +34,9 @@ sections:
         - best-vertical-series
         - best-pitch
   - partial: text
-    headline: "Partner Festivals - Direct Selections"
+    headline: Partner Festivals - Direct Selections
     data:
-      headline:
+      headline: null
       paragraphs:
         - text: "Bilbao Seriesland (Basque Country): Soul Shift"
         - text: "LA WEBFEST (United States): Love Sucks"
@@ -50,50 +50,105 @@ sections:
     data:
       headline: Series Jury | Statement Best Series
       paragraphs:
-        - text: "The jury chose to award a series that truly has it all. The creators used a well-established genre to tell a highly original story, bringing a fresh and personal vision. They crafted a distinct world and atmosphere, assembled a remarkable cast, and built it all around a compelling personal journey. Visually striking, entertaining, and polished, the series embodies the independent spirit that defines die Seriale."
+        - text: >
+            This series fully embodies the spirit of web series and is an
+            incredible representative of this art form. We were amazed how it
+            managed to build something so powerful so efficiently. It has
+            everything: Amazing cinematography, great music, excellent editing,
+            moving acting, and a strong concept. It fully developed the story it
+            wanted to tell in an extremely entertaining way. It’s one of the
+            most complete web series of the festival and a worthy recipient of
+            best series.
   - partial: text
     data:
-      headline: Pilots Jury Statement
+      headline: Pilots Jury | Statement
       paragraphs:
-        - text: "The Best Pilot section is a window to fresh and innovative stories. That's why the winner from this section is an example that recognizes under appreciated but so important people, in our lives or in our jobs. It's a very well done dramedy. We tip the hat to those who have mastered this genre. We are looking forward to see the next episodes, because the promise of this pilot is so high leveled that we are very excited."
+        - text: We, as a jury, were looking for pilots that had a strong story, sense of
+            identity and leaves us wanting more. We feel like this pilot had a
+            lot of positive energy and explores a topic we haven’t seen before.
+            After watching we really wanted to see how the story continues and
+            get to know the characters better.
   - partial: text
     data:
-      headline: Documentary Jury Statement
+      headline: Documentary Jury | Statement
       paragraphs:
-        - text: "This year's nominees in the Best Documentary category took us around the globe — to places such as Spain, Colombia, Russia, Switzerland, Portugal, France, and Canada — and gave us deep insights into the worlds they explored. But one stood out by turning a complex, hidden realm into something both gripping and unforgettable. With outstanding craftsmanship in every frame — from bold directing to stunning cinematography, sharp editing, and beautifully integrated motion graphics — this series transformed what could have been a dry story into a thrilling, cinematic experience. It kept us on the edge of our seats. It was fearless, relevant, and told with a profound sense of responsibility. A brave story, with brave protagonists, that surpassed our expectations by shedding light on the dark depths of greed and the collapse of a giant."
+        - text: This series deeply moved us through its immense social relevance and pure
+            humanity, shattering stereotypes by shedding light on those who
+            provide food, clothing, and shelter to people in need. It stands out
+            because of its sensitive storytelling, giving a powerful platform to
+            the protagonists' struggles, hopes, and humanistic visions.
+            Ultimately, it is a poetic and deeply empathetic portrait of
+            community work and the profound power of helping one another.
   - partial: text
     data:
-      headline: Animation Jury Statement
+      headline: Animation Jury | Statement
       paragraphs:
-        - text: 'With "Soul Shift", the creators deliver a refreshingly bold animated series that blends absurdist humor, social commentary, and vibrant visual storytelling. Reminiscent of "Rick & Morty", the show''s distinct cartoon style and unexpected gags create an experience that is both thought-provoking and wildly entertaining. The show balances clever satire with a genuinely original concept – souls jumping into new bodies, prompting existential and societal questions along the way. An animated project from Germany that feels globally relevant and tonally confident. Full of creative potential – we''re excited to see where this journey leads.'
+        - text: >
+            There are series that make us laugh. There are series that hold up a
+            mirror to society. And then there are those rare works that manage
+            to do both at the same time. This series stands among the very best
+            of them.
+
+
+            With wit, warmth, and remarkable confidence, the series pushes the absurdities of bureaucracy to hilarious extremes while offering sharp yet affectionate social commentary.
+
+
+            Its cast of distinctive, wonderfully quirky characters, combined with outstanding world building, creates a world that is both absurd and instantly recognizable.
+
+
+            The animation is exceptional, using visual storytelling and visual humor to deliver comedy that is clever, quirky, and uniquely suited to the medium.
+
+
+            This series is a shining example of how bold, entertaining, and distinctive adult animation can be.
+
+
+            Congratulations to the entire team!
   - partial: text
     data:
-      headline: Long Form Jury Statement
+      headline: Long Form Jury | Statement
       paragraphs:
-        - text: "As the jury for this year's Long Form category at die Seriale, we were honored to experience a wide range of compelling and deeply creative work. Among the nominees, one series stood out through its exceptional and compelling storytelling. The long-form series captivated us with its emotional depth, refined execution, and bold reinvention of the genre. With strong performances, cinematic direction, and a clear creative vision, it kept us engaged from beginning to end. What sets it apart is its ability to balance vulnerability with intensity and intimacy. It uses the lens to explore timeless themes: power, desire, identity, and the cost of immortality."
+        - text: In a world where we feel like we are going backwards, in a time where
+            conflict is overtaking our decisions, this story reminds us that
+            empathy can exist even between two complete strangers, and so, there
+            is hope for humanity after all.
   - partial: text
     data:
       headline: Series Jury | Statement for Best Directing
       paragraphs:
-        - text: "The Jury was impressed by the director's ingenuity in crafting a coherent work with limited resources, their ability to portray diverse and distinctive characters within a minimalist setting, and their talent for evoking powerful emotions through a story rooted in the past."
+        - text: "One of the most original and personality-driven series of the festival,
+            this show feels completely different because of the concept, the
+            universe, and the tone, characters, and art direction. "
   - partial: text
     data:
       headline: Series Jury | Statement for Best Screenplay
       paragraphs:
-        - text: "The Jury ended up choosing a screenplay that tells a compelling, original, and emotionally resonant story, with strong, well-developed characters. From the very first lines, we were drawn in by unexpected plot turns and a fresh, out-of-the-ordinary take on the coming-of- age genre. The result is a narrative that feels both distinctive and moving."
+        - text: "Web series are created by amazing people that do amazing things. And
+            amazing things can be anything from car chases, exploding
+            helicopters, or just about people talking about simple, ordinary
+            things. But what can make ordinary things truly amazing? Good
+            writing. The winner for Best Screenplay achieved exactly that:
+            Making simple things look amazing.  "
   - partial: text
     data:
       headline: Series Jury | Statement for Best Idea
       paragraphs:
-        - text: "This series takes what could have been a very standard story and effectively fleshes out its world, hooking the audience and promising a wealth of rocky but entertaining possibilities for the protagonist's journey to maturity."
+        - text: "This series stood out as a show with a quirky, unique story and style
+            that catches your attention immediately and sends you spiraling into
+            an unfamiliar world with no hesitation. "
   - partial: text
     data:
       headline: Series Jury | Statement for Best Leading Performance
       paragraphs:
-        - text: "The prize was awarded to a performer who brought a bold, yet also subtle touch to their interpretation — allowing for immediate empathy and connection with the character. Their natural ability to navigate a wide range of emotions made the performance both compelling and deeply authentic."
+        - text: "Actors are the heart and the face of the stories that web series create.
+            The main character is a key component of the success of a show. One
+            line and one look can make or break a show, and this winner’s
+            performance comes through beautifully. "
   - partial: text
     data:
-      headline: Pitch Contest Jury Statement
+      headline: Pitch Contest Jury | Statement
       paragraphs:
-        - text: "A great Pitch, strong concept with potential and nice writing were the three criteria evaluated. And the following pitch hit all the marks: to a great prepared pitch, an original content and presentation."
+        - text: A story with potential touching on a moral dilemma, with a pitch capable
+            of transmitting the story & emotions. The winner is also getting a
+            place to present their project at Seriesland 2026, with
+            accommodation.
 ---
