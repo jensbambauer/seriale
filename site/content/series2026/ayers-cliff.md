@@ -14,7 +14,7 @@ nominations:
   - winner: false
     category: best-leading-performance
     credit: Henri Picard
-  - winner: false
+  - winner: true
     category: best-supporting-performance
     credit: Joey Scarpellino
 ---
