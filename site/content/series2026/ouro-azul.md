@@ -16,7 +16,7 @@ nominations:
   - winner: false
     category: best-screenplay
     credit: Drielle Moura
-  - winner: false
+  - winner: true
     category: best-cinematography
     credit: Bruno Chiari & Evandro Tavares
 ---
