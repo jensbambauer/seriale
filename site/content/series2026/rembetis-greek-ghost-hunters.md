@@ -18,7 +18,7 @@ nominations:
   - winner: false
     category: best-production-design
     credit: Utta Hagen
-  - winner: false
+  - winner: true
     category: best-costume-design
     credit: Sandra Jones
   - winner: false
