@@ -38,13 +38,17 @@ sections:
     data:
       headline: null
       paragraphs:
-        - text: "Bilbao Seriesland (Basque Country): Soul Shift"
-        - text: "LA WEBFEST (United States): Love Sucks"
-        - text: "Hollywood Series (United States): Feelings (Season 2)"
-        - text: "Hollywood Series (United States): Soul Shift"
-        - text: "Rio Web Fest (Brazil): Spessart Tales"
-        - text: "NZ Web Fest (New Zealand): Soul Shift"
-        - text: "Seriale Indonesia (Indonesia): Marzahn, Mon Amour"
+        - text: "Seriesland (Basque Country): 2 Aliens"
+        - text: "LA WEBFEST (United States): Bad People"
+        - text: "Hollywood Series (United States): Desa Timun"
+        - text: "Hollywood Series (United States): 2 Aliens"
+        - text: "Rio Web Fest (Brazil): Rembetis - Greek Ghost Hunters"
+        - text: "NZ Web Fest (New Zealand): Task Force Querlitz"
+        - text: |-
+            Seriale Indonesia (Indonesia): 
+            2 Aliens
+            Bad People
+            The Widow Killer (Original Title: Sternstunde der Mörder)
   - partial: text
     headline: Jury Statements
     data:
