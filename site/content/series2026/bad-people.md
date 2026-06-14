@@ -9,7 +9,7 @@ writers: Julia Mirjam Cantuária
 producers: Lara Stump
 cast: Jeremias Meyer, Şafak Şengül, Arnd Schimkat
 nominations:
-  - winner: false
+  - winner: true
     category: best-directing
     credit: Nathalie Lamb
   - winner: false
