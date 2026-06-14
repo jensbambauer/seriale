@@ -17,13 +17,13 @@ nominations:
   - winner: false
     category: best-cinematography
     credit: Neil Oseman
-  - winner: false
+  - winner: true
     category: best-production-design
     credit: Ash Finn
   - winner: false
     category: best-costume-design
     credit: Hannah Sofia Young
-  - winner: false
+  - winner: true
     category: best-original-score
     credit: Rob Westwood
 ---
