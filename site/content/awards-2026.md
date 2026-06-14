@@ -47,7 +47,11 @@ sections:
         - text: |-
             Seriale Indonesia (Indonesia): 
             2 Aliens
+        - text: |-
+            Seriale Indonesia (Indonesia): 
             Bad People
+        - text: |-
+            Seriale Indonesia (Indonesia): 
             The Widow Killer (Original Title: Sternstunde der Mörder)
   - partial: text
     headline: Jury Statements
