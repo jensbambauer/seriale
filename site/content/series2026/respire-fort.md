@@ -10,7 +10,7 @@ writers: Arthur Fanget
 producers: Arthur Fanget
 cast: Julia Taraquois, Dominique Bettenfeld
 nominations:
-  - winner: false
+  - winner: true
     category: best-idea
   - winner: false
     category: best-editing
