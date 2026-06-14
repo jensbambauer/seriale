@@ -151,4 +151,27 @@ sections:
             of transmitting the story & emotions. The winner is also getting a
             place to present their project at Seriesland 2026, with
             accommodation.
+  - partial: text
+    smallmargin: false
+    data:
+      headline: Vertical Series Jury | Statement
+      paragraphs:
+        - text: "The filmmakers of the winning series made every jury member binge-watch
+            the whole series! The cliffhangers are well placed, the story is
+            original, the look is authentic, the vertical format is really used
+            for visual storytelling and the series makes good use of its low
+            budget. We just have one question: Will there be a second season?"
+  - partial: text
+    smallmargin: false
+    headline: ""
+    data:
+      paragraphs:
+        - text: "Many factors go into a great web series, from a good story, directing,
+            editing, and acting. They say looks aren’t everything, but a bad
+            image on screen can mar an otherwise amazing series. This series
+            knows how to use the camera to make reality dance in front of our
+            eyes and invites us into this world. "
+      headline: Series Jury | Statement for Best Cinematography
+  - partial: text
+    smallmargin: false
 ---
