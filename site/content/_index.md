@@ -1,37 +1,37 @@
 ---
 title: 12th International Series Festival Giessen
 sections:
-  - partial: twitch
-    widesection: true
-    data:
-      channel: dieSeriale
+  # - partial: twitch
+  #   widesection: true
+  #   data:
+  #     channel: dieSeriale
   # - partial: text
   #   data:
   #     headline: Award Ceremony Live Stream
   #     paragraphs:
   #       - text: "Live stream of the 11th Award Ceremony of die Seriale starts at 20:00 | 8pm."
-  # - partial: stage
-  #   widesection: true
-  #   data:
-  #     videosource: /videos/digital-loop-2026.mp4
-  #     slides:
-  #       # - headline: online screenings 2025
-  #       #   button:
-  #       #     text: view now
-  #       #     href: https://dieseriale.sparqfest.live/en/_events/screening_block/2025.00/dies-seriale-2025.html
-  #       # - headline: nominees & winners 2025
-  #       #   button:
-  #       #     text: view now
-  #       #     href: /awards-2025
-  #       # - headline: submissions for die seriale 2026 are closed
-  #       - headline: nominations 2026
-  #         button:
-  #           text: view now
-  #           href: /nominations-2026
-  #       - headline: official selection 2026
-  #         button:
-  #           text: view now
-  #           href: /official-selection-2026
+  - partial: stage
+    widesection: true
+    data:
+      videosource: /videos/digital-loop-2026.mp4
+      slides:
+        # - headline: online screenings 2025
+        #   button:
+        #     text: view now
+        #     href: https://dieseriale.sparqfest.live/en/_events/screening_block/2025.00/dies-seriale-2025.html
+        - headline: nominees & winners 2025
+          button:
+            text: view now
+            href: /awards-2026
+        # - headline: submissions for die seriale 2026 are closed
+        # - headline: nominations 2026
+        #   button:
+        #     text: view now
+        #     href: /nominations-2026
+        # - headline: official selection 2026
+        #   button:
+        #     text: view now
+        #     href: /official-selection-2026
 
   # - headline: "save the date: 29th - june 3rd 2024"
   # - headline: Series Screening on Demand
