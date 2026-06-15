@@ -53,6 +53,9 @@ sections:
         - text: |-
             Seriale Indonesia (Indonesia): 
             The Widow Killer (Original Title: Sternstunde der Mörder)
+        - text: "Yeosu International Web Drama Film Festival (South Korea): The Widow
+            Killer (Original Title: Sternstunde der Mörder)"
+        - text: "New Jersey WebFest (United States): Flea Market For Pros"
   - partial: text
     headline: Jury Statements
     data:
