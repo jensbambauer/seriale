@@ -19,7 +19,7 @@ sections:
         #   button:
         #     text: view now
         #     href: https://dieseriale.sparqfest.live/en/_events/screening_block/2025.00/dies-seriale-2025.html
-        - headline: nominees & winners 2025
+        - headline: nominees & winners 2026
           button:
             text: view now
             href: /awards-2026
